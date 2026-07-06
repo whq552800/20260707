@@ -1,6 +1,6 @@
 # LRI environmental-context analysis public materials
 
-This directory contains the machine-readable tables, figures and portable code materials supporting the manuscript:
+This repository contains machine-readable tables, figures and analysis code supporting the manuscript:
 
 **Environmental contexts and age-specific lower respiratory infection burden globally, 1990-2023**
 
@@ -8,8 +8,7 @@ This directory contains the machine-readable tables, figures and portable code m
 
 - `tables/`: CSV tables used for the main manuscript and Supplementary Tables S1-S6, plus country-year profile membership and trajectory summaries.
 - `figures/`: publication figure files in PNG/PDF/SVG where available.
-- `code/`: analysis scripts used to construct the environmental-domain profile analyses and figure outputs. These scripts are provided as source material; workstation-specific Word manuscript builders are intentionally excluded.
-- `docs/`: manifest and validation summaries.
+- `code/`: analysis scripts used to construct the environmental-domain profile analyses and figure outputs.
 
 ## Table guide
 
@@ -34,10 +33,4 @@ Additional candidate/sensitivity tables:
 - `candidate_pathway_model_variants.csv`
 - `candidate_sdi_stratified_pathway_coefficients.csv`
 
-These candidate tables document exploratory and sensitivity analyses considered during manuscript development. They are included for transparency and should not be read as replacing the primary domain, profile and trajectory results.
-
-## Notes on reproducibility
-
-The public tables are derived from the LRI_ENV 1990-2023 country-year ecological panel and environment-domain analyses. Some original upstream inputs are large or externally licensed/modelled datasets, including GBD/IHME LRI and exposure estimates, ERA5 climate products and WorldPop population grids. Users should obtain upstream data from their official providers and adapt paths locally.
-
-The compound profiles are outcome-independent summaries of HAP-PM, outdoor PM2.5, climate and development coordinates. They should be interpreted as descriptive environmental-background profiles, not deterministic country classes or causal categories.
+These candidate tables document additional exploratory and sensitivity analyses considered during manuscript development.

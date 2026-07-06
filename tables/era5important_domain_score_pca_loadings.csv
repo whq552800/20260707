@@ -1,0 +1,17 @@
+﻿domain,variable,pc1_loading,pc1_variance_explained
+thermal_context,tavg_C_pw_total,0.6499611398076063,0.5535883133356211
+thermal_context,heat_days_tmax_gt30_pw_total,0.4431908935440828,0.5535883133356211
+thermal_context,cold_days_tmin_lt0_pw_total,-0.6137959440557516,0.5535883133356211
+thermal_context,dtr_C_pw_total,-0.0662335842326463,0.5535883133356211
+wetness_context,ah_g_m3_pw_total,0.43893133182334043,0.7475324259166972
+wetness_context,rh_pct_pw_total,0.4783868454088087,0.7475324259166972
+wetness_context,precip_mm_year_pw_total,0.5199727312043375,0.7475324259166972
+wetness_context,wet_days_pr_gt1mm_pw_total,0.5550798779342475,0.7475324259166972
+all_climate_context,tavg_C_pw_total,0.3063356891952999,0.5003187695837322
+all_climate_context,heat_days_tmax_gt30_pw_total,-0.06785665002419161,0.5003187695837322
+all_climate_context,cold_days_tmin_lt0_pw_total,-0.2845186195881698,0.5003187695837322
+all_climate_context,dtr_C_pw_total,-0.3746883145607835,0.5003187695837322
+all_climate_context,ah_g_m3_pw_total,0.4501156500069137,0.5003187695837322
+all_climate_context,rh_pct_pw_total,0.36466083195628807,0.5003187695837322
+all_climate_context,precip_mm_year_pw_total,0.3974711879261713,0.5003187695837322
+all_climate_context,wet_days_pr_gt1mm_pw_total,0.4320263610433228,0.5003187695837322

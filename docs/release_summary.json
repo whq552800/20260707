@@ -1,7 +1,9 @@
 {
   "repository_name": "20260707",
   "release_root": ".",
-  "file_count": 34,
+  "payload_file_count_before_generated_metadata": 34,
+  "generated_metadata_file_count": 3,
+  "total_file_count_after_generated_metadata": 37,
   "table_count": 15,
   "figure_count": 13,
   "code_file_count": 2,

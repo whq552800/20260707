@@ -1,0 +1,25 @@
+﻿band,outcome,factor,main_adv_high,main_eval_high,main_adv_low,main_eval_low,main_p,vacc0_adv_high,vacc0_eval_high,vacc0_adv_low,vacc0_eval_low,vacc0_p
+High,LRI incidence,hib3_pct,8,21,9,19,0.7496312218781629,6,21,7,19,0.7378167934341461
+High,LRI incidence,pcv3_pct,10,19,8,17,1.0,7,19,4,17,0.4810283030527747
+High,LRI mortality,hib3_pct,8,18,7,17,1.0,6,18,4,17,0.7111942562443119
+High,LRI mortality,pcv3_pct,9,16,9,16,1.0,6,16,4,16,0.7042511002563234
+High,Meningitis incidence,hib3_pct,7,11,6,14,0.42830798223179434,5,11,5,14,0.6968299905774666
+High,Meningitis incidence,pcv3_pct,4,6,8,13,1.0,3,6,4,13,0.6168730650154799
+High,Meningitis mortality,hib3_pct,7,11,6,12,0.6801722977520528,5,11,4,12,0.6801722977520528
+High,Meningitis mortality,pcv3_pct,4,7,6,11,1.0,3,7,6,11,1.0
+Low and low-middle,LRI incidence,hib3_pct,3,7,2,11,0.32598039215686275,2,7,1,11,0.5281862745098039
+Low and low-middle,LRI incidence,pcv3_pct,2,6,1,8,0.5384615384615384,1,6,1,8,1.0
+Low and low-middle,LRI mortality,hib3_pct,6,10,2,13,0.03930542468703729,5,10,3,13,0.22129492529277156
+Low and low-middle,LRI mortality,pcv3_pct,6,10,1,9,0.05727554179566564,3,10,0,9,0.21052631578947367
+Low and low-middle,Meningitis incidence,hib3_pct,10,17,4,17,0.0798643688908234,9,17,2,17,0.02550982573229514
+Low and low-middle,Meningitis incidence,pcv3_pct,8,13,3,14,0.05423789653161036,3,13,2,14,0.6483091787439613
+Low and low-middle,Meningitis mortality,hib3_pct,11,20,5,20,0.105340267965407,9,20,4,20,0.17599563650731614
+Low and low-middle,Meningitis mortality,pcv3_pct,9,17,4,15,0.16574112137479646,2,17,4,16,0.3983213671756497
+Middle and high-middle,LRI incidence,hib3_pct,4,6,4,8,0.627039627039627,4,6,4,8,0.627039627039627
+Middle and high-middle,LRI incidence,pcv3_pct,4,4,0,5,0.007936507936507936,1,4,0,5,0.4444444444444444
+Middle and high-middle,LRI mortality,hib3_pct,3,6,2,9,0.3286713286713287,3,6,3,9,0.6223776223776224
+Middle and high-middle,LRI mortality,pcv3_pct,4,6,0,3,0.16666666666666666,2,6,0,3,0.5
+Middle and high-middle,Meningitis incidence,hib3_pct,3,6,5,8,1.0,3,6,4,8,1.0
+Middle and high-middle,Meningitis incidence,pcv3_pct,2,3,2,8,0.4909090909090909,1,3,0,8,0.2727272727272727
+Middle and high-middle,Meningitis mortality,hib3_pct,4,6,4,7,1.0,4,6,3,7,0.5920745920745921
+Middle and high-middle,Meningitis mortality,pcv3_pct,3,4,1,5,0.20634920634920634,1,4,0,5,0.4444444444444444

@@ -1,0 +1,4 @@
+﻿period,n,factors,mort_raw,mort_partial,inc_raw,inc_partial,diff_raw,diff_partial,diff_raw_lo,diff_raw_hi,diff_partial_lo,diff_partial_hi
+1990–2000,177,basic_water_pct;basic_sanitation_pct;clean_cooking_pct;dtp3_pct;uhc_service_index;gbd_ambient_pm25_ug_m3;secondhand_smoke_sev,0.521608,0.438048,0.242984,0.216307,0.278624,0.221741,0.168885,0.37522,0.087613,0.335769
+2001–2010,147,basic_water_pct;basic_sanitation_pct;clean_cooking_pct;dtp3_pct;hib3_pct;uhc_service_index;gbd_ambient_pm25_ug_m3;secondhand_smoke_sev,0.504953,0.494317,0.174167,0.17645,0.330786,0.317867,0.20771,0.458709,0.174756,0.457041
+2011–2023,187,basic_water_pct;basic_sanitation_pct;clean_cooking_pct;dtp3_pct;hib3_pct;uhc_service_index;gbd_ambient_pm25_ug_m3;secondhand_smoke_sev,0.495559,0.453552,0.220217,0.16817,0.275342,0.285382,0.150062,0.381727,0.139826,0.390017

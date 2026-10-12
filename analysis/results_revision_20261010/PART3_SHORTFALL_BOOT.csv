@@ -1,0 +1,7 @@
+﻿band,measure,n_locations,diff_pp,lo,hi
+中等+中高,any disease-relevant factor,26,2.518519,-27.085129,24.0
+中等+中高,UHC index,26,57.481481,24.990789,78.309145
+低+中低,any disease-relevant factor,48,31.797235,9.157784,52.234828
+低+中低,UHC index,48,56.144393,28.873899,77.586206
+高,any disease-relevant factor,62,8.003088,-9.638134,26.296784
+高,UHC index,62,17.255435,-6.719308,41.279034

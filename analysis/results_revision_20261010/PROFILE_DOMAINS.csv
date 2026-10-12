@@ -1,0 +1,91 @@
+﻿band,outcome,outcome_type,domain,n_high,n_low,n_factors,diff_pp,lo,hi
+Low and low-middle,Diarrhoeal incidence,Incidence,Basic services,13,17,3,16.28,-8.15,41.2
+Low and low-middle,Diarrhoeal incidence,Incidence,Immunisation,13,17,3,38.26,6.96,67.47
+Low and low-middle,Diarrhoeal incidence,Incidence,Nutrition,13,17,3,14.51,-8.61,40.06
+Low and low-middle,Diarrhoeal incidence,Incidence,Health system,13,17,4,28.95,7.48,50.09
+Low and low-middle,Diarrhoeal incidence,Incidence,Air pollution,13,17,2,10.63,-14.48,35.75
+Middle and high-middle,Diarrhoeal incidence,Incidence,Basic services,9,8,3,12.04,-25.01,50.93
+Middle and high-middle,Diarrhoeal incidence,Incidence,Immunisation,9,8,3,23.21,-11.25,57.28
+Middle and high-middle,Diarrhoeal incidence,Incidence,Nutrition,9,8,3,40.74,12.04,69.98
+Middle and high-middle,Diarrhoeal incidence,Incidence,Health system,9,8,4,37.5,17.01,56.95
+Middle and high-middle,Diarrhoeal incidence,Incidence,Air pollution,9,8,2,5.56,-29.86,41.67
+High,Diarrhoeal incidence,Incidence,Basic services,17,14,3,-24.6,-44.29,-4.62
+High,Diarrhoeal incidence,Incidence,Immunisation,17,14,3,-23.82,-50.82,4.43
+High,Diarrhoeal incidence,Incidence,Nutrition,17,14,3,1.72,-47.8,23.77
+High,Diarrhoeal incidence,Incidence,Health system,17,14,4,-2.16,-21.61,17.17
+High,Diarrhoeal incidence,Incidence,Air pollution,17,14,2,9.03,-17.65,35.71
+Low and low-middle,Diarrhoeal mortality,Mortality,Basic services,17,17,3,51.84,32.72,69.56
+Low and low-middle,Diarrhoeal mortality,Mortality,Immunisation,17,17,3,36.06,6.72,65.75
+Low and low-middle,Diarrhoeal mortality,Mortality,Nutrition,17,17,3,4.88,-18.41,29.01
+Low and low-middle,Diarrhoeal mortality,Mortality,Health system,17,17,4,12.79,-6.29,32.54
+Low and low-middle,Diarrhoeal mortality,Mortality,Air pollution,17,17,2,-32.35,-55.88,-8.82
+Middle and high-middle,Diarrhoeal mortality,Mortality,Basic services,8,6,3,-12.1,-51.39,25.0
+Middle and high-middle,Diarrhoeal mortality,Mortality,Immunisation,8,6,3,33.49,-19.45,82.14
+Middle and high-middle,Diarrhoeal mortality,Mortality,Nutrition,8,6,2,56.25,25.0,87.5
+Middle and high-middle,Diarrhoeal mortality,Mortality,Health system,8,6,4,12.35,-9.53,35.27
+Middle and high-middle,Diarrhoeal mortality,Mortality,Air pollution,8,6,2,-4.17,-50.0,41.67
+High,Diarrhoeal mortality,Mortality,Basic services,14,16,3,14.76,-1.43,28.87
+High,Diarrhoeal mortality,Mortality,Immunisation,14,16,3,-31.21,-63.42,1.41
+High,Diarrhoeal mortality,Mortality,Nutrition,14,16,2,19.05,-6.43,45.54
+High,Diarrhoeal mortality,Mortality,Health system,14,16,4,-8.2,-30.04,15.84
+High,Diarrhoeal mortality,Mortality,Air pollution,14,16,2,-1.34,-28.57,25.45
+Low and low-middle,LRI incidence,Incidence,Basic services,7,11,3,45.71,15.47,73.56
+Low and low-middle,LRI incidence,Incidence,Immunisation,7,11,3,23.39,-17.0,64.29
+Low and low-middle,LRI incidence,Incidence,Nutrition,7,11,3,42.28,9.68,73.51
+Low and low-middle,LRI incidence,Incidence,Health system,7,11,4,33.05,9.08,51.95
+Low and low-middle,LRI incidence,Incidence,Air pollution,7,11,2,32.47,-7.14,67.53
+Middle and high-middle,LRI incidence,Incidence,Basic services,6,8,3,10.28,-30.83,52.78
+Middle and high-middle,LRI incidence,Incidence,Immunisation,6,8,3,38.89,-20.83,69.44
+Middle and high-middle,LRI incidence,Incidence,Nutrition,6,8,3,25.71,-10.42,63.69
+Middle and high-middle,LRI incidence,Incidence,Health system,6,8,4,12.08,-12.5,39.58
+Middle and high-middle,LRI incidence,Incidence,Air pollution,6,8,2,45.83,12.5,77.08
+High,LRI incidence,Incidence,Basic services,26,20,3,13.07,-2.96,28.34
+High,LRI incidence,Incidence,Immunisation,26,20,3,-8.25,-32.92,17.66
+High,LRI incidence,Incidence,Nutrition,26,20,3,48.69,19.08,66.22
+High,LRI incidence,Incidence,Health system,26,20,4,14.47,-5.17,33.21
+High,LRI incidence,Incidence,Air pollution,26,20,2,6.73,-14.81,28.85
+Low and low-middle,LRI mortality,Mortality,Basic services,10,13,3,47.22,22.26,71.17
+Low and low-middle,LRI mortality,Mortality,Immunisation,10,13,3,46.04,8.55,80.0
+Low and low-middle,LRI mortality,Mortality,Nutrition,10,13,3,31.71,1.19,60.12
+Low and low-middle,LRI mortality,Mortality,Health system,10,13,4,12.63,-4.02,30.58
+Low and low-middle,LRI mortality,Mortality,Air pollution,10,13,2,6.54,-20.0,31.92
+Middle and high-middle,LRI mortality,Mortality,Basic services,7,10,3,-5.56,-43.35,33.81
+Middle and high-middle,LRI mortality,Mortality,Immunisation,7,10,3,47.04,-0.39,78.89
+Middle and high-middle,LRI mortality,Mortality,Nutrition,7,10,3,24.07,-21.3,61.55
+Middle and high-middle,LRI mortality,Mortality,Health system,7,10,4,-6.67,-29.17,15.83
+Middle and high-middle,LRI mortality,Mortality,Air pollution,7,10,2,20.24,-18.11,55.71
+High,LRI mortality,Mortality,Basic services,23,17,3,10.98,-5.2,27.25
+High,LRI mortality,Mortality,Immunisation,23,17,3,0.11,-26.71,29.64
+High,LRI mortality,Mortality,Nutrition,23,17,3,45.71,10.29,64.98
+High,LRI mortality,Mortality,Health system,23,17,4,20.94,1.5,39.97
+High,LRI mortality,Mortality,Air pollution,23,17,2,-2.17,-27.11,24.04
+Low and low-middle,Meningitis incidence,Incidence,Basic services,17,17,3,64.09,45.68,81.83
+Low and low-middle,Meningitis incidence,Incidence,Immunisation,17,17,3,36.9,6.33,65.75
+Low and low-middle,Meningitis incidence,Incidence,Nutrition,17,17,3,11.34,-12.27,34.54
+Low and low-middle,Meningitis incidence,Incidence,Health system,17,17,4,10.97,-7.04,31.06
+Low and low-middle,Meningitis incidence,Incidence,Air pollution,17,17,2,-32.35,-52.94,-11.76
+Middle and high-middle,Meningitis incidence,Incidence,Basic services,6,9,3,24.07,-14.81,51.85
+Middle and high-middle,Meningitis incidence,Incidence,Immunisation,6,9,3,7.87,-55.56,51.86
+Middle and high-middle,Meningitis incidence,Incidence,Nutrition,6,9,3,68.15,31.46,94.44
+Middle and high-middle,Meningitis incidence,Incidence,Health system,6,9,4,0.83,-25.58,28.47
+Middle and high-middle,Meningitis incidence,Incidence,Air pollution,6,9,2,-8.33,-41.67,25.0
+High,Meningitis incidence,Incidence,Basic services,17,14,3,5.12,-14.92,25.67
+High,Meningitis incidence,Incidence,Immunisation,17,14,3,11.02,-25.35,47.34
+High,Meningitis incidence,Incidence,Nutrition,17,14,2,0.49,-31.33,35.56
+High,Meningitis incidence,Incidence,Health system,17,14,4,-10.36,-30.22,9.72
+High,Meningitis incidence,Incidence,Air pollution,17,14,2,-38.87,-62.61,-15.13
+Low and low-middle,Meningitis mortality,Mortality,Basic services,20,20,3,59.12,42.96,74.48
+Low and low-middle,Meningitis mortality,Mortality,Immunisation,20,20,3,28.76,1.22,55.56
+Low and low-middle,Meningitis mortality,Mortality,Nutrition,20,20,3,4.98,-19.18,27.03
+Low and low-middle,Meningitis mortality,Mortality,Health system,20,20,4,10.91,-4.84,28.92
+Low and low-middle,Meningitis mortality,Mortality,Air pollution,20,20,2,-20.0,-40.0,-0.0
+Middle and high-middle,Meningitis mortality,Mortality,Basic services,7,7,3,30.95,-7.18,61.9
+Middle and high-middle,Meningitis mortality,Mortality,Immunisation,7,7,3,19.92,-38.57,61.9
+Middle and high-middle,Meningitis mortality,Mortality,Nutrition,7,7,3,72.22,20.24,100.0
+Middle and high-middle,Meningitis mortality,Mortality,Health system,7,7,4,11.55,-13.72,38.1
+Middle and high-middle,Meningitis mortality,Mortality,Air pollution,7,7,2,-11.9,-50.0,28.57
+High,Meningitis mortality,Mortality,Basic services,13,13,3,19.7,-1.94,41.09
+High,Meningitis mortality,Mortality,Immunisation,13,13,3,8.44,-28.34,45.13
+High,Meningitis mortality,Mortality,Nutrition,13,13,2,3.46,-33.28,37.5
+High,Meningitis mortality,Mortality,Health system,13,13,4,-5.45,-25.95,14.17
+High,Meningitis mortality,Mortality,Air pollution,13,13,2,-42.31,-65.38,-19.23

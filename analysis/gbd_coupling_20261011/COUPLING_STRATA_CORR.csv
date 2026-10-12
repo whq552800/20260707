@@ -1,0 +1,10 @@
+﻿period,stratum,n,mort_mean_rho,inc_mean_rho
+1990–2000,Low and low-middle SDI,136,0.536937,0.270024
+1990–2000,Middle and high-middle SDI,36,0.535564,0.274303
+1990–2000,High SDI,32,0.303886,0.090176
+2001–2010,Low and low-middle SDI,117,0.578344,0.337559
+2001–2010,Middle and high-middle SDI,35,0.473389,0.02381
+2001–2010,High SDI,52,0.406244,0.075045
+2011–2023,Low and low-middle SDI,90,0.626439,0.303426
+2011–2023,Middle and high-middle SDI,38,0.519203,0.367837
+2011–2023,High SDI,76,0.347505,0.093133

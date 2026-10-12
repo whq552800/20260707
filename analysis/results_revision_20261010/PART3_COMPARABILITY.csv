@@ -1,0 +1,25 @@
+﻿band,disease,persist,n_records,n_factors,mean_eval,any_adv_pct,n_common,common_set,n_records_common,any_adv_common_pct,any_adv_n,any_adv_denom,common_adv_n,common_denom
+中等+中高,LRI,持续低尾,13,8.0,7.0,100.0,5.0,dtp3_pct; gbd_ambient_pm25_ug_m3; hib3_pct; low_birthweight_pct; secondhand_smoke_sev,13,76.923077,13,13,10,13
+中等+中高,LRI,持续高尾,7,8.0,7.714286,100.0,5.0,dtp3_pct; gbd_ambient_pm25_ug_m3; hib3_pct; low_birthweight_pct; secondhand_smoke_sev,7,100.0,7,7,7,7
+中等+中高,脑膜炎,持续低尾,9,3.0,2.777778,77.777778,2.0,dtp3_pct; hib3_pct,9,77.777778,7,9,7,9
+中等+中高,脑膜炎,持续高尾,6,3.0,2.833333,83.333333,2.0,dtp3_pct; hib3_pct,6,83.333333,5,6,5,6
+中等+中高,腹泻病,持续低尾,5,3.0,2.2,40.0,2.0,basic_sanitation_pct; basic_water_pct,5,40.0,2,5,2,5
+中等+中高,腹泻病,持续高尾,12,3.0,2.75,75.0,2.0,basic_sanitation_pct; basic_water_pct,12,75.0,9,12,9,12
+低+中低,LRI,持续低尾,18,8.0,6.666667,66.666667,5.0,clean_cooking_pct; dtp3_pct; gbd_ambient_pm25_ug_m3; hib3_pct; secondhand_smoke_sev,17,64.705882,12,18,11,17
+低+中低,LRI,持续高尾,8,8.0,7.375,100.0,5.0,clean_cooking_pct; dtp3_pct; gbd_ambient_pm25_ug_m3; hib3_pct; secondhand_smoke_sev,8,100.0,8,8,8,8
+低+中低,脑膜炎,持续低尾,28,3.0,2.821429,32.142857,2.0,dtp3_pct; hib3_pct,28,25.0,9,28,7,28
+低+中低,脑膜炎,持续高尾,22,3.0,2.954545,63.636364,2.0,dtp3_pct; hib3_pct,22,59.090909,14,22,13,22
+低+中低,腹泻病,持续低尾,16,3.0,2.75,50.0,2.0,basic_sanitation_pct; basic_water_pct,16,25.0,8,16,4,16
+低+中低,腹泻病,持续高尾,12,3.0,3.0,91.666667,2.0,basic_sanitation_pct; basic_water_pct,12,83.333333,11,12,10,12
+高,LRI,持续低尾,27,8.0,6.777778,88.888889,2.0,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,27,62.962963,24,27,17,27
+高,LRI,持续高尾,29,8.0,5.448276,86.206897,2.0,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,29,62.068966,25,29,18,29
+高,脑膜炎,持续低尾,19,3.0,2.894737,52.631579,0.0,,0,,10,19,0,0
+高,脑膜炎,持续高尾,17,3.0,2.411765,66.666667,0.0,,0,,10,15,0,0
+高,腹泻病,持续低尾,22,3.0,2.045455,38.095238,2.0,basic_sanitation_pct; basic_water_pct,21,38.095238,8,21,8,21
+高,腹泻病,持续高尾,15,3.0,2.066667,42.857143,2.0,basic_sanitation_pct; basic_water_pct,14,35.714286,6,14,5,14
+中等+中高,All,持续低尾,27,,,81.481481,,,27,70.37037,22,27,19,27
+中等+中高,All,持续高尾,25,,,84.0,,,25,84.0,21,25,21,25
+低+中低,All,持续低尾,62,,,46.774194,,,61,36.065574,29,62,22,61
+低+中低,All,持续高尾,42,,,78.571429,,,42,73.809524,33,42,31,42
+高,All,持续低尾,68,,,62.686567,,,48,52.083333,42,67,25,48
+高,All,持续高尾,61,,,70.689655,,,43,53.488372,41,58,23,43

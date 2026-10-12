@@ -1,0 +1,19 @@
+﻿factor,LRI mortality,Diarrhoea mortality,Meningitis mortality,LRI incidence,Diarrhoea incidence,Meningitis incidence
+basic_water_pct,,same (improved water),same (water access),,,
+basic_sanitation_pct,related (sanitation SEV),same (sanitation access),same (sanitation access),,,
+clean_cooking_pct,related (household air pollution SEV; indoor air pollution),,,,,
+dtp3_pct,"same (DTP3, lagged)",,"related (maternal care and immunisation composite, which includes DTP3)",,,
+hib3_pct,"same (Hib3, lagged)",,"same (Hib3, herd-effect transformed)",,,same (Hib3)
+pcv3_pct,"same (PCV3, lagged)",,"same (PCV3, lagged)",,,same (PCV3)
+stunting_u5_pct,related (stunting SEV),,,,,
+undernourishment_pct,related (child underweight and wasting SEV),,related (child underweight SEV),,,
+low_birthweight_pct,,,,,,
+uhc_service_index,related (HAQ index),related (HAQ index),related (HAQ index),"related (HAQ, excess mortality)","related (HAQ, excess mortality)","related (HAQ, excess mortality)"
+gbd_ambient_pm25_ug_m3,same (outdoor PM2.5; ambient PM SEV),,,,,
+secondhand_smoke_sev,same (second-hand smoking prevalence),,,,,
+secondary_enrolment_pct,related (maternal education),related (maternal education),related (maternal education),,,
+income_ppp_pc,,related (lag-distributed income),related (lag-distributed income),,,
+health_expenditure_pc_current_usd,,,,,,
+hospital_beds_per1000,,,,,,
+nurses_midwives_per1000,,,,,,
+fertility_births_per_woman,related (SDI component),related (SDI component),related (SDI component),related (SDI component),related (SDI component),related (SDI component)

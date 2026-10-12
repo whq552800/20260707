@@ -115,7 +115,3 @@ The input panel combines published estimates; no data were imputed, interpolated
 | Temperature, humidity, cold days, wet days | ERA5 reanalysis (Copernicus Climate Change Service), weighted by WorldPop populations younger than 5 years |
 
 GBD data are used under the IHME Free-of-Charge Non-commercial User Agreement; users of the panel should cite GBD 2023 and follow the terms of each original source. The code is released under the MIT licence.
-
-## Citation
-
-If you use these data or code, please cite the manuscript (citation to be added on publication) and the original data sources above.

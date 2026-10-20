@@ -1,0 +1,136 @@
+band,n,kind,outcome,domain,pct,lo,hi
+Low and low-middle,89,contrast,Diarrhoeal mortality,Basic services,-2.148707437366093,-7.318232745417293,3.7418090425299133
+Low and low-middle,89,contrast,Diarrhoeal mortality,Immunisation,-0.09476489760850138,-6.331007786016058,6.81958663885791
+Low and low-middle,89,contrast,Diarrhoeal mortality,Nutrition,5.227555045492638,-1.9688884609769148,15.928018601261657
+Low and low-middle,89,contrast,Diarrhoeal mortality,Health system,23.66749139914419,0.16415564078581196,37.248392963950394
+Low and low-middle,89,contrast,Diarrhoeal mortality,Air pollution,-11.692362264763645,-18.875073213949747,-4.432432816225128
+Low and low-middle,89,contrast,LRI mortality,Basic services,-2.0371375250710866,-6.993090089312813,3.1913032421054965
+Low and low-middle,89,contrast,LRI mortality,Immunisation,-1.218672674843535,-7.132265526887078,5.257784409316224
+Low and low-middle,89,contrast,LRI mortality,Nutrition,-0.9324522750188358,-6.846821604254244,6.367676544093477
+Low and low-middle,89,contrast,LRI mortality,Health system,-19.450922494959457,-34.435565237879274,-7.193055561658559
+Low and low-middle,89,contrast,LRI mortality,Air pollution,13.248967100438659,3.8039377219926966,22.252986759925125
+Low and low-middle,89,contrast,Meningitis mortality,Basic services,4.321054042698114,-1.6468412868084035,9.877898209780941
+Low and low-middle,89,contrast,Meningitis mortality,Immunisation,1.3297325487131584,-5.100946714894004,8.065399311735765
+Low and low-middle,89,contrast,Meningitis mortality,Nutrition,-4.073387678169493,-13.139445973788492,2.1265673580110462
+Low and low-middle,89,contrast,Meningitis mortality,Health system,0.3884798300304082,-11.440749689498896,23.813474913570793
+Low and low-middle,89,contrast,Meningitis mortality,Air pollution,-0.0074870453519393365,-7.18725776972142,8.926632465020056
+Low and low-middle,89,contrast,Diarrhoeal incidence,Basic services,-7.499656083600481,-11.444525619983139,-3.108336053585027
+Low and low-middle,89,contrast,Diarrhoeal incidence,Immunisation,0.9404393407692613,-3.3522139914586724,4.952755695478818
+Low and low-middle,89,contrast,Diarrhoeal incidence,Nutrition,3.0065028620179124,-2.9344502275040765,10.849155787884948
+Low and low-middle,89,contrast,Diarrhoeal incidence,Health system,10.057237698377076,-1.7581568132336123,33.789003196905966
+Low and low-middle,89,contrast,Diarrhoeal incidence,Air pollution,0.37602813894945797,-4.930326549413999,6.943293950921279
+Low and low-middle,89,contrast,LRI incidence,Basic services,-3.946536274661283,-7.521756412143866,-0.2994172478769795
+Low and low-middle,89,contrast,LRI incidence,Immunisation,-6.667447801131821,-10.43290831062788,-2.556043327289562
+Low and low-middle,89,contrast,LRI incidence,Nutrition,5.0372159001135675,1.3690963190000567,10.880309094031757
+Low and low-middle,89,contrast,LRI incidence,Health system,-5.951186262148478,-13.358665540103072,0.3322054327644781
+Low and low-middle,89,contrast,LRI incidence,Air pollution,6.260535568313674,0.8431555844812932,11.302701498074702
+Low and low-middle,89,contrast,Meningitis incidence,Basic services,12.54951354086602,6.700310687202292,17.892217451360228
+Low and low-middle,89,contrast,Meningitis incidence,Immunisation,6.145519635726648,0.968361039051237,11.554172196004867
+Low and low-middle,89,contrast,Meningitis incidence,Nutrition,-7.574426240576426,-15.197524826352575,-1.010926440478481
+Low and low-middle,89,contrast,Meningitis incidence,Health system,-3.3886680582390083,-17.25016486964151,5.824616755677881
+Low and low-middle,89,contrast,Meningitis incidence,Air pollution,-6.244232628017887,-12.998117484689724,0.8268602083999763
+Low and low-middle,89,per_episode,Diarrhoeal,Basic services,15.654971997993727,4.382558145193202,28.391263019888306
+Low and low-middle,89,per_episode,Diarrhoeal,Immunisation,2.275463274773637,-8.409384389738362,15.18132584157122
+Low and low-middle,89,per_episode,Diarrhoeal,Nutrition,1.0455411617469101,-11.683146757383971,18.463595563894483
+Low and low-middle,89,per_episode,Diarrhoeal,Health system,15.511467419898285,-22.2257411897406,46.27558860638392
+Low and low-middle,89,per_episode,Diarrhoeal,Air pollution,-21.384552955108592,-33.70992635641103,-9.054717926253128
+Low and low-middle,89,per_episode,LRI,Basic services,11.503763190391503,3.6845364727035053,20.470626172050647
+Low and low-middle,89,per_episode,LRI,Immunisation,9.367961021234251,-0.4464779677403388,19.780107550407983
+Low and low-middle,89,per_episode,LRI,Nutrition,-6.708832488898375,-14.719447917017224,3.1193727565204923
+Low and low-middle,89,per_episode,LRI,Health system,-11.956883487649094,-35.2585596111597,6.337952579913364
+Low and low-middle,89,per_episode,LRI,Air pollution,-4.7638397928215115,-13.599131017069245,5.2012176995932204
+Low and low-middle,89,per_episode,Meningitis,Basic services,1.3373242025987553,-5.574492640682858,7.689225879237778
+Low and low-middle,89,per_episode,Meningitis,Immunisation,-1.3530575727997984,-9.098194833651762,6.4642547287958925
+Low and low-middle,89,per_episode,Meningitis,Nutrition,2.6595294999009145,-3.070785771811581,11.211092745632273
+Low and low-middle,89,per_episode,Meningitis,Health system,6.817882968701627,-3.2934988777497725,27.576243537901235
+Low and low-middle,89,per_episode,Meningitis,Air pollution,-4.696441274372032,-14.301148872650908,6.043333266545878
+Middle and high-middle,35,contrast,Diarrhoeal mortality,Basic services,-7.060158978779462,-25.54139091042391,12.879965900258576
+Middle and high-middle,35,contrast,Diarrhoeal mortality,Immunisation,15.269968444407688,-0.7888691773385147,35.19859597024641
+Middle and high-middle,35,contrast,Diarrhoeal mortality,Nutrition,17.499355483872648,-6.22428888242335,46.160846591348275
+Middle and high-middle,35,contrast,Diarrhoeal mortality,Health system,17.733167025276053,5.467265742507102,57.75435590900032
+Middle and high-middle,35,contrast,Diarrhoeal mortality,Air pollution,-10.28761141652531,-19.708261161041392,2.317773846979298
+Middle and high-middle,35,contrast,LRI mortality,Basic services,-12.284914927005708,-29.435661635408024,15.3826320905408
+Middle and high-middle,35,contrast,LRI mortality,Immunisation,-2.349010816227759,-20.739477555514615,25.95213584858285
+Middle and high-middle,35,contrast,LRI mortality,Nutrition,-10.024292976001536,-29.444576106919243,11.790909145630831
+Middle and high-middle,35,contrast,LRI mortality,Health system,-10.353814689160002,-40.9897499308848,5.365815370828682
+Middle and high-middle,35,contrast,LRI mortality,Air pollution,14.56804767661839,-4.121832693353929,36.079488634210364
+Middle and high-middle,35,contrast,Meningitis mortality,Basic services,22.66588198284647,-6.741197748533842,58.16267155641787
+Middle and high-middle,35,contrast,Meningitis mortality,Immunisation,-11.160280474778029,-31.568456595031623,10.569355761453055
+Middle and high-middle,35,contrast,Meningitis mortality,Nutrition,-5.4113019775104965,-26.091870342817696,22.74356089143263
+Middle and high-middle,35,contrast,Meningitis mortality,Health system,-5.252150962731916,-18.971984334796954,24.128127712419158
+Middle and high-middle,35,contrast,Meningitis mortality,Air pollution,-2.706446045089439,-18.238880790722074,14.285238149476871
+Middle and high-middle,35,contrast,Diarrhoeal incidence,Basic services,-4.94223511753572,-21.3382120413198,21.865370707788834
+Middle and high-middle,35,contrast,Diarrhoeal incidence,Immunisation,5.048579707615142,-9.4801977335103,22.480854227864352
+Middle and high-middle,35,contrast,Diarrhoeal incidence,Nutrition,-0.30623708986358134,-17.937688196978662,23.22169968702935
+Middle and high-middle,35,contrast,Diarrhoeal incidence,Health system,11.36828871911375,-4.60749427412427,33.63756937210245
+Middle and high-middle,35,contrast,Diarrhoeal incidence,Air pollution,-3.455384592828037,-14.08817051281833,11.563405328047818
+Middle and high-middle,35,contrast,LRI incidence,Basic services,-3.02179540143499,-13.745675623107918,10.823095882866298
+Middle and high-middle,35,contrast,LRI incidence,Immunisation,-9.82295882970934,-17.40295904916883,0.5894192251378658
+Middle and high-middle,35,contrast,LRI incidence,Nutrition,-9.653127607199675,-21.073627748983643,0.1007010029602661
+Middle and high-middle,35,contrast,LRI incidence,Health system,6.4255384767524015,-12.325749757108808,16.155489112915472
+Middle and high-middle,35,contrast,LRI incidence,Air pollution,2.6374116689406923,-7.637873723603108,11.493378690814438
+Middle and high-middle,35,contrast,Meningitis incidence,Basic services,8.477148876077866,-18.486205504228725,30.990011476668393
+Middle and high-middle,35,contrast,Meningitis incidence,Immunisation,5.563512788698066,-12.825744737732137,25.108367771620106
+Middle and high-middle,35,contrast,Meningitis incidence,Nutrition,11.024515985522697,-12.378655364461704,41.41523197215814
+Middle and high-middle,35,contrast,Meningitis incidence,Health system,-15.629116401752196,-26.665433377086693,3.8181500351720614
+Middle and high-middle,35,contrast,Meningitis incidence,Air pollution,0.9174461954553959,-12.712167984460375,15.738460079610615
+Middle and high-middle,35,per_episode,Diarrhoeal,Basic services,-11.408721400269073,-54.55377247609628,62.154011572269305
+Middle and high-middle,35,per_episode,Diarrhoeal,Immunisation,34.88957747366959,-7.189085767339171,92.90266945438528
+Middle and high-middle,35,per_episode,Diarrhoeal,Nutrition,35.76574433222481,-34.83578032098202,158.0206638965873
+Middle and high-middle,35,per_episode,Diarrhoeal,Health system,18.313416834626018,-17.027853281073558,72.35280567960493
+Middle and high-middle,35,per_episode,Diarrhoeal,Air pollution,-17.546036081335124,-38.91677289911266,10.258080096630277
+Middle and high-middle,35,per_episode,LRI,Basic services,-18.04474758440351,-50.268331313887785,39.48881831640386
+Middle and high-middle,35,per_episode,LRI,Immunisation,33.1168617573891,-3.8097617347264165,94.85184934837119
+Middle and high-middle,35,per_episode,LRI,Nutrition,14.71886838085068,-36.100171972747226,75.83716829462404
+Middle and high-middle,35,per_episode,LRI,Health system,-5.728010153512619,-46.66040793080566,22.85423912826514
+Middle and high-middle,35,per_episode,LRI,Air pollution,-0.952162759136177,-22.985798740281485,29.609970690679436
+Middle and high-middle,35,per_episode,Meningitis,Basic services,2.4618437770310475,-16.946745974923502,29.605869104456158
+Middle and high-middle,35,per_episode,Meningitis,Immunisation,3.45363388008888,-14.054674826599474,22.109727111536777
+Middle and high-middle,35,per_episode,Meningitis,Nutrition,-1.860674619324476,-26.916881401472804,17.290125525405156
+Middle and high-middle,35,per_episode,Meningitis,Health system,25.682114404075882,-3.1421791579937643,49.14528199917693
+Middle and high-middle,35,per_episode,Meningitis,Air pollution,-14.452959101860962,-29.69934380556649,2.5928022870791096
+High,66,contrast,Diarrhoeal mortality,Basic services,3.7106835196613286,-33.23162299548361,54.20534051125692
+High,66,contrast,Diarrhoeal mortality,Immunisation,-29.70669326913541,-45.73269494245514,-13.104408318403793
+High,66,contrast,Diarrhoeal mortality,Nutrition,-5.372632181666248,-20.348172662849432,14.905095165780697
+High,66,contrast,Diarrhoeal mortality,Health system,3.7436416633449543,-12.694265642235532,16.25223674756228
+High,66,contrast,Diarrhoeal mortality,Air pollution,3.959705163144278,-7.25710640949542,20.84454745666722
+High,66,contrast,LRI mortality,Basic services,2.6061119321479476,-25.007820943457578,54.55803289950674
+High,66,contrast,LRI mortality,Immunisation,8.885346309833754,-6.019750837761604,48.083547806105884
+High,66,contrast,LRI mortality,Nutrition,19.248603907300676,3.0820253447568247,38.703101526975836
+High,66,contrast,LRI mortality,Health system,2.9189109539137226,-7.724041679247946,21.450444966403207
+High,66,contrast,LRI mortality,Air pollution,12.317292167409644,0.37371320976190564,22.39433676209174
+High,66,contrast,Meningitis mortality,Basic services,-6.026960880628751,-29.753769561839704,19.849769315253983
+High,66,contrast,Meningitis mortality,Immunisation,30.65215860291708,0.35387582386859967,51.37677740720408
+High,66,contrast,Meningitis mortality,Nutrition,-11.380369088632204,-25.06992941147376,0.7679088587077574
+High,66,contrast,Meningitis mortality,Health system,-6.342334327208421,-13.185914691034824,1.7126123117694616
+High,66,contrast,Meningitis mortality,Air pollution,-14.357697217061983,-20.792474682544782,-7.475265627194181
+High,66,contrast,Diarrhoeal incidence,Basic services,-27.375318901257973,-54.28140425160008,3.7605165575559583
+High,66,contrast,Diarrhoeal incidence,Immunisation,-9.011976450540626,-23.399455946193402,19.210870045412836
+High,66,contrast,Diarrhoeal incidence,Nutrition,-20.25165478391274,-37.720042504744335,-5.265593531395246
+High,66,contrast,Diarrhoeal incidence,Health system,-7.661537371059857,-23.69708366630374,9.355264392377048
+High,66,contrast,Diarrhoeal incidence,Air pollution,9.257951976615297,-0.22704767402827272,26.656525439578633
+High,66,contrast,LRI incidence,Basic services,26.201054402052225,-9.145961793778374,93.50589602511216
+High,66,contrast,LRI incidence,Immunisation,-7.192510387359796,-22.39881118414713,19.4621994588394
+High,66,contrast,LRI incidence,Nutrition,29.580170612830447,10.63177946916467,61.008937289584594
+High,66,contrast,LRI incidence,Health system,6.173136327230289,-7.6772440970994715,24.198145036510322
+High,66,contrast,LRI incidence,Air pollution,11.668168912301603,1.6341148507857524,19.328151735429746
+High,66,contrast,Meningitis incidence,Basic services,9.107041099290235,-18.41622329092124,48.17989309689944
+High,66,contrast,Meningitis incidence,Immunisation,18.42209590847601,-7.121372420906413,30.55588586451104
+High,66,contrast,Meningitis incidence,Nutrition,-3.2302158372968792,-14.057527322607596,9.950645076299152
+High,66,contrast,Meningitis incidence,Health system,2.000597064898213,-4.3933637611258165,11.237425467425584
+High,66,contrast,Meningitis incidence,Air pollution,-18.037055920732815,-26.504057514507174,-11.696507595827546
+High,66,per_episode,Diarrhoeal,Basic services,98.51353778960026,0.3972152961403647,404.1821316476589
+High,66,per_episode,Diarrhoeal,Immunisation,-25.91478890321578,-59.211002148389674,7.057529735801507
+High,66,per_episode,Diarrhoeal,Nutrition,46.72457582302088,3.8657670437245133,130.791436633465
+High,66,per_episode,Diarrhoeal,Health system,14.880627406729797,-20.622300174253066,54.56842667848886
+High,66,per_episode,Diarrhoeal,Air pollution,-13.216889064040782,-32.601639489950045,5.775739031088152
+High,66,per_episode,LRI,Basic services,13.021513489774517,-23.07492980500672,108.94403449577798
+High,66,per_episode,LRI,Immunisation,12.509240122848041,-11.271528952988067,40.626551785909044
+High,66,per_episode,LRI,Nutrition,13.794831971022049,-4.2486232191429645,33.959920799318546
+High,66,per_episode,LRI,Health system,-0.8829232140219245,-10.242146254899245,15.181352844754576
+High,66,per_episode,LRI,Air pollution,-8.263860387290444,-19.938537868343488,0.9237761359922608
+High,66,per_episode,Meningitis,Basic services,19.729554104716087,-10.366668303733201,77.39422559447968
+High,66,per_episode,Meningitis,Immunisation,5.799989938626671,-14.160017886820206,25.33435142836878
+High,66,per_episode,Meningitis,Nutrition,13.23950116269077,-1.5966201364438624,30.673639913204866
+High,66,per_episode,Meningitis,Health system,-6.112329244771297,-15.876110323020509,4.430552799812043
+High,66,per_episode,Meningitis,Air pollution,-4.699754982987603,-11.952546722694224,3.431008770114716

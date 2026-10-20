@@ -4,7 +4,7 @@ from pathlib import Path
 import numpy as np, pandas as pd
 HERE = Path(__file__).resolve().parent; AUD = HERE.parent / 'factor_residual_audit_20261010'; sys.path.insert(0, str(AUD))
 from factor_pipeline import factor_periods, downstream
-DROP = ('physicians_per1000',)
+DROP = ()   # 2026-10-20: physicians kept (author rule: use any available data)
 VARS = [('S1', '不设"已达普及"规则', HERE / 'cache_S1.csv', dict(drop=DROP)),
         ('S2', '"已达普及"阈值98%', HERE / 'cache_S2.csv', dict(ceiling=98, drop=DROP)),
         ('S3', '"已达普及"阈值99.5%', HERE / 'cache_S3.csv', dict(ceiling=99.5, drop=DROP)),
@@ -13,7 +13,7 @@ VARS = [('S1', '不设"已达普及"规则', HERE / 'cache_S1.csv', dict(drop=DR
         ('S6', '参照曲线分时期拟合', HERE / 'cache_S6.csv', dict(spec='C', ceiling=99, drop=DROP)),
         ('S7', '参照曲线形状固定', HERE / 'cache_S7.csv', dict(spec='B', ceiling=99, drop=DROP)),
         ('S8', '参照曲线不含时间项', HERE / 'cache_S8.csv', dict(spec='D', ceiling=99, drop=DROP)),
-        ('S9', '早期只有2000年一年的因素不作评价', HERE / 'cache_S9.csv', dict(ceiling=99, drop=DROP, anchor2000=False))]   # 2026-10-11
+        ('S9', '只有1个观测年份的地点—时期不作评价（旧规则）', HERE / 'cache_S9.csv', dict(ceiling=99, drop=DROP, anchor2000=False, single_year=False))]   # 2026-10-11
 only = sys.argv[1:] or [v[0] for v in VARS]
 M = pd.read_csv(HERE / 'CONFIRMED_FACTOR_PERIOD.csv')
 CL = [('腹泻病死亡', 'basic_sanitation_pct'), ('腹泻病死亡', 'basic_water_pct'), ('腹泻病死亡', 'uhc_service_index'), ('脑膜炎死亡', 'basic_sanitation_pct'), ('脑膜炎死亡', 'basic_water_pct')]

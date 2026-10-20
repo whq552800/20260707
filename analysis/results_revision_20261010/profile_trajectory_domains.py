@@ -14,7 +14,7 @@ F = pd.read_csv('../factor_profiles_confirmed_20261010/CONFIRMED_FACTOR_PERIOD.c
 BAND = {'低SDI': 'Low and low-middle', '中低SDI': 'Low and low-middle', '中等SDI': 'Middle and high-middle', '中高SDI': 'Middle and high-middle', '高SDI': 'High'}
 DOM = {'Basic services': ['basic_water_pct', 'basic_sanitation_pct', 'clean_cooking_pct'], 'Immunisation': ['dtp3_pct', 'hib3_pct'],
        'Nutrition': ['stunting_u5_pct', 'low_birthweight_pct', 'undernourishment_pct'],
-       'Health system': ['uhc_service_index', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000'],
+       'Health system': ['uhc_service_index', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000', 'physicians_per1000'],
        'Air pollution': ['gbd_ambient_pm25_ug_m3', 'secondhand_smoke_sev']}
 JUDGE = ['明确不利', '明确有利', '方向不确定', '已达普及']; M, L = '2001–2010', '2011–2023'; B = 2000; rng = np.random.default_rng(20261012)
 W = D.pivot_table(index=['location_id', 'cause_id', 'measure_id'], columns='period', values='category', aggfunc='first').reset_index()

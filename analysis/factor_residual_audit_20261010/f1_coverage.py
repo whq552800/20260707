@@ -1,4 +1,4 @@
-"""F1 因素数据覆盖诊断：每个因素的国家数、年份覆盖、各时期可评价（≥2年）国家数、取值边界堆积。"""
+"""F1 因素数据覆盖诊断：每个因素的国家数、年份覆盖、各时期可评价（≥1年，2026-10-20 起；原为≥2年）国家数、取值边界堆积。"""
 import sys, numpy as np, pandas as pd
 from pathlib import Path
 R = Path(__file__).resolve().parent.parent / 'independent_reproduction_20261009'; sys.path.insert(0, str(R))
@@ -18,7 +18,7 @@ for f in D.ALL:
                n_obs=len(g), n_loc=g.location_id.nunique(), first_year=g.year.min(), last_year=g.year.max(),
                years_with_data=g.year.nunique(), min_loc_per_year=int(ny.min()), median_loc_per_year=int(ny.median()))
     for p in ['1990–2000', '2001–2010', '2011–2023']:
-        row[f'eligible_{p}'] = int((per.get(p, pd.Series(dtype=float)) >= 2).sum())
+        row[f'eligible_{p}'] = int((per.get(p, pd.Series(dtype=float)) >= 1).sum())
     if f in D.LOGIT:
         row['pct_at_floor(<=0.1)'] = round(100 * (g[f] <= 0.1).mean(), 1); row['pct_at_ceiling(>=99.9)'] = round(100 * (g[f] >= 99.9).mean(), 1)
         row['pct_ge_99'] = round(100 * (g[f] >= 99).mean(), 1)

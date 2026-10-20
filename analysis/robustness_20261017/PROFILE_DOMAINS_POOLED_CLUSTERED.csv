@@ -1,0 +1,31 @@
+band,outcome_type,domain,diff_pp,lo,hi
+Low and low-middle,Mortality,Basic services,52.73,37.1,66.03
+Low and low-middle,Mortality,Immunisation,35.95,12.19,58.75
+Low and low-middle,Mortality,Nutrition,14.72,-2.22,30.91
+Low and low-middle,Mortality,Health system,17.11,7.2,28.6
+Low and low-middle,Mortality,Air pollution,-15.27,-32.77,3.76
+Low and low-middle,Incidence,Basic services,42.03,24.19,58.88
+Low and low-middle,Incidence,Immunisation,32.85,8.26,57.4
+Low and low-middle,Incidence,Nutrition,21.76,0.39,39.44
+Low and low-middle,Incidence,Health system,26.85,14.94,38.86
+Low and low-middle,Incidence,Air pollution,3.58,-19.2,25.26
+Middle and high-middle,Mortality,Basic services,4.43,-28.19,31.39
+Middle and high-middle,Mortality,Immunisation,33.48,-10.96,68.68
+Middle and high-middle,Mortality,Nutrition,46.13,18.46,68.71
+Middle and high-middle,Mortality,Health system,11.93,-6.17,30.84
+Middle and high-middle,Mortality,Air pollution,1.39,-32.63,37.98
+Middle and high-middle,Incidence,Basic services,15.46,-15.58,43.1
+Middle and high-middle,Incidence,Immunisation,23.32,-25.41,49.46
+Middle and high-middle,Incidence,Nutrition,40.02,11.68,66.87
+Middle and high-middle,Incidence,Health system,21.59,5.46,39.97
+Middle and high-middle,Incidence,Air pollution,14.35,-13.97,40.7
+High,Mortality,Basic services,15.15,3.55,26.54
+High,Mortality,Immunisation,-7.55,-30.85,16.28
+High,Mortality,Nutrition,19.02,0.39,38.63
+High,Mortality,Health system,1.59,-10.54,14.37
+High,Mortality,Air pollution,-15.27,-31.78,0.67
+High,Incidence,Basic services,-2.14,-14.27,9.99
+High,Incidence,Immunisation,-7.02,-27.19,13.24
+High,Incidence,Nutrition,11.44,-6.69,30.14
+High,Incidence,Health system,0.22,-10.64,12.25
+High,Incidence,Air pollution,-7.7,-23.63,8.17

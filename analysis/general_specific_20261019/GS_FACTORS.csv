@@ -1,0 +1,106 @@
+outcome,band,n,domain,pct_per_sd,lo,hi
+Other-cause mortality (general),Low and low-middle,89,Basic services,12.108904624435791,5.3340105641368805,19.81290051585287
+Other-cause mortality (general),Low and low-middle,89,Immunisation,1.0105468814498142,-6.854498187236703,9.604560616883475
+Other-cause mortality (general),Low and low-middle,89,Nutrition,-1.401789065910386,-6.796193613098901,5.762429460917145
+Other-cause mortality (general),Low and low-middle,89,Health system,11.385296467378891,-1.5389482870318707,21.20531858960389
+Other-cause mortality (general),Low and low-middle,89,Air pollution,-2.5153831101817348,-10.507394942400818,5.86110614044274
+Other-cause mortality (general),Middle and high-middle,35,Basic services,-20.679107829438404,-35.912432569543036,2.9910955371433743
+Other-cause mortality (general),Middle and high-middle,35,Immunisation,13.021697168250213,-3.92185784616932,30.500950252213023
+Other-cause mortality (general),Middle and high-middle,35,Nutrition,10.676850527209636,-11.169599296689459,35.95050585292598
+Other-cause mortality (general),Middle and high-middle,35,Health system,24.15643198145454,3.851648145106922,40.500641077966286
+Other-cause mortality (general),Middle and high-middle,35,Air pollution,-4.172494282422834,-13.20637789409515,8.90905339308963
+Other-cause mortality (general),High,66,Basic services,3.4578285629423666,-22.806156177646034,40.0994955740149
+Other-cause mortality (general),High,66,Immunisation,10.739760166967717,-2.8144139697743085,36.529279893594264
+Other-cause mortality (general),High,66,Nutrition,32.430275190657284,10.57954733675361,52.92208574839406
+Other-cause mortality (general),High,66,Health system,1.1656093675737278,-7.325334155361182,14.669436851902956
+Other-cause mortality (general),High,66,Air pollution,-1.5654645300096859,-13.093746727279898,6.518615352104253
+Diarrhoeal mortality (specific),Low and low-middle,89,Basic services,-2.848423398013944,-12.051428370846745,8.8587134991508
+Diarrhoeal mortality (specific),Low and low-middle,89,Immunisation,3.592092730094998,-7.88625710051202,16.44508391503901
+Diarrhoeal mortality (specific),Low and low-middle,89,Nutrition,8.235130598620689,-3.287213189895415,25.9186030954693
+Diarrhoeal mortality (specific),Low and low-middle,89,Health system,23.715758278737574,-11.780010246862282,48.463764138908864
+Diarrhoeal mortality (specific),Low and low-middle,89,Air pollution,-16.261515032111152,-26.31038618262434,-2.040300277893375
+Diarrhoeal mortality (specific),Middle and high-middle,35,Basic services,19.91689214280703,-18.591923735774106,59.76231322184186
+Diarrhoeal mortality (specific),Middle and high-middle,35,Immunisation,26.98652797761991,1.0374759689514097,56.77745474175397
+Diarrhoeal mortality (specific),Middle and high-middle,35,Nutrition,55.50367781007242,2.2655125882377725,127.06820738399733
+Diarrhoeal mortality (specific),Middle and high-middle,35,Health system,-0.013108966885755358,-16.37680041578167,69.90816740445749
+Diarrhoeal mortality (specific),Middle and high-middle,35,Air pollution,-5.475192979007993,-22.364539078424492,18.42818575937555
+Diarrhoeal mortality (specific),High,66,Basic services,33.54548619256017,-19.816423935207094,163.5910202624887
+Diarrhoeal mortality (specific),High,66,Immunisation,-40.39808315369786,-60.859723353814665,-21.112474698655962
+Diarrhoeal mortality (specific),High,66,Nutrition,-16.132147779789506,-35.21345887618231,12.981341179518102
+Diarrhoeal mortality (specific),High,66,Health system,6.397219327500414,-21.043560076974927,29.713437310421906
+Diarrhoeal mortality (specific),High,66,Air pollution,4.737651500227935,-11.864873142519984,28.505157497633814
+Diarrhoeal incidence (specific),Low and low-middle,89,Basic services,-1.7132008810661903,-9.68953744202304,8.251109147341545
+Diarrhoeal incidence (specific),Low and low-middle,89,Immunisation,4.0676252015742875,-3.2070000523388407,11.019214022539005
+Diarrhoeal incidence (specific),Low and low-middle,89,Nutrition,5.09104922631054,-2.978306338090306,17.02078752716022
+Diarrhoeal incidence (specific),Low and low-middle,89,Health system,20.777911628136536,3.2283003424486596,55.09723614455181
+Diarrhoeal incidence (specific),Low and low-middle,89,Air pollution,4.805439551154844,-4.383547686673038,17.514325437728072
+Diarrhoeal incidence (specific),Middle and high-middle,35,Basic services,9.18953962703295,-23.28056205311835,68.17629803029263
+Diarrhoeal incidence (specific),Middle and high-middle,35,Immunisation,9.743874396760365,-13.054568464710412,41.89719021999485
+Diarrhoeal incidence (specific),Middle and high-middle,35,Nutrition,33.464029877125554,-3.9637492774356105,87.26672473491975
+Diarrhoeal incidence (specific),Middle and high-middle,35,Health system,3.9689060612764893,-17.23999317251547,67.04219071185165
+Diarrhoeal incidence (specific),Middle and high-middle,35,Air pollution,12.487020687759776,-5.354943856164417,43.447786724023736
+Diarrhoeal incidence (specific),High,66,Basic services,-28.736879590855345,-56.91031168530557,31.48076364234571
+Diarrhoeal incidence (specific),High,66,Immunisation,-8.426817392363816,-29.289308425225975,34.17766777416113
+Diarrhoeal incidence (specific),High,66,Nutrition,-22.987939331772633,-47.60766692641785,1.558664475035451
+Diarrhoeal incidence (specific),High,66,Health system,-1.7328923548252884,-24.26973086882253,32.66335159285563
+Diarrhoeal incidence (specific),High,66,Air pollution,16.72097533746868,4.229275535203105,37.03909837332672
+LRI mortality (specific),Low and low-middle,89,Basic services,7.6784839487449075,0.6094625794821064,17.953581447398065
+LRI mortality (specific),Low and low-middle,89,Immunisation,7.516341050955022,-0.31226982680768756,16.711801427738425
+LRI mortality (specific),Low and low-middle,89,Nutrition,0.7200050978745542,-6.55460668643729,9.226738635125182
+LRI mortality (specific),Low and low-middle,89,Health system,-18.430677418396936,-35.23314442605362,-4.949172272059198
+LRI mortality (specific),Low and low-middle,89,Air pollution,11.023757994602557,1.781018516072067,23.18547304817296
+LRI mortality (specific),Middle and high-middle,35,Basic services,12.580564794823456,-23.621431010457464,63.026284102233895
+LRI mortality (specific),Middle and high-middle,35,Immunisation,13.694145476647446,-10.320571953735435,56.92631570460202
+LRI mortality (specific),Middle and high-middle,35,Nutrition,21.325835141684113,-22.883326401131626,67.72399894453744
+LRI mortality (specific),Middle and high-middle,35,Health system,-17.203895376576384,-43.56218772545865,8.091348364681984
+LRI mortality (specific),Middle and high-middle,35,Air pollution,22.774704206475093,0.4814944522036192,56.48702530407997
+LRI mortality (specific),High,66,Basic services,31.971384921008926,-15.804422021109831,170.71655108457824
+LRI mortality (specific),High,66,Immunisation,-4.7168460833093455,-26.504991680826464,38.64176031816678
+LRI mortality (specific),High,66,Nutrition,13.060264142794708,-9.956999570859235,42.92158472520709
+LRI mortality (specific),High,66,Health system,8.213499108042587,-6.846195267509225,34.50901593564988
+LRI mortality (specific),High,66,Air pollution,11.802921111860766,-5.643787059270983,26.513416021836857
+LRI incidence (specific),Low and low-middle,89,Basic services,3.201115096334717,-1.5566766352935468,9.053055156642463
+LRI incidence (specific),Low and low-middle,89,Immunisation,-2.2764533468368486,-7.477769586725797,3.1198949314586994
+LRI incidence (specific),Low and low-middle,89,Nutrition,7.052746379859687,2.789261572413502,12.931589429680168
+LRI incidence (specific),Low and low-middle,89,Health system,1.1472201754846312,-5.815910660346918,10.429157290250282
+LRI incidence (specific),Low and low-middle,89,Air pollution,12.969280295386776,7.484239410526335,20.519329603020093
+LRI incidence (specific),Middle and high-middle,35,Basic services,16.955696992624137,-2.1217083575763267,42.62672586861936
+LRI incidence (specific),Middle and high-middle,35,Immunisation,-7.05909074914568,-16.323220040659773,5.594127937191378
+LRI incidence (specific),Middle and high-middle,35,Nutrition,21.44208553885887,2.73402979865911,47.07250665193015
+LRI incidence (specific),Middle and high-middle,35,Health system,-5.674266116657034,-17.71307696764848,14.708948207952975
+LRI incidence (specific),Middle and high-middle,35,Air pollution,21.559807016816013,9.828947709687712,38.050619549574826
+LRI incidence (specific),High,66,Basic services,19.996038832495167,-13.709046583377276,97.81984933628313
+LRI incidence (specific),High,66,Immunisation,-8.561493013330622,-24.75069842898948,24.65090126284656
+LRI incidence (specific),High,66,Nutrition,23.591175868122406,3.692044863386763,45.33875858199415
+LRI incidence (specific),High,66,Health system,9.382624844220011,-3.2207085953019376,25.44953220175219
+LRI incidence (specific),High,66,Air pollution,20.70469889337916,2.484423496044535,34.00420573371246
+Meningitis mortality (specific),Low and low-middle,89,Basic services,9.79095797546461,1.3176767607105013,18.817652133404962
+Meningitis mortality (specific),Low and low-middle,89,Immunisation,7.800057028703211,-2.229910664122947,17.3631055107925
+Meningitis mortality (specific),Low and low-middle,89,Nutrition,-2.0237570968785645,-13.145441064078911,6.766415466646287
+Meningitis mortality (specific),Low and low-middle,89,Health system,1.2204933681137398,-11.92907044198234,19.535750612590906
+Meningitis mortality (specific),Low and low-middle,89,Air pollution,-3.786439251273821,-13.460040128332857,8.348788991987988
+Meningitis mortality (specific),Middle and high-middle,35,Basic services,64.07013442160536,15.02797267821823,106.91385526043986
+Meningitis mortality (specific),Middle and high-middle,35,Immunisation,1.5220014274830884,-21.930482333515734,29.109300843886896
+Meningitis mortality (specific),Middle and high-middle,35,Nutrition,36.67665980305452,3.8544913983147064,70.27863566409575
+Meningitis mortality (specific),Middle and high-middle,35,Health system,-23.383512955590213,-33.9535660098099,11.797557799968052
+Meningitis mortality (specific),Middle and high-middle,35,Air pollution,6.545603180883419,-14.846622324299636,33.6193742778145
+Meningitis mortality (specific),High,66,Basic services,26.310143430799158,-8.315437507031517,107.35251729799076
+Meningitis mortality (specific),High,66,Immunisation,13.26400471699072,-20.074115551761206,30.122765414212875
+Meningitis mortality (specific),High,66,Nutrition,-17.43606271710477,-30.7540402372123,-3.2566142690450035
+Meningitis mortality (specific),High,66,Health system,-4.134360865212294,-18.343609760661586,9.937311710994589
+Meningitis mortality (specific),High,66,Air pollution,-13.768295256345164,-21.091530792875474,-4.939059187636255
+Meningitis incidence (specific),Low and low-middle,89,Basic services,13.511271590267482,7.38580072619274,21.62114840986483
+Meningitis incidence (specific),Low and low-middle,89,Immunisation,9.882589390769002,2.7089749893073574,17.97451469463869
+Meningitis incidence (specific),Low and low-middle,89,Nutrition,-4.996292085739851,-15.3804641860974,1.1152173189989516
+Meningitis incidence (specific),Low and low-middle,89,Health system,0.019650232574464077,-9.580444938282275,7.506838884530624
+Meningitis incidence (specific),Low and low-middle,89,Air pollution,0.6401446683574008,-7.091997991001608,10.899745605509535
+Meningitis incidence (specific),Middle and high-middle,35,Basic services,55.19793466347005,19.01604271419729,90.06941450564075
+Meningitis incidence (specific),Middle and high-middle,35,Immunisation,4.224955462876534,-16.63585823019487,24.416097979922533
+Meningitis incidence (specific),Middle and high-middle,35,Nutrition,42.81944498068333,12.717959723180472,85.75079389140234
+Meningitis incidence (specific),Middle and high-middle,35,Health system,-32.80335697152124,-42.12701043916763,-0.7161273885694239
+Meningitis incidence (specific),Middle and high-middle,35,Air pollution,25.649002787591346,4.685765636924939,53.211968547973
+Meningitis incidence (specific),High,66,Basic services,2.4048691496630026,-30.313574972232512,62.92204796644815
+Meningitis incidence (specific),High,66,Immunisation,11.308783088584473,-23.419514986987263,31.69358422403094
+Meningitis incidence (specific),High,66,Nutrition,-20.434619888099913,-35.9535609637787,-1.4422139948942938
+Meningitis incidence (specific),High,66,Health system,6.110868725246177,-8.349130754082513,23.822695836088265
+Meningitis incidence (specific),High,66,Air pollution,-11.16857851422134,-22.306831667341648,-0.6172357516165259

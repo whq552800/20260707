@@ -10,7 +10,7 @@ BASIC = {'basic_water_pct', 'basic_sanitation_pct', 'clean_cooking_pct', 'uhc_se
 rows = []
 for code in ['main'] + [f'S{i}' for i in range(1, 10)]:
     p = AN / 'factor_profiles_confirmed_20261010' / ('CONFIRMED_FACTOR_PERIOD.csv' if code == 'main' else f'cache_{code}.csv')
-    F = pd.read_csv(p); F = F[F.factor != 'physicians_per1000']
+    F = pd.read_csv(p)
     fp, C, Aso = downstream(F); s = C[C.q < 0.05]
     rows.append(dict(variant=code, n_tests=int(C.q.notna().sum()), n_sig=len(s), all_basic=bool(s.factor.isin(BASIC).all()),
                      sig=';'.join(f'{a}|{b}|q={q:.3f}' for a, b, q in zip(s.dz, s.factor, s.q))))

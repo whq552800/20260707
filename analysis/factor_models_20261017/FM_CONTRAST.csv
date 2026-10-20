@@ -1,0 +1,121 @@
+band,domain,a,b,diff,lo,hi
+Low and low-middle,Basic services,Diarrhoeal mortality,LRI mortality,-8.361833003656137,-19.229311989923445,3.9694121381148433
+Low and low-middle,Basic services,Diarrhoeal mortality,Meningitis mortality,-11.739196040323474,-22.265238506418886,1.7030308865372403
+Low and low-middle,Basic services,LRI mortality,Meningitis mortality,-3.3773630366673366,-15.698211856474268,11.129051288783316
+Low and low-middle,Immunisation,Diarrhoeal mortality,LRI mortality,-3.6767561827181883,-15.44720809870264,8.859472444210535
+Low and low-middle,Immunisation,Diarrhoeal mortality,Meningitis mortality,-4.041232705934528,-17.168263875772716,10.068172461258039
+Low and low-middle,Immunisation,LRI mortality,Meningitis mortality,-0.3644765232163394,-13.323851315650913,13.569987378880942
+Low and low-middle,Nutrition,Diarrhoeal mortality,LRI mortality,6.9979668840543745,-4.431150312677832,24.727976636741403
+Low and low-middle,Nutrition,Diarrhoeal mortality,Meningitis mortality,9.799627275880251,-2.4000921601219467,31.31792745047188
+Low and low-middle,Nutrition,LRI mortality,Meningitis mortality,2.8016603918258776,-8.465241373742325,16.558544543933685
+Low and low-middle,Health system,Diarrhoeal mortality,LRI mortality,51.13425845707396,20.3702494159691,75.69400462013375
+Low and low-middle,Health system,Diarrhoeal mortality,Meningitis mortality,28.346066411719125,-12.758746596411163,55.88534455217482
+Low and low-middle,Health system,LRI mortality,Meningitis mortality,-22.78819204535484,-51.93384069529412,0.35527334971508234
+Low and low-middle,Air pollution,Diarrhoeal mortality,LRI mortality,-27.15563044603231,-39.157733822513,-14.54406243726132
+Low and low-middle,Air pollution,Diarrhoeal mortality,Meningitis mortality,-12.553185635592467,-24.458440743712586,-1.4403235467227682
+Low and low-middle,Air pollution,LRI mortality,Meningitis mortality,14.602444810439842,-0.6066030324845002,28.871456783657877
+Low and low-middle,Basic services,Diarrhoeal incidence,LRI incidence,-6.536867187999973,-13.861715428537202,1.0316773713562242
+Low and low-middle,Basic services,Diarrhoeal incidence,Meningitis incidence,-23.939217763024544,-35.370484200545995,-12.847115228117534
+Low and low-middle,Basic services,LRI incidence,Meningitis incidence,-17.40235057502457,-27.19843797093203,-8.895955811526768
+Low and low-middle,Immunisation,Diarrhoeal incidence,LRI incidence,6.224630970224931,-1.7148510479777836,12.979225577825801
+Low and low-middle,Immunisation,Diarrhoeal incidence,Meningitis incidence,-6.514248750065189,-17.649206655961606,2.4323869882171385
+Low and low-middle,Immunisation,LRI incidence,Meningitis incidence,-12.73887972029012,-22.659241040611754,-3.8900163927756246
+Low and low-middle,Nutrition,Diarrhoeal incidence,LRI incidence,-1.7638205692675601,-9.267199354224442,8.219086900090394
+Low and low-middle,Nutrition,Diarrhoeal incidence,Meningitis incidence,10.902020370436492,-1.3405099013753432,27.385426780222417
+Low and low-middle,Nutrition,LRI incidence,Meningitis incidence,12.665840939704054,3.7401228037084895,24.675300393755556
+Low and low-middle,Health system,Diarrhoeal incidence,LRI incidence,18.449071227164193,1.799545812348662,49.85828693048287
+Low and low-middle,Health system,Diarrhoeal incidence,Meningitis incidence,13.977158068886908,-7.25943334394158,53.21359242830641
+Low and low-middle,Health system,LRI incidence,Meningitis incidence,-4.471913158277284,-16.057506498559405,11.837157877477122
+Low and low-middle,Air pollution,Diarrhoeal incidence,LRI incidence,-7.769286246496332,-15.80058386250245,1.6169957751842876
+Low and low-middle,Air pollution,Diarrhoeal incidence,Meningitis incidence,5.734752568441492,-7.592030729480802,18.498949768684295
+Low and low-middle,Air pollution,LRI incidence,Meningitis incidence,13.504038814937825,1.0677225681273463,23.7945004045971
+Middle and high-middle,Basic services,Diarrhoeal mortality,LRI mortality,-0.010536109503036073,-51.65918946110449,26.78721887144915
+Middle and high-middle,Basic services,Diarrhoeal mortality,Meningitis mortality,-38.60929863026945,-84.37797896121728,2.4852533843000435
+Middle and high-middle,Basic services,LRI mortality,Meningitis mortality,-38.598762520766414,-83.26969451948626,26.64960931003807
+Middle and high-middle,Immunisation,Diarrhoeal mortality,LRI mortality,19.93281276949008,-32.127062650474016,54.22710139688106
+Middle and high-middle,Immunisation,Diarrhoeal mortality,Meningitis mortality,32.70789255340161,-4.563066247160215,84.17555308956607
+Middle and high-middle,Immunisation,LRI mortality,Meningitis mortality,12.775079783911524,-34.508637110241594,86.82752898221672
+Middle and high-middle,Nutrition,Diarrhoeal mortality,LRI mortality,42.71714995456337,-19.96955467409689,134.93106918384655
+Middle and high-middle,Nutrition,Diarrhoeal mortality,Meningitis mortality,24.60855451786521,-34.257939824691015,132.02880510361368
+Middle and high-middle,Nutrition,LRI mortality,Meningitis mortality,-18.10859543669816,-71.8850859543947,59.48251634968729
+Middle and high-middle,Health system,Diarrhoeal mortality,LRI mortality,28.980008298434033,-1.0285379373485113,139.69757748146665
+Middle and high-middle,Health system,Diarrhoeal mortality,Meningitis mortality,35.19587533254372,8.242900112783463,113.55214251148881
+Middle and high-middle,Health system,LRI mortality,Meningitis mortality,6.21586703410969,-53.90881356705226,36.414141434022774
+Middle and high-middle,Air pollution,Diarrhoeal mortality,LRI mortality,-28.103281937566912,-58.89358239044223,-0.08716853862240523
+Middle and high-middle,Air pollution,Diarrhoeal mortality,Meningitis mortality,-12.251412576525166,-35.30676429512634,14.477577443841462
+Middle and high-middle,Air pollution,LRI mortality,Meningitis mortality,15.851869361041746,-19.590161080424764,60.63991764868241
+Middle and high-middle,Basic services,Diarrhoeal incidence,LRI incidence,-4.20257063498013,-33.463452653021044,34.6953701932564
+Middle and high-middle,Basic services,Diarrhoeal incidence,Meningitis incidence,-24.43696820959087,-71.75047270767944,38.27175401775644
+Middle and high-middle,Basic services,LRI incidence,Meningitis incidence,-20.23439757461074,-60.04751155271808,24.435881366025633
+Middle and high-middle,Immunisation,Diarrhoeal incidence,LRI incidence,15.548371531643634,-3.474830068125364,38.953292161441716
+Middle and high-middle,Immunisation,Diarrhoeal incidence,Meningitis incidence,-2.7931324995829065,-37.02323242844872,35.33508606722302
+Middle and high-middle,Immunisation,LRI incidence,Meningitis incidence,-18.341504031226542,-43.94848390568781,10.403379428930208
+Middle and high-middle,Nutrition,Diarrhoeal incidence,LRI incidence,10.548248310181506,-17.894582668183094,53.95743037877246
+Middle and high-middle,Nutrition,Diarrhoeal incidence,Meningitis incidence,-18.91442502793945,-82.38167976386117,50.29897346149743
+Middle and high-middle,Nutrition,LRI incidence,Meningitis incidence,-29.462673338120958,-83.45656507307174,17.574455502887773
+Middle and high-middle,Health system,Diarrhoeal incidence,LRI incidence,7.154011334356614,-13.55479411432486,68.33113140818507
+Middle and high-middle,Health system,Diarrhoeal incidence,Meningitis incidence,27.76872491845579,-10.45495986039471,78.62801281650962
+Middle and high-middle,Health system,LRI incidence,Meningitis incidence,20.614713584099174,-22.085117892802593,39.144846933036426
+Middle and high-middle,Air pollution,Diarrhoeal incidence,LRI incidence,-8.363183909050576,-25.878869397827707,17.304702120612724
+Middle and high-middle,Air pollution,Diarrhoeal incidence,Meningitis incidence,-9.814860706929121,-41.82728353595407,25.765168665145318
+Middle and high-middle,Air pollution,LRI incidence,Meningitis incidence,-1.4516767978785445,-33.21248110169619,23.416362757839583
+High,Basic services,Diarrhoeal mortality,LRI mortality,2.918059479332989,-136.0383204799447,121.89341130963653
+High,Basic services,Diarrhoeal mortality,Meningitis mortality,8.461419877871478,-72.44046894212613,129.97566695033058
+High,Basic services,LRI mortality,Meningitis mortality,5.543360398538489,-55.75868658039613,121.24260725938586
+High,Immunisation,Diarrhoeal mortality,LRI mortality,-37.699829634967756,-84.07051605615682,-12.137315283640946
+High,Immunisation,Diarrhoeal mortality,Meningitis mortality,-58.5524925642971,-88.92320769391914,-19.761272095173744
+High,Immunisation,LRI mortality,Meningitis mortality,-20.852662929329348,-46.80009575989599,37.92297520264656
+High,Nutrition,Diarrhoeal mortality,LRI mortality,-29.917755204654455,-69.0908674224628,11.784221376022657
+High,Nutrition,Diarrhoeal mortality,Meningitis mortality,8.405207633854548,-22.912100484525237,52.17062870586009
+High,Nutrition,LRI mortality,Meningitis mortality,38.322962838509,10.849862763118542,72.9955702423336
+High,Health system,Diarrhoeal mortality,LRI mortality,-1.4965915371304872,-41.906827823810254,27.86527333011163
+High,Health system,Diarrhoeal mortality,Meningitis mortality,10.917174210835734,-15.011893307821754,30.9376505287833
+High,Health system,LRI mortality,Meningitis mortality,12.41376574796622,-4.459561024810716,39.115594897073166
+High,Air pollution,Diarrhoeal mortality,LRI mortality,-7.396289939584522,-30.31028203387269,18.972303332501156
+High,Air pollution,Diarrhoeal mortality,Meningitis mortality,17.864510675013978,0.8043905653305684,39.38200215283177
+High,Air pollution,LRI mortality,Meningitis mortality,25.2608006145985,9.842930295497665,40.84417303340703
+High,Basic services,Diarrhoeal incidence,LRI incidence,-49.460989085862494,-145.19816567053624,19.52509606995105
+High,Basic services,Diarrhoeal incidence,Meningitis incidence,-33.472395207061666,-106.21391294245977,15.654361546334709
+High,Basic services,LRI incidence,Meningitis incidence,15.98859387880083,-57.090102181783514,96.25290331041792
+High,Immunisation,Diarrhoeal incidence,LRI incidence,-1.0905571029403367,-36.31046123744212,43.17445478466874
+High,Immunisation,Diarrhoeal incidence,Meningitis incidence,-27.3816604267305,-46.6267176609983,21.261849843238036
+High,Immunisation,LRI incidence,Meningitis incidence,-26.291103323790164,-51.59681904473868,18.34893737070686
+High,Nutrition,Diarrhoeal incidence,LRI incidence,-52.88691844697479,-89.6634573670727,-17.65564702982928
+High,Nutrition,Diarrhoeal incidence,Meningitis incidence,-18.399792780533097,-41.02804000985178,4.918900119811432
+High,Nutrition,LRI incidence,Meningitis incidence,34.487125666441685,5.651676051426139,63.332956673253925
+High,Health system,Diarrhoeal incidence,LRI incidence,-11.294883907939168,-44.670979581855605,22.07277162770374
+High,Health system,Diarrhoeal incidence,Meningitis incidence,-8.625659454794732,-32.913974133997556,15.231561759833783
+High,Health system,LRI incidence,Meningitis incidence,2.6692244531444365,-14.196938759001855,20.334201479105943
+High,Air pollution,Diarrhoeal incidence,LRI incidence,-3.731095308269495,-21.371284344355193,22.04809738576162
+High,Air pollution,Diarrhoeal incidence,Meningitis incidence,28.705588393050274,12.930908212591056,53.20563233246811
+High,Air pollution,LRI incidence,Meningitis incidence,32.436683701319765,19.243203908015015,45.73793445035694
+All,Basic services,Diarrhoeal mortality,LRI mortality,-1.861034498621141,-11.973743704015321,10.963651689914903
+All,Basic services,Diarrhoeal mortality,Meningitis mortality,-11.390191106411041,-22.627489344725902,1.9561995988182357
+All,Basic services,LRI mortality,Meningitis mortality,-9.5291566077899,-21.941248653032112,1.7868433173449845
+All,Immunisation,Diarrhoeal mortality,LRI mortality,-0.007122328919884069,-10.067994784439449,11.330231208159432
+All,Immunisation,Diarrhoeal mortality,Meningitis mortality,-9.118423685023402,-21.388589720487822,3.937288807682054
+All,Immunisation,LRI mortality,Meningitis mortality,-9.111301356103517,-20.970771342190446,3.850356193608709
+All,Nutrition,Diarrhoeal mortality,LRI mortality,4.460908979214784,-6.073133128339058,19.753222208026077
+All,Nutrition,Diarrhoeal mortality,Meningitis mortality,13.474182134865643,2.147928890745914,32.727630059561534
+All,Nutrition,LRI mortality,Meningitis mortality,9.013273155650857,0.26377146482818004,20.63145045275774
+All,Health system,Diarrhoeal mortality,LRI mortality,25.403686647340628,4.134748832995249,42.08380698696278
+All,Health system,Diarrhoeal mortality,Meningitis mortality,27.205382732064162,9.589794371237698,41.43542876068059
+All,Health system,LRI mortality,Meningitis mortality,1.8016960847235364,-11.009202189465006,15.468062638759362
+All,Air pollution,Diarrhoeal mortality,LRI mortality,-22.53784344704578,-33.05042282832172,-11.133539039979555
+All,Air pollution,Diarrhoeal mortality,Meningitis mortality,-1.9820459948097557,-10.65467644328235,7.609919048895948
+All,Air pollution,LRI mortality,Meningitis mortality,20.555797452236025,10.283186227830429,30.704091230671725
+All,Basic services,Diarrhoeal incidence,LRI incidence,-4.143187656588121,-11.568251656823389,5.182892028275304
+All,Basic services,Diarrhoeal incidence,Meningitis incidence,-21.22820638915255,-31.205464874116018,-10.646710726109946
+All,Basic services,LRI incidence,Meningitis incidence,-17.08501873256443,-25.600796693567062,-8.799436267299068
+All,Immunisation,Diarrhoeal incidence,LRI incidence,13.176431478675244,6.194178730687359,20.619656079622406
+All,Immunisation,Diarrhoeal incidence,Meningitis incidence,-5.5138648159515515,-14.283088764379961,4.051249097927401
+All,Immunisation,LRI incidence,Meningitis incidence,-18.690296294626794,-26.664101069268213,-10.79679922688027
+All,Nutrition,Diarrhoeal incidence,LRI incidence,-10.622134496656432,-20.420397635908927,-1.9192927365712924
+All,Nutrition,Diarrhoeal incidence,Meningitis incidence,4.70671593872386,-5.127466862921902,15.98603832301983
+All,Nutrition,LRI incidence,Meningitis incidence,15.328850435380293,6.439917444377964,25.132901278444635
+All,Health system,Diarrhoeal incidence,LRI incidence,-1.7881906850932374,-19.79027977430771,17.837856802025836
+All,Health system,Diarrhoeal incidence,Meningitis incidence,4.1731610024322805,-10.06619383304294,21.56988697388604
+All,Health system,LRI incidence,Meningitis incidence,5.961351687525518,-3.226414190169016,16.9568196132044
+All,Air pollution,Diarrhoeal incidence,LRI incidence,-8.194905024385536,-17.4501189958017,2.4591027763358047
+All,Air pollution,Diarrhoeal incidence,Meningitis incidence,11.484055643765224,1.3509646903242885,21.862782579670096
+All,Air pollution,LRI incidence,Meningitis incidence,19.678960668150758,11.644760235261097,26.977331052720345

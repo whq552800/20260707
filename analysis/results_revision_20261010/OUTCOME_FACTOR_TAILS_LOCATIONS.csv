@@ -51,7 +51,7 @@
 58,Estonia,LRI发病,LRI incidence,high,High,1.436278,low_birthweight_pct,明确有利,3.268315,2.500188,4.036442
 58,Estonia,LRI发病,LRI incidence,high,High,1.436278,pcv3_pct,不可评价,,,
 58,Estonia,LRI发病,LRI incidence,high,High,1.436278,secondhand_smoke_sev,方向不确定,0.188722,-3.012405,3.389849
-58,Estonia,LRI发病,LRI incidence,high,High,1.436278,stunting_u5_pct,不可评价,1.742242,0.948076,2.536407
+58,Estonia,LRI发病,LRI incidence,high,High,1.436278,stunting_u5_pct,明确有利,1.742242,0.948076,2.536407
 58,Estonia,LRI发病,LRI incidence,high,High,1.436278,uhc_service_index,明确不利,-4.410175,-5.484079,-3.336271
 351,Guam,LRI发病,LRI incidence,high,High,2.120429,clean_cooking_pct,不可评价,,,
 351,Guam,LRI发病,LRI incidence,high,High,2.120429,dtp3_pct,不可评价,,,
@@ -177,7 +177,7 @@
 186,Seychelles,LRI发病,LRI incidence,high,High,2.103109,low_birthweight_pct,明确不利,-3.010601,-3.958471,-2.06273
 186,Seychelles,LRI发病,LRI incidence,high,High,2.103109,pcv3_pct,明确不利,-8.174393,-10.904143,-5.444642
 186,Seychelles,LRI发病,LRI incidence,high,High,2.103109,secondhand_smoke_sev,方向不确定,2.040347,-2.22805,6.308744
-186,Seychelles,LRI发病,LRI incidence,high,High,2.103109,stunting_u5_pct,不可评价,-1.077782,-2.351255,0.19569
+186,Seychelles,LRI发病,LRI incidence,high,High,2.103109,stunting_u5_pct,方向不确定,-1.077782,-2.351255,0.19569
 186,Seychelles,LRI发病,LRI incidence,high,High,2.103109,uhc_service_index,明确有利,1.695425,0.417943,2.972907
 69,Singapore,LRI发病,LRI incidence,high,High,2.344645,clean_cooking_pct,已达普及,0.102543,0.087203,0.117883
 69,Singapore,LRI发病,LRI incidence,high,High,2.344645,dtp3_pct,方向不确定,0.632486,-0.112429,1.377401
@@ -267,7 +267,7 @@
 195,Namibia,LRI发病,LRI incidence,high,Low and low-middle,1.401731,low_birthweight_pct,明确不利,-4.70272,-5.890444,-3.514996
 195,Namibia,LRI发病,LRI incidence,high,Low and low-middle,1.401731,pcv3_pct,明确不利,-10.562069,-15.015852,-6.108286
 195,Namibia,LRI发病,LRI incidence,high,Low and low-middle,1.401731,secondhand_smoke_sev,方向不确定,1.601657,-3.952691,7.156006
-195,Namibia,LRI发病,LRI incidence,high,Low and low-middle,1.401731,stunting_u5_pct,不可评价,-2.60913,-6.444545,1.226285
+195,Namibia,LRI发病,LRI incidence,high,Low and low-middle,1.401731,stunting_u5_pct,方向不确定,-2.60913,-6.444545,1.226285
 195,Namibia,LRI发病,LRI incidence,high,Low and low-middle,1.401731,uhc_service_index,明确不利,-7.31693,-9.434712,-5.199148
 369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,clean_cooking_pct,明确有利,23.968033,14.509662,33.426403
 369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,dtp3_pct,方向不确定,1.215168,-0.917459,3.347794
@@ -276,7 +276,7 @@
 369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,low_birthweight_pct,不可评价,,,
 369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,pcv3_pct,方向不确定,-4.765178,-10.444195,0.913839
 369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,secondhand_smoke_sev,明确不利,-25.48993,-30.983688,-19.996172
-369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,stunting_u5_pct,不可评价,0.988234,-2.581127,4.557595
+369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,stunting_u5_pct,方向不确定,0.988234,-2.581127,4.557595
 369,Nauru,LRI发病,LRI incidence,high,Low and low-middle,1.690808,uhc_service_index,明确不利,-8.236855,-10.345719,-6.127991
 165,Pakistan,LRI发病,LRI incidence,high,Low and low-middle,1.910504,clean_cooking_pct,明确有利,24.47177,18.374738,30.568802
 165,Pakistan,LRI发病,LRI incidence,high,Low and low-middle,1.910504,dtp3_pct,明确不利,-11.444373,-14.339358,-8.549387
@@ -474,7 +474,7 @@
 88,Malta,LRI发病,LRI incidence,low,High,0.338939,low_birthweight_pct,明确有利,1.143698,0.213568,2.073828
 88,Malta,LRI发病,LRI incidence,low,High,0.338939,pcv3_pct,明确不利,-31.324317,-34.296793,-28.351842
 88,Malta,LRI发病,LRI incidence,low,High,0.338939,secondhand_smoke_sev,方向不确定,2.20084,-1.641441,6.043121
-88,Malta,LRI发病,LRI incidence,low,High,0.338939,stunting_u5_pct,不可评价,0.772531,-0.826657,2.371719
+88,Malta,LRI发病,LRI incidence,low,High,0.338939,stunting_u5_pct,方向不确定,0.772531,-0.826657,2.371719
 88,Malta,LRI发病,LRI incidence,low,High,0.338939,uhc_service_index,方向不确定,0.949048,-0.196581,2.094677
 72,New Zealand,LRI发病,LRI incidence,low,High,0.690472,clean_cooking_pct,已达普及,0.115017,0.089857,0.140177
 72,New Zealand,LRI发病,LRI incidence,low,High,0.690472,dtp3_pct,明确不利,-4.338841,-5.032804,-3.644878
@@ -492,7 +492,7 @@
 91,Portugal,LRI发病,LRI incidence,low,High,0.234418,low_birthweight_pct,方向不确定,0.301995,-0.730479,1.334469
 91,Portugal,LRI发病,LRI incidence,low,High,0.234418,pcv3_pct,明确有利,2.835924,0.32193,5.349919
 91,Portugal,LRI发病,LRI incidence,low,High,0.234418,secondhand_smoke_sev,方向不确定,-3.94436,-8.423978,0.535259
-91,Portugal,LRI发病,LRI incidence,low,High,0.234418,stunting_u5_pct,不可评价,2.751955,1.270149,4.23376
+91,Portugal,LRI发病,LRI incidence,low,High,0.234418,stunting_u5_pct,明确有利,2.751955,1.270149,4.23376
 91,Portugal,LRI发病,LRI incidence,low,High,0.234418,uhc_service_index,明确有利,5.464101,4.169136,6.759067
 396,San Marino,LRI发病,LRI incidence,low,High,0.682383,clean_cooking_pct,已达普及,0.090967,0.079836,0.102099
 396,San Marino,LRI发病,LRI incidence,low,High,0.682383,dtp3_pct,明确不利,-7.860315,-8.697824,-7.022805
@@ -555,7 +555,7 @@
 203,Cabo Verde,LRI发病,LRI incidence,low,Low and low-middle,0.636769,low_birthweight_pct,不可评价,,,
 203,Cabo Verde,LRI发病,LRI incidence,low,Low and low-middle,0.636769,pcv3_pct,不可评价,,,
 203,Cabo Verde,LRI发病,LRI incidence,low,Low and low-middle,0.636769,secondhand_smoke_sev,明确有利,18.3967,13.402352,23.391047
-203,Cabo Verde,LRI发病,LRI incidence,low,Low and low-middle,0.636769,stunting_u5_pct,不可评价,17.34245,13.428172,21.256729
+203,Cabo Verde,LRI发病,LRI incidence,low,Low and low-middle,0.636769,stunting_u5_pct,明确有利,17.34245,13.428172,21.256729
 203,Cabo Verde,LRI发病,LRI incidence,low,Low and low-middle,0.636769,uhc_service_index,明确有利,8.019373,6.003256,10.03549
 127,El Salvador,LRI发病,LRI incidence,low,Low and low-middle,0.489242,clean_cooking_pct,明确有利,18.796823,7.900938,29.692709
 127,El Salvador,LRI发病,LRI incidence,low,Low and low-middle,0.489242,dtp3_pct,方向不确定,1.940647,-0.370246,4.251541
@@ -609,7 +609,7 @@
 131,Nicaragua,LRI发病,LRI incidence,low,Low and low-middle,0.402944,low_birthweight_pct,明确有利,2.567135,1.434302,3.699968
 131,Nicaragua,LRI发病,LRI incidence,low,Low and low-middle,0.402944,pcv3_pct,明确有利,13.361734,8.207131,18.516338
 131,Nicaragua,LRI发病,LRI incidence,low,Low and low-middle,0.402944,secondhand_smoke_sev,方向不确定,-1.147113,-6.041425,3.747199
-131,Nicaragua,LRI发病,LRI incidence,low,Low and low-middle,0.402944,stunting_u5_pct,不可评价,7.720622,4.071276,11.369969
+131,Nicaragua,LRI发病,LRI incidence,low,Low and low-middle,0.402944,stunting_u5_pct,明确有利,7.720622,4.071276,11.369969
 131,Nicaragua,LRI发病,LRI incidence,low,Low and low-middle,0.402944,uhc_service_index,明确有利,13.928324,11.939306,15.917342
 117,Saint Vincent and the Grenadines,LRI发病,LRI incidence,low,Low and low-middle,0.586357,clean_cooking_pct,方向不确定,4.372631,-1.110875,9.856137
 117,Saint Vincent and the Grenadines,LRI发病,LRI incidence,low,Low and low-middle,0.586357,dtp3_pct,明确有利,3.771067,2.088257,5.453877
@@ -636,7 +636,7 @@
 125,Colombia,LRI发病,LRI incidence,low,Middle and high-middle,0.657276,low_birthweight_pct,方向不确定,-0.611806,-1.72374,0.500127
 125,Colombia,LRI发病,LRI incidence,low,Middle and high-middle,0.657276,pcv3_pct,方向不确定,-0.835107,-5.125827,3.455613
 125,Colombia,LRI发病,LRI incidence,low,Middle and high-middle,0.657276,secondhand_smoke_sev,明确有利,20.639356,16.294068,24.984645
-125,Colombia,LRI发病,LRI incidence,low,Middle and high-middle,0.657276,stunting_u5_pct,不可评价,0.744326,-1.888324,3.376976
+125,Colombia,LRI发病,LRI incidence,low,Middle and high-middle,0.657276,stunting_u5_pct,方向不确定,0.744326,-1.888324,3.376976
 125,Colombia,LRI发病,LRI incidence,low,Middle and high-middle,0.657276,uhc_service_index,明确有利,7.096975,5.499186,8.694763
 126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,clean_cooking_pct,明确不利,-1.99721,-3.481257,-0.513164
 126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,dtp3_pct,方向不确定,-0.652484,-1.808753,0.503786
@@ -645,7 +645,7 @@
 126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,low_birthweight_pct,明确有利,1.253806,0.23644,2.271172
 126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,pcv3_pct,方向不确定,3.3114,-0.632739,7.255539
 126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,secondhand_smoke_sev,明确有利,17.774383,13.801396,21.74737
-126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,stunting_u5_pct,不可评价,1.537887,-0.657489,3.733263
+126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,stunting_u5_pct,方向不确定,1.537887,-0.657489,3.733263
 126,Costa Rica,LRI发病,LRI incidence,low,Middle and high-middle,0.507688,uhc_service_index,明确有利,9.401728,8.011916,10.791541
 113,Guyana,LRI发病,LRI incidence,low,Middle and high-middle,0.664244,clean_cooking_pct,明确有利,9.929622,5.17691,14.682334
 113,Guyana,LRI发病,LRI incidence,low,Middle and high-middle,0.664244,dtp3_pct,明确有利,3.663001,2.127664,5.198337
@@ -663,7 +663,7 @@
 142,Iran (Islamic Republic of),LRI发病,LRI incidence,low,Middle and high-middle,0.643704,low_birthweight_pct,不可评价,,,
 142,Iran (Islamic Republic of),LRI发病,LRI incidence,low,Middle and high-middle,0.643704,pcv3_pct,不可评价,,,
 142,Iran (Islamic Republic of),LRI发病,LRI incidence,low,Middle and high-middle,0.643704,secondhand_smoke_sev,明确有利,15.083102,11.141502,19.024703
-142,Iran (Islamic Republic of),LRI发病,LRI incidence,low,Middle and high-middle,0.643704,stunting_u5_pct,不可评价,5.83867,3.382322,8.295017
+142,Iran (Islamic Republic of),LRI发病,LRI incidence,low,Middle and high-middle,0.643704,stunting_u5_pct,明确有利,5.83867,3.382322,8.295017
 142,Iran (Islamic Republic of),LRI发病,LRI incidence,low,Middle and high-middle,0.643704,uhc_service_index,明确有利,4.005951,2.654469,5.357434
 115,Jamaica,LRI发病,LRI incidence,low,Middle and high-middle,0.693975,clean_cooking_pct,明确不利,-6.228422,-7.684427,-4.772417
 115,Jamaica,LRI发病,LRI incidence,low,Middle and high-middle,0.693975,dtp3_pct,方向不确定,0.364676,-0.820238,1.549589
@@ -690,7 +690,7 @@
 132,Panama,LRI发病,LRI incidence,low,Middle and high-middle,0.588464,low_birthweight_pct,方向不确定,-0.534404,-1.601358,0.53255
 132,Panama,LRI发病,LRI incidence,low,Middle and high-middle,0.588464,pcv3_pct,方向不确定,-1.088751,-5.172875,2.995373
 132,Panama,LRI发病,LRI incidence,low,Middle and high-middle,0.588464,secondhand_smoke_sev,明确有利,28.893553,24.827556,32.959551
-132,Panama,LRI发病,LRI incidence,low,Middle and high-middle,0.588464,stunting_u5_pct,不可评价,-6.261262,-8.668572,-3.853952
+132,Panama,LRI发病,LRI incidence,low,Middle and high-middle,0.588464,stunting_u5_pct,明确不利,-6.261262,-8.668572,-3.853952
 132,Panama,LRI发病,LRI incidence,low,Middle and high-middle,0.588464,uhc_service_index,明确有利,6.351693,4.890209,7.813177
 118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,clean_cooking_pct,方向不确定,-0.131566,-3.710182,3.44705
 118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,dtp3_pct,明确不利,-20.422162,-21.929272,-18.915053
@@ -699,7 +699,7 @@
 118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,low_birthweight_pct,明确不利,-5.874442,-7.037049,-4.711835
 118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,pcv3_pct,不可评价,,,
 118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,secondhand_smoke_sev,方向不确定,0.555161,-4.218529,5.328851
-118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,stunting_u5_pct,不可评价,5.075723,2.559461,7.591985
+118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,stunting_u5_pct,明确有利,5.075723,2.559461,7.591985
 118,Suriname,LRI发病,LRI incidence,low,Middle and high-middle,0.597114,uhc_service_index,明确有利,2.452006,0.673215,4.230797
 106,Bahamas,LRI死亡,LRI mortality,high,High,2.625044,clean_cooking_pct,已达普及,0.227828,0.11809,0.337565
 106,Bahamas,LRI死亡,LRI mortality,high,High,2.625044,dtp3_pct,明确不利,-4.163722,-4.983531,-3.343914
@@ -726,7 +726,7 @@
 58,Estonia,LRI死亡,LRI mortality,high,High,1.872821,low_birthweight_pct,明确有利,3.268315,2.500188,4.036442
 58,Estonia,LRI死亡,LRI mortality,high,High,1.872821,pcv3_pct,不可评价,,,
 58,Estonia,LRI死亡,LRI mortality,high,High,1.872821,secondhand_smoke_sev,方向不确定,0.188722,-3.012405,3.389849
-58,Estonia,LRI死亡,LRI mortality,high,High,1.872821,stunting_u5_pct,不可评价,1.742242,0.948076,2.536407
+58,Estonia,LRI死亡,LRI mortality,high,High,1.872821,stunting_u5_pct,明确有利,1.742242,0.948076,2.536407
 58,Estonia,LRI死亡,LRI mortality,high,High,1.872821,uhc_service_index,明确不利,-4.410175,-5.484079,-3.336271
 349,Greenland,LRI死亡,LRI mortality,high,High,3.427991,clean_cooking_pct,不可评价,,,
 349,Greenland,LRI死亡,LRI mortality,high,High,3.427991,dtp3_pct,不可评价,,,
@@ -762,7 +762,7 @@
 59,Latvia,LRI死亡,LRI mortality,high,High,2.071156,low_birthweight_pct,明确有利,3.359341,2.543013,4.175668
 59,Latvia,LRI死亡,LRI mortality,high,High,2.071156,pcv3_pct,明确不利,-9.124327,-11.309208,-6.939446
 59,Latvia,LRI死亡,LRI mortality,high,High,2.071156,secondhand_smoke_sev,明确不利,-13.712927,-17.073038,-10.352815
-59,Latvia,LRI死亡,LRI mortality,high,High,2.071156,stunting_u5_pct,不可评价,2.161576,0.937743,3.385409
+59,Latvia,LRI死亡,LRI mortality,high,High,2.071156,stunting_u5_pct,明确有利,2.161576,0.937743,3.385409
 59,Latvia,LRI死亡,LRI mortality,high,High,2.071156,uhc_service_index,明确不利,-5.230148,-6.311731,-4.148566
 147,Libya,LRI死亡,LRI mortality,high,High,1.969373,clean_cooking_pct,不可评价,,,
 147,Libya,LRI死亡,LRI mortality,high,High,1.969373,dtp3_pct,明确不利,-9.895823,-10.915874,-8.875771
@@ -870,7 +870,7 @@
 186,Seychelles,LRI死亡,LRI mortality,high,High,2.370265,low_birthweight_pct,明确不利,-3.010601,-3.958471,-2.06273
 186,Seychelles,LRI死亡,LRI mortality,high,High,2.370265,pcv3_pct,明确不利,-8.174393,-10.904143,-5.444642
 186,Seychelles,LRI死亡,LRI mortality,high,High,2.370265,secondhand_smoke_sev,方向不确定,2.040347,-2.22805,6.308744
-186,Seychelles,LRI死亡,LRI mortality,high,High,2.370265,stunting_u5_pct,不可评价,-1.077782,-2.351255,0.19569
+186,Seychelles,LRI死亡,LRI mortality,high,High,2.370265,stunting_u5_pct,方向不确定,-1.077782,-2.351255,0.19569
 186,Seychelles,LRI死亡,LRI mortality,high,High,2.370265,uhc_service_index,明确有利,1.695425,0.417943,2.972907
 54,Slovakia,LRI死亡,LRI mortality,high,High,2.809178,clean_cooking_pct,已达普及,0.223743,0.116719,0.330767
 54,Slovakia,LRI死亡,LRI mortality,high,High,2.809178,dtp3_pct,明确有利,1.060838,0.245772,1.875903
@@ -969,7 +969,7 @@
 195,Namibia,LRI死亡,LRI mortality,high,Low and low-middle,2.257412,low_birthweight_pct,明确不利,-4.70272,-5.890444,-3.514996
 195,Namibia,LRI死亡,LRI mortality,high,Low and low-middle,2.257412,pcv3_pct,明确不利,-10.562069,-15.015852,-6.108286
 195,Namibia,LRI死亡,LRI mortality,high,Low and low-middle,2.257412,secondhand_smoke_sev,方向不确定,1.601657,-3.952691,7.156006
-195,Namibia,LRI死亡,LRI mortality,high,Low and low-middle,2.257412,stunting_u5_pct,不可评价,-2.60913,-6.444545,1.226285
+195,Namibia,LRI死亡,LRI mortality,high,Low and low-middle,2.257412,stunting_u5_pct,方向不确定,-2.60913,-6.444545,1.226285
 195,Namibia,LRI死亡,LRI mortality,high,Low and low-middle,2.257412,uhc_service_index,明确不利,-7.31693,-9.434712,-5.199148
 369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,clean_cooking_pct,明确有利,23.968033,14.509662,33.426403
 369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,dtp3_pct,方向不确定,1.215168,-0.917459,3.347794
@@ -978,7 +978,7 @@
 369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,low_birthweight_pct,不可评价,,,
 369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,pcv3_pct,方向不确定,-4.765178,-10.444195,0.913839
 369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,secondhand_smoke_sev,明确不利,-25.48993,-30.983688,-19.996172
-369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,stunting_u5_pct,不可评价,0.988234,-2.581127,4.557595
+369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,stunting_u5_pct,方向不确定,0.988234,-2.581127,4.557595
 369,Nauru,LRI死亡,LRI mortality,high,Low and low-middle,2.327378,uhc_service_index,明确不利,-8.236855,-10.345719,-6.127991
 214,Nigeria,LRI死亡,LRI mortality,high,Low and low-middle,2.614122,clean_cooking_pct,明确不利,-5.982636,-11.435018,-0.530254
 214,Nigeria,LRI死亡,LRI mortality,high,Low and low-middle,2.614122,dtp3_pct,明确不利,-32.649304,-35.701541,-29.597068
@@ -1005,7 +1005,7 @@
 33,Armenia,LRI死亡,LRI mortality,high,Middle and high-middle,2.50956,low_birthweight_pct,明确有利,1.421158,0.458637,2.38368
 33,Armenia,LRI死亡,LRI mortality,high,Middle and high-middle,2.50956,pcv3_pct,方向不确定,-1.298874,-4.478825,1.881077
 33,Armenia,LRI死亡,LRI mortality,high,Middle and high-middle,2.50956,secondhand_smoke_sev,明确不利,-25.712071,-29.643142,-21.781
-33,Armenia,LRI死亡,LRI mortality,high,Middle and high-middle,2.50956,stunting_u5_pct,不可评价,1.350784,-0.973779,3.675347
+33,Armenia,LRI死亡,LRI mortality,high,Middle and high-middle,2.50956,stunting_u5_pct,方向不确定,1.350784,-0.973779,3.675347
 33,Armenia,LRI死亡,LRI mortality,high,Middle and high-middle,2.50956,uhc_service_index,明确不利,-4.733534,-6.054023,-3.413045
 34,Azerbaijan,LRI死亡,LRI mortality,high,Middle and high-middle,7.197245,clean_cooking_pct,方向不确定,-0.249743,-1.428804,0.929317
 34,Azerbaijan,LRI死亡,LRI mortality,high,Middle and high-middle,7.197245,dtp3_pct,明确不利,-24.988458,-26.131814,-23.845102
@@ -1122,7 +1122,7 @@
 81,Germany,LRI死亡,LRI mortality,low,High,0.380555,low_birthweight_pct,方向不确定,-0.178156,-0.851787,0.495474
 81,Germany,LRI死亡,LRI mortality,low,High,0.380555,pcv3_pct,明确不利,-10.849321,-12.901108,-8.797534
 81,Germany,LRI死亡,LRI mortality,low,High,0.380555,secondhand_smoke_sev,方向不确定,-1.97162,-5.170555,1.227315
-81,Germany,LRI死亡,LRI mortality,low,High,0.380555,stunting_u5_pct,不可评价,1.018573,0.129001,1.908145
+81,Germany,LRI死亡,LRI mortality,low,High,0.380555,stunting_u5_pct,明确有利,1.018573,0.129001,1.908145
 81,Germany,LRI死亡,LRI mortality,low,High,0.380555,uhc_service_index,明确有利,2.326805,1.092995,3.560616
 82,Greece,LRI死亡,LRI mortality,low,High,0.390798,clean_cooking_pct,已达普及,0.181939,0.106025,0.257852
 82,Greece,LRI死亡,LRI mortality,low,High,0.390798,dtp3_pct,明确有利,2.516113,1.769274,3.262952
@@ -1176,7 +1176,7 @@
 88,Malta,LRI死亡,LRI mortality,low,High,0.424816,low_birthweight_pct,明确有利,1.143698,0.213568,2.073828
 88,Malta,LRI死亡,LRI mortality,low,High,0.424816,pcv3_pct,明确不利,-31.324317,-34.296793,-28.351842
 88,Malta,LRI死亡,LRI mortality,low,High,0.424816,secondhand_smoke_sev,方向不确定,2.20084,-1.641441,6.043121
-88,Malta,LRI死亡,LRI mortality,low,High,0.424816,stunting_u5_pct,不可评价,0.772531,-0.826657,2.371719
+88,Malta,LRI死亡,LRI mortality,low,High,0.424816,stunting_u5_pct,方向不确定,0.772531,-0.826657,2.371719
 88,Malta,LRI死亡,LRI mortality,low,High,0.424816,uhc_service_index,方向不确定,0.949048,-0.196581,2.094677
 49,North Macedonia,LRI死亡,LRI mortality,low,High,0.5322,clean_cooking_pct,明确不利,-23.628448,-24.026115,-23.230781
 49,North Macedonia,LRI死亡,LRI mortality,low,High,0.5322,dtp3_pct,明确不利,-4.593138,-5.659639,-3.526638
@@ -1194,7 +1194,7 @@
 91,Portugal,LRI死亡,LRI mortality,low,High,0.174697,low_birthweight_pct,方向不确定,0.301995,-0.730479,1.334469
 91,Portugal,LRI死亡,LRI mortality,low,High,0.174697,pcv3_pct,明确有利,2.835924,0.32193,5.349919
 91,Portugal,LRI死亡,LRI mortality,low,High,0.174697,secondhand_smoke_sev,方向不确定,-3.94436,-8.423978,0.535259
-91,Portugal,LRI死亡,LRI mortality,low,High,0.174697,stunting_u5_pct,不可评价,2.751955,1.270149,4.23376
+91,Portugal,LRI死亡,LRI mortality,low,High,0.174697,stunting_u5_pct,明确有利,2.751955,1.270149,4.23376
 91,Portugal,LRI死亡,LRI mortality,low,High,0.174697,uhc_service_index,明确有利,5.464101,4.169136,6.759067
 53,Serbia,LRI死亡,LRI mortality,low,High,0.527584,clean_cooking_pct,明确不利,-23.780645,-24.021771,-23.539519
 53,Serbia,LRI死亡,LRI mortality,low,High,0.527584,dtp3_pct,明确不利,-2.02648,-3.018254,-1.034705
@@ -1221,7 +1221,7 @@
 203,Cabo Verde,LRI死亡,LRI mortality,low,Low and low-middle,0.431679,low_birthweight_pct,不可评价,,,
 203,Cabo Verde,LRI死亡,LRI mortality,low,Low and low-middle,0.431679,pcv3_pct,不可评价,,,
 203,Cabo Verde,LRI死亡,LRI mortality,low,Low and low-middle,0.431679,secondhand_smoke_sev,明确有利,18.3967,13.402352,23.391047
-203,Cabo Verde,LRI死亡,LRI mortality,low,Low and low-middle,0.431679,stunting_u5_pct,不可评价,17.34245,13.428172,21.256729
+203,Cabo Verde,LRI死亡,LRI mortality,low,Low and low-middle,0.431679,stunting_u5_pct,明确有利,17.34245,13.428172,21.256729
 203,Cabo Verde,LRI死亡,LRI mortality,low,Low and low-middle,0.431679,uhc_service_index,明确有利,8.019373,6.003256,10.03549
 127,El Salvador,LRI死亡,LRI mortality,low,Low and low-middle,0.514449,clean_cooking_pct,明确有利,18.796823,7.900938,29.692709
 127,El Salvador,LRI死亡,LRI mortality,low,Low and low-middle,0.514449,dtp3_pct,方向不确定,1.940647,-0.370246,4.251541
@@ -1257,7 +1257,7 @@
 14,Maldives,LRI死亡,LRI mortality,low,Low and low-middle,0.504858,low_birthweight_pct,明确不利,-3.368385,-4.555779,-2.180991
 14,Maldives,LRI死亡,LRI mortality,low,Low and low-middle,0.504858,pcv3_pct,不可评价,,,
 14,Maldives,LRI死亡,LRI mortality,low,Low and low-middle,0.504858,secondhand_smoke_sev,明确不利,-23.687065,-28.653308,-18.720822
-14,Maldives,LRI死亡,LRI mortality,low,Low and low-middle,0.504858,stunting_u5_pct,不可评价,-0.760011,-3.672431,2.15241
+14,Maldives,LRI死亡,LRI mortality,low,Low and low-middle,0.504858,stunting_u5_pct,方向不确定,-0.760011,-3.672431,2.15241
 14,Maldives,LRI死亡,LRI mortality,low,Low and low-middle,0.504858,uhc_service_index,明确不利,-2.883459,-4.751953,-1.014966
 25,Micronesia (Federated States of),LRI死亡,LRI mortality,low,Low and low-middle,0.374463,clean_cooking_pct,明确不利,-58.315609,-69.452352,-47.178866
 25,Micronesia (Federated States of),LRI死亡,LRI mortality,low,Low and low-middle,0.374463,dtp3_pct,明确不利,-15.144776,-17.497153,-12.792398
@@ -1275,7 +1275,7 @@
 131,Nicaragua,LRI死亡,LRI mortality,low,Low and low-middle,0.458367,low_birthweight_pct,明确有利,2.567135,1.434302,3.699968
 131,Nicaragua,LRI死亡,LRI mortality,low,Low and low-middle,0.458367,pcv3_pct,明确有利,13.361734,8.207131,18.516338
 131,Nicaragua,LRI死亡,LRI mortality,low,Low and low-middle,0.458367,secondhand_smoke_sev,方向不确定,-1.147113,-6.041425,3.747199
-131,Nicaragua,LRI死亡,LRI mortality,low,Low and low-middle,0.458367,stunting_u5_pct,不可评价,7.720622,4.071276,11.369969
+131,Nicaragua,LRI死亡,LRI mortality,low,Low and low-middle,0.458367,stunting_u5_pct,明确有利,7.720622,4.071276,11.369969
 131,Nicaragua,LRI死亡,LRI mortality,low,Low and low-middle,0.458367,uhc_service_index,明确有利,13.928324,11.939306,15.917342
 149,Palestine,LRI死亡,LRI mortality,low,Low and low-middle,0.308836,clean_cooking_pct,不可评价,,,
 149,Palestine,LRI死亡,LRI mortality,low,Low and low-middle,0.308836,dtp3_pct,明确有利,5.347773,3.32271,7.372835
@@ -1311,7 +1311,7 @@
 28,Solomon Islands,LRI死亡,LRI mortality,low,Low and low-middle,0.308144,low_birthweight_pct,方向不确定,1.340634,-0.028608,2.709876
 28,Solomon Islands,LRI死亡,LRI mortality,low,Low and low-middle,0.308144,pcv3_pct,方向不确定,-0.919713,-5.765158,3.925733
 28,Solomon Islands,LRI死亡,LRI mortality,low,Low and low-middle,0.308144,secondhand_smoke_sev,明确不利,-38.340137,-43.390339,-33.289935
-28,Solomon Islands,LRI死亡,LRI mortality,low,Low and low-middle,0.308144,stunting_u5_pct,不可评价,3.333161,-0.810946,7.477269
+28,Solomon Islands,LRI死亡,LRI mortality,low,Low and low-middle,0.308144,stunting_u5_pct,方向不确定,3.333161,-0.810946,7.477269
 28,Solomon Islands,LRI死亡,LRI mortality,low,Low and low-middle,0.308144,uhc_service_index,方向不确定,-2.095702,-4.212747,0.021343
 153,Syrian Arab Republic,LRI死亡,LRI mortality,low,Low and low-middle,0.261698,clean_cooking_pct,明确有利,33.031144,21.164032,44.898256
 153,Syrian Arab Republic,LRI死亡,LRI mortality,low,Low and low-middle,0.261698,dtp3_pct,明确不利,-30.471989,-32.924192,-28.019786
@@ -1338,7 +1338,7 @@
 44,Bosnia and Herzegovina,LRI死亡,LRI mortality,low,Middle and high-middle,0.274192,low_birthweight_pct,明确有利,4.548497,3.586517,5.510476
 44,Bosnia and Herzegovina,LRI死亡,LRI mortality,low,Middle and high-middle,0.274192,pcv3_pct,不可评价,,,
 44,Bosnia and Herzegovina,LRI死亡,LRI mortality,low,Middle and high-middle,0.274192,secondhand_smoke_sev,明确不利,-22.741897,-26.674096,-18.809698
-44,Bosnia and Herzegovina,LRI死亡,LRI mortality,low,Middle and high-middle,0.274192,stunting_u5_pct,不可评价,0.165429,-1.435596,1.766454
+44,Bosnia and Herzegovina,LRI死亡,LRI mortality,low,Middle and high-middle,0.274192,stunting_u5_pct,方向不确定,0.165429,-1.435596,1.766454
 44,Bosnia and Herzegovina,LRI死亡,LRI mortality,low,Middle and high-middle,0.274192,uhc_service_index,明确不利,-11.537292,-12.861522,-10.213061
 6,China,LRI死亡,LRI mortality,low,Middle and high-middle,0.491294,clean_cooking_pct,明确不利,-21.492446,-22.702464,-20.282429
 6,China,LRI死亡,LRI mortality,low,Middle and high-middle,0.491294,dtp3_pct,明确有利,4.114078,2.988267,5.239889
@@ -1356,7 +1356,7 @@
 126,Costa Rica,LRI死亡,LRI mortality,low,Middle and high-middle,0.357202,low_birthweight_pct,明确有利,1.253806,0.23644,2.271172
 126,Costa Rica,LRI死亡,LRI mortality,low,Middle and high-middle,0.357202,pcv3_pct,方向不确定,3.3114,-0.632739,7.255539
 126,Costa Rica,LRI死亡,LRI mortality,low,Middle and high-middle,0.357202,secondhand_smoke_sev,明确有利,17.774383,13.801396,21.74737
-126,Costa Rica,LRI死亡,LRI mortality,low,Middle and high-middle,0.357202,stunting_u5_pct,不可评价,1.537887,-0.657489,3.733263
+126,Costa Rica,LRI死亡,LRI mortality,low,Middle and high-middle,0.357202,stunting_u5_pct,方向不确定,1.537887,-0.657489,3.733263
 126,Costa Rica,LRI死亡,LRI mortality,low,Middle and high-middle,0.357202,uhc_service_index,明确有利,9.401728,8.011916,10.791541
 109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,clean_cooking_pct,明确不利,-3.657866,-5.239376,-2.076355
 109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,dtp3_pct,明确有利,4.472239,3.280732,5.663746
@@ -1365,7 +1365,7 @@
 109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,low_birthweight_pct,明确有利,2.695911,1.67278,3.719041
 109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,pcv3_pct,不可评价,,,
 109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,secondhand_smoke_sev,方向不确定,0.947985,-3.09512,4.99109
-109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,stunting_u5_pct,不可评价,2.606475,0.187727,5.025222
+109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,stunting_u5_pct,明确有利,2.606475,0.187727,5.025222
 109,Cuba,LRI死亡,LRI mortality,low,Middle and high-middle,0.397011,uhc_service_index,明确有利,10.726783,9.294042,12.159523
 142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,clean_cooking_pct,方向不确定,-0.765796,-1.994352,0.46276
 142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,dtp3_pct,明确有利,4.160383,3.021586,5.299179
@@ -1374,7 +1374,7 @@
 142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,low_birthweight_pct,不可评价,,,
 142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,pcv3_pct,不可评价,,,
 142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,secondhand_smoke_sev,明确有利,15.083102,11.141502,19.024703
-142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,stunting_u5_pct,不可评价,5.83867,3.382322,8.295017
+142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,stunting_u5_pct,明确有利,5.83867,3.382322,8.295017
 142,Iran (Islamic Republic of),LRI死亡,LRI mortality,low,Middle and high-middle,0.438637,uhc_service_index,明确有利,4.005951,2.654469,5.357434
 115,Jamaica,LRI死亡,LRI mortality,low,Middle and high-middle,0.383188,clean_cooking_pct,明确不利,-6.228422,-7.684427,-4.772417
 115,Jamaica,LRI死亡,LRI mortality,low,Middle and high-middle,0.383188,dtp3_pct,方向不确定,0.364676,-0.820238,1.549589
@@ -2019,7 +2019,7 @@
 153,Syrian Arab Republic,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.435541,uhc_service_index,明确有利,7.753498,5.637037,9.869958
 39,Tajikistan,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.445121,dtp3_pct,明确有利,6.922595,4.370713,9.474478
 39,Tajikistan,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.445121,hib3_pct,方向不确定,-0.917056,-3.424172,1.59006
-39,Tajikistan,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.445121,pcv3_pct,不可评价,-54.065863,-58.676628,-49.455098
+39,Tajikistan,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.445121,pcv3_pct,明确不利,-54.065863,-58.676628,-49.455098
 39,Tajikistan,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.445121,uhc_service_index,明确有利,12.925506,10.911799,14.939214
 41,Uzbekistan,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.528055,dtp3_pct,明确有利,5.099545,3.396571,6.802518
 41,Uzbekistan,脑膜炎死亡,Meningitis mortality,low,Low and low-middle,0.528055,hib3_pct,明确有利,6.092433,3.95216,8.232706
@@ -2083,7 +2083,7 @@
 78,Denmark,腹泻病发病,Diarrhoeal incidence,high,High,1.721542,uhc_service_index,明确不利,-2.265216,-3.859741,-0.670691
 58,Estonia,腹泻病发病,Diarrhoeal incidence,high,High,2.27722,basic_sanitation_pct,已达普及,-0.141475,-0.441131,0.158181
 58,Estonia,腹泻病发病,Diarrhoeal incidence,high,High,2.27722,basic_water_pct,已达普及,0.050732,-0.038647,0.140112
-58,Estonia,腹泻病发病,Diarrhoeal incidence,high,High,2.27722,stunting_u5_pct,不可评价,1.742242,0.948076,2.536407
+58,Estonia,腹泻病发病,Diarrhoeal incidence,high,High,2.27722,stunting_u5_pct,明确有利,1.742242,0.948076,2.536407
 58,Estonia,腹泻病发病,Diarrhoeal incidence,high,High,2.27722,uhc_service_index,明确不利,-4.410175,-5.484079,-3.336271
 80,France,腹泻病发病,Diarrhoeal incidence,high,High,1.677353,basic_sanitation_pct,明确不利,-0.663462,-0.930083,-0.396841
 80,France,腹泻病发病,Diarrhoeal incidence,high,High,1.677353,basic_water_pct,已达普及,0.26298,0.187742,0.338218
@@ -2091,11 +2091,11 @@
 80,France,腹泻病发病,Diarrhoeal incidence,high,High,1.677353,uhc_service_index,方向不确定,-0.648134,-1.733441,0.437173
 81,Germany,腹泻病发病,Diarrhoeal incidence,high,High,2.153295,basic_sanitation_pct,已达普及,-0.280116,-0.512929,-0.047303
 81,Germany,腹泻病发病,Diarrhoeal incidence,high,High,2.153295,basic_water_pct,已达普及,0.180869,0.121149,0.240588
-81,Germany,腹泻病发病,Diarrhoeal incidence,high,High,2.153295,stunting_u5_pct,不可评价,1.018573,0.129001,1.908145
+81,Germany,腹泻病发病,Diarrhoeal incidence,high,High,2.153295,stunting_u5_pct,明确有利,1.018573,0.129001,1.908145
 81,Germany,腹泻病发病,Diarrhoeal incidence,high,High,2.153295,uhc_service_index,明确有利,2.326805,1.092995,3.560616
 84,Ireland,腹泻病发病,Diarrhoeal incidence,high,High,1.660829,basic_sanitation_pct,明确不利,-9.786682,-10.015084,-9.55828
 84,Ireland,腹泻病发病,Diarrhoeal incidence,high,High,1.660829,basic_water_pct,明确不利,-2.886664,-2.942732,-2.830597
-84,Ireland,腹泻病发病,Diarrhoeal incidence,high,High,1.660829,stunting_u5_pct,不可评价,-0.174503,-0.922157,0.573152
+84,Ireland,腹泻病发病,Diarrhoeal incidence,high,High,1.660829,stunting_u5_pct,方向不确定,-0.174503,-0.922157,0.573152
 84,Ireland,腹泻病发病,Diarrhoeal incidence,high,High,1.660829,uhc_service_index,明确不利,-3.843814,-5.285403,-2.402225
 85,Israel,腹泻病发病,Diarrhoeal incidence,high,High,2.182684,basic_sanitation_pct,已达普及,0.908691,0.554783,1.2626
 85,Israel,腹泻病发病,Diarrhoeal incidence,high,High,2.182684,basic_water_pct,已达普及,0.379649,0.266851,0.492446
@@ -2119,7 +2119,7 @@
 152,Saudi Arabia,腹泻病发病,Diarrhoeal incidence,high,High,1.826804,uhc_service_index,明确有利,1.701898,0.53305,2.870746
 186,Seychelles,腹泻病发病,Diarrhoeal incidence,high,High,1.683907,basic_sanitation_pct,明确有利,2.071425,1.01228,3.130571
 186,Seychelles,腹泻病发病,Diarrhoeal incidence,high,High,1.683907,basic_water_pct,明确不利,-2.070116,-2.49808,-1.642153
-186,Seychelles,腹泻病发病,Diarrhoeal incidence,high,High,1.683907,stunting_u5_pct,不可评价,-1.077782,-2.351255,0.19569
+186,Seychelles,腹泻病发病,Diarrhoeal incidence,high,High,1.683907,stunting_u5_pct,方向不确定,-1.077782,-2.351255,0.19569
 186,Seychelles,腹泻病发病,Diarrhoeal incidence,high,High,1.683907,uhc_service_index,明确有利,1.695425,0.417943,2.972907
 94,Switzerland,腹泻病发病,Diarrhoeal incidence,high,High,1.871027,basic_sanitation_pct,已达普及,0.101429,-0.109405,0.312262
 94,Switzerland,腹泻病发病,Diarrhoeal incidence,high,High,1.871027,basic_water_pct,已达普及,0.064751,0.015959,0.113544
@@ -2131,7 +2131,7 @@
 8,Taiwan,腹泻病发病,Diarrhoeal incidence,high,High,2.839005,uhc_service_index,不可评价,,,
 162,Bhutan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.946847,basic_sanitation_pct,明确有利,21.644257,16.2574,27.031115
 162,Bhutan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.946847,basic_water_pct,明确有利,17.282738,13.837545,20.727932
-162,Bhutan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.946847,stunting_u5_pct,不可评价,6.075429,0.947142,11.203716
+162,Bhutan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.946847,stunting_u5_pct,明确有利,6.075429,0.947142,11.203716
 162,Bhutan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.946847,uhc_service_index,明确有利,11.343145,9.351654,13.334636
 202,Cameroon,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.653442,basic_sanitation_pct,方向不确定,-0.160125,-5.699374,5.379124
 202,Cameroon,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.653442,basic_water_pct,明确不利,-7.139514,-11.496379,-2.782649
@@ -2159,7 +2159,7 @@
 180,Kenya,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.745663,uhc_service_index,方向不确定,-0.926835,-2.912666,1.058996
 14,Maldives,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,2.582803,basic_sanitation_pct,明确有利,6.975077,3.916728,10.033427
 14,Maldives,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,2.582803,basic_water_pct,明确有利,4.485458,3.221045,5.74987
-14,Maldives,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,2.582803,stunting_u5_pct,不可评价,-0.760011,-3.672431,2.15241
+14,Maldives,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,2.582803,stunting_u5_pct,方向不确定,-0.760011,-3.672431,2.15241
 14,Maldives,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,2.582803,uhc_service_index,明确不利,-2.883459,-4.751953,-1.014966
 212,Mauritania,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.714691,basic_sanitation_pct,方向不确定,-5.039647,-10.479439,0.400144
 212,Mauritania,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.714691,basic_water_pct,明确不利,-11.540177,-15.235899,-7.844456
@@ -2175,7 +2175,7 @@
 16,Philippines,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.978024,uhc_service_index,明确不利,-3.761104,-5.615165,-1.907043
 522,Sudan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.689718,basic_sanitation_pct,明确不利,-19.088288,-24.440338,-13.736239
 522,Sudan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.689718,basic_water_pct,明确不利,-27.27954,-29.921351,-24.637729
-522,Sudan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.689718,stunting_u5_pct,不可评价,-13.639235,-17.674984,-9.603485
+522,Sudan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.689718,stunting_u5_pct,明确不利,-13.639235,-17.674984,-9.603485
 522,Sudan,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.689718,uhc_service_index,明确不利,-13.662499,-15.696683,-11.628316
 20,Viet Nam,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.759994,basic_sanitation_pct,方向不确定,-1.280144,-5.149037,2.588749
 20,Viet Nam,腹泻病发病,Diarrhoeal incidence,high,Low and low-middle,1.759994,basic_water_pct,方向不确定,0.716002,-0.859121,2.291126
@@ -2231,7 +2231,7 @@
 66,Brunei Darussalam,腹泻病发病,Diarrhoeal incidence,low,High,0.181919,uhc_service_index,明确有利,2.209715,1.103679,3.315751
 45,Bulgaria,腹泻病发病,Diarrhoeal incidence,low,High,0.655279,basic_sanitation_pct,明确不利,-11.646286,-12.506156,-10.786415
 45,Bulgaria,腹泻病发病,Diarrhoeal incidence,low,High,0.655279,basic_water_pct,方向不确定,0.325854,-0.003721,0.655429
-45,Bulgaria,腹泻病发病,Diarrhoeal incidence,low,High,0.655279,stunting_u5_pct,不可评价,-1.286037,-2.663756,0.091683
+45,Bulgaria,腹泻病发病,Diarrhoeal incidence,low,High,0.655279,stunting_u5_pct,方向不确定,-1.286037,-2.663756,0.091683
 45,Bulgaria,腹泻病发病,Diarrhoeal incidence,low,High,0.655279,uhc_service_index,明确不利,-6.825984,-8.135261,-5.516708
 101,Canada,腹泻病发病,Diarrhoeal incidence,low,High,0.286768,basic_sanitation_pct,明确不利,-0.607566,-0.837452,-0.37768
 101,Canada,腹泻病发病,Diarrhoeal incidence,low,High,0.286768,basic_water_pct,明确不利,-1.140494,-1.198346,-1.082642
@@ -2263,7 +2263,7 @@
 69,Singapore,腹泻病发病,Diarrhoeal incidence,low,High,0.055664,uhc_service_index,明确有利,4.630838,3.473574,5.788102
 119,Trinidad and Tobago,腹泻病发病,Diarrhoeal incidence,low,High,0.579469,basic_sanitation_pct,明确不利,-3.556936,-4.363579,-2.750293
 119,Trinidad and Tobago,腹泻病发病,Diarrhoeal incidence,low,High,0.579469,basic_water_pct,明确不利,-0.731167,-1.037187,-0.425146
-119,Trinidad and Tobago,腹泻病发病,Diarrhoeal incidence,low,High,0.579469,stunting_u5_pct,不可评价,-3.184436,-4.564065,-1.804808
+119,Trinidad and Tobago,腹泻病发病,Diarrhoeal incidence,low,High,0.579469,stunting_u5_pct,明确不利,-3.184436,-4.564065,-1.804808
 119,Trinidad and Tobago,腹泻病发病,Diarrhoeal incidence,low,High,0.579469,uhc_service_index,明确不利,-2.571767,-3.879194,-1.264341
 63,Ukraine,腹泻病发病,Diarrhoeal incidence,low,High,0.544831,basic_sanitation_pct,方向不确定,-0.566339,-1.440815,0.308137
 63,Ukraine,腹泻病发病,Diarrhoeal incidence,low,High,0.544831,basic_water_pct,明确不利,-5.399336,-5.735677,-5.062995
@@ -2319,7 +2319,7 @@
 164,Nepal,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.654233,uhc_service_index,明确有利,2.111913,0.019893,4.203932
 131,Nicaragua,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.454545,basic_sanitation_pct,不可评价,,,
 131,Nicaragua,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.454545,basic_water_pct,不可评价,,,
-131,Nicaragua,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.454545,stunting_u5_pct,不可评价,7.720622,4.071276,11.369969
+131,Nicaragua,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.454545,stunting_u5_pct,明确有利,7.720622,4.071276,11.369969
 131,Nicaragua,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.454545,uhc_service_index,明确有利,13.928324,11.939306,15.917342
 117,Saint Vincent and the Grenadines,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.460113,basic_sanitation_pct,明确有利,4.737762,1.003394,8.47213
 117,Saint Vincent and the Grenadines,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.460113,basic_water_pct,明确有利,4.540392,3.002129,6.078655
@@ -2331,7 +2331,7 @@
 215,Sao Tome and Principe,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.581805,uhc_service_index,明确有利,3.493695,1.493156,5.494235
 28,Solomon Islands,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.398152,basic_sanitation_pct,明确不利,-11.574054,-17.257065,-5.891043
 28,Solomon Islands,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.398152,basic_water_pct,方向不确定,-1.666864,-6.211988,2.87826
-28,Solomon Islands,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.398152,stunting_u5_pct,不可评价,3.333161,-0.810946,7.477269
+28,Solomon Islands,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.398152,stunting_u5_pct,方向不确定,3.333161,-0.810946,7.477269
 28,Solomon Islands,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.398152,uhc_service_index,方向不确定,-2.095702,-4.212747,0.021343
 29,Tonga,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.577422,basic_sanitation_pct,明确有利,8.480374,4.662027,12.29872
 29,Tonga,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.577422,basic_water_pct,明确有利,5.382016,3.833504,6.930529
@@ -2343,11 +2343,11 @@
 41,Uzbekistan,腹泻病发病,Diarrhoeal incidence,low,Low and low-middle,0.308443,uhc_service_index,明确有利,8.448464,6.539856,10.357073
 33,Armenia,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.601977,basic_sanitation_pct,明确不利,-2.25367,-3.607523,-0.899816
 33,Armenia,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.601977,basic_water_pct,明确有利,1.761742,1.169928,2.353555
-33,Armenia,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.601977,stunting_u5_pct,不可评价,1.350784,-0.973779,3.675347
+33,Armenia,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.601977,stunting_u5_pct,方向不确定,1.350784,-0.973779,3.675347
 33,Armenia,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.601977,uhc_service_index,明确不利,-4.733534,-6.054023,-3.413045
 135,Brazil,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.499902,basic_sanitation_pct,明确不利,-4.534372,-6.411097,-2.657647
 135,Brazil,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.499902,basic_water_pct,明确有利,1.884481,1.073995,2.694967
-135,Brazil,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.499902,stunting_u5_pct,不可评价,2.73756,0.156685,5.318435
+135,Brazil,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.499902,stunting_u5_pct,明确有利,2.73756,0.156685,5.318435
 135,Brazil,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.499902,uhc_service_index,明确有利,9.529995,7.983726,11.076263
 6,China,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.302024,basic_sanitation_pct,明确不利,-5.932963,-7.348645,-4.51728
 6,China,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.302024,basic_water_pct,明确不利,-4.742021,-5.363784,-4.120257
@@ -2363,7 +2363,7 @@
 115,Jamaica,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.630382,uhc_service_index,方向不确定,-0.319682,-1.734061,1.094696
 36,Kazakhstan,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.512161,basic_sanitation_pct,明确有利,1.90397,0.743061,3.064878
 36,Kazakhstan,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.512161,basic_water_pct,明确不利,-2.18116,-2.667672,-1.694648
-36,Kazakhstan,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.512161,stunting_u5_pct,不可评价,2.081827,-0.163738,4.327392
+36,Kazakhstan,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.512161,stunting_u5_pct,方向不确定,2.081827,-0.163738,4.327392
 36,Kazakhstan,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.512161,uhc_service_index,明确有利,6.889974,5.623619,8.156328
 130,Mexico,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.40039,basic_sanitation_pct,方向不确定,-1.28021,-3.253864,0.693444
 130,Mexico,腹泻病发病,Diarrhoeal incidence,low,Middle and high-middle,0.40039,basic_water_pct,明确有利,1.729987,0.876668,2.583305
@@ -2415,7 +2415,7 @@
 152,Saudi Arabia,腹泻病死亡,Diarrhoeal mortality,high,High,3.304156,uhc_service_index,明确有利,1.701898,0.53305,2.870746
 186,Seychelles,腹泻病死亡,Diarrhoeal mortality,high,High,2.591644,basic_sanitation_pct,明确有利,2.071425,1.01228,3.130571
 186,Seychelles,腹泻病死亡,Diarrhoeal mortality,high,High,2.591644,basic_water_pct,明确不利,-2.070116,-2.49808,-1.642153
-186,Seychelles,腹泻病死亡,Diarrhoeal mortality,high,High,2.591644,stunting_u5_pct,不可评价,-1.077782,-2.351255,0.19569
+186,Seychelles,腹泻病死亡,Diarrhoeal mortality,high,High,2.591644,stunting_u5_pct,方向不确定,-1.077782,-2.351255,0.19569
 186,Seychelles,腹泻病死亡,Diarrhoeal mortality,high,High,2.591644,uhc_service_index,明确有利,1.695425,0.417943,2.972907
 54,Slovakia,腹泻病死亡,Diarrhoeal mortality,high,High,3.428104,basic_sanitation_pct,明确不利,-1.179176,-1.633728,-0.724623
 54,Slovakia,腹泻病死亡,Diarrhoeal mortality,high,High,3.428104,basic_water_pct,已达普及,0.166652,0.0101,0.323204
@@ -2475,7 +2475,7 @@
 212,Mauritania,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,2.411007,uhc_service_index,明确不利,-16.76006,-18.775022,-14.745098
 195,Namibia,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,3.784854,basic_sanitation_pct,明确不利,-45.026723,-49.496228,-40.557219
 195,Namibia,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,3.784854,basic_water_pct,明确不利,-8.238068,-10.063513,-6.412624
-195,Namibia,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,3.784854,stunting_u5_pct,不可评价,-2.60913,-6.444545,1.226285
+195,Namibia,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,3.784854,stunting_u5_pct,方向不确定,-2.60913,-6.444545,1.226285
 195,Namibia,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,3.784854,uhc_service_index,明确不利,-7.31693,-9.434712,-5.199148
 214,Nigeria,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,4.42768,basic_sanitation_pct,明确不利,-7.357125,-12.781144,-1.933105
 214,Nigeria,腹泻病死亡,Diarrhoeal mortality,high,Low and low-middle,4.42768,basic_water_pct,明确不利,-5.928673,-9.825145,-2.0322
@@ -2519,7 +2519,7 @@
 146,Lebanon,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.697098,uhc_service_index,明确不利,-7.433265,-8.709645,-6.156886
 132,Panama,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.301023,basic_sanitation_pct,明确不利,-11.009394,-12.781322,-9.237466
 132,Panama,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.301023,basic_water_pct,明确不利,-2.926435,-3.700499,-2.15237
-132,Panama,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.301023,stunting_u5_pct,不可评价,-6.261262,-8.668572,-3.853952
+132,Panama,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.301023,stunting_u5_pct,明确不利,-6.261262,-8.668572,-3.853952
 132,Panama,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.301023,uhc_service_index,明确有利,6.351693,4.890209,7.813177
 196,South Africa,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,18.106338,basic_sanitation_pct,明确不利,-20.518721,-22.011671,-19.02577
 196,South Africa,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,18.106338,basic_water_pct,明确不利,-5.592243,-6.248693,-4.935793
@@ -2527,7 +2527,7 @@
 196,South Africa,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,18.106338,uhc_service_index,明确不利,-5.755593,-7.138701,-4.372484
 118,Suriname,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.708144,basic_sanitation_pct,方向不确定,-1.781213,-4.35555,0.793124
 118,Suriname,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.708144,basic_water_pct,方向不确定,1.06233,-0.008339,2.132999
-118,Suriname,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.708144,stunting_u5_pct,不可评价,5.075723,2.559461,7.591985
+118,Suriname,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.708144,stunting_u5_pct,明确有利,5.075723,2.559461,7.591985
 118,Suriname,腹泻病死亡,Diarrhoeal mortality,high,Middle and high-middle,2.708144,uhc_service_index,明确有利,2.452006,0.673215,4.230797
 74,Andorra,腹泻病死亡,Diarrhoeal mortality,low,High,0.251661,basic_sanitation_pct,已达普及,0.479953,0.248409,0.711497
 74,Andorra,腹泻病死亡,Diarrhoeal mortality,low,High,0.251661,basic_water_pct,已达普及,0.174741,0.115682,0.2338
@@ -2555,7 +2555,7 @@
 320,Cook Islands,腹泻病死亡,Diarrhoeal mortality,low,High,0.319803,uhc_service_index,不可评价,,,
 58,Estonia,腹泻病死亡,Diarrhoeal mortality,low,High,0.389073,basic_sanitation_pct,已达普及,-0.141475,-0.441131,0.158181
 58,Estonia,腹泻病死亡,Diarrhoeal mortality,low,High,0.389073,basic_water_pct,已达普及,0.050732,-0.038647,0.140112
-58,Estonia,腹泻病死亡,Diarrhoeal mortality,low,High,0.389073,stunting_u5_pct,不可评价,1.742242,0.948076,2.536407
+58,Estonia,腹泻病死亡,Diarrhoeal mortality,low,High,0.389073,stunting_u5_pct,明确有利,1.742242,0.948076,2.536407
 58,Estonia,腹泻病死亡,Diarrhoeal mortality,low,High,0.389073,uhc_service_index,明确不利,-4.410175,-5.484079,-3.336271
 82,Greece,腹泻病死亡,Diarrhoeal mortality,low,High,0.144109,basic_sanitation_pct,方向不确定,-0.082306,-0.458543,0.293932
 82,Greece,腹泻病死亡,Diarrhoeal mortality,low,High,0.144109,basic_water_pct,已达普及,0.391981,0.268789,0.515173
@@ -2567,11 +2567,11 @@
 86,Italy,腹泻病死亡,Diarrhoeal mortality,low,High,0.439723,uhc_service_index,明确有利,1.181838,0.082283,2.281393
 59,Latvia,腹泻病死亡,Diarrhoeal mortality,low,High,0.344682,basic_sanitation_pct,明确不利,-8.032262,-8.360308,-7.704216
 59,Latvia,腹泻病死亡,Diarrhoeal mortality,low,High,0.344682,basic_water_pct,明确不利,-1.129057,-1.230502,-1.027611
-59,Latvia,腹泻病死亡,Diarrhoeal mortality,low,High,0.344682,stunting_u5_pct,不可评价,2.161576,0.937743,3.385409
+59,Latvia,腹泻病死亡,Diarrhoeal mortality,low,High,0.344682,stunting_u5_pct,明确有利,2.161576,0.937743,3.385409
 59,Latvia,腹泻病死亡,Diarrhoeal mortality,low,High,0.344682,uhc_service_index,明确不利,-5.230148,-6.311731,-4.148566
 88,Malta,腹泻病死亡,Diarrhoeal mortality,low,High,0.219421,basic_sanitation_pct,明确有利,1.1369,0.700862,1.572939
 88,Malta,腹泻病死亡,Diarrhoeal mortality,low,High,0.219421,basic_water_pct,已达普及,0.469658,0.323707,0.61561
-88,Malta,腹泻病死亡,Diarrhoeal mortality,low,High,0.219421,stunting_u5_pct,不可评价,0.772531,-0.826657,2.371719
+88,Malta,腹泻病死亡,Diarrhoeal mortality,low,High,0.219421,stunting_u5_pct,方向不确定,0.772531,-0.826657,2.371719
 88,Malta,腹泻病死亡,Diarrhoeal mortality,low,High,0.219421,uhc_service_index,方向不确定,0.949048,-0.196581,2.094677
 367,Monaco,腹泻病死亡,Diarrhoeal mortality,low,High,0.42478,basic_sanitation_pct,已达普及,0.278449,0.05747,0.499428
 367,Monaco,腹泻病死亡,Diarrhoeal mortality,low,High,0.42478,basic_water_pct,已达普及,0.092635,0.039718,0.145553
@@ -2579,7 +2579,7 @@
 367,Monaco,腹泻病死亡,Diarrhoeal mortality,low,High,0.42478,uhc_service_index,方向不确定,-1.761828,-3.564036,0.040379
 91,Portugal,腹泻病死亡,Diarrhoeal mortality,low,High,0.227518,basic_sanitation_pct,明确有利,1.357846,0.60596,2.109733
 91,Portugal,腹泻病死亡,Diarrhoeal mortality,low,High,0.227518,basic_water_pct,已达普及,0.050368,-0.229685,0.330422
-91,Portugal,腹泻病死亡,Diarrhoeal mortality,low,High,0.227518,stunting_u5_pct,不可评价,2.751955,1.270149,4.23376
+91,Portugal,腹泻病死亡,Diarrhoeal mortality,low,High,0.227518,stunting_u5_pct,明确有利,2.751955,1.270149,4.23376
 91,Portugal,腹泻病死亡,Diarrhoeal mortality,low,High,0.227518,uhc_service_index,明确有利,5.464101,4.169136,6.759067
 396,San Marino,腹泻病死亡,Diarrhoeal mortality,low,High,0.22458,basic_sanitation_pct,已达普及,0.474821,0.243973,0.70567
 396,San Marino,腹泻病死亡,Diarrhoeal mortality,low,High,0.22458,basic_water_pct,已达普及,0.172533,0.113737,0.231329
@@ -2623,7 +2623,7 @@
 164,Nepal,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.287736,uhc_service_index,明确有利,2.111913,0.019893,4.203932
 131,Nicaragua,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.372051,basic_sanitation_pct,不可评价,,,
 131,Nicaragua,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.372051,basic_water_pct,不可评价,,,
-131,Nicaragua,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.372051,stunting_u5_pct,不可评价,7.720622,4.071276,11.369969
+131,Nicaragua,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.372051,stunting_u5_pct,明确有利,7.720622,4.071276,11.369969
 131,Nicaragua,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.372051,uhc_service_index,明确有利,13.928324,11.939306,15.917342
 149,Palestine,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.185514,basic_sanitation_pct,明确有利,16.634207,12.339421,20.928994
 149,Palestine,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.185514,basic_water_pct,明确有利,7.06718,5.280879,8.853481
@@ -2635,7 +2635,7 @@
 27,Samoa,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.343068,uhc_service_index,明确不利,-5.426866,-7.573266,-3.280467
 28,Solomon Islands,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.089128,basic_sanitation_pct,明确不利,-11.574054,-17.257065,-5.891043
 28,Solomon Islands,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.089128,basic_water_pct,方向不确定,-1.666864,-6.211988,2.87826
-28,Solomon Islands,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.089128,stunting_u5_pct,不可评价,3.333161,-0.810946,7.477269
+28,Solomon Islands,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.089128,stunting_u5_pct,方向不确定,3.333161,-0.810946,7.477269
 28,Solomon Islands,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.089128,uhc_service_index,方向不确定,-2.095702,-4.212747,0.021343
 153,Syrian Arab Republic,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.117737,basic_sanitation_pct,明确有利,20.075717,14.707297,25.444136
 153,Syrian Arab Republic,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.117737,basic_water_pct,明确有利,4.771836,2.459448,7.084223
@@ -2663,7 +2663,7 @@
 157,Yemen,腹泻病死亡,Diarrhoeal mortality,low,Low and low-middle,0.351602,uhc_service_index,方向不确定,-2.113307,-4.243384,0.016769
 43,Albania,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.450042,basic_sanitation_pct,明确有利,4.918772,3.386141,6.451404
 43,Albania,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.450042,basic_water_pct,明确不利,-3.136799,-3.810675,-2.462924
-43,Albania,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.450042,stunting_u5_pct,不可评价,-0.374063,-2.872808,2.124682
+43,Albania,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.450042,stunting_u5_pct,方向不确定,-0.374063,-2.872808,2.124682
 43,Albania,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.450042,uhc_service_index,明确不利,-9.348169,-10.745117,-7.951221
 6,China,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.216029,basic_sanitation_pct,明确不利,-5.932963,-7.348645,-4.51728
 6,China,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.216029,basic_water_pct,明确不利,-4.742021,-5.363784,-4.120257
@@ -2671,15 +2671,15 @@
 6,China,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.216029,uhc_service_index,明确有利,5.831885,4.493758,7.170012
 126,Costa Rica,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.344444,basic_sanitation_pct,明确有利,4.388856,2.847552,5.930161
 126,Costa Rica,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.344444,basic_water_pct,明确有利,2.336668,1.657872,3.015463
-126,Costa Rica,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.344444,stunting_u5_pct,不可评价,1.537887,-0.657489,3.733263
+126,Costa Rica,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.344444,stunting_u5_pct,方向不确定,1.537887,-0.657489,3.733263
 126,Costa Rica,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.344444,uhc_service_index,明确有利,9.401728,8.011916,10.791541
 109,Cuba,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.29591,basic_sanitation_pct,明确不利,-2.60119,-4.204858,-0.997522
 109,Cuba,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.29591,basic_water_pct,明确不利,-2.871627,-3.57499,-2.168263
-109,Cuba,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.29591,stunting_u5_pct,不可评价,2.606475,0.187727,5.025222
+109,Cuba,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.29591,stunting_u5_pct,明确有利,2.606475,0.187727,5.025222
 109,Cuba,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.29591,uhc_service_index,明确有利,10.726783,9.294042,12.159523
 35,Georgia,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.349445,basic_sanitation_pct,明确不利,-9.715697,-10.843483,-8.587912
 35,Georgia,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.349445,basic_water_pct,明确不利,-1.875398,-2.343772,-1.407024
-35,Georgia,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.349445,stunting_u5_pct,不可评价,2.097922,0.311046,3.884798
+35,Georgia,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.349445,stunting_u5_pct,明确有利,2.097922,0.311046,3.884798
 35,Georgia,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.349445,uhc_service_index,明确不利,-6.106154,-7.367041,-4.845266
 112,Grenada,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.256494,basic_sanitation_pct,明确有利,2.466594,0.28461,4.648578
 112,Grenada,腹泻病死亡,Diarrhoeal mortality,low,Middle and high-middle,0.256494,basic_water_pct,方向不确定,0.63343,-0.438965,1.705824

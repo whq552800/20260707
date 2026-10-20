@@ -24,26 +24,26 @@
 25,Micronesia (Federated States of),LRI死亡,LRI,死亡,持续低尾,中低SDI,低+中低,6,3,免疫、基本服务、暴露,secondhand_smoke_sev、clean_cooking_pct、dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,多领域,0.3911647521950152,0.3744627015344492
 26,Papua New Guinea,脑膜炎死亡,脑膜炎,死亡,持续低尾,低SDI,低+中低,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,单一领域,0.5854496661892585,0.3115543838550996
 27,Samoa,腹泻病死亡,腹泻病,死亡,持续低尾,中低SDI,低+中低,3,0,,,False,明确不利,True,未见短板,0.1957375693330392,0.3430683604969909
-28,Solomon Islands,LRI死亡,LRI,死亡,持续低尾,低SDI,低+中低,7,1,暴露,secondhand_smoke_sev,True,方向不确定,False,单一领域,0.3133314258442369,0.3081439334141738
+28,Solomon Islands,LRI死亡,LRI,死亡,持续低尾,低SDI,低+中低,8,1,暴露,secondhand_smoke_sev,True,方向不确定,False,单一领域,0.3133314258442369,0.3081439334141738
 28,Solomon Islands,脑膜炎发病,脑膜炎,发病,持续低尾,低SDI,低+中低,3,0,,,False,方向不确定,False,未见短板,0.3918361107846811,0.3464057830808231
 28,Solomon Islands,脑膜炎死亡,脑膜炎,死亡,持续低尾,低SDI,低+中低,3,0,,,False,方向不确定,False,未见短板,0.102425708881971,0.083188063122905
-28,Solomon Islands,腹泻病发病,腹泻病,发病,持续低尾,低SDI,低+中低,2,1,基本服务,basic_sanitation_pct,True,方向不确定,False,单一领域,0.5245732923808103,0.398152118613144
-28,Solomon Islands,腹泻病死亡,腹泻病,死亡,持续低尾,低SDI,低+中低,2,1,基本服务,basic_sanitation_pct,True,方向不确定,False,单一领域,0.1030473019599638,0.0891284432289122
+28,Solomon Islands,腹泻病发病,腹泻病,发病,持续低尾,低SDI,低+中低,3,1,基本服务,basic_sanitation_pct,True,方向不确定,False,单一领域,0.5245732923808103,0.398152118613144
+28,Solomon Islands,腹泻病死亡,腹泻病,死亡,持续低尾,低SDI,低+中低,3,1,基本服务,basic_sanitation_pct,True,方向不确定,False,单一领域,0.1030473019599638,0.0891284432289122
 29,Tonga,脑膜炎死亡,脑膜炎,死亡,持续高尾,中低SDI,低+中低,3,1,免疫,pcv3_pct,True,方向不确定,False,单一领域,1.7424713250646413,2.373401519722463
 29,Tonga,腹泻病发病,腹泻病,发病,持续低尾,中低SDI,低+中低,3,0,,,False,方向不确定,False,未见短板,0.4107223958264231,0.5774215614311592
 29,Tonga,腹泻病死亡,腹泻病,死亡,持续低尾,中低SDI,低+中低,3,0,,,False,方向不确定,False,未见短板,0.1031478279359087,0.1064530195504975
 30,Vanuatu,脑膜炎发病,脑膜炎,发病,持续低尾,低SDI,低+中低,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,方向不确定,False,单一领域,0.3726952685265958,0.4231525558690745
 30,Vanuatu,脑膜炎死亡,脑膜炎,死亡,持续低尾,低SDI,低+中低,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,方向不确定,False,单一领域,0.2452583517552108,0.240617354615505
-33,Armenia,LRI死亡,LRI,死亡,持续高尾,中高SDI,中等+中高,7,2,免疫、暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、dtp3_pct,True,明确不利,True,多领域,1.9029088029360084,2.509559619539566
+33,Armenia,LRI死亡,LRI,死亡,持续高尾,中高SDI,中等+中高,8,2,免疫、暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、dtp3_pct,True,明确不利,True,多领域,1.9029088029360084,2.509559619539566
 33,Armenia,脑膜炎死亡,脑膜炎,死亡,持续低尾,中高SDI,中等+中高,3,1,免疫,dtp3_pct,True,明确不利,True,单一领域,0.3506500628894686,0.2842695794912263
 34,Azerbaijan,LRI死亡,LRI,死亡,持续高尾,中高SDI,中等+中高,8,3,免疫、暴露、营养,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、dtp3_pct、hib3_pct、pcv3_pct、stunting_u5_pct、low_birthweight_pct,True,明确不利,True,多领域,9.83138770764246,7.197244981447791
 34,Azerbaijan,腹泻病死亡,腹泻病,死亡,持续高尾,中高SDI,中等+中高,3,2,基本服务、营养,basic_water_pct、basic_sanitation_pct、stunting_u5_pct,True,明确不利,True,多领域,5.691675357429978,4.996477344644309
 38,Mongolia,腹泻病发病,腹泻病,发病,持续低尾,中低SDI,低+中低,3,1,基本服务,basic_water_pct、basic_sanitation_pct,True,方向不确定,False,单一领域,0.5296053443035602,0.2930068123467161
 40,Turkmenistan,LRI死亡,LRI,死亡,持续高尾,中等SDI,中等+中高,8,2,免疫、暴露,gbd_ambient_pm25_ug_m3、pcv3_pct,True,明确有利,False,多领域,6.865597210779032,5.925969699050336
 41,Uzbekistan,LRI死亡,LRI,死亡,持续高尾,中低SDI,低+中低,8,2,基本服务、暴露,gbd_ambient_pm25_ug_m3、clean_cooking_pct,True,明确有利,False,多领域,3.776571196990653,4.920365043779466
-44,Bosnia and Herzegovina,LRI死亡,LRI,死亡,持续低尾,中高SDI,中等+中高,6,3,免疫、基本服务、暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、clean_cooking_pct、dtp3_pct、hib3_pct,True,明确不利,True,多领域,0.2315950136003973,0.2741923490817181
+44,Bosnia and Herzegovina,LRI死亡,LRI,死亡,持续低尾,中高SDI,中等+中高,7,3,免疫、基本服务、暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、clean_cooking_pct、dtp3_pct、hib3_pct,True,明确不利,True,多领域,0.2315950136003973,0.2741923490817181
 44,Bosnia and Herzegovina,脑膜炎死亡,脑膜炎,死亡,持续低尾,中高SDI,中等+中高,2,1,免疫,dtp3_pct、hib3_pct,True,明确不利,True,单一领域,0.3630548828275607,0.3538626433953844
-45,Bulgaria,腹泻病发病,腹泻病,发病,持续低尾,高SDI,高,2,1,基本服务,basic_sanitation_pct,True,明确不利,True,单一领域,0.6373618694161561,0.6552794642324994
+45,Bulgaria,腹泻病发病,腹泻病,发病,持续低尾,高SDI,高,3,1,基本服务,basic_sanitation_pct,True,明确不利,True,单一领域,0.6373618694161561,0.6552794642324994
 47,Czechia,LRI发病,LRI,发病,持续高尾,高SDI,高,6,1,暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev,True,明确有利,False,单一领域,1.711163247576062,1.4918609510848202
 51,Poland,腹泻病发病,腹泻病,发病,持续低尾,高SDI,高,3,1,基本服务,basic_water_pct、basic_sanitation_pct,True,方向不确定,False,单一领域,0.4706929589295466,0.2840909765729548
 52,Romania,LRI死亡,LRI,死亡,持续高尾,高SDI,高,7,2,免疫、暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,多领域,3.3434247535678043,2.1885539083333447
@@ -54,8 +54,8 @@
 55,Slovenia,脑膜炎死亡,脑膜炎,死亡,持续低尾,高SDI,高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,方向不确定,False,单一领域,0.6223359454074207,0.4685046909981429
 57,Belarus,脑膜炎死亡,脑膜炎,死亡,持续高尾,高SDI,高,2,1,免疫,hib3_pct,True,方向不确定,False,单一领域,1.8594295060138264,1.9721801572767867
 58,Estonia,脑膜炎发病,脑膜炎,发病,持续高尾,高SDI,高,2,1,免疫,dtp3_pct、hib3_pct,True,明确不利,True,单一领域,1.7170074674843585,1.8758801906808893
-58,Estonia,腹泻病发病,腹泻病,发病,持续高尾,高SDI,高,2,0,,,False,明确不利,True,未见短板,1.541180129592769,2.2772196685772035
-59,Latvia,LRI死亡,LRI,死亡,持续高尾,高SDI,高,7,2,免疫、暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、dtp3_pct、pcv3_pct,True,明确不利,True,多领域,1.715746339028409,2.0711562656147544
+58,Estonia,腹泻病发病,腹泻病,发病,持续高尾,高SDI,高,3,0,,,False,明确不利,True,未见短板,1.541180129592769,2.2772196685772035
+59,Latvia,LRI死亡,LRI,死亡,持续高尾,高SDI,高,8,2,免疫、暴露,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、dtp3_pct、pcv3_pct,True,明确不利,True,多领域,1.715746339028409,2.0711562656147544
 60,Lithuania,脑膜炎发病,脑膜炎,发病,持续高尾,高SDI,高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,单一领域,1.667078964239904,2.025927821931035
 60,Lithuania,腹泻病发病,腹泻病,发病,持续高尾,高SDI,高,3,1,基本服务,basic_water_pct、basic_sanitation_pct,True,明确不利,True,单一领域,1.604063211923367,1.831511790964608
 61,Republic of Moldova,脑膜炎死亡,脑膜炎,死亡,持续高尾,中高SDI,中等+中高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,单一领域,1.8633466152979223,2.424285618265961
@@ -96,7 +96,7 @@
 79,Finland,LRI死亡,LRI,死亡,持续低尾,高SDI,高,8,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确有利,False,单一领域,0.5160204100303416,0.5063698335279346
 80,France,LRI发病,LRI,发病,持续低尾,高SDI,高,7,2,免疫、暴露,secondhand_smoke_sev、dtp3_pct,True,方向不确定,False,多领域,0.5167615776408513,0.5113434349422465
 80,France,LRI死亡,LRI,死亡,持续低尾,高SDI,高,7,2,免疫、暴露,secondhand_smoke_sev、dtp3_pct,True,方向不确定,False,多领域,0.4037845997607037,0.3500130016364071
-81,Germany,腹泻病发病,腹泻病,发病,持续高尾,高SDI,高,2,0,,,False,明确有利,False,未见短板,2.047282800810954,2.1532945504307017
+81,Germany,腹泻病发病,腹泻病,发病,持续高尾,高SDI,高,3,0,,,False,明确有利,False,未见短板,2.047282800810954,2.1532945504307017
 82,Greece,LRI发病,LRI,发病,持续低尾,高SDI,高,7,3,免疫、暴露、营养,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、pcv3_pct、low_birthweight_pct,True,明确不利,True,多领域,0.3626166680733849,0.3717357178863513
 82,Greece,LRI死亡,LRI,死亡,持续低尾,高SDI,高,7,3,免疫、暴露、营养,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、pcv3_pct、low_birthweight_pct,True,明确不利,True,多领域,0.2969028093816079,0.3907982345597916
 82,Greece,腹泻病死亡,腹泻病,死亡,持续低尾,高SDI,高,2,0,,,False,明确不利,True,未见短板,0.0583320517949257,0.1441085245192
@@ -107,12 +107,12 @@
 86,Italy,脑膜炎发病,脑膜炎,发病,持续低尾,高SDI,高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确有利,False,单一领域,0.613685880369393,0.3280237802423988
 86,Italy,脑膜炎死亡,脑膜炎,死亡,持续低尾,高SDI,高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确有利,False,单一领域,0.4321740454917977,0.5343159898943236
 86,Italy,腹泻病死亡,腹泻病,死亡,持续低尾,高SDI,高,2,0,,,False,明确有利,False,未见短板,0.1287428743757203,0.4397225946912402
-88,Malta,LRI发病,LRI,发病,持续低尾,高SDI,高,7,1,免疫,pcv3_pct,True,方向不确定,False,单一领域,0.3245392549326842,0.3389392371362664
-88,Malta,LRI死亡,LRI,死亡,持续低尾,高SDI,高,7,1,免疫,pcv3_pct,True,方向不确定,False,单一领域,0.3281181047144352,0.4248164894782075
-88,Malta,腹泻病死亡,腹泻病,死亡,持续低尾,高SDI,高,2,0,,,False,方向不确定,False,未见短板,0.0689373778414739,0.2194210737036469
-91,Portugal,LRI发病,LRI,发病,持续低尾,高SDI,高,7,0,,,False,明确有利,False,未见短板,0.2948116106618566,0.234418016138751
-91,Portugal,LRI死亡,LRI,死亡,持续低尾,高SDI,高,7,0,,,False,明确有利,False,未见短板,0.3164390216940843,0.1746967764802708
-91,Portugal,腹泻病死亡,腹泻病,死亡,持续低尾,高SDI,高,2,0,,,False,明确有利,False,未见短板,0.2198184904594497,0.2275184870192507
+88,Malta,LRI发病,LRI,发病,持续低尾,高SDI,高,8,1,免疫,pcv3_pct,True,方向不确定,False,单一领域,0.3245392549326842,0.3389392371362664
+88,Malta,LRI死亡,LRI,死亡,持续低尾,高SDI,高,8,1,免疫,pcv3_pct,True,方向不确定,False,单一领域,0.3281181047144352,0.4248164894782075
+88,Malta,腹泻病死亡,腹泻病,死亡,持续低尾,高SDI,高,3,0,,,False,方向不确定,False,未见短板,0.0689373778414739,0.2194210737036469
+91,Portugal,LRI发病,LRI,发病,持续低尾,高SDI,高,8,0,,,False,明确有利,False,未见短板,0.2948116106618566,0.234418016138751
+91,Portugal,LRI死亡,LRI,死亡,持续低尾,高SDI,高,8,0,,,False,明确有利,False,未见短板,0.3164390216940843,0.1746967764802708
+91,Portugal,腹泻病死亡,腹泻病,死亡,持续低尾,高SDI,高,3,0,,,False,明确有利,False,未见短板,0.2198184904594497,0.2275184870192507
 92,Spain,LRI发病,LRI,发病,持续低尾,高SDI,高,7,2,暴露、营养,secondhand_smoke_sev、low_birthweight_pct,True,明确有利,False,多领域,0.2915163055460161,0.2968243342570241
 92,Spain,LRI死亡,LRI,死亡,持续低尾,高SDI,高,7,2,暴露、营养,secondhand_smoke_sev、low_birthweight_pct,True,明确有利,False,多领域,0.1937937359839928,0.1469768170972954
 94,Switzerland,LRI发病,LRI,发病,持续高尾,高SDI,高,7,2,暴露、营养,secondhand_smoke_sev、low_birthweight_pct,True,方向不确定,False,多领域,1.922700632716713,1.5537552842270708
@@ -134,9 +134,9 @@
 108,Belize,LRI发病,LRI,发病,持续低尾,中低SDI,低+中低,7,0,,,False,方向不确定,False,未见短板,0.5396457071387658,0.6235110721246078
 108,Belize,脑膜炎死亡,脑膜炎,死亡,持续低尾,中低SDI,低+中低,2,0,,,False,方向不确定,False,未见短板,0.5914315998714139,0.5417756174593839
 108,Belize,腹泻病发病,腹泻病,发病,持续低尾,中低SDI,低+中低,3,0,,,False,方向不确定,False,未见短板,0.531172382561346,0.6002586639739981
-109,Cuba,LRI死亡,LRI,死亡,持续低尾,中等SDI,中等+中高,6,1,基本服务,clean_cooking_pct,True,明确有利,False,单一领域,0.3054181454519027,0.3970105350763831
+109,Cuba,LRI死亡,LRI,死亡,持续低尾,中等SDI,中等+中高,7,1,基本服务,clean_cooking_pct,True,明确有利,False,单一领域,0.3054181454519027,0.3970105350763831
 109,Cuba,脑膜炎发病,脑膜炎,发病,持续高尾,中等SDI,中等+中高,2,0,,,False,明确有利,False,未见短板,1.915897044129172,1.9861698388229887
-109,Cuba,腹泻病死亡,腹泻病,死亡,持续低尾,中等SDI,中等+中高,2,1,基本服务,basic_water_pct、basic_sanitation_pct,True,明确有利,False,单一领域,0.4373195557075303,0.2959100322460038
+109,Cuba,腹泻病死亡,腹泻病,死亡,持续低尾,中等SDI,中等+中高,3,1,基本服务,basic_water_pct、basic_sanitation_pct,True,明确有利,False,单一领域,0.4373195557075303,0.2959100322460038
 110,Dominica,腹泻病发病,腹泻病,发病,持续低尾,高SDI,高,2,1,基本服务,basic_water_pct、basic_sanitation_pct,True,方向不确定,False,单一领域,0.4550707189695259,0.5637562818066294
 112,Grenada,脑膜炎死亡,脑膜炎,死亡,持续低尾,中等SDI,中等+中高,2,1,免疫,dtp3_pct、hib3_pct,True,明确有利,False,单一领域,0.6286338356898294,0.4911613016442637
 112,Grenada,腹泻病死亡,腹泻病,死亡,持续低尾,中等SDI,中等+中高,2,0,,,False,明确有利,False,未见短板,0.2570219801862878,0.2564941004707838
@@ -149,21 +149,21 @@
 117,Saint Vincent and the Grenadines,LRI发病,LRI,发病,持续低尾,中低SDI,低+中低,5,0,,,False,明确有利,False,未见短板,0.4651091553107561,0.5863566497258396
 117,Saint Vincent and the Grenadines,LRI死亡,LRI,死亡,持续低尾,中低SDI,低+中低,5,0,,,False,明确有利,False,未见短板,0.3238750081363744,0.4529021891222569
 117,Saint Vincent and the Grenadines,腹泻病发病,腹泻病,发病,持续低尾,中低SDI,低+中低,2,0,,,False,明确有利,False,未见短板,0.4410565137639804,0.460112932524514
-118,Suriname,LRI发病,LRI,发病,持续低尾,中等SDI,中等+中高,6,2,免疫、营养,dtp3_pct、hib3_pct、low_birthweight_pct,True,明确有利,False,多领域,0.5681809948399449,0.5971136318612525
-118,Suriname,腹泻病死亡,腹泻病,死亡,持续高尾,中等SDI,中等+中高,2,0,,,False,明确有利,False,未见短板,2.1618753044030936,2.708144432325019
+118,Suriname,LRI发病,LRI,发病,持续低尾,中等SDI,中等+中高,7,2,免疫、营养,dtp3_pct、hib3_pct、low_birthweight_pct,True,明确有利,False,多领域,0.5681809948399449,0.5971136318612525
+118,Suriname,腹泻病死亡,腹泻病,死亡,持续高尾,中等SDI,中等+中高,3,0,,,False,明确有利,False,未见短板,2.1618753044030936,2.708144432325019
 119,Trinidad and Tobago,脑膜炎死亡,脑膜炎,死亡,持续高尾,高SDI,高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,单一领域,2.113914779326025,2.117989247781743
-119,Trinidad and Tobago,腹泻病发病,腹泻病,发病,持续低尾,高SDI,高,2,1,基本服务,basic_water_pct、basic_sanitation_pct,True,明确不利,True,单一领域,0.5824567753889389,0.5794692063221976
+119,Trinidad and Tobago,腹泻病发病,腹泻病,发病,持续低尾,高SDI,高,3,2,基本服务、营养,basic_water_pct、basic_sanitation_pct、stunting_u5_pct,True,明确不利,True,多领域,0.5824567753889389,0.5794692063221976
 121,Bolivia (Plurinational State of),LRI死亡,LRI,死亡,持续高尾,中低SDI,低+中低,8,2,免疫、暴露,gbd_ambient_pm25_ug_m3、dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,多领域,3.1651588517931746,2.4870918806795577
 122,Ecuador,脑膜炎发病,脑膜炎,发病,持续低尾,中等SDI,中等+中高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确有利,False,单一领域,0.581410393024334,0.4497590579382348
 123,Peru,LRI发病,LRI,发病,持续高尾,中等SDI,中等+中高,8,3,免疫、基本服务、暴露,gbd_ambient_pm25_ug_m3、clean_cooking_pct、dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,多领域,1.6975772483681586,1.4120578822692402
 123,Peru,脑膜炎发病,脑膜炎,发病,持续低尾,中等SDI,中等+中高,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确不利,True,单一领域,0.58212391293627,0.4484028628910236
 123,Peru,腹泻病发病,腹泻病,发病,持续高尾,中等SDI,中等+中高,3,1,基本服务,basic_water_pct、basic_sanitation_pct,True,明确不利,True,单一领域,2.164181463731815,1.8375733629212607
-125,Colombia,LRI发病,LRI,发病,持续低尾,中等SDI,中等+中高,7,2,免疫、基本服务,clean_cooking_pct、dtp3_pct、hib3_pct,True,明确有利,False,多领域,0.637070149510298,0.6572759752414918
-126,Costa Rica,LRI发病,LRI,发病,持续低尾,中高SDI,中等+中高,7,1,基本服务,clean_cooking_pct,True,明确有利,False,单一领域,0.3513408655565178,0.5076884875361751
-126,Costa Rica,LRI死亡,LRI,死亡,持续低尾,中高SDI,中等+中高,7,1,基本服务,clean_cooking_pct,True,明确有利,False,单一领域,0.284129140996961,0.3572022060193907
+125,Colombia,LRI发病,LRI,发病,持续低尾,中等SDI,中等+中高,8,2,免疫、基本服务,clean_cooking_pct、dtp3_pct、hib3_pct,True,明确有利,False,多领域,0.637070149510298,0.6572759752414918
+126,Costa Rica,LRI发病,LRI,发病,持续低尾,中高SDI,中等+中高,8,1,基本服务,clean_cooking_pct,True,明确有利,False,单一领域,0.3513408655565178,0.5076884875361751
+126,Costa Rica,LRI死亡,LRI,死亡,持续低尾,中高SDI,中等+中高,8,1,基本服务,clean_cooking_pct,True,明确有利,False,单一领域,0.284129140996961,0.3572022060193907
 126,Costa Rica,脑膜炎发病,脑膜炎,发病,持续低尾,中高SDI,中等+中高,3,0,,,False,明确有利,False,未见短板,0.3803303926233898,0.4179944572697322
 126,Costa Rica,脑膜炎死亡,脑膜炎,死亡,持续低尾,中高SDI,中等+中高,3,0,,,False,明确有利,False,未见短板,0.4587534111308972,0.5186358577345361
-126,Costa Rica,腹泻病死亡,腹泻病,死亡,持续低尾,中高SDI,中等+中高,2,0,,,False,明确有利,False,未见短板,0.3390467618301332,0.3444442641286493
+126,Costa Rica,腹泻病死亡,腹泻病,死亡,持续低尾,中高SDI,中等+中高,3,0,,,False,明确有利,False,未见短板,0.3390467618301332,0.3444442641286493
 127,El Salvador,LRI发病,LRI,发病,持续低尾,中低SDI,低+中低,8,1,暴露,gbd_ambient_pm25_ug_m3,True,明确有利,False,单一领域,0.5124913112338856,0.4892423934916099
 127,El Salvador,LRI死亡,LRI,死亡,持续低尾,中低SDI,低+中低,8,1,暴露,gbd_ambient_pm25_ug_m3,True,明确有利,False,单一领域,0.5047612245629324,0.5144486934907759
 127,El Salvador,脑膜炎发病,脑膜炎,发病,持续低尾,中低SDI,低+中低,3,0,,,False,明确有利,False,未见短板,0.3229854902482272,0.2308032840266197
@@ -180,12 +180,12 @@
 130,Mexico,LRI发病,LRI,发病,持续低尾,中等SDI,中等+中高,8,2,免疫、基本服务,clean_cooking_pct、dtp3_pct、hib3_pct,True,明确有利,False,多领域,0.3993188702819076,0.2861551269356682
 130,Mexico,脑膜炎发病,脑膜炎,发病,持续低尾,中等SDI,中等+中高,3,1,免疫,dtp3_pct、hib3_pct,True,明确有利,False,单一领域,0.4588720155691276,0.2488276454110822
 130,Mexico,脑膜炎死亡,脑膜炎,死亡,持续低尾,中等SDI,中等+中高,3,1,免疫,dtp3_pct、hib3_pct,True,明确有利,False,单一领域,0.4628590594416502,0.3427713302976716
-131,Nicaragua,LRI发病,LRI,发病,持续低尾,低SDI,低+中低,7,0,,,False,明确有利,False,未见短板,0.5292613978421103,0.4029442140846541
+131,Nicaragua,LRI发病,LRI,发病,持续低尾,低SDI,低+中低,8,0,,,False,明确有利,False,未见短板,0.5292613978421103,0.4029442140846541
 131,Nicaragua,脑膜炎发病,脑膜炎,发病,持续低尾,低SDI,低+中低,3,0,,,False,明确有利,False,未见短板,0.5148265364900383,0.2216277664537243
 131,Nicaragua,脑膜炎死亡,脑膜炎,死亡,持续低尾,低SDI,低+中低,3,0,,,False,明确有利,False,未见短板,0.5937496138809643,0.264102648338031
-132,Panama,LRI发病,LRI,发病,持续低尾,中等SDI,中等+中高,7,1,免疫,dtp3_pct、hib3_pct,True,明确有利,False,单一领域,0.3972270237062712,0.5884636534455862
+132,Panama,LRI发病,LRI,发病,持续低尾,中等SDI,中等+中高,8,2,免疫、营养,dtp3_pct、hib3_pct、stunting_u5_pct,True,明确有利,False,多领域,0.3972270237062712,0.5884636534455862
 133,Venezuela (Bolivarian Republic of),LRI发病,LRI,发病,持续低尾,中低SDI,低+中低,7,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,明确有利,False,单一领域,0.5248111812806436,0.4958984790710974
-135,Brazil,腹泻病发病,腹泻病,发病,持续低尾,中等SDI,中等+中高,2,1,基本服务,basic_sanitation_pct,True,明确有利,False,单一领域,0.4035234347767126,0.4999019868917223
+135,Brazil,腹泻病发病,腹泻病,发病,持续低尾,中等SDI,中等+中高,3,1,基本服务,basic_sanitation_pct,True,明确有利,False,单一领域,0.4035234347767126,0.4999019868917223
 140,Bahrain,脑膜炎发病,脑膜炎,发病,持续低尾,高SDI,高,3,0,,,False,方向不确定,False,未见短板,0.3344519234896668,0.3270631672018623
 140,Bahrain,脑膜炎死亡,脑膜炎,死亡,持续低尾,高SDI,高,3,0,,,False,方向不确定,False,未见短板,0.3684989686738364,0.3294290300194948
 141,Egypt,LRI发病,LRI,发病,持续高尾,中低SDI,低+中低,6,2,暴露、营养,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、stunting_u5_pct,True,明确有利,False,多领域,1.8037309191058777,1.7460912281558074
@@ -232,7 +232,7 @@
 180,Kenya,脑膜炎发病,脑膜炎,发病,持续高尾,低SDI,低+中低,3,0,,,False,方向不确定,False,未见短板,1.7122720192182894,1.997712825543425
 180,Kenya,腹泻病死亡,腹泻病,死亡,持续高尾,低SDI,低+中低,3,1,基本服务,basic_water_pct、basic_sanitation_pct,True,方向不确定,False,单一领域,2.0483244984589226,2.6697677711513887
 183,Mauritius,腹泻病发病,腹泻病,发病,持续高尾,中高SDI,中等+中高,2,0,,,False,方向不确定,False,未见短板,1.5262432686562295,2.6213284743655567
-186,Seychelles,LRI发病,LRI,发病,持续高尾,高SDI,高,7,2,免疫、营养,pcv3_pct、low_birthweight_pct,True,明确有利,False,多领域,1.83978466685241,2.103109442722591
+186,Seychelles,LRI发病,LRI,发病,持续高尾,高SDI,高,8,2,免疫、营养,pcv3_pct、low_birthweight_pct,True,明确有利,False,多领域,1.83978466685241,2.103109442722591
 186,Seychelles,脑膜炎死亡,脑膜炎,死亡,持续高尾,高SDI,高,3,1,免疫,pcv3_pct,True,明确有利,False,单一领域,3.367447027076559,3.844429522967283
 190,Uganda,LRI死亡,LRI,死亡,持续低尾,低SDI,低+中低,7,2,基本服务、暴露,gbd_ambient_pm25_ug_m3、clean_cooking_pct,True,明确有利,False,多领域,0.4479495080346807,0.5017827050309064
 191,Zambia,脑膜炎发病,脑膜炎,发病,持续高尾,低SDI,低+中低,3,0,,,False,明确有利,False,未见短板,2.352441407924931,1.7969454621248393
@@ -246,8 +246,8 @@
 196,South Africa,腹泻病发病,腹泻病,发病,持续高尾,中高SDI,中等+中高,3,2,基本服务、营养,basic_water_pct、basic_sanitation_pct、stunting_u5_pct,True,明确不利,True,多领域,2.6658637620403143,2.407317793293992
 196,South Africa,腹泻病死亡,腹泻病,死亡,持续高尾,中高SDI,中等+中高,3,2,基本服务、营养,basic_water_pct、basic_sanitation_pct、stunting_u5_pct,True,明确不利,True,多领域,8.391422738516546,18.106337874938976
 202,Cameroon,脑膜炎死亡,脑膜炎,死亡,持续高尾,低SDI,低+中低,3,1,免疫,dtp3_pct、hib3_pct、pcv3_pct,True,方向不确定,False,单一领域,1.7408234838346293,1.9503655809965903
-203,Cabo Verde,LRI发病,LRI,发病,持续低尾,低SDI,低+中低,5,0,,,False,明确有利,False,未见短板,0.5871238734313775,0.6367693852289907
-203,Cabo Verde,LRI死亡,LRI,死亡,持续低尾,低SDI,低+中低,5,0,,,False,明确有利,False,未见短板,0.3484626640575199,0.4316785755909245
+203,Cabo Verde,LRI发病,LRI,发病,持续低尾,低SDI,低+中低,6,0,,,False,明确有利,False,未见短板,0.5871238734313775,0.6367693852289907
+203,Cabo Verde,LRI死亡,LRI,死亡,持续低尾,低SDI,低+中低,6,0,,,False,明确有利,False,未见短板,0.3484626640575199,0.4316785755909245
 207,Ghana,脑膜炎发病,脑膜炎,发病,持续高尾,中低SDI,低+中低,3,0,,,False,明确不利,True,未见短板,2.1426147335472536,2.167977216411652
 207,Ghana,脑膜炎死亡,脑膜炎,死亡,持续高尾,中低SDI,低+中低,3,0,,,False,明确不利,True,未见短板,2.3730761011995583,1.9124581998499
 211,Mali,LRI发病,LRI,发病,持续低尾,低SDI,低+中低,7,1,暴露,secondhand_smoke_sev,True,明确有利,False,单一领域,0.6263013395943843,0.6292233136818765
@@ -273,7 +273,7 @@
 351,Guam,LRI死亡,LRI,死亡,持续高尾,高SDI,高,2,0,,,False,不可评价,False,未见短板,1.9033088242502945,4.288464172101199
 367,Monaco,LRI死亡,LRI,死亡,持续高尾,高SDI,高,6,2,暴露、营养,gbd_ambient_pm25_ug_m3、secondhand_smoke_sev、low_birthweight_pct,True,方向不确定,False,多领域,2.951870449513243,2.2679353129890845
 367,Monaco,腹泻病死亡,腹泻病,死亡,持续低尾,高SDI,高,2,0,,,False,方向不确定,False,未见短板,0.4106769293502961,0.4247801389112012
-369,Nauru,LRI死亡,LRI,死亡,持续高尾,中低SDI,低+中低,6,1,暴露,secondhand_smoke_sev,True,明确不利,True,单一领域,2.3534264195372776,2.3273782154061124
+369,Nauru,LRI死亡,LRI,死亡,持续高尾,中低SDI,低+中低,7,1,暴露,secondhand_smoke_sev,True,明确不利,True,单一领域,2.3534264195372776,2.3273782154061124
 374,Niue,LRI发病,LRI,发病,持续高尾,高SDI,高,4,0,,,False,不可评价,False,未见短板,1.7038187310874646,1.808319591506409
 376,Northern Mariana Islands,LRI发病,LRI,发病,持续高尾,高SDI,高,2,1,暴露,secondhand_smoke_sev,True,不可评价,False,单一领域,2.5152545077049093,1.824204944986354
 376,Northern Mariana Islands,LRI死亡,LRI,死亡,持续高尾,高SDI,高,2,1,暴露,secondhand_smoke_sev,True,不可评价,False,单一领域,3.702250962426216,2.7798809750120714

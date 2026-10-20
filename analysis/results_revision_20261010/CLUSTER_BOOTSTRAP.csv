@@ -1,7 +1,7 @@
 ﻿estimate_set,quantity,n_pairs,n_clusters,estimate,lo,hi
-"factor contrast, 2011-2023",low and low-middle SDI,27.0,22,34.59156,17.498145,53.546958
-"factor contrast, 2011-2023",high SDI,27.0,22,11.314901,-1.744297,21.251493
-"factor contrast, 2011-2023",difference between strata,27.0,22,23.276659,3.209664,45.773069
+"factor contrast, 2011-2023",low and low-middle SDI,27.0,22,33.533754,16.536669,52.556604
+"factor contrast, 2011-2023",high SDI,27.0,22,7.981568,-3.459935,18.790853
+"factor contrast, 2011-2023",difference between strata,27.0,22,25.552187,5.709021,47.037675
 "cross-disease correlation, 1990–2000","mortality minus incidence, as analysed",,22,0.276989,0.147283,0.378523
 "cross-disease correlation, 1990–2000","mortality minus incidence, other causes removed",,22,0.177071,0.003969,0.315128
 "cross-disease correlation, 2001–2010","mortality minus incidence, as analysed",,22,0.303772,0.163994,0.417983

@@ -1,6 +1,6 @@
 """Factor profiles of high-tail and low-tail locations for each SDI stratum, disease and outcome (2026-10-12, restructuring).
 1. PROFILE_CELLS.csv: for every period, SDI stratum (low and low-middle; middle and high-middle; high; by the period's mean SDI),
-   outcome, and factor (15 factors, excluding the SDI components income, secondary enrolment, and fertility), the numbers of
+   outcome, and factor (16 factors, excluding the SDI components income, secondary enrolment, and fertility), the numbers of
    high-tail and low-tail locations with the factor evaluable and with an adverse or favourable departure, the difference in the
    percentage adverse (high minus low) with a Newcombe interval, and a two-sided Fisher exact P value.
 2. PROFILE_TRAJECTORIES.csv: location-outcome records grouped by tail membership in 2001-2010 and 2011-2023 (stayed in the high
@@ -14,7 +14,7 @@ F = pd.read_csv('../factor_profiles_confirmed_20261010/CONFIRMED_FACTOR_PERIOD.c
 BAND = {'低SDI': 'Low and low-middle', '中低SDI': 'Low and low-middle', '中等SDI': 'Middle and high-middle', '中高SDI': 'Middle and high-middle', '高SDI': 'High'}
 OUT = {(302, 6): 'Diarrhoeal incidence', (302, 1): 'Diarrhoeal mortality', (322, 6): 'LRI incidence', (322, 1): 'LRI mortality', (332, 6): 'Meningitis incidence', (332, 1): 'Meningitis mortality'}
 FAC = ['basic_water_pct', 'basic_sanitation_pct', 'clean_cooking_pct', 'dtp3_pct', 'hib3_pct', 'pcv3_pct', 'stunting_u5_pct', 'low_birthweight_pct',
-       'undernourishment_pct', 'uhc_service_index', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000',
+       'undernourishment_pct', 'uhc_service_index', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000', 'physicians_per1000',
        'gbd_ambient_pm25_ug_m3', 'secondhand_smoke_sev']
 JUDGE = ['明确不利', '明确有利', '方向不确定', '已达普及']; P3 = ['1990–2000', '2001–2010', '2011–2023']
 def wilson(k, n, z=1.959964):

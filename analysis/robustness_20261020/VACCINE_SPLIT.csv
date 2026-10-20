@@ -1,0 +1,91 @@
+vaccines,band,n,kind,outcome,pct,lo,hi
+All three vaccines (main),Low and low-middle,89,between,Diarrhoeal incidence,4.192650472964932,-3.156644026348521,11.494231251384324
+All three vaccines (main),Low and low-middle,89,between,Diarrhoeal mortality,4.940459259611707,-9.581729235220331,23.079877183936556
+All three vaccines (main),Low and low-middle,89,between,LRI incidence,-2.0319804972599997,-6.941512462243824,3.152150331391883
+All three vaccines (main),Low and low-middle,89,between,LRI mortality,8.617215442329895,-1.3651810395263866,20.291353291613213
+All three vaccines (main),Low and low-middle,89,between,Meningitis incidence,10.70689922303012,2.5996727659129344,20.893131561737295
+All three vaccines (main),Low and low-middle,89,between,Meningitis mortality,8.981691965546258,-3.8861283918631413,24.158600827619516
+All three vaccines (main),Low and low-middle,89,contrast,Diarrhoeal mortality,-2.3787037643627884,-9.183195717160755,4.839118241899733
+All three vaccines (main),Low and low-middle,89,contrast,LRI mortality,1.0416138808210462,-5.210336373913993,8.281156938526523
+All three vaccines (main),Low and low-middle,89,contrast,Meningitis mortality,1.3806696739333324,-5.998026420295412,8.57032287760018
+All three vaccines (main),Low and low-middle,89,contrast,Diarrhoeal incidence,0.03186950058293725,-5.074714113421357,4.278877288347355
+All three vaccines (main),Low and low-middle,89,contrast,LRI incidence,-5.944189943882305,-9.80579459185682,-1.5834877997982815
+All three vaccines (main),Low and low-middle,89,contrast,Meningitis incidence,6.285981262812612,1.0387461840210022,12.347421878081715
+All three vaccines (main),Low and low-middle,89,per_episode,Diarrhoeal,0.717717404492757,-10.333629764927865,14.551753251798516
+All three vaccines (main),Low and low-middle,89,per_episode,LRI,10.870073717568696,0.13640433219274994,22.530587651070302
+All three vaccines (main),Low and low-middle,89,per_episode,Meningitis,-1.5583556847783009,-9.585603301503886,6.41537932177819
+All three vaccines (main),High,66,between,Diarrhoeal incidence,-7.304486720398029,-29.430419196964266,38.07651345709865
+All three vaccines (main),High,66,between,Diarrhoeal mortality,-32.04174372414392,-53.46741174654929,-10.133915769666404
+All three vaccines (main),High,66,between,LRI incidence,-6.213929617457669,-21.25342771504379,26.030604035557165
+All three vaccines (main),High,66,between,LRI mortality,5.658085910823818,-16.203158097591732,50.80121609437156
+All three vaccines (main),High,66,between,Meningitis incidence,20.077173706332484,-8.1814577771956,45.00256097400653
+All three vaccines (main),High,66,between,Meningitis mortality,26.510748840153187,-6.114625455430729,49.572037134929296
+All three vaccines (main),High,66,contrast,Diarrhoeal mortality,-29.830007595109432,-46.25841301926419,-14.416250942556328
+All three vaccines (main),High,66,contrast,LRI mortality,9.096782233239932,-5.513499523560396,45.37240843257602
+All three vaccines (main),High,66,contrast,Meningitis mortality,30.628105718545996,0.4944628501246967,51.907801762441295
+All three vaccines (main),High,66,contrast,Diarrhoeal incidence,-8.622442871650982,-22.895984531762128,17.9027146104012
+All three vaccines (main),High,66,contrast,LRI incidence,-7.5473914430551625,-21.906426049878114,17.24952215517584
+All three vaccines (main),High,66,contrast,Meningitis incidence,18.369901756351737,-7.652413997443063,31.052241869518838
+All three vaccines (main),High,66,per_episode,Diarrhoeal,-26.686574278012465,-60.0161102461826,2.9373470495969545
+All three vaccines (main),High,66,per_episode,LRI,12.658612819427173,-12.101631345130578,42.14465030137608
+All three vaccines (main),High,66,per_episode,Meningitis,5.3578668911337335,-13.510906872633415,23.576689074096933
+DTP3 only,Low and low-middle,89,between,Diarrhoeal incidence,3.8476516371655167,-2.988416117606042,10.613818921747333
+DTP3 only,Low and low-middle,89,between,Diarrhoeal mortality,2.753366876774521,-11.472335239543746,22.26446222256167
+DTP3 only,Low and low-middle,89,between,LRI incidence,-1.9990020794541374,-7.032652719383609,2.5217311850703563
+DTP3 only,Low and low-middle,89,between,LRI mortality,7.220554339153118,-2.9307495443720866,19.533377717771376
+DTP3 only,Low and low-middle,89,between,Meningitis incidence,8.704006034475299,1.0247991889302943,18.603654313557296
+DTP3 only,Low and low-middle,89,between,Meningitis mortality,7.303410522690812,-5.544943762480059,22.966582836448318
+DTP3 only,Low and low-middle,89,contrast,Diarrhoeal mortality,-2.8222477645742594,-8.883384235886801,4.068968504830285
+DTP3 only,Low and low-middle,89,contrast,LRI mortality,1.4025406740258095,-4.947896777263608,8.98429502527333
+DTP3 only,Low and low-middle,89,contrast,Meningitis mortality,1.480900906101268,-5.949420010274112,8.470575120852837
+DTP3 only,Low and low-middle,89,contrast,Diarrhoeal incidence,0.40895277591792567,-4.42475132634764,4.5258852248689605
+DTP3 only,Low and low-middle,89,contrast,LRI incidence,-5.244101170649207,-9.215628041826582,-1.1377557944921275
+DTP3 only,Low and low-middle,89,contrast,Meningitis incidence,5.104499104171034,-0.1449478325140742,11.398606277541925
+DTP3 only,Low and low-middle,89,per_episode,Diarrhoeal,-1.0537404969101383,-12.269379944099104,14.213878089243623
+DTP3 only,Low and low-middle,89,per_episode,LRI,9.407614834781587,-1.404153846530996,22.266743832703213
+DTP3 only,Low and low-middle,89,per_episode,Meningitis,-1.2884488464392718,-9.637437576422526,6.9058802766746075
+DTP3 only,High,66,between,Diarrhoeal incidence,-6.811873569026261,-24.661959081731137,68.89527347289574
+DTP3 only,High,66,between,Diarrhoeal mortality,-23.24296383913117,-47.770174713163016,30.736204069906115
+DTP3 only,High,66,between,LRI incidence,-8.167441270316312,-21.031385122773727,44.99939073646703
+DTP3 only,High,66,between,LRI mortality,9.407282130391238,-15.080916295313127,106.08556274286836
+DTP3 only,High,66,between,Meningitis incidence,14.42262002724146,-19.750845842950827,39.076244966613565
+DTP3 only,High,66,between,Meningitis mortality,22.524590675413926,-14.825683016931626,51.03705097806551
+DTP3 only,High,66,contrast,Diarrhoeal mortality,-23.969303678143206,-43.67357145388309,5.825891684114349
+DTP3 only,High,66,contrast,LRI mortality,8.371978115749679,-6.760093950075308,60.04145508910327
+DTP3 only,High,66,contrast,Meningitis mortality,21.36515961974259,-18.32356669103073,37.900049611268344
+DTP3 only,High,66,contrast,Diarrhoeal incidence,-6.156500248687891,-18.44777731176085,35.61639919226897
+DTP3 only,High,66,contrast,LRI incidence,-7.521601384540499,-23.174792661631027,22.762995015960247
+DTP3 only,High,66,contrast,Meningitis incidence,15.227331263330267,-22.02131961271069,29.65604284138616
+DTP3 only,High,66,per_episode,Diarrhoeal,-17.63217150017038,-62.62856793866957,25.718101720139654
+DTP3 only,High,66,per_episode,LRI,19.137791262508653,-16.309244744762378,70.17104977955738
+DTP3 only,High,66,per_episode,Meningitis,7.080742117462058,-12.968328008762029,35.30107767100545
+Hib3 and PCV3 only,Low and low-middle,89,between,Diarrhoeal incidence,4.590651171253346,-3.414995412962551,12.33133774324105
+Hib3 and PCV3 only,Low and low-middle,89,between,Diarrhoeal mortality,6.402622337796693,-9.572491204481341,25.290107467099983
+Hib3 and PCV3 only,Low and low-middle,89,between,LRI incidence,-1.9874715524803799,-7.144830918385749,3.71758623377663
+Hib3 and PCV3 only,Low and low-middle,89,between,LRI mortality,9.457434807922072,-0.5316490283518642,21.003608246469625
+Hib3 and PCV3 only,Low and low-middle,89,between,Meningitis incidence,11.742416570287538,3.1618393489864975,22.58543155824407
+Hib3 and PCV3 only,Low and low-middle,89,between,Meningitis mortality,9.948785966281214,-3.0743829286624353,25.292222530837336
+Hib3 and PCV3 only,Low and low-middle,89,contrast,Diarrhoeal mortality,-2.01573944678457,-9.638496832103023,5.457843455541923
+Hib3 and PCV3 only,Low and low-middle,89,contrast,LRI mortality,0.7973823958680848,-5.427592214417302,8.154167032865859
+Hib3 and PCV3 only,Low and low-middle,89,contrast,Meningitis mortality,1.2498588373879294,-6.367388135914691,9.301826193038503
+Hib3 and PCV3 only,Low and low-middle,89,contrast,Diarrhoeal incidence,-0.03943691980368147,-5.6454759433421655,4.3951329097243805
+Hib3 and PCV3 only,Low and low-middle,89,contrast,LRI incidence,-6.326354957998137,-10.211839171115537,-1.766563994866388
+Hib3 and PCV3 only,Low and low-middle,89,contrast,Meningitis incidence,6.795729400505168,1.4630703306020398,13.069931211905693
+Hib3 and PCV3 only,Low and low-middle,89,per_episode,Diarrhoeal,1.7324408503552435,-9.992138683398831,15.439019578122933
+Hib3 and PCV3 only,Low and low-middle,89,per_episode,LRI,11.67698307725078,0.8047797272837537,23.026116452560952
+Hib3 and PCV3 only,Low and low-middle,89,per_episode,Meningitis,-1.6051474982001213,-9.791315874099057,6.656724492317664
+Hib3 and PCV3 only,High,66,between,Diarrhoeal incidence,-3.9728611898648403,-31.740833925064987,21.95233406576126
+Hib3 and PCV3 only,High,66,between,Diarrhoeal mortality,-26.978968526228797,-48.43777182769748,-10.823985316864656
+Hib3 and PCV3 only,High,66,between,LRI incidence,-1.9939347856503864,-24.547837921922913,15.60597007422635
+Hib3 and PCV3 only,High,66,between,LRI mortality,3.1091814792750805,-17.36485222403172,32.899535430843265
+Hib3 and PCV3 only,High,66,between,Meningitis incidence,16.924886004234807,-10.970939971003935,32.85872884146258
+Hib3 and PCV3 only,High,66,between,Meningitis mortality,20.670067988651518,-9.707081102610562,38.89581313103369
+Hib3 and PCV3 only,High,66,contrast,Diarrhoeal mortality,-24.60665538216884,-38.67593221957382,-12.28154081692029
+Hib3 and PCV3 only,High,66,contrast,LRI mortality,6.459000860892705,-5.024353230530095,36.011914820116395
+Hib3 and PCV3 only,High,66,contrast,Meningitis mortality,24.590406863718115,1.5736064233337055,42.64881628015526
+Hib3 and PCV3 only,High,66,contrast,Diarrhoeal incidence,-6.987206100369825,-21.833629160667346,14.354546298482363
+Hib3 and PCV3 only,High,66,contrast,LRI incidence,-5.070399288686422,-21.862010599990647,14.618347485456809
+Hib3 and PCV3 only,High,66,contrast,Meningitis incidence,13.254549270208926,-3.630117974423729,29.87960127506147
+Hib3 and PCV3 only,High,66,per_episode,Diarrhoeal,-23.95792233469709,-50.93039604220603,4.904856170737833
+Hib3 and PCV3 only,High,66,per_episode,LRI,5.206939237652719,-8.241322740438152,37.51253367580133
+Hib3 and PCV3 only,High,66,per_episode,Meningitis,3.203066611740013,-12.905850737491509,20.565074905777376

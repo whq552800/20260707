@@ -4,7 +4,7 @@ High,Diarrhoeal incidence,Entered high tail,basic_sanitation_pct,5,5,40.0,40.0,-
 High,Diarrhoeal incidence,Entered high tail,clean_cooking_pct,5,5,0.0,0.0,-0.0094
 High,Diarrhoeal incidence,Entered high tail,dtp3_pct,5,5,40.0,40.0,1.2592
 High,Diarrhoeal incidence,Entered high tail,hib3_pct,5,5,80.0,20.0,6.3529
-High,Diarrhoeal incidence,Entered high tail,pcv3_pct,5,2,0.0,0.0,14.8241
+High,Diarrhoeal incidence,Entered high tail,pcv3_pct,5,4,25.0,25.0,14.8241
 High,Diarrhoeal incidence,Entered high tail,stunting_u5_pct,5,0,,,
 High,Diarrhoeal incidence,Entered high tail,low_birthweight_pct,5,4,0.0,25.0,-0.1017
 High,Diarrhoeal incidence,Entered high tail,undernourishment_pct,5,5,20.0,0.0,0.1774
@@ -12,6 +12,7 @@ High,Diarrhoeal incidence,Entered high tail,uhc_service_index,5,5,60.0,60.0,-0.1
 High,Diarrhoeal incidence,Entered high tail,health_expenditure_pc_current_usd,5,5,20.0,40.0,-356.1489
 High,Diarrhoeal incidence,Entered high tail,hospital_beds_per1000,5,5,20.0,60.0,-0.1483
 High,Diarrhoeal incidence,Entered high tail,nurses_midwives_per1000,5,5,20.0,20.0,0.1694
+High,Diarrhoeal incidence,Entered high tail,physicians_per1000,5,0,,,
 High,Diarrhoeal incidence,Entered high tail,gbd_ambient_pm25_ug_m3,5,5,40.0,20.0,1.6849
 High,Diarrhoeal incidence,Entered high tail,secondhand_smoke_sev,5,5,40.0,60.0,0.8024
 High,Diarrhoeal incidence,Left high tail,basic_water_pct,5,5,40.0,40.0,0.6655
@@ -27,6 +28,7 @@ High,Diarrhoeal incidence,Left high tail,uhc_service_index,5,5,60.0,60.0,0.4195
 High,Diarrhoeal incidence,Left high tail,health_expenditure_pc_current_usd,5,5,20.0,20.0,192.2249
 High,Diarrhoeal incidence,Left high tail,hospital_beds_per1000,5,4,25.0,25.0,-0.431
 High,Diarrhoeal incidence,Left high tail,nurses_midwives_per1000,5,5,0.0,0.0,0.0562
+High,Diarrhoeal incidence,Left high tail,physicians_per1000,5,0,,,
 High,Diarrhoeal incidence,Left high tail,gbd_ambient_pm25_ug_m3,5,5,40.0,20.0,1.7623
 High,Diarrhoeal incidence,Left high tail,secondhand_smoke_sev,5,5,40.0,40.0,0.1704
 High,Diarrhoeal incidence,Stayed in high tail,basic_water_pct,9,8,37.5,25.0,0.8087
@@ -35,13 +37,14 @@ High,Diarrhoeal incidence,Stayed in high tail,clean_cooking_pct,9,8,0.0,0.0,0.01
 High,Diarrhoeal incidence,Stayed in high tail,dtp3_pct,9,8,62.5,62.5,-0.2017
 High,Diarrhoeal incidence,Stayed in high tail,hib3_pct,9,7,42.8571,71.4286,5.7434
 High,Diarrhoeal incidence,Stayed in high tail,pcv3_pct,9,3,0.0,33.3333,-9.6636
-High,Diarrhoeal incidence,Stayed in high tail,stunting_u5_pct,9,1,0.0,100.0,-0.8836
+High,Diarrhoeal incidence,Stayed in high tail,stunting_u5_pct,9,2,0.0,50.0,-0.8836
 High,Diarrhoeal incidence,Stayed in high tail,low_birthweight_pct,9,8,37.5,37.5,-0.1368
 High,Diarrhoeal incidence,Stayed in high tail,undernourishment_pct,9,7,0.0,0.0,-0.0502
 High,Diarrhoeal incidence,Stayed in high tail,uhc_service_index,9,8,25.0,25.0,-0.5679
 High,Diarrhoeal incidence,Stayed in high tail,health_expenditure_pc_current_usd,9,8,37.5,37.5,371.3547
 High,Diarrhoeal incidence,Stayed in high tail,hospital_beds_per1000,9,8,37.5,25.0,-0.0828
 High,Diarrhoeal incidence,Stayed in high tail,nurses_midwives_per1000,9,8,37.5,37.5,0.1745
+High,Diarrhoeal incidence,Stayed in high tail,physicians_per1000,9,0,,,
 High,Diarrhoeal incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,9,9,66.6667,33.3333,1.1593
 High,Diarrhoeal incidence,Stayed in high tail,secondhand_smoke_sev,9,9,55.5556,55.5556,0.5217
 High,Diarrhoeal incidence,Stayed in low tail,basic_water_pct,9,9,44.4444,33.3333,-0.4022
@@ -50,13 +53,14 @@ High,Diarrhoeal incidence,Stayed in low tail,clean_cooking_pct,9,8,0.0,0.0,0.016
 High,Diarrhoeal incidence,Stayed in low tail,dtp3_pct,9,8,50.0,50.0,-0.0964
 High,Diarrhoeal incidence,Stayed in low tail,hib3_pct,9,6,50.0,66.6667,2.4366
 High,Diarrhoeal incidence,Stayed in low tail,pcv3_pct,9,5,60.0,80.0,22.5615
-High,Diarrhoeal incidence,Stayed in low tail,stunting_u5_pct,9,1,0.0,0.0,-0.0829
+High,Diarrhoeal incidence,Stayed in low tail,stunting_u5_pct,9,3,0.0,0.0,-0.0829
 High,Diarrhoeal incidence,Stayed in low tail,low_birthweight_pct,9,8,50.0,50.0,-0.311
 High,Diarrhoeal incidence,Stayed in low tail,undernourishment_pct,9,5,0.0,0.0,-0.1266
 High,Diarrhoeal incidence,Stayed in low tail,uhc_service_index,9,8,12.5,0.0,-0.2783
 High,Diarrhoeal incidence,Stayed in low tail,health_expenditure_pc_current_usd,9,8,50.0,50.0,107.9163
 High,Diarrhoeal incidence,Stayed in low tail,hospital_beds_per1000,9,8,62.5,62.5,1.0126
-High,Diarrhoeal incidence,Stayed in low tail,nurses_midwives_per1000,9,7,42.8571,42.8571,0.0949
+High,Diarrhoeal incidence,Stayed in low tail,nurses_midwives_per1000,9,8,50.0,50.0,0.0949
+High,Diarrhoeal incidence,Stayed in low tail,physicians_per1000,9,0,,,
 High,Diarrhoeal incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,9,9,44.4444,33.3333,-0.3383
 High,Diarrhoeal incidence,Stayed in low tail,secondhand_smoke_sev,9,9,33.3333,33.3333,-0.8979
 High,Diarrhoeal mortality,Entered high tail,basic_water_pct,4,4,75.0,50.0,1.2698
@@ -72,6 +76,7 @@ High,Diarrhoeal mortality,Entered high tail,uhc_service_index,4,3,0.0,0.0,-0.939
 High,Diarrhoeal mortality,Entered high tail,health_expenditure_pc_current_usd,4,3,66.6667,0.0,146.101
 High,Diarrhoeal mortality,Entered high tail,hospital_beds_per1000,4,3,0.0,0.0,-0.4691
 High,Diarrhoeal mortality,Entered high tail,nurses_midwives_per1000,4,3,0.0,0.0,-0.5284
+High,Diarrhoeal mortality,Entered high tail,physicians_per1000,4,0,,,
 High,Diarrhoeal mortality,Entered high tail,gbd_ambient_pm25_ug_m3,4,4,75.0,75.0,2.2539
 High,Diarrhoeal mortality,Entered high tail,secondhand_smoke_sev,4,4,50.0,75.0,-0.3173
 High,Diarrhoeal mortality,Left high tail,basic_water_pct,7,7,28.5714,28.5714,0.0052
@@ -86,7 +91,8 @@ High,Diarrhoeal mortality,Left high tail,undernourishment_pct,7,5,20.0,0.0,0.319
 High,Diarrhoeal mortality,Left high tail,uhc_service_index,7,7,42.8571,42.8571,-1.1011
 High,Diarrhoeal mortality,Left high tail,health_expenditure_pc_current_usd,7,7,14.2857,42.8571,60.5311
 High,Diarrhoeal mortality,Left high tail,hospital_beds_per1000,7,7,71.4286,71.4286,-0.2849
-High,Diarrhoeal mortality,Left high tail,nurses_midwives_per1000,7,6,33.3333,50.0,-0.3645
+High,Diarrhoeal mortality,Left high tail,nurses_midwives_per1000,7,7,42.8571,57.1429,-0.3645
+High,Diarrhoeal mortality,Left high tail,physicians_per1000,7,0,,,
 High,Diarrhoeal mortality,Left high tail,gbd_ambient_pm25_ug_m3,7,7,57.1429,42.8571,1.2616
 High,Diarrhoeal mortality,Left high tail,secondhand_smoke_sev,7,7,28.5714,28.5714,-1.5947
 High,Diarrhoeal mortality,Stayed in high tail,basic_water_pct,7,7,14.2857,14.2857,0.2314
@@ -94,7 +100,7 @@ High,Diarrhoeal mortality,Stayed in high tail,basic_sanitation_pct,7,6,33.3333,1
 High,Diarrhoeal mortality,Stayed in high tail,clean_cooking_pct,7,5,0.0,0.0,0.0468
 High,Diarrhoeal mortality,Stayed in high tail,dtp3_pct,7,5,80.0,40.0,2.6645
 High,Diarrhoeal mortality,Stayed in high tail,hib3_pct,7,5,80.0,40.0,2.0142
-High,Diarrhoeal mortality,Stayed in high tail,pcv3_pct,7,4,50.0,50.0,16.2933
+High,Diarrhoeal mortality,Stayed in high tail,pcv3_pct,7,5,40.0,40.0,16.2933
 High,Diarrhoeal mortality,Stayed in high tail,stunting_u5_pct,7,0,,,
 High,Diarrhoeal mortality,Stayed in high tail,low_birthweight_pct,7,5,40.0,60.0,-0.0063
 High,Diarrhoeal mortality,Stayed in high tail,undernourishment_pct,7,4,25.0,25.0,-0.0849
@@ -102,6 +108,7 @@ High,Diarrhoeal mortality,Stayed in high tail,uhc_service_index,7,5,60.0,60.0,1.
 High,Diarrhoeal mortality,Stayed in high tail,health_expenditure_pc_current_usd,7,5,40.0,40.0,206.4812
 High,Diarrhoeal mortality,Stayed in high tail,hospital_beds_per1000,7,4,50.0,75.0,0.4751
 High,Diarrhoeal mortality,Stayed in high tail,nurses_midwives_per1000,7,5,20.0,20.0,1.0152
+High,Diarrhoeal mortality,Stayed in high tail,physicians_per1000,7,0,,,
 High,Diarrhoeal mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,7,7,28.5714,14.2857,-0.5601
 High,Diarrhoeal mortality,Stayed in high tail,secondhand_smoke_sev,7,7,28.5714,42.8571,-0.3239
 High,Diarrhoeal mortality,Stayed in low tail,basic_water_pct,8,8,0.0,0.0,0.0138
@@ -117,6 +124,7 @@ High,Diarrhoeal mortality,Stayed in low tail,uhc_service_index,8,8,50.0,37.5,-0.
 High,Diarrhoeal mortality,Stayed in low tail,health_expenditure_pc_current_usd,8,8,12.5,12.5,157.6669
 High,Diarrhoeal mortality,Stayed in low tail,hospital_beds_per1000,8,6,33.3333,16.6667,0.5725
 High,Diarrhoeal mortality,Stayed in low tail,nurses_midwives_per1000,8,6,66.6667,50.0,0.4827
+High,Diarrhoeal mortality,Stayed in low tail,physicians_per1000,8,0,,,
 High,Diarrhoeal mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,8,8,62.5,50.0,1.8262
 High,Diarrhoeal mortality,Stayed in low tail,secondhand_smoke_sev,8,8,37.5,50.0,-0.7352
 High,LRI incidence,Entered high tail,basic_water_pct,3,3,100.0,66.6667,0.585
@@ -125,13 +133,14 @@ High,LRI incidence,Entered high tail,clean_cooking_pct,3,3,0.0,0.0,-0.009
 High,LRI incidence,Entered high tail,dtp3_pct,3,3,66.6667,66.6667,-2.7244
 High,LRI incidence,Entered high tail,hib3_pct,3,3,100.0,66.6667,22.7353
 High,LRI incidence,Entered high tail,pcv3_pct,3,0,,,
-High,LRI incidence,Entered high tail,stunting_u5_pct,3,0,,,-0.0645
+High,LRI incidence,Entered high tail,stunting_u5_pct,3,1,0.0,0.0,-0.0645
 High,LRI incidence,Entered high tail,low_birthweight_pct,3,3,0.0,0.0,-0.0572
 High,LRI incidence,Entered high tail,undernourishment_pct,3,3,0.0,0.0,-0.1335
 High,LRI incidence,Entered high tail,uhc_service_index,3,3,100.0,66.6667,1.1292
 High,LRI incidence,Entered high tail,health_expenditure_pc_current_usd,3,3,100.0,100.0,-463.1755
 High,LRI incidence,Entered high tail,hospital_beds_per1000,3,3,0.0,0.0,-0.3426
 High,LRI incidence,Entered high tail,nurses_midwives_per1000,3,3,0.0,66.6667,-1.3068
+High,LRI incidence,Entered high tail,physicians_per1000,3,0,,,
 High,LRI incidence,Entered high tail,gbd_ambient_pm25_ug_m3,3,3,66.6667,33.3333,3.2592
 High,LRI incidence,Entered high tail,secondhand_smoke_sev,3,3,100.0,66.6667,2.314
 High,LRI incidence,Left high tail,basic_water_pct,1,1,100.0,100.0,0.3867
@@ -147,6 +156,7 @@ High,LRI incidence,Left high tail,uhc_service_index,1,1,0.0,0.0,-0.1144
 High,LRI incidence,Left high tail,health_expenditure_pc_current_usd,1,1,0.0,0.0,514.6857
 High,LRI incidence,Left high tail,hospital_beds_per1000,1,1,0.0,0.0,-0.2845
 High,LRI incidence,Left high tail,nurses_midwives_per1000,1,1,0.0,0.0,1.8192
+High,LRI incidence,Left high tail,physicians_per1000,1,0,,,
 High,LRI incidence,Left high tail,gbd_ambient_pm25_ug_m3,1,1,0.0,0.0,-1.6829
 High,LRI incidence,Left high tail,secondhand_smoke_sev,1,1,100.0,100.0,6.2417
 High,LRI incidence,Stayed in high tail,basic_water_pct,15,14,35.7143,14.2857,0.3897
@@ -154,14 +164,15 @@ High,LRI incidence,Stayed in high tail,basic_sanitation_pct,15,14,28.5714,28.571
 High,LRI incidence,Stayed in high tail,clean_cooking_pct,15,10,0.0,0.0,0.0528
 High,LRI incidence,Stayed in high tail,dtp3_pct,15,10,40.0,40.0,0.1853
 High,LRI incidence,Stayed in high tail,hib3_pct,15,9,22.2222,33.3333,-0.9426
-High,LRI incidence,Stayed in high tail,pcv3_pct,15,7,42.8571,42.8571,21.0753
+High,LRI incidence,Stayed in high tail,pcv3_pct,15,8,37.5,37.5,21.0753
 High,LRI incidence,Stayed in high tail,stunting_u5_pct,15,1,0.0,100.0,-1.9813
 High,LRI incidence,Stayed in high tail,low_birthweight_pct,15,10,60.0,70.0,-0.3534
 High,LRI incidence,Stayed in high tail,undernourishment_pct,15,6,33.3333,33.3333,0.1935
 High,LRI incidence,Stayed in high tail,uhc_service_index,15,10,20.0,20.0,-1.7995
 High,LRI incidence,Stayed in high tail,health_expenditure_pc_current_usd,15,10,60.0,50.0,9.5115
 High,LRI incidence,Stayed in high tail,hospital_beds_per1000,15,9,55.5556,55.5556,0.1006
-High,LRI incidence,Stayed in high tail,nurses_midwives_per1000,15,9,33.3333,44.4444,0.3343
+High,LRI incidence,Stayed in high tail,nurses_midwives_per1000,15,10,40.0,50.0,0.3343
+High,LRI incidence,Stayed in high tail,physicians_per1000,15,0,,,
 High,LRI incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,15,15,60.0,53.3333,0.0441
 High,LRI incidence,Stayed in high tail,secondhand_smoke_sev,15,15,26.6667,46.6667,-2.9255
 High,LRI incidence,Stayed in low tail,basic_water_pct,16,16,0.0,6.25,-0.0813
@@ -169,7 +180,7 @@ High,LRI incidence,Stayed in low tail,basic_sanitation_pct,16,15,20.0,20.0,-0.07
 High,LRI incidence,Stayed in low tail,clean_cooking_pct,16,15,0.0,0.0,0.0317
 High,LRI incidence,Stayed in low tail,dtp3_pct,16,15,53.3333,53.3333,1.58
 High,LRI incidence,Stayed in low tail,hib3_pct,16,15,53.3333,46.6667,3.6936
-High,LRI incidence,Stayed in low tail,pcv3_pct,16,4,50.0,50.0,3.3106
+High,LRI incidence,Stayed in low tail,pcv3_pct,16,6,33.3333,33.3333,3.3106
 High,LRI incidence,Stayed in low tail,stunting_u5_pct,16,1,0.0,0.0,-0.1272
 High,LRI incidence,Stayed in low tail,low_birthweight_pct,16,14,28.5714,28.5714,0.0182
 High,LRI incidence,Stayed in low tail,undernourishment_pct,16,14,7.1429,0.0,0.0964
@@ -177,6 +188,7 @@ High,LRI incidence,Stayed in low tail,uhc_service_index,16,15,20.0,20.0,-0.3521
 High,LRI incidence,Stayed in low tail,health_expenditure_pc_current_usd,16,15,6.6667,13.3333,205.9158
 High,LRI incidence,Stayed in low tail,hospital_beds_per1000,16,14,64.2857,57.1429,-0.2106
 High,LRI incidence,Stayed in low tail,nurses_midwives_per1000,16,15,46.6667,33.3333,0.0751
+High,LRI incidence,Stayed in low tail,physicians_per1000,16,0,,,
 High,LRI incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,16,16,37.5,25.0,1.1516
 High,LRI incidence,Stayed in low tail,secondhand_smoke_sev,16,16,43.75,43.75,0.2322
 High,LRI mortality,Entered high tail,basic_water_pct,4,4,50.0,25.0,1.5376
@@ -192,6 +204,7 @@ High,LRI mortality,Entered high tail,uhc_service_index,4,3,33.3333,33.3333,-1.80
 High,LRI mortality,Entered high tail,health_expenditure_pc_current_usd,4,3,66.6667,100.0,-265.2786
 High,LRI mortality,Entered high tail,hospital_beds_per1000,4,3,33.3333,33.3333,0.0705
 High,LRI mortality,Entered high tail,nurses_midwives_per1000,4,3,0.0,33.3333,0.3783
+High,LRI mortality,Entered high tail,physicians_per1000,4,0,,,
 High,LRI mortality,Entered high tail,gbd_ambient_pm25_ug_m3,4,4,75.0,25.0,0.5632
 High,LRI mortality,Entered high tail,secondhand_smoke_sev,4,4,25.0,50.0,-4.2124
 High,LRI mortality,Stayed in high tail,basic_water_pct,13,12,50.0,25.0,0.4535
@@ -199,14 +212,15 @@ High,LRI mortality,Stayed in high tail,basic_sanitation_pct,13,11,54.5455,45.454
 High,LRI mortality,Stayed in high tail,clean_cooking_pct,13,9,0.0,0.0,0.0527
 High,LRI mortality,Stayed in high tail,dtp3_pct,13,9,44.4444,44.4444,-0.141
 High,LRI mortality,Stayed in high tail,hib3_pct,13,8,25.0,37.5,1.4524
-High,LRI mortality,Stayed in high tail,pcv3_pct,13,4,50.0,50.0,20.123
+High,LRI mortality,Stayed in high tail,pcv3_pct,13,5,40.0,40.0,20.123
 High,LRI mortality,Stayed in high tail,stunting_u5_pct,13,1,0.0,100.0,-1.9813
 High,LRI mortality,Stayed in high tail,low_birthweight_pct,13,9,55.5556,55.5556,-0.1884
 High,LRI mortality,Stayed in high tail,undernourishment_pct,13,6,33.3333,33.3333,0.3626
 High,LRI mortality,Stayed in high tail,uhc_service_index,13,9,66.6667,55.5556,-0.3176
 High,LRI mortality,Stayed in high tail,health_expenditure_pc_current_usd,13,9,66.6667,55.5556,-186.3557
 High,LRI mortality,Stayed in high tail,hospital_beds_per1000,13,8,37.5,37.5,0.159
-High,LRI mortality,Stayed in high tail,nurses_midwives_per1000,13,7,42.8571,57.1429,-0.507
+High,LRI mortality,Stayed in high tail,nurses_midwives_per1000,13,8,50.0,62.5,-0.507
+High,LRI mortality,Stayed in high tail,physicians_per1000,13,0,,,
 High,LRI mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,13,13,46.1538,46.1538,0.6283
 High,LRI mortality,Stayed in high tail,secondhand_smoke_sev,13,13,46.1538,61.5385,-1.03
 High,LRI mortality,Stayed in low tail,basic_water_pct,13,13,7.6923,7.6923,0.2128
@@ -214,14 +228,15 @@ High,LRI mortality,Stayed in low tail,basic_sanitation_pct,13,13,23.0769,15.3846
 High,LRI mortality,Stayed in low tail,clean_cooking_pct,13,13,0.0,0.0,0.042
 High,LRI mortality,Stayed in low tail,dtp3_pct,13,13,38.4615,46.1538,1.0967
 High,LRI mortality,Stayed in low tail,hib3_pct,13,13,38.4615,38.4615,3.2452
-High,LRI mortality,Stayed in low tail,pcv3_pct,13,4,25.0,50.0,-2.9204
-High,LRI mortality,Stayed in low tail,stunting_u5_pct,13,0,,,0.2141
+High,LRI mortality,Stayed in low tail,pcv3_pct,13,6,16.6667,50.0,-2.9204
+High,LRI mortality,Stayed in low tail,stunting_u5_pct,13,1,0.0,0.0,0.2141
 High,LRI mortality,Stayed in low tail,low_birthweight_pct,13,12,33.3333,33.3333,0.0702
 High,LRI mortality,Stayed in low tail,undernourishment_pct,13,13,7.6923,0.0,0.099
 High,LRI mortality,Stayed in low tail,uhc_service_index,13,13,15.3846,15.3846,0.0717
 High,LRI mortality,Stayed in low tail,health_expenditure_pc_current_usd,13,13,0.0,7.6923,157.5799
 High,LRI mortality,Stayed in low tail,hospital_beds_per1000,13,13,38.4615,30.7692,-0.4289
 High,LRI mortality,Stayed in low tail,nurses_midwives_per1000,13,13,46.1538,30.7692,0.4298
+High,LRI mortality,Stayed in low tail,physicians_per1000,13,0,,,
 High,LRI mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,13,13,61.5385,38.4615,2.1848
 High,LRI mortality,Stayed in low tail,secondhand_smoke_sev,13,13,46.1538,46.1538,0.7916
 High,Meningitis incidence,Entered high tail,basic_water_pct,5,5,60.0,20.0,0.3819
@@ -236,7 +251,8 @@ High,Meningitis incidence,Entered high tail,undernourishment_pct,5,0,,,
 High,Meningitis incidence,Entered high tail,uhc_service_index,5,1,0.0,0.0,-4.3436
 High,Meningitis incidence,Entered high tail,health_expenditure_pc_current_usd,5,1,0.0,0.0,116.9473
 High,Meningitis incidence,Entered high tail,hospital_beds_per1000,5,1,100.0,100.0,-0.0454
-High,Meningitis incidence,Entered high tail,nurses_midwives_per1000,5,0,,,-0.2556
+High,Meningitis incidence,Entered high tail,nurses_midwives_per1000,5,1,100.0,100.0,-0.2556
+High,Meningitis incidence,Entered high tail,physicians_per1000,5,0,,,
 High,Meningitis incidence,Entered high tail,gbd_ambient_pm25_ug_m3,5,5,0.0,0.0,-1.3781
 High,Meningitis incidence,Entered high tail,secondhand_smoke_sev,5,5,0.0,0.0,-2.937
 High,Meningitis incidence,Left high tail,basic_water_pct,2,2,50.0,50.0,-0.0626
@@ -252,6 +268,7 @@ High,Meningitis incidence,Left high tail,uhc_service_index,2,2,50.0,50.0,-0.3243
 High,Meningitis incidence,Left high tail,health_expenditure_pc_current_usd,2,2,50.0,50.0,151.1294
 High,Meningitis incidence,Left high tail,hospital_beds_per1000,2,2,50.0,50.0,-0.7436
 High,Meningitis incidence,Left high tail,nurses_midwives_per1000,2,2,0.0,0.0,-0.4679
+High,Meningitis incidence,Left high tail,physicians_per1000,2,0,,,
 High,Meningitis incidence,Left high tail,gbd_ambient_pm25_ug_m3,2,2,0.0,0.0,0.2906
 High,Meningitis incidence,Left high tail,secondhand_smoke_sev,2,2,50.0,50.0,1.7662
 High,Meningitis incidence,Stayed in high tail,basic_water_pct,6,6,50.0,16.6667,1.3741
@@ -267,6 +284,7 @@ High,Meningitis incidence,Stayed in high tail,uhc_service_index,6,4,75.0,75.0,0.
 High,Meningitis incidence,Stayed in high tail,health_expenditure_pc_current_usd,6,4,75.0,75.0,-274.8029
 High,Meningitis incidence,Stayed in high tail,hospital_beds_per1000,6,4,0.0,25.0,0.0149
 High,Meningitis incidence,Stayed in high tail,nurses_midwives_per1000,6,4,0.0,25.0,0.07
+High,Meningitis incidence,Stayed in high tail,physicians_per1000,6,0,,,
 High,Meningitis incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,6,6,33.3333,0.0,1.1102
 High,Meningitis incidence,Stayed in high tail,secondhand_smoke_sev,6,6,66.6667,66.6667,1.4228
 High,Meningitis incidence,Stayed in low tail,basic_water_pct,9,9,44.4444,22.2222,-0.3063
@@ -275,13 +293,14 @@ High,Meningitis incidence,Stayed in low tail,clean_cooking_pct,9,9,0.0,0.0,0.022
 High,Meningitis incidence,Stayed in low tail,dtp3_pct,9,9,44.4444,33.3333,0.701
 High,Meningitis incidence,Stayed in low tail,hib3_pct,9,6,66.6667,50.0,7.6347
 High,Meningitis incidence,Stayed in low tail,pcv3_pct,9,4,50.0,75.0,10.9258
-High,Meningitis incidence,Stayed in low tail,stunting_u5_pct,9,1,0.0,0.0,-0.0829
+High,Meningitis incidence,Stayed in low tail,stunting_u5_pct,9,3,0.0,0.0,-0.0829
 High,Meningitis incidence,Stayed in low tail,low_birthweight_pct,9,8,50.0,50.0,-0.3084
 High,Meningitis incidence,Stayed in low tail,undernourishment_pct,9,6,16.6667,0.0,0.2476
 High,Meningitis incidence,Stayed in low tail,uhc_service_index,9,9,22.2222,11.1111,-0.1607
 High,Meningitis incidence,Stayed in low tail,health_expenditure_pc_current_usd,9,9,44.4444,55.5556,277.202
 High,Meningitis incidence,Stayed in low tail,hospital_beds_per1000,9,9,66.6667,55.5556,0.8139
 High,Meningitis incidence,Stayed in low tail,nurses_midwives_per1000,9,9,44.4444,55.5556,0.2322
+High,Meningitis incidence,Stayed in low tail,physicians_per1000,9,0,,,
 High,Meningitis incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,9,9,55.5556,55.5556,0.2057
 High,Meningitis incidence,Stayed in low tail,secondhand_smoke_sev,9,9,44.4444,44.4444,0.0821
 High,Meningitis mortality,Entered high tail,basic_water_pct,1,1,0.0,0.0,-0.067
@@ -297,6 +316,7 @@ High,Meningitis mortality,Entered high tail,uhc_service_index,1,0,,,
 High,Meningitis mortality,Entered high tail,health_expenditure_pc_current_usd,1,0,,,
 High,Meningitis mortality,Entered high tail,hospital_beds_per1000,1,0,,,
 High,Meningitis mortality,Entered high tail,nurses_midwives_per1000,1,0,,,
+High,Meningitis mortality,Entered high tail,physicians_per1000,1,0,,,
 High,Meningitis mortality,Entered high tail,gbd_ambient_pm25_ug_m3,1,1,0.0,0.0,-1.2569
 High,Meningitis mortality,Entered high tail,secondhand_smoke_sev,1,1,0.0,0.0,0.6397
 High,Meningitis mortality,Left high tail,basic_water_pct,3,3,33.3333,33.3333,0.134
@@ -312,6 +332,7 @@ High,Meningitis mortality,Left high tail,uhc_service_index,3,3,66.6667,66.6667,0
 High,Meningitis mortality,Left high tail,health_expenditure_pc_current_usd,3,3,33.3333,33.3333,-79.6249
 High,Meningitis mortality,Left high tail,hospital_beds_per1000,3,2,0.0,0.0,-0.8494
 High,Meningitis mortality,Left high tail,nurses_midwives_per1000,3,3,66.6667,33.3333,-0.0276
+High,Meningitis mortality,Left high tail,physicians_per1000,3,0,,,
 High,Meningitis mortality,Left high tail,gbd_ambient_pm25_ug_m3,3,3,66.6667,33.3333,2.7445
 High,Meningitis mortality,Left high tail,secondhand_smoke_sev,3,3,33.3333,33.3333,-0.1348
 High,Meningitis mortality,Stayed in high tail,basic_water_pct,6,6,33.3333,33.3333,0.0364
@@ -326,7 +347,8 @@ High,Meningitis mortality,Stayed in high tail,undernourishment_pct,6,4,0.0,0.0,-
 High,Meningitis mortality,Stayed in high tail,uhc_service_index,6,5,40.0,40.0,-0.8312
 High,Meningitis mortality,Stayed in high tail,health_expenditure_pc_current_usd,6,5,40.0,40.0,30.5328
 High,Meningitis mortality,Stayed in high tail,hospital_beds_per1000,6,5,40.0,60.0,-0.0788
-High,Meningitis mortality,Stayed in high tail,nurses_midwives_per1000,6,4,0.0,0.0,0.4293
+High,Meningitis mortality,Stayed in high tail,nurses_midwives_per1000,6,5,20.0,20.0,0.4293
+High,Meningitis mortality,Stayed in high tail,physicians_per1000,6,0,,,
 High,Meningitis mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,6,6,16.6667,0.0,0.2611
 High,Meningitis mortality,Stayed in high tail,secondhand_smoke_sev,6,6,33.3333,50.0,0.3557
 High,Meningitis mortality,Stayed in low tail,basic_water_pct,8,8,50.0,25.0,0.2355
@@ -335,28 +357,30 @@ High,Meningitis mortality,Stayed in low tail,clean_cooking_pct,8,7,0.0,0.0,0.031
 High,Meningitis mortality,Stayed in low tail,dtp3_pct,8,7,42.8571,28.5714,0.3555
 High,Meningitis mortality,Stayed in low tail,hib3_pct,8,4,25.0,50.0,-0.6171
 High,Meningitis mortality,Stayed in low tail,pcv3_pct,8,2,100.0,100.0,32.107
-High,Meningitis mortality,Stayed in low tail,stunting_u5_pct,8,0,,,0.3142
+High,Meningitis mortality,Stayed in low tail,stunting_u5_pct,8,1,0.0,0.0,0.3142
 High,Meningitis mortality,Stayed in low tail,low_birthweight_pct,8,7,42.8571,42.8571,-0.3185
 High,Meningitis mortality,Stayed in low tail,undernourishment_pct,8,4,0.0,0.0,0.0237
 High,Meningitis mortality,Stayed in low tail,uhc_service_index,8,7,14.2857,14.2857,-1.4426
 High,Meningitis mortality,Stayed in low tail,health_expenditure_pc_current_usd,8,7,57.1429,42.8571,-26.2786
 High,Meningitis mortality,Stayed in low tail,hospital_beds_per1000,8,6,33.3333,33.3333,0.9669
 High,Meningitis mortality,Stayed in low tail,nurses_midwives_per1000,8,7,57.1429,57.1429,0.4504
+High,Meningitis mortality,Stayed in low tail,physicians_per1000,8,0,,,
 High,Meningitis mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,8,8,62.5,62.5,0.4497
 High,Meningitis mortality,Stayed in low tail,secondhand_smoke_sev,8,8,62.5,62.5,-0.9837
 Low and low-middle,Diarrhoeal incidence,Entered high tail,basic_water_pct,7,7,71.4286,71.4286,-3.1906
 Low and low-middle,Diarrhoeal incidence,Entered high tail,basic_sanitation_pct,7,7,57.1429,42.8571,-1.2927
 Low and low-middle,Diarrhoeal incidence,Entered high tail,clean_cooking_pct,7,7,57.1429,28.5714,6.3094
 Low and low-middle,Diarrhoeal incidence,Entered high tail,dtp3_pct,7,7,71.4286,57.1429,0.552
-Low and low-middle,Diarrhoeal incidence,Entered high tail,hib3_pct,7,5,60.0,60.0,8.22
+Low and low-middle,Diarrhoeal incidence,Entered high tail,hib3_pct,7,7,57.1429,57.1429,8.22
 Low and low-middle,Diarrhoeal incidence,Entered high tail,pcv3_pct,7,0,,,
-Low and low-middle,Diarrhoeal incidence,Entered high tail,stunting_u5_pct,7,5,40.0,40.0,-3.1877
+Low and low-middle,Diarrhoeal incidence,Entered high tail,stunting_u5_pct,7,7,28.5714,57.1429,-3.1877
 Low and low-middle,Diarrhoeal incidence,Entered high tail,low_birthweight_pct,7,5,20.0,20.0,0.1401
 Low and low-middle,Diarrhoeal incidence,Entered high tail,undernourishment_pct,7,6,50.0,33.3333,2.2652
 Low and low-middle,Diarrhoeal incidence,Entered high tail,uhc_service_index,7,7,57.1429,28.5714,-0.0504
 Low and low-middle,Diarrhoeal incidence,Entered high tail,health_expenditure_pc_current_usd,7,7,71.4286,71.4286,-48.8516
-Low and low-middle,Diarrhoeal incidence,Entered high tail,hospital_beds_per1000,7,4,50.0,50.0,0.1412
+Low and low-middle,Diarrhoeal incidence,Entered high tail,hospital_beds_per1000,7,6,33.3333,33.3333,0.1412
 Low and low-middle,Diarrhoeal incidence,Entered high tail,nurses_midwives_per1000,7,7,57.1429,71.4286,-0.0792
+Low and low-middle,Diarrhoeal incidence,Entered high tail,physicians_per1000,7,0,,,
 Low and low-middle,Diarrhoeal incidence,Entered high tail,gbd_ambient_pm25_ug_m3,7,7,71.4286,71.4286,-1.1833
 Low and low-middle,Diarrhoeal incidence,Entered high tail,secondhand_smoke_sev,7,7,28.5714,28.5714,1.4793
 Low and low-middle,Diarrhoeal incidence,Left high tail,basic_water_pct,5,5,40.0,80.0,-0.8565
@@ -364,29 +388,31 @@ Low and low-middle,Diarrhoeal incidence,Left high tail,basic_sanitation_pct,5,5,
 Low and low-middle,Diarrhoeal incidence,Left high tail,clean_cooking_pct,5,5,20.0,40.0,-13.799
 Low and low-middle,Diarrhoeal incidence,Left high tail,dtp3_pct,5,5,80.0,60.0,0.6483
 Low and low-middle,Diarrhoeal incidence,Left high tail,hib3_pct,5,3,100.0,66.6667,-1.9027
-Low and low-middle,Diarrhoeal incidence,Left high tail,pcv3_pct,5,1,0.0,0.0,17.6716
-Low and low-middle,Diarrhoeal incidence,Left high tail,stunting_u5_pct,5,3,66.6667,33.3333,1.4095
+Low and low-middle,Diarrhoeal incidence,Left high tail,pcv3_pct,5,2,50.0,50.0,17.6716
+Low and low-middle,Diarrhoeal incidence,Left high tail,stunting_u5_pct,5,5,40.0,40.0,1.4095
 Low and low-middle,Diarrhoeal incidence,Left high tail,low_birthweight_pct,5,3,33.3333,33.3333,0.4886
 Low and low-middle,Diarrhoeal incidence,Left high tail,undernourishment_pct,5,4,50.0,75.0,1.3525
 Low and low-middle,Diarrhoeal incidence,Left high tail,uhc_service_index,5,5,40.0,40.0,2.3516
 Low and low-middle,Diarrhoeal incidence,Left high tail,health_expenditure_pc_current_usd,5,5,20.0,20.0,-40.2585
 Low and low-middle,Diarrhoeal incidence,Left high tail,hospital_beds_per1000,5,4,75.0,75.0,0.2305
-Low and low-middle,Diarrhoeal incidence,Left high tail,nurses_midwives_per1000,5,4,100.0,100.0,-0.0158
+Low and low-middle,Diarrhoeal incidence,Left high tail,nurses_midwives_per1000,5,5,100.0,100.0,-0.0158
+Low and low-middle,Diarrhoeal incidence,Left high tail,physicians_per1000,5,0,,,
 Low and low-middle,Diarrhoeal incidence,Left high tail,gbd_ambient_pm25_ug_m3,5,5,100.0,80.0,3.1798
 Low and low-middle,Diarrhoeal incidence,Left high tail,secondhand_smoke_sev,5,5,20.0,20.0,0.6702
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,basic_water_pct,13,13,53.8462,53.8462,0.2424
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,basic_sanitation_pct,13,13,53.8462,46.1538,-1.3648
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,clean_cooking_pct,13,13,46.1538,46.1538,3.6079
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,dtp3_pct,13,13,53.8462,53.8462,2.3199
-Low and low-middle,Diarrhoeal incidence,Stayed in high tail,hib3_pct,13,6,66.6667,66.6667,14.2751
+Low and low-middle,Diarrhoeal incidence,Stayed in high tail,hib3_pct,13,8,75.0,75.0,14.2751
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,pcv3_pct,13,2,100.0,100.0,29.4226
-Low and low-middle,Diarrhoeal incidence,Stayed in high tail,stunting_u5_pct,13,6,66.6667,50.0,0.359
+Low and low-middle,Diarrhoeal incidence,Stayed in high tail,stunting_u5_pct,13,12,41.6667,33.3333,0.359
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,low_birthweight_pct,13,11,45.4545,45.4545,-0.2542
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,undernourishment_pct,13,11,54.5455,54.5455,-0.7727
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,uhc_service_index,13,13,46.1538,69.2308,-1.2951
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,health_expenditure_pc_current_usd,13,13,46.1538,61.5385,-33.1132
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,hospital_beds_per1000,13,8,75.0,62.5,0.4056
-Low and low-middle,Diarrhoeal incidence,Stayed in high tail,nurses_midwives_per1000,13,11,45.4545,54.5455,-0.1146
+Low and low-middle,Diarrhoeal incidence,Stayed in high tail,nurses_midwives_per1000,13,13,46.1538,46.1538,-0.1146
+Low and low-middle,Diarrhoeal incidence,Stayed in high tail,physicians_per1000,13,0,,,
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,13,13,76.9231,76.9231,0.2108
 Low and low-middle,Diarrhoeal incidence,Stayed in high tail,secondhand_smoke_sev,13,13,53.8462,46.1538,-0.5596
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,basic_water_pct,14,13,23.0769,15.3846,-1.5499
@@ -394,74 +420,79 @@ Low and low-middle,Diarrhoeal incidence,Stayed in low tail,basic_sanitation_pct,
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,clean_cooking_pct,14,14,21.4286,35.7143,-2.3958
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,dtp3_pct,14,14,7.1429,21.4286,-1.8459
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,hib3_pct,14,13,15.3846,23.0769,0.1208
-Low and low-middle,Diarrhoeal incidence,Stayed in low tail,pcv3_pct,14,1,0.0,0.0,29.7247
-Low and low-middle,Diarrhoeal incidence,Stayed in low tail,stunting_u5_pct,14,8,50.0,25.0,1.1294
+Low and low-middle,Diarrhoeal incidence,Stayed in low tail,pcv3_pct,14,2,50.0,0.0,29.7247
+Low and low-middle,Diarrhoeal incidence,Stayed in low tail,stunting_u5_pct,14,12,33.3333,16.6667,1.1294
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,low_birthweight_pct,14,12,16.6667,25.0,-0.2457
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,undernourishment_pct,14,13,23.0769,7.6923,0.7591
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,uhc_service_index,14,14,7.1429,7.1429,-1.4794
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,health_expenditure_pc_current_usd,14,14,42.8571,21.4286,31.5398
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,hospital_beds_per1000,14,9,66.6667,33.3333,0.4415
-Low and low-middle,Diarrhoeal incidence,Stayed in low tail,nurses_midwives_per1000,14,12,33.3333,41.6667,0.6625
+Low and low-middle,Diarrhoeal incidence,Stayed in low tail,nurses_midwives_per1000,14,14,42.8571,42.8571,0.6625
+Low and low-middle,Diarrhoeal incidence,Stayed in low tail,physicians_per1000,14,0,,,
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,14,14,42.8571,42.8571,-0.8763
 Low and low-middle,Diarrhoeal incidence,Stayed in low tail,secondhand_smoke_sev,14,14,35.7143,35.7143,-0.2955
 Low and low-middle,Diarrhoeal mortality,Entered high tail,basic_water_pct,5,4,25.0,50.0,-5.0922
 Low and low-middle,Diarrhoeal mortality,Entered high tail,basic_sanitation_pct,5,4,50.0,50.0,-1.9652
 Low and low-middle,Diarrhoeal mortality,Entered high tail,clean_cooking_pct,5,5,60.0,40.0,-5.553
 Low and low-middle,Diarrhoeal mortality,Entered high tail,dtp3_pct,5,4,75.0,75.0,-4.6941
-Low and low-middle,Diarrhoeal mortality,Entered high tail,hib3_pct,5,3,33.3333,66.6667,17.0302
-Low and low-middle,Diarrhoeal mortality,Entered high tail,pcv3_pct,5,0,,,25.0515
-Low and low-middle,Diarrhoeal mortality,Entered high tail,stunting_u5_pct,5,3,33.3333,33.3333,-1.1554
+Low and low-middle,Diarrhoeal mortality,Entered high tail,hib3_pct,5,4,50.0,75.0,17.0302
+Low and low-middle,Diarrhoeal mortality,Entered high tail,pcv3_pct,5,1,100.0,0.0,25.0515
+Low and low-middle,Diarrhoeal mortality,Entered high tail,stunting_u5_pct,5,4,50.0,50.0,-1.1554
 Low and low-middle,Diarrhoeal mortality,Entered high tail,low_birthweight_pct,5,4,75.0,50.0,-0.4422
 Low and low-middle,Diarrhoeal mortality,Entered high tail,undernourishment_pct,5,4,50.0,50.0,3.1094
 Low and low-middle,Diarrhoeal mortality,Entered high tail,uhc_service_index,5,5,40.0,40.0,0.9389
 Low and low-middle,Diarrhoeal mortality,Entered high tail,health_expenditure_pc_current_usd,5,4,75.0,25.0,125.5154
-Low and low-middle,Diarrhoeal mortality,Entered high tail,hospital_beds_per1000,5,2,100.0,100.0,0.0803
+Low and low-middle,Diarrhoeal mortality,Entered high tail,hospital_beds_per1000,5,3,66.6667,66.6667,0.0803
 Low and low-middle,Diarrhoeal mortality,Entered high tail,nurses_midwives_per1000,5,4,50.0,25.0,0.1907
+Low and low-middle,Diarrhoeal mortality,Entered high tail,physicians_per1000,5,0,,,
 Low and low-middle,Diarrhoeal mortality,Entered high tail,gbd_ambient_pm25_ug_m3,5,5,20.0,20.0,0.9569
 Low and low-middle,Diarrhoeal mortality,Entered high tail,secondhand_smoke_sev,5,5,20.0,20.0,0.2946
 Low and low-middle,Diarrhoeal mortality,Left high tail,basic_water_pct,4,4,75.0,75.0,3.6312
 Low and low-middle,Diarrhoeal mortality,Left high tail,basic_sanitation_pct,4,4,0.0,50.0,-8.4037
 Low and low-middle,Diarrhoeal mortality,Left high tail,clean_cooking_pct,4,4,25.0,25.0,-7.3061
 Low and low-middle,Diarrhoeal mortality,Left high tail,dtp3_pct,4,4,75.0,25.0,10.1703
-Low and low-middle,Diarrhoeal mortality,Left high tail,hib3_pct,4,2,100.0,0.0,21.9148
+Low and low-middle,Diarrhoeal mortality,Left high tail,hib3_pct,4,3,100.0,0.0,21.9148
 Low and low-middle,Diarrhoeal mortality,Left high tail,pcv3_pct,4,0,,,
-Low and low-middle,Diarrhoeal mortality,Left high tail,stunting_u5_pct,4,2,50.0,0.0,3.6647
+Low and low-middle,Diarrhoeal mortality,Left high tail,stunting_u5_pct,4,4,50.0,25.0,3.6647
 Low and low-middle,Diarrhoeal mortality,Left high tail,low_birthweight_pct,4,3,0.0,0.0,0.9009
 Low and low-middle,Diarrhoeal mortality,Left high tail,undernourishment_pct,4,3,66.6667,33.3333,5.731
 Low and low-middle,Diarrhoeal mortality,Left high tail,uhc_service_index,4,4,50.0,25.0,0.9477
-Low and low-middle,Diarrhoeal mortality,Left high tail,health_expenditure_pc_current_usd,4,3,33.3333,33.3333,-23.314
+Low and low-middle,Diarrhoeal mortality,Left high tail,health_expenditure_pc_current_usd,4,4,25.0,25.0,-23.314
 Low and low-middle,Diarrhoeal mortality,Left high tail,hospital_beds_per1000,4,3,0.0,0.0,-0.4542
-Low and low-middle,Diarrhoeal mortality,Left high tail,nurses_midwives_per1000,4,3,0.0,0.0,-0.0662
+Low and low-middle,Diarrhoeal mortality,Left high tail,nurses_midwives_per1000,4,4,25.0,25.0,-0.0662
+Low and low-middle,Diarrhoeal mortality,Left high tail,physicians_per1000,4,0,,,
 Low and low-middle,Diarrhoeal mortality,Left high tail,gbd_ambient_pm25_ug_m3,4,4,75.0,75.0,-3.6948
 Low and low-middle,Diarrhoeal mortality,Left high tail,secondhand_smoke_sev,4,4,25.0,0.0,0.2073
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,basic_water_pct,19,19,78.9474,78.9474,2.314
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,basic_sanitation_pct,19,19,73.6842,78.9474,-1.3421
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,clean_cooking_pct,19,19,63.1579,57.8947,1.5947
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,dtp3_pct,19,19,84.2105,68.4211,3.8587
-Low and low-middle,Diarrhoeal mortality,Stayed in high tail,hib3_pct,19,12,66.6667,58.3333,5.8241
+Low and low-middle,Diarrhoeal mortality,Stayed in high tail,hib3_pct,19,14,71.4286,64.2857,5.8241
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,pcv3_pct,19,1,100.0,100.0,33.4663
-Low and low-middle,Diarrhoeal mortality,Stayed in high tail,stunting_u5_pct,19,10,40.0,40.0,-0.4545
+Low and low-middle,Diarrhoeal mortality,Stayed in high tail,stunting_u5_pct,19,16,37.5,37.5,-0.4545
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,low_birthweight_pct,19,14,42.8571,42.8571,0.049
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,undernourishment_pct,19,18,55.5556,55.5556,-0.2042
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,uhc_service_index,19,19,89.4737,68.4211,0.9116
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,health_expenditure_pc_current_usd,19,19,36.8421,26.3158,-20.8402
-Low and low-middle,Diarrhoeal mortality,Stayed in high tail,hospital_beds_per1000,19,4,50.0,50.0,0.2969
-Low and low-middle,Diarrhoeal mortality,Stayed in high tail,nurses_midwives_per1000,19,15,53.3333,40.0,-0.4977
+Low and low-middle,Diarrhoeal mortality,Stayed in high tail,hospital_beds_per1000,19,7,42.8571,28.5714,0.2969
+Low and low-middle,Diarrhoeal mortality,Stayed in high tail,nurses_midwives_per1000,19,18,50.0,33.3333,-0.4977
+Low and low-middle,Diarrhoeal mortality,Stayed in high tail,physicians_per1000,19,0,,,
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,19,19,52.6316,52.6316,-1.9505
 Low and low-middle,Diarrhoeal mortality,Stayed in high tail,secondhand_smoke_sev,19,19,21.0526,26.3158,-0.6306
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,basic_water_pct,17,17,35.2941,17.6471,-0.9431
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,basic_sanitation_pct,17,17,17.6471,11.7647,-0.9068
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,clean_cooking_pct,17,16,43.75,50.0,2.514
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,dtp3_pct,17,17,41.1765,35.2941,-0.6273
-Low and low-middle,Diarrhoeal mortality,Stayed in low tail,hib3_pct,17,13,30.7692,30.7692,0.8073
+Low and low-middle,Diarrhoeal mortality,Stayed in low tail,hib3_pct,17,14,35.7143,35.7143,0.8073
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,pcv3_pct,17,1,0.0,0.0,5.2396
-Low and low-middle,Diarrhoeal mortality,Stayed in low tail,stunting_u5_pct,17,9,77.7778,66.6667,1.3836
+Low and low-middle,Diarrhoeal mortality,Stayed in low tail,stunting_u5_pct,17,12,66.6667,50.0,1.3836
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,low_birthweight_pct,17,11,27.2727,27.2727,-0.1622
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,undernourishment_pct,17,12,33.3333,16.6667,-1.2842
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,uhc_service_index,17,17,29.4118,23.5294,-2.6579
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,health_expenditure_pc_current_usd,17,16,50.0,31.25,35.9378
-Low and low-middle,Diarrhoeal mortality,Stayed in low tail,hospital_beds_per1000,17,11,45.4545,45.4545,-0.07
-Low and low-middle,Diarrhoeal mortality,Stayed in low tail,nurses_midwives_per1000,17,14,28.5714,35.7143,0.2175
+Low and low-middle,Diarrhoeal mortality,Stayed in low tail,hospital_beds_per1000,17,13,46.1538,46.1538,-0.07
+Low and low-middle,Diarrhoeal mortality,Stayed in low tail,nurses_midwives_per1000,17,16,31.25,31.25,0.2175
+Low and low-middle,Diarrhoeal mortality,Stayed in low tail,physicians_per1000,17,0,,,
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,17,17,52.9412,47.0588,-1.5634
 Low and low-middle,Diarrhoeal mortality,Stayed in low tail,secondhand_smoke_sev,17,17,70.5882,70.5882,0.1729
 Low and low-middle,LRI incidence,Entered high tail,basic_water_pct,2,2,0.0,0.0,-3.8717
@@ -470,43 +501,46 @@ Low and low-middle,LRI incidence,Entered high tail,clean_cooking_pct,2,2,0.0,0.0
 Low and low-middle,LRI incidence,Entered high tail,dtp3_pct,2,2,50.0,0.0,0.8378
 Low and low-middle,LRI incidence,Entered high tail,hib3_pct,2,2,0.0,0.0,-3.2574
 Low and low-middle,LRI incidence,Entered high tail,pcv3_pct,2,0,,,
-Low and low-middle,LRI incidence,Entered high tail,stunting_u5_pct,2,1,0.0,0.0,-1.6511
+Low and low-middle,LRI incidence,Entered high tail,stunting_u5_pct,2,2,0.0,0.0,-1.6511
 Low and low-middle,LRI incidence,Entered high tail,low_birthweight_pct,2,1,100.0,100.0,-2.0379
 Low and low-middle,LRI incidence,Entered high tail,undernourishment_pct,2,1,0.0,100.0,-6.5513
 Low and low-middle,LRI incidence,Entered high tail,uhc_service_index,2,2,50.0,100.0,-3.1709
 Low and low-middle,LRI incidence,Entered high tail,health_expenditure_pc_current_usd,2,2,0.0,50.0,268.3533
 Low and low-middle,LRI incidence,Entered high tail,hospital_beds_per1000,2,1,100.0,100.0,-0.0235
 Low and low-middle,LRI incidence,Entered high tail,nurses_midwives_per1000,2,2,0.0,50.0,-0.1113
+Low and low-middle,LRI incidence,Entered high tail,physicians_per1000,2,0,,,
 Low and low-middle,LRI incidence,Entered high tail,gbd_ambient_pm25_ug_m3,2,2,50.0,50.0,-3.6934
 Low and low-middle,LRI incidence,Entered high tail,secondhand_smoke_sev,2,2,100.0,100.0,-1.3396
 Low and low-middle,LRI incidence,Left high tail,basic_water_pct,8,8,75.0,75.0,2.5451
 Low and low-middle,LRI incidence,Left high tail,basic_sanitation_pct,8,8,75.0,62.5,5.3333
 Low and low-middle,LRI incidence,Left high tail,clean_cooking_pct,8,8,50.0,37.5,2.9883
 Low and low-middle,LRI incidence,Left high tail,dtp3_pct,8,8,62.5,50.0,-1.3497
-Low and low-middle,LRI incidence,Left high tail,hib3_pct,8,5,40.0,40.0,-2.4615
-Low and low-middle,LRI incidence,Left high tail,pcv3_pct,8,0,,,11.6995
-Low and low-middle,LRI incidence,Left high tail,stunting_u5_pct,8,6,100.0,66.6667,1.5616
+Low and low-middle,LRI incidence,Left high tail,hib3_pct,8,6,33.3333,33.3333,-2.4615
+Low and low-middle,LRI incidence,Left high tail,pcv3_pct,8,2,50.0,0.0,11.6995
+Low and low-middle,LRI incidence,Left high tail,stunting_u5_pct,8,8,75.0,50.0,1.5616
 Low and low-middle,LRI incidence,Left high tail,low_birthweight_pct,8,8,12.5,12.5,-0.1581
 Low and low-middle,LRI incidence,Left high tail,undernourishment_pct,8,8,37.5,37.5,1.1899
 Low and low-middle,LRI incidence,Left high tail,uhc_service_index,8,8,50.0,37.5,4.0391
 Low and low-middle,LRI incidence,Left high tail,health_expenditure_pc_current_usd,8,8,50.0,37.5,-1.5044
 Low and low-middle,LRI incidence,Left high tail,hospital_beds_per1000,8,7,57.1429,42.8571,-0.1676
-Low and low-middle,LRI incidence,Left high tail,nurses_midwives_per1000,8,6,33.3333,33.3333,-0.1227
+Low and low-middle,LRI incidence,Left high tail,nurses_midwives_per1000,8,8,37.5,25.0,-0.1227
+Low and low-middle,LRI incidence,Left high tail,physicians_per1000,8,0,,,
 Low and low-middle,LRI incidence,Left high tail,gbd_ambient_pm25_ug_m3,8,8,37.5,37.5,2.8279
 Low and low-middle,LRI incidence,Left high tail,secondhand_smoke_sev,8,8,50.0,50.0,0.0747
 Low and low-middle,LRI incidence,Stayed in high tail,basic_water_pct,9,9,55.5556,55.5556,-0.8141
 Low and low-middle,LRI incidence,Stayed in high tail,basic_sanitation_pct,9,9,66.6667,66.6667,-2.6525
 Low and low-middle,LRI incidence,Stayed in high tail,clean_cooking_pct,9,9,66.6667,66.6667,1.0038
 Low and low-middle,LRI incidence,Stayed in high tail,dtp3_pct,9,9,66.6667,55.5556,2.1658
-Low and low-middle,LRI incidence,Stayed in high tail,hib3_pct,9,5,60.0,60.0,17.3748
+Low and low-middle,LRI incidence,Stayed in high tail,hib3_pct,9,7,71.4286,71.4286,17.3748
 Low and low-middle,LRI incidence,Stayed in high tail,pcv3_pct,9,2,100.0,100.0,29.4226
-Low and low-middle,LRI incidence,Stayed in high tail,stunting_u5_pct,9,5,80.0,60.0,-0.1241
+Low and low-middle,LRI incidence,Stayed in high tail,stunting_u5_pct,9,9,66.6667,55.5556,-0.1241
 Low and low-middle,LRI incidence,Stayed in high tail,low_birthweight_pct,9,7,42.8571,42.8571,0.1747
 Low and low-middle,LRI incidence,Stayed in high tail,undernourishment_pct,9,8,62.5,62.5,0.1069
 Low and low-middle,LRI incidence,Stayed in high tail,uhc_service_index,9,9,55.5556,44.4444,-0.129
 Low and low-middle,LRI incidence,Stayed in high tail,health_expenditure_pc_current_usd,9,9,55.5556,55.5556,-24.4674
-Low and low-middle,LRI incidence,Stayed in high tail,hospital_beds_per1000,9,4,100.0,75.0,0.006
+Low and low-middle,LRI incidence,Stayed in high tail,hospital_beds_per1000,9,5,80.0,60.0,0.006
 Low and low-middle,LRI incidence,Stayed in high tail,nurses_midwives_per1000,9,9,55.5556,44.4444,0.1033
+Low and low-middle,LRI incidence,Stayed in high tail,physicians_per1000,9,0,,,
 Low and low-middle,LRI incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,9,9,77.7778,77.7778,1.2986
 Low and low-middle,LRI incidence,Stayed in high tail,secondhand_smoke_sev,9,9,44.4444,44.4444,0.9984
 Low and low-middle,LRI incidence,Stayed in low tail,basic_water_pct,15,14,7.1429,14.2857,-1.2672
@@ -514,14 +548,15 @@ Low and low-middle,LRI incidence,Stayed in low tail,basic_sanitation_pct,15,14,7
 Low and low-middle,LRI incidence,Stayed in low tail,clean_cooking_pct,15,15,0.0,20.0,-6.7633
 Low and low-middle,LRI incidence,Stayed in low tail,dtp3_pct,15,15,33.3333,40.0,-3.121
 Low and low-middle,LRI incidence,Stayed in low tail,hib3_pct,15,14,42.8571,42.8571,0.2334
-Low and low-middle,LRI incidence,Stayed in low tail,pcv3_pct,15,2,0.0,0.0,21.0324
-Low and low-middle,LRI incidence,Stayed in low tail,stunting_u5_pct,15,6,16.6667,16.6667,-0.8623
+Low and low-middle,LRI incidence,Stayed in low tail,pcv3_pct,15,5,40.0,0.0,21.0324
+Low and low-middle,LRI incidence,Stayed in low tail,stunting_u5_pct,15,12,16.6667,16.6667,-0.8623
 Low and low-middle,LRI incidence,Stayed in low tail,low_birthweight_pct,15,12,25.0,25.0,-0.4715
 Low and low-middle,LRI incidence,Stayed in low tail,undernourishment_pct,15,15,13.3333,33.3333,-0.8715
 Low and low-middle,LRI incidence,Stayed in low tail,uhc_service_index,15,15,0.0,0.0,-1.1617
 Low and low-middle,LRI incidence,Stayed in low tail,health_expenditure_pc_current_usd,15,14,7.1429,0.0,75.4176
-Low and low-middle,LRI incidence,Stayed in low tail,hospital_beds_per1000,15,8,87.5,75.0,0.1318
-Low and low-middle,LRI incidence,Stayed in low tail,nurses_midwives_per1000,15,12,50.0,50.0,0.3326
+Low and low-middle,LRI incidence,Stayed in low tail,hospital_beds_per1000,15,10,80.0,70.0,0.1318
+Low and low-middle,LRI incidence,Stayed in low tail,nurses_midwives_per1000,15,15,60.0,53.3333,0.3326
+Low and low-middle,LRI incidence,Stayed in low tail,physicians_per1000,15,0,,,
 Low and low-middle,LRI incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,15,15,26.6667,20.0,-0.1936
 Low and low-middle,LRI incidence,Stayed in low tail,secondhand_smoke_sev,15,15,6.6667,6.6667,1.22
 Low and low-middle,LRI mortality,Entered high tail,basic_water_pct,1,1,0.0,0.0,-3.3891
@@ -530,20 +565,21 @@ Low and low-middle,LRI mortality,Entered high tail,clean_cooking_pct,1,1,0.0,0.0
 Low and low-middle,LRI mortality,Entered high tail,dtp3_pct,1,1,100.0,100.0,17.2157
 Low and low-middle,LRI mortality,Entered high tail,hib3_pct,1,0,,,
 Low and low-middle,LRI mortality,Entered high tail,pcv3_pct,1,0,,,
-Low and low-middle,LRI mortality,Entered high tail,stunting_u5_pct,1,0,,,0.4573
+Low and low-middle,LRI mortality,Entered high tail,stunting_u5_pct,1,1,100.0,100.0,0.4573
 Low and low-middle,LRI mortality,Entered high tail,low_birthweight_pct,1,1,100.0,100.0,1.2131
 Low and low-middle,LRI mortality,Entered high tail,undernourishment_pct,1,1,0.0,100.0,0.0677
 Low and low-middle,LRI mortality,Entered high tail,uhc_service_index,1,1,0.0,0.0,1.6452
 Low and low-middle,LRI mortality,Entered high tail,health_expenditure_pc_current_usd,1,1,100.0,100.0,-72.8433
 Low and low-middle,LRI mortality,Entered high tail,hospital_beds_per1000,1,1,0.0,0.0,-0.498
 Low and low-middle,LRI mortality,Entered high tail,nurses_midwives_per1000,1,1,100.0,100.0,0.0253
+Low and low-middle,LRI mortality,Entered high tail,physicians_per1000,1,0,,,
 Low and low-middle,LRI mortality,Entered high tail,gbd_ambient_pm25_ug_m3,1,1,100.0,100.0,-6.198
 Low and low-middle,LRI mortality,Entered high tail,secondhand_smoke_sev,1,1,100.0,0.0,9.573
 Low and low-middle,LRI mortality,Left high tail,basic_water_pct,5,5,80.0,60.0,6.4917
 Low and low-middle,LRI mortality,Left high tail,basic_sanitation_pct,5,5,20.0,20.0,-5.2475
 Low and low-middle,LRI mortality,Left high tail,clean_cooking_pct,5,5,40.0,20.0,5.1032
 Low and low-middle,LRI mortality,Left high tail,dtp3_pct,5,5,40.0,20.0,0.0564
-Low and low-middle,LRI mortality,Left high tail,hib3_pct,5,2,100.0,0.0,12.1119
+Low and low-middle,LRI mortality,Left high tail,hib3_pct,5,3,66.6667,0.0,12.1119
 Low and low-middle,LRI mortality,Left high tail,pcv3_pct,5,0,,,
 Low and low-middle,LRI mortality,Left high tail,stunting_u5_pct,5,5,60.0,20.0,3.9186
 Low and low-middle,LRI mortality,Left high tail,low_birthweight_pct,5,4,0.0,0.0,0.3985
@@ -552,81 +588,87 @@ Low and low-middle,LRI mortality,Left high tail,uhc_service_index,5,5,0.0,20.0,-
 Low and low-middle,LRI mortality,Left high tail,health_expenditure_pc_current_usd,5,5,100.0,100.0,-25.2849
 Low and low-middle,LRI mortality,Left high tail,hospital_beds_per1000,5,5,40.0,20.0,-0.1287
 Low and low-middle,LRI mortality,Left high tail,nurses_midwives_per1000,5,5,20.0,40.0,-0.1229
+Low and low-middle,LRI mortality,Left high tail,physicians_per1000,5,0,,,
 Low and low-middle,LRI mortality,Left high tail,gbd_ambient_pm25_ug_m3,5,5,80.0,80.0,-2.1357
 Low and low-middle,LRI mortality,Left high tail,secondhand_smoke_sev,5,5,80.0,80.0,-2.2688
 Low and low-middle,LRI mortality,Stayed in high tail,basic_water_pct,14,14,71.4286,64.2857,3.1999
 Low and low-middle,LRI mortality,Stayed in high tail,basic_sanitation_pct,14,14,57.1429,78.5714,-1.4269
 Low and low-middle,LRI mortality,Stayed in high tail,clean_cooking_pct,14,14,57.1429,57.1429,-3.3694
 Low and low-middle,LRI mortality,Stayed in high tail,dtp3_pct,14,14,71.4286,57.1429,2.1444
-Low and low-middle,LRI mortality,Stayed in high tail,hib3_pct,14,6,50.0,33.3333,8.5167
+Low and low-middle,LRI mortality,Stayed in high tail,hib3_pct,14,10,70.0,40.0,8.5167
 Low and low-middle,LRI mortality,Stayed in high tail,pcv3_pct,14,1,100.0,100.0,33.4663
-Low and low-middle,LRI mortality,Stayed in high tail,stunting_u5_pct,14,5,100.0,60.0,2.9957
+Low and low-middle,LRI mortality,Stayed in high tail,stunting_u5_pct,14,13,76.9231,46.1538,2.9957
 Low and low-middle,LRI mortality,Stayed in high tail,low_birthweight_pct,14,11,45.4545,45.4545,0.0891
 Low and low-middle,LRI mortality,Stayed in high tail,undernourishment_pct,14,11,54.5455,54.5455,0.2979
 Low and low-middle,LRI mortality,Stayed in high tail,uhc_service_index,14,14,71.4286,64.2857,0.558
 Low and low-middle,LRI mortality,Stayed in high tail,health_expenditure_pc_current_usd,14,14,42.8571,21.4286,44.2563
-Low and low-middle,LRI mortality,Stayed in high tail,hospital_beds_per1000,14,7,28.5714,14.2857,0.1892
-Low and low-middle,LRI mortality,Stayed in high tail,nurses_midwives_per1000,14,12,25.0,16.6667,-0.6163
+Low and low-middle,LRI mortality,Stayed in high tail,hospital_beds_per1000,14,8,37.5,12.5,0.1892
+Low and low-middle,LRI mortality,Stayed in high tail,nurses_midwives_per1000,14,13,23.0769,15.3846,-0.6163
+Low and low-middle,LRI mortality,Stayed in high tail,physicians_per1000,14,0,,,
 Low and low-middle,LRI mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,14,14,64.2857,64.2857,0.4027
 Low and low-middle,LRI mortality,Stayed in high tail,secondhand_smoke_sev,14,14,35.7143,35.7143,-1.2538
 Low and low-middle,LRI mortality,Stayed in low tail,basic_water_pct,16,15,20.0,26.6667,-2.3949
 Low and low-middle,LRI mortality,Stayed in low tail,basic_sanitation_pct,16,15,33.3333,26.6667,-0.6253
 Low and low-middle,LRI mortality,Stayed in low tail,clean_cooking_pct,16,15,33.3333,46.6667,-3.4759
 Low and low-middle,LRI mortality,Stayed in low tail,dtp3_pct,16,16,31.25,12.5,-1.4134
-Low and low-middle,LRI mortality,Stayed in low tail,hib3_pct,16,12,41.6667,16.6667,-0.15
-Low and low-middle,LRI mortality,Stayed in low tail,pcv3_pct,16,1,0.0,0.0,0.0677
-Low and low-middle,LRI mortality,Stayed in low tail,stunting_u5_pct,16,6,33.3333,33.3333,-1.226
+Low and low-middle,LRI mortality,Stayed in low tail,hib3_pct,16,13,38.4615,15.3846,-0.15
+Low and low-middle,LRI mortality,Stayed in low tail,pcv3_pct,16,3,0.0,33.3333,0.0677
+Low and low-middle,LRI mortality,Stayed in low tail,stunting_u5_pct,16,11,18.1818,18.1818,-1.226
 Low and low-middle,LRI mortality,Stayed in low tail,low_birthweight_pct,16,11,18.1818,18.1818,-0.3227
 Low and low-middle,LRI mortality,Stayed in low tail,undernourishment_pct,16,12,25.0,50.0,-3.5199
 Low and low-middle,LRI mortality,Stayed in low tail,uhc_service_index,16,16,12.5,18.75,-1.4547
 Low and low-middle,LRI mortality,Stayed in low tail,health_expenditure_pc_current_usd,16,16,18.75,18.75,49.3472
-Low and low-middle,LRI mortality,Stayed in low tail,hospital_beds_per1000,16,10,40.0,30.0,0.2994
+Low and low-middle,LRI mortality,Stayed in low tail,hospital_beds_per1000,16,11,36.3636,27.2727,0.2994
 Low and low-middle,LRI mortality,Stayed in low tail,nurses_midwives_per1000,16,15,26.6667,26.6667,0.2505
+Low and low-middle,LRI mortality,Stayed in low tail,physicians_per1000,16,0,,,
 Low and low-middle,LRI mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,16,16,31.25,37.5,-0.3671
 Low and low-middle,LRI mortality,Stayed in low tail,secondhand_smoke_sev,16,16,37.5,31.25,0.2981
 Low and low-middle,Meningitis incidence,Entered high tail,basic_water_pct,6,5,20.0,20.0,-1.527
 Low and low-middle,Meningitis incidence,Entered high tail,basic_sanitation_pct,6,5,40.0,40.0,2.1179
 Low and low-middle,Meningitis incidence,Entered high tail,clean_cooking_pct,6,6,50.0,50.0,1.3116
 Low and low-middle,Meningitis incidence,Entered high tail,dtp3_pct,6,5,40.0,40.0,1.2007
-Low and low-middle,Meningitis incidence,Entered high tail,hib3_pct,6,2,50.0,50.0,-3.7333
+Low and low-middle,Meningitis incidence,Entered high tail,hib3_pct,6,3,33.3333,33.3333,-3.7333
 Low and low-middle,Meningitis incidence,Entered high tail,pcv3_pct,6,0,,,
-Low and low-middle,Meningitis incidence,Entered high tail,stunting_u5_pct,6,1,100.0,100.0,1.1199
+Low and low-middle,Meningitis incidence,Entered high tail,stunting_u5_pct,6,3,66.6667,66.6667,1.1199
 Low and low-middle,Meningitis incidence,Entered high tail,low_birthweight_pct,6,3,100.0,100.0,0.2941
 Low and low-middle,Meningitis incidence,Entered high tail,undernourishment_pct,6,4,25.0,100.0,-0.4076
 Low and low-middle,Meningitis incidence,Entered high tail,uhc_service_index,6,6,33.3333,33.3333,-0.1968
 Low and low-middle,Meningitis incidence,Entered high tail,health_expenditure_pc_current_usd,6,5,60.0,40.0,-40.3231
-Low and low-middle,Meningitis incidence,Entered high tail,hospital_beds_per1000,6,3,0.0,0.0,0.1055
+Low and low-middle,Meningitis incidence,Entered high tail,hospital_beds_per1000,6,4,0.0,0.0,0.1055
 Low and low-middle,Meningitis incidence,Entered high tail,nurses_midwives_per1000,6,5,40.0,60.0,-0.2565
+Low and low-middle,Meningitis incidence,Entered high tail,physicians_per1000,6,0,,,
 Low and low-middle,Meningitis incidence,Entered high tail,gbd_ambient_pm25_ug_m3,6,6,33.3333,33.3333,-0.9838
 Low and low-middle,Meningitis incidence,Entered high tail,secondhand_smoke_sev,6,6,33.3333,16.6667,2.131
 Low and low-middle,Meningitis incidence,Left high tail,basic_water_pct,8,8,62.5,62.5,0.6986
 Low and low-middle,Meningitis incidence,Left high tail,basic_sanitation_pct,8,8,50.0,62.5,-1.0861
 Low and low-middle,Meningitis incidence,Left high tail,clean_cooking_pct,8,8,37.5,12.5,2.3128
 Low and low-middle,Meningitis incidence,Left high tail,dtp3_pct,8,8,62.5,37.5,4.7911
-Low and low-middle,Meningitis incidence,Left high tail,hib3_pct,8,6,50.0,33.3333,14.0541
+Low and low-middle,Meningitis incidence,Left high tail,hib3_pct,8,7,57.1429,28.5714,14.0541
 Low and low-middle,Meningitis incidence,Left high tail,pcv3_pct,8,0,,,
-Low and low-middle,Meningitis incidence,Left high tail,stunting_u5_pct,8,5,20.0,20.0,-1.8129
+Low and low-middle,Meningitis incidence,Left high tail,stunting_u5_pct,8,7,28.5714,28.5714,-1.8129
 Low and low-middle,Meningitis incidence,Left high tail,low_birthweight_pct,8,7,14.2857,14.2857,0.4933
 Low and low-middle,Meningitis incidence,Left high tail,undernourishment_pct,8,7,42.8571,28.5714,2.108
 Low and low-middle,Meningitis incidence,Left high tail,uhc_service_index,8,8,62.5,37.5,2.9176
-Low and low-middle,Meningitis incidence,Left high tail,health_expenditure_pc_current_usd,8,7,57.1429,42.8571,-11.0046
+Low and low-middle,Meningitis incidence,Left high tail,health_expenditure_pc_current_usd,8,8,50.0,37.5,-11.0046
 Low and low-middle,Meningitis incidence,Left high tail,hospital_beds_per1000,8,6,16.6667,33.3333,-0.555
-Low and low-middle,Meningitis incidence,Left high tail,nurses_midwives_per1000,8,7,42.8571,42.8571,-0.4619
+Low and low-middle,Meningitis incidence,Left high tail,nurses_midwives_per1000,8,8,37.5,37.5,-0.4619
+Low and low-middle,Meningitis incidence,Left high tail,physicians_per1000,8,0,,,
 Low and low-middle,Meningitis incidence,Left high tail,gbd_ambient_pm25_ug_m3,8,8,75.0,75.0,-1.673
 Low and low-middle,Meningitis incidence,Left high tail,secondhand_smoke_sev,8,8,50.0,37.5,1.1315
 Low and low-middle,Meningitis incidence,Stayed in high tail,basic_water_pct,17,17,100.0,100.0,3.6323
 Low and low-middle,Meningitis incidence,Stayed in high tail,basic_sanitation_pct,17,17,70.5882,88.2353,-4.549
 Low and low-middle,Meningitis incidence,Stayed in high tail,clean_cooking_pct,17,17,82.3529,76.4706,-2.4909
 Low and low-middle,Meningitis incidence,Stayed in high tail,dtp3_pct,17,17,82.3529,58.8235,5.4749
-Low and low-middle,Meningitis incidence,Stayed in high tail,hib3_pct,17,9,44.4444,33.3333,3.9236
+Low and low-middle,Meningitis incidence,Stayed in high tail,hib3_pct,17,11,54.5455,45.4545,3.9236
 Low and low-middle,Meningitis incidence,Stayed in high tail,pcv3_pct,17,1,100.0,100.0,33.4663
-Low and low-middle,Meningitis incidence,Stayed in high tail,stunting_u5_pct,17,6,50.0,50.0,-0.4374
+Low and low-middle,Meningitis incidence,Stayed in high tail,stunting_u5_pct,17,13,38.4615,46.1538,-0.4374
 Low and low-middle,Meningitis incidence,Stayed in high tail,low_birthweight_pct,17,14,35.7143,35.7143,0.0274
 Low and low-middle,Meningitis incidence,Stayed in high tail,undernourishment_pct,17,15,66.6667,60.0,0.9839
 Low and low-middle,Meningitis incidence,Stayed in high tail,uhc_service_index,17,17,70.5882,76.4706,0.3496
 Low and low-middle,Meningitis incidence,Stayed in high tail,health_expenditure_pc_current_usd,17,17,35.2941,29.4118,-8.4029
-Low and low-middle,Meningitis incidence,Stayed in high tail,hospital_beds_per1000,17,4,75.0,25.0,0.6574
-Low and low-middle,Meningitis incidence,Stayed in high tail,nurses_midwives_per1000,17,12,41.6667,25.0,-0.2946
+Low and low-middle,Meningitis incidence,Stayed in high tail,hospital_beds_per1000,17,8,62.5,25.0,0.6574
+Low and low-middle,Meningitis incidence,Stayed in high tail,nurses_midwives_per1000,17,16,43.75,25.0,-0.2946
+Low and low-middle,Meningitis incidence,Stayed in high tail,physicians_per1000,17,0,,,
 Low and low-middle,Meningitis incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,17,17,41.1765,41.1765,-1.7589
 Low and low-middle,Meningitis incidence,Stayed in high tail,secondhand_smoke_sev,17,17,17.6471,17.6471,-0.168
 Low and low-middle,Meningitis incidence,Stayed in low tail,basic_water_pct,21,20,25.0,35.0,-2.163
@@ -634,29 +676,31 @@ Low and low-middle,Meningitis incidence,Stayed in low tail,basic_sanitation_pct,
 Low and low-middle,Meningitis incidence,Stayed in low tail,clean_cooking_pct,21,20,15.0,35.0,-1.977
 Low and low-middle,Meningitis incidence,Stayed in low tail,dtp3_pct,21,21,42.8571,33.3333,-0.6485
 Low and low-middle,Meningitis incidence,Stayed in low tail,hib3_pct,21,15,40.0,40.0,-0.7764
-Low and low-middle,Meningitis incidence,Stayed in low tail,pcv3_pct,21,4,25.0,25.0,26.4045
-Low and low-middle,Meningitis incidence,Stayed in low tail,stunting_u5_pct,21,13,53.8462,46.1538,-0.3221
+Low and low-middle,Meningitis incidence,Stayed in low tail,pcv3_pct,21,8,50.0,25.0,26.4045
+Low and low-middle,Meningitis incidence,Stayed in low tail,stunting_u5_pct,21,21,33.3333,28.5714,-0.3221
 Low and low-middle,Meningitis incidence,Stayed in low tail,low_birthweight_pct,21,19,26.3158,31.5789,-0.2039
 Low and low-middle,Meningitis incidence,Stayed in low tail,undernourishment_pct,21,17,23.5294,17.6471,-0.796
 Low and low-middle,Meningitis incidence,Stayed in low tail,uhc_service_index,21,21,9.5238,14.2857,-2.918
 Low and low-middle,Meningitis incidence,Stayed in low tail,health_expenditure_pc_current_usd,21,20,15.0,5.0,41.7742
-Low and low-middle,Meningitis incidence,Stayed in low tail,hospital_beds_per1000,21,14,71.4286,57.1429,0.2092
-Low and low-middle,Meningitis incidence,Stayed in low tail,nurses_midwives_per1000,21,17,52.9412,64.7059,0.1839
+Low and low-middle,Meningitis incidence,Stayed in low tail,hospital_beds_per1000,21,16,68.75,56.25,0.2092
+Low and low-middle,Meningitis incidence,Stayed in low tail,nurses_midwives_per1000,21,20,55.0,55.0,0.1839
+Low and low-middle,Meningitis incidence,Stayed in low tail,physicians_per1000,21,0,,,
 Low and low-middle,Meningitis incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,21,21,57.1429,52.381,-0.4933
 Low and low-middle,Meningitis incidence,Stayed in low tail,secondhand_smoke_sev,21,21,47.619,47.619,1.4196
 Low and low-middle,Meningitis mortality,Entered high tail,basic_water_pct,3,2,50.0,50.0,1.2007
 Low and low-middle,Meningitis mortality,Entered high tail,basic_sanitation_pct,3,2,50.0,50.0,1.1007
 Low and low-middle,Meningitis mortality,Entered high tail,clean_cooking_pct,3,3,66.6667,66.6667,2.5987
 Low and low-middle,Meningitis mortality,Entered high tail,dtp3_pct,3,2,50.0,50.0,-4.0069
-Low and low-middle,Meningitis mortality,Entered high tail,hib3_pct,3,1,100.0,100.0,-5.5274
+Low and low-middle,Meningitis mortality,Entered high tail,hib3_pct,3,2,50.0,50.0,-5.5274
 Low and low-middle,Meningitis mortality,Entered high tail,pcv3_pct,3,0,,,
-Low and low-middle,Meningitis mortality,Entered high tail,stunting_u5_pct,3,1,100.0,100.0,1.4512
+Low and low-middle,Meningitis mortality,Entered high tail,stunting_u5_pct,3,2,50.0,50.0,1.4512
 Low and low-middle,Meningitis mortality,Entered high tail,low_birthweight_pct,3,2,100.0,100.0,-0.1655
 Low and low-middle,Meningitis mortality,Entered high tail,undernourishment_pct,3,2,50.0,100.0,1.4717
 Low and low-middle,Meningitis mortality,Entered high tail,uhc_service_index,3,3,66.6667,66.6667,0.79
 Low and low-middle,Meningitis mortality,Entered high tail,health_expenditure_pc_current_usd,3,2,50.0,50.0,-101.2128
-Low and low-middle,Meningitis mortality,Entered high tail,hospital_beds_per1000,3,1,0.0,0.0,0.4632
+Low and low-middle,Meningitis mortality,Entered high tail,hospital_beds_per1000,3,2,0.0,0.0,0.4632
 Low and low-middle,Meningitis mortality,Entered high tail,nurses_midwives_per1000,3,2,50.0,100.0,-0.9132
+Low and low-middle,Meningitis mortality,Entered high tail,physicians_per1000,3,0,,,
 Low and low-middle,Meningitis mortality,Entered high tail,gbd_ambient_pm25_ug_m3,3,3,33.3333,33.3333,1.7688
 Low and low-middle,Meningitis mortality,Entered high tail,secondhand_smoke_sev,3,3,0.0,0.0,0.9123
 Low and low-middle,Meningitis mortality,Left high tail,basic_water_pct,3,3,33.3333,33.3333,-3.766
@@ -664,44 +708,47 @@ Low and low-middle,Meningitis mortality,Left high tail,basic_sanitation_pct,3,3,
 Low and low-middle,Meningitis mortality,Left high tail,clean_cooking_pct,3,3,66.6667,66.6667,0.8848
 Low and low-middle,Meningitis mortality,Left high tail,dtp3_pct,3,3,66.6667,33.3333,7.1748
 Low and low-middle,Meningitis mortality,Left high tail,hib3_pct,3,3,33.3333,66.6667,5.981
-Low and low-middle,Meningitis mortality,Left high tail,pcv3_pct,3,0,,,-23.5894
-Low and low-middle,Meningitis mortality,Left high tail,stunting_u5_pct,3,2,50.0,50.0,-4.2728
+Low and low-middle,Meningitis mortality,Left high tail,pcv3_pct,3,1,0.0,0.0,-23.5894
+Low and low-middle,Meningitis mortality,Left high tail,stunting_u5_pct,3,3,33.3333,66.6667,-4.2728
 Low and low-middle,Meningitis mortality,Left high tail,low_birthweight_pct,3,2,50.0,50.0,-0.9505
 Low and low-middle,Meningitis mortality,Left high tail,undernourishment_pct,3,3,66.6667,66.6667,-2.584
 Low and low-middle,Meningitis mortality,Left high tail,uhc_service_index,3,3,33.3333,0.0,4.5543
 Low and low-middle,Meningitis mortality,Left high tail,health_expenditure_pc_current_usd,3,3,66.6667,33.3333,3.047
 Low and low-middle,Meningitis mortality,Left high tail,hospital_beds_per1000,3,3,33.3333,33.3333,0.1026
 Low and low-middle,Meningitis mortality,Left high tail,nurses_midwives_per1000,3,3,33.3333,66.6667,-0.0699
+Low and low-middle,Meningitis mortality,Left high tail,physicians_per1000,3,0,,,
 Low and low-middle,Meningitis mortality,Left high tail,gbd_ambient_pm25_ug_m3,3,3,66.6667,66.6667,-2.1152
 Low and low-middle,Meningitis mortality,Left high tail,secondhand_smoke_sev,3,3,33.3333,33.3333,1.2322
 Low and low-middle,Meningitis mortality,Stayed in high tail,basic_water_pct,22,22,86.3636,86.3636,2.751
 Low and low-middle,Meningitis mortality,Stayed in high tail,basic_sanitation_pct,22,22,63.6364,81.8182,-4.6124
 Low and low-middle,Meningitis mortality,Stayed in high tail,clean_cooking_pct,22,22,72.7273,68.1818,-1.2537
 Low and low-middle,Meningitis mortality,Stayed in high tail,dtp3_pct,22,22,72.7273,54.5455,4.9301
-Low and low-middle,Meningitis mortality,Stayed in high tail,hib3_pct,22,13,38.4615,30.7692,8.2177
+Low and low-middle,Meningitis mortality,Stayed in high tail,hib3_pct,22,16,50.0,43.75,8.2177
 Low and low-middle,Meningitis mortality,Stayed in high tail,pcv3_pct,22,1,100.0,100.0,33.4663
-Low and low-middle,Meningitis mortality,Stayed in high tail,stunting_u5_pct,22,10,40.0,40.0,-0.847
+Low and low-middle,Meningitis mortality,Stayed in high tail,stunting_u5_pct,22,17,35.2941,41.1765,-0.847
 Low and low-middle,Meningitis mortality,Stayed in high tail,low_birthweight_pct,22,18,33.3333,33.3333,0.1083
 Low and low-middle,Meningitis mortality,Stayed in high tail,undernourishment_pct,22,19,68.4211,63.1579,1.6677
 Low and low-middle,Meningitis mortality,Stayed in high tail,uhc_service_index,22,22,72.7273,68.1818,1.0564
-Low and low-middle,Meningitis mortality,Stayed in high tail,health_expenditure_pc_current_usd,22,21,42.8571,33.3333,-24.0876
-Low and low-middle,Meningitis mortality,Stayed in high tail,hospital_beds_per1000,22,6,66.6667,33.3333,0.5325
-Low and low-middle,Meningitis mortality,Stayed in high tail,nurses_midwives_per1000,22,16,37.5,25.0,-0.124
+Low and low-middle,Meningitis mortality,Stayed in high tail,health_expenditure_pc_current_usd,22,22,40.9091,31.8182,-24.0876
+Low and low-middle,Meningitis mortality,Stayed in high tail,hospital_beds_per1000,22,10,60.0,30.0,0.5325
+Low and low-middle,Meningitis mortality,Stayed in high tail,nurses_midwives_per1000,22,21,38.0952,23.8095,-0.124
+Low and low-middle,Meningitis mortality,Stayed in high tail,physicians_per1000,22,0,,,
 Low and low-middle,Meningitis mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,22,22,45.4545,45.4545,-1.5198
 Low and low-middle,Meningitis mortality,Stayed in high tail,secondhand_smoke_sev,22,22,27.2727,27.2727,0.0932
 Low and low-middle,Meningitis mortality,Stayed in low tail,basic_water_pct,20,19,15.7895,21.0526,-2.0787
 Low and low-middle,Meningitis mortality,Stayed in low tail,basic_sanitation_pct,20,19,15.7895,21.0526,-4.7044
 Low and low-middle,Meningitis mortality,Stayed in low tail,clean_cooking_pct,20,19,10.5263,26.3158,-3.5606
 Low and low-middle,Meningitis mortality,Stayed in low tail,dtp3_pct,20,20,40.0,45.0,-3.3116
-Low and low-middle,Meningitis mortality,Stayed in low tail,hib3_pct,20,15,33.3333,46.6667,-1.1127
-Low and low-middle,Meningitis mortality,Stayed in low tail,pcv3_pct,20,3,33.3333,33.3333,13.8669
-Low and low-middle,Meningitis mortality,Stayed in low tail,stunting_u5_pct,20,10,60.0,50.0,0.2472
+Low and low-middle,Meningitis mortality,Stayed in low tail,hib3_pct,20,16,37.5,43.75,-1.1127
+Low and low-middle,Meningitis mortality,Stayed in low tail,pcv3_pct,20,4,25.0,25.0,13.8669
+Low and low-middle,Meningitis mortality,Stayed in low tail,stunting_u5_pct,20,17,41.1765,29.4118,0.2472
 Low and low-middle,Meningitis mortality,Stayed in low tail,low_birthweight_pct,20,16,25.0,31.25,-0.332
 Low and low-middle,Meningitis mortality,Stayed in low tail,undernourishment_pct,20,16,31.25,25.0,-1.8331
 Low and low-middle,Meningitis mortality,Stayed in low tail,uhc_service_index,20,20,20.0,25.0,-3.6641
 Low and low-middle,Meningitis mortality,Stayed in low tail,health_expenditure_pc_current_usd,20,19,26.3158,10.5263,35.8826
-Low and low-middle,Meningitis mortality,Stayed in low tail,hospital_beds_per1000,20,12,66.6667,58.3333,0.0873
-Low and low-middle,Meningitis mortality,Stayed in low tail,nurses_midwives_per1000,20,15,33.3333,46.6667,0.1125
+Low and low-middle,Meningitis mortality,Stayed in low tail,hospital_beds_per1000,20,13,61.5385,53.8462,0.0873
+Low and low-middle,Meningitis mortality,Stayed in low tail,nurses_midwives_per1000,20,19,42.1053,42.1053,0.1125
+Low and low-middle,Meningitis mortality,Stayed in low tail,physicians_per1000,20,0,,,
 Low and low-middle,Meningitis mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,20,20,50.0,50.0,-1.0559
 Low and low-middle,Meningitis mortality,Stayed in low tail,secondhand_smoke_sev,20,20,55.0,55.0,0.1154
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,basic_water_pct,1,1,100.0,0.0,0.2966
@@ -710,13 +757,14 @@ Middle and high-middle,Diarrhoeal incidence,Entered high tail,clean_cooking_pct,
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,dtp3_pct,1,1,100.0,0.0,4.8011
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,hib3_pct,1,1,100.0,100.0,38.2027
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,pcv3_pct,1,0,,,
-Middle and high-middle,Diarrhoeal incidence,Entered high tail,stunting_u5_pct,1,0,,,0.6812
+Middle and high-middle,Diarrhoeal incidence,Entered high tail,stunting_u5_pct,1,1,0.0,0.0,0.6812
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,low_birthweight_pct,1,1,0.0,0.0,0.1608
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,undernourishment_pct,1,1,0.0,0.0,-0.1403
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,uhc_service_index,1,1,100.0,0.0,1.1212
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,health_expenditure_pc_current_usd,1,1,100.0,100.0,-384.5761
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,hospital_beds_per1000,1,1,0.0,0.0,-0.5453
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,nurses_midwives_per1000,1,1,0.0,0.0,-0.1005
+Middle and high-middle,Diarrhoeal incidence,Entered high tail,physicians_per1000,1,0,,,
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,gbd_ambient_pm25_ug_m3,1,1,100.0,0.0,4.5941
 Middle and high-middle,Diarrhoeal incidence,Entered high tail,secondhand_smoke_sev,1,1,100.0,100.0,-2.8049
 Middle and high-middle,Diarrhoeal incidence,Left high tail,basic_water_pct,4,4,50.0,50.0,0.6701
@@ -724,44 +772,47 @@ Middle and high-middle,Diarrhoeal incidence,Left high tail,basic_sanitation_pct,
 Middle and high-middle,Diarrhoeal incidence,Left high tail,clean_cooking_pct,4,3,33.3333,0.0,0.0489
 Middle and high-middle,Diarrhoeal incidence,Left high tail,dtp3_pct,4,4,75.0,100.0,-4.4186
 Middle and high-middle,Diarrhoeal incidence,Left high tail,hib3_pct,4,4,25.0,50.0,-3.1075
-Middle and high-middle,Diarrhoeal incidence,Left high tail,pcv3_pct,4,0,,,-6.0266
-Middle and high-middle,Diarrhoeal incidence,Left high tail,stunting_u5_pct,4,2,50.0,0.0,-0.4635
+Middle and high-middle,Diarrhoeal incidence,Left high tail,pcv3_pct,4,1,0.0,0.0,-6.0266
+Middle and high-middle,Diarrhoeal incidence,Left high tail,stunting_u5_pct,4,4,50.0,50.0,-0.4635
 Middle and high-middle,Diarrhoeal incidence,Left high tail,low_birthweight_pct,4,3,0.0,0.0,0.259
 Middle and high-middle,Diarrhoeal incidence,Left high tail,undernourishment_pct,4,4,25.0,25.0,-2.6511
 Middle and high-middle,Diarrhoeal incidence,Left high tail,uhc_service_index,4,4,50.0,25.0,1.62
 Middle and high-middle,Diarrhoeal incidence,Left high tail,health_expenditure_pc_current_usd,4,4,25.0,25.0,351.4983
 Middle and high-middle,Diarrhoeal incidence,Left high tail,hospital_beds_per1000,4,3,100.0,66.6667,0.5441
-Middle and high-middle,Diarrhoeal incidence,Left high tail,nurses_midwives_per1000,4,2,0.0,0.0,1.8602
+Middle and high-middle,Diarrhoeal incidence,Left high tail,nurses_midwives_per1000,4,3,33.3333,33.3333,1.8602
+Middle and high-middle,Diarrhoeal incidence,Left high tail,physicians_per1000,4,0,,,
 Middle and high-middle,Diarrhoeal incidence,Left high tail,gbd_ambient_pm25_ug_m3,4,4,50.0,50.0,0.5826
 Middle and high-middle,Diarrhoeal incidence,Left high tail,secondhand_smoke_sev,4,4,50.0,50.0,-0.2739
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,basic_water_pct,4,4,50.0,50.0,0.224
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,basic_sanitation_pct,4,3,33.3333,0.0,2.4328
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,clean_cooking_pct,4,3,0.0,0.0,0.1852
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,dtp3_pct,4,4,25.0,25.0,-0.3457
-Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,hib3_pct,4,3,33.3333,33.3333,-1.1688
+Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,hib3_pct,4,4,25.0,25.0,-1.1688
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,pcv3_pct,4,1,0.0,0.0,-6.6548
-Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,stunting_u5_pct,4,0,,,-2.6073
+Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,stunting_u5_pct,4,2,50.0,50.0,-2.6073
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,low_birthweight_pct,4,3,100.0,100.0,0.4231
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,undernourishment_pct,4,4,0.0,50.0,-1.6923
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,uhc_service_index,4,4,75.0,25.0,1.3607
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,health_expenditure_pc_current_usd,4,4,25.0,0.0,-40.7687
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,hospital_beds_per1000,4,4,25.0,50.0,-0.1683
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,nurses_midwives_per1000,4,4,50.0,50.0,0.2306
+Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,physicians_per1000,4,0,,,
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,4,4,50.0,50.0,-2.6541
 Middle and high-middle,Diarrhoeal incidence,Stayed in high tail,secondhand_smoke_sev,4,4,25.0,25.0,-2.7999
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,basic_water_pct,5,5,60.0,60.0,-0.9229
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,basic_sanitation_pct,5,5,100.0,80.0,2.6052
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,clean_cooking_pct,5,4,50.0,50.0,2.4968
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,dtp3_pct,5,5,40.0,60.0,-1.1183
-Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,hib3_pct,5,4,75.0,50.0,5.1752
-Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,pcv3_pct,5,0,,,15.446
-Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,stunting_u5_pct,5,1,0.0,0.0,-0.3948
+Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,hib3_pct,5,5,80.0,60.0,5.1752
+Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,pcv3_pct,5,1,100.0,0.0,15.446
+Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,stunting_u5_pct,5,2,50.0,0.0,-0.3948
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,low_birthweight_pct,5,4,100.0,100.0,0.0419
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,undernourishment_pct,5,4,50.0,75.0,-0.0785
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,uhc_service_index,5,5,60.0,40.0,0.9803
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,health_expenditure_pc_current_usd,5,5,40.0,20.0,2.9643
-Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,hospital_beds_per1000,5,2,50.0,50.0,0.6731
-Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,nurses_midwives_per1000,5,3,66.6667,66.6667,0.5094
+Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,hospital_beds_per1000,5,3,66.6667,66.6667,0.6731
+Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,nurses_midwives_per1000,5,5,60.0,40.0,0.5094
+Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,physicians_per1000,5,0,,,
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,5,5,20.0,40.0,-0.1519
 Middle and high-middle,Diarrhoeal incidence,Stayed in low tail,secondhand_smoke_sev,5,5,20.0,20.0,-1.6205
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,basic_water_pct,1,1,100.0,100.0,2.1613
@@ -770,13 +821,14 @@ Middle and high-middle,Diarrhoeal mortality,Entered high tail,clean_cooking_pct,
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,dtp3_pct,1,1,100.0,100.0,-1.295
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,hib3_pct,1,1,100.0,100.0,-1.6427
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,pcv3_pct,1,0,,,
-Middle and high-middle,Diarrhoeal mortality,Entered high tail,stunting_u5_pct,1,0,,,2.3947
+Middle and high-middle,Diarrhoeal mortality,Entered high tail,stunting_u5_pct,1,1,100.0,0.0,2.3947
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,low_birthweight_pct,1,1,100.0,100.0,0.0189
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,undernourishment_pct,1,1,0.0,100.0,-2.5368
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,uhc_service_index,1,1,100.0,100.0,-1.6196
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,health_expenditure_pc_current_usd,1,1,0.0,0.0,-165.6171
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,hospital_beds_per1000,1,1,0.0,0.0,-0.1631
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,nurses_midwives_per1000,1,1,100.0,100.0,-0.1241
+Middle and high-middle,Diarrhoeal mortality,Entered high tail,physicians_per1000,1,0,,,
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,gbd_ambient_pm25_ug_m3,1,1,100.0,100.0,-1.4978
 Middle and high-middle,Diarrhoeal mortality,Entered high tail,secondhand_smoke_sev,1,1,100.0,100.0,-0.4493
 Middle and high-middle,Diarrhoeal mortality,Left high tail,basic_water_pct,1,1,100.0,100.0,0.5556
@@ -790,23 +842,25 @@ Middle and high-middle,Diarrhoeal mortality,Left high tail,low_birthweight_pct,1
 Middle and high-middle,Diarrhoeal mortality,Left high tail,undernourishment_pct,1,1,100.0,100.0,1.06
 Middle and high-middle,Diarrhoeal mortality,Left high tail,uhc_service_index,1,1,0.0,100.0,-1.7572
 Middle and high-middle,Diarrhoeal mortality,Left high tail,health_expenditure_pc_current_usd,1,1,0.0,0.0,150.3226
-Middle and high-middle,Diarrhoeal mortality,Left high tail,hospital_beds_per1000,1,0,,,0.3575
+Middle and high-middle,Diarrhoeal mortality,Left high tail,hospital_beds_per1000,1,1,100.0,100.0,0.3575
 Middle and high-middle,Diarrhoeal mortality,Left high tail,nurses_midwives_per1000,1,1,100.0,100.0,0.456
+Middle and high-middle,Diarrhoeal mortality,Left high tail,physicians_per1000,1,0,,,
 Middle and high-middle,Diarrhoeal mortality,Left high tail,gbd_ambient_pm25_ug_m3,1,1,0.0,0.0,-1.262
 Middle and high-middle,Diarrhoeal mortality,Left high tail,secondhand_smoke_sev,1,1,0.0,0.0,-4.1493
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,basic_water_pct,3,3,33.3333,33.3333,-0.105
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,basic_sanitation_pct,3,2,50.0,50.0,1.8985
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,clean_cooking_pct,3,3,0.0,0.0,-0.2165
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,dtp3_pct,3,3,0.0,0.0,-0.219
-Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,hib3_pct,3,2,0.0,0.0,-1.0477
+Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,hib3_pct,3,3,0.0,0.0,-1.0477
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,pcv3_pct,3,1,0.0,0.0,-6.6548
-Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,stunting_u5_pct,3,0,,,-7.6094
+Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,stunting_u5_pct,3,1,0.0,100.0,-7.6094
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,low_birthweight_pct,3,1,100.0,100.0,0.425
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,undernourishment_pct,3,2,0.0,0.0,-0.3977
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,uhc_service_index,3,3,33.3333,0.0,1.4862
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,health_expenditure_pc_current_usd,3,3,0.0,0.0,32.71
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,hospital_beds_per1000,3,2,50.0,100.0,-0.4746
-Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,nurses_midwives_per1000,3,2,0.0,0.0,-0.189
+Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,nurses_midwives_per1000,3,3,0.0,0.0,-0.189
+Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,physicians_per1000,3,0,,,
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,3,3,33.3333,33.3333,-3.1333
 Middle and high-middle,Diarrhoeal mortality,Stayed in high tail,secondhand_smoke_sev,3,3,0.0,0.0,-2.7868
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,basic_water_pct,4,3,66.6667,33.3333,-1.3689
@@ -815,13 +869,14 @@ Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,clean_cooking_pct
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,dtp3_pct,4,3,66.6667,33.3333,-7.5679
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,hib3_pct,4,4,75.0,75.0,13.4198
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,pcv3_pct,4,0,,,
-Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,stunting_u5_pct,4,0,,,0.6812
+Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,stunting_u5_pct,4,1,0.0,0.0,0.6812
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,low_birthweight_pct,4,3,0.0,0.0,0.088
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,undernourishment_pct,4,3,0.0,0.0,-0.7941
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,uhc_service_index,4,3,33.3333,0.0,-0.7077
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,health_expenditure_pc_current_usd,4,3,66.6667,66.6667,-187.5761
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,hospital_beds_per1000,4,3,33.3333,0.0,-0.4821
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,nurses_midwives_per1000,4,3,0.0,0.0,0.5327
+Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,physicians_per1000,4,0,,,
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,4,4,50.0,0.0,2.3696
 Middle and high-middle,Diarrhoeal mortality,Stayed in low tail,secondhand_smoke_sev,4,4,75.0,50.0,1.293
 Middle and high-middle,LRI incidence,Entered high tail,basic_water_pct,2,2,50.0,50.0,0.9544
@@ -830,28 +885,30 @@ Middle and high-middle,LRI incidence,Entered high tail,clean_cooking_pct,2,2,0.0
 Middle and high-middle,LRI incidence,Entered high tail,dtp3_pct,2,2,0.0,0.0,0.3833
 Middle and high-middle,LRI incidence,Entered high tail,hib3_pct,2,2,0.0,0.0,-0.5855
 Middle and high-middle,LRI incidence,Entered high tail,pcv3_pct,2,2,0.0,0.0,2.3549
-Middle and high-middle,LRI incidence,Entered high tail,stunting_u5_pct,2,0,,,-5.3922
+Middle and high-middle,LRI incidence,Entered high tail,stunting_u5_pct,2,1,0.0,100.0,-5.3922
 Middle and high-middle,LRI incidence,Entered high tail,low_birthweight_pct,2,2,100.0,100.0,-0.2665
 Middle and high-middle,LRI incidence,Entered high tail,undernourishment_pct,2,1,100.0,100.0,1.9037
 Middle and high-middle,LRI incidence,Entered high tail,uhc_service_index,2,2,0.0,50.0,-3.0728
 Middle and high-middle,LRI incidence,Entered high tail,health_expenditure_pc_current_usd,2,2,0.0,0.0,3.6501
 Middle and high-middle,LRI incidence,Entered high tail,hospital_beds_per1000,2,2,100.0,100.0,-0.2201
 Middle and high-middle,LRI incidence,Entered high tail,nurses_midwives_per1000,2,2,50.0,50.0,-0.3998
+Middle and high-middle,LRI incidence,Entered high tail,physicians_per1000,2,0,,,
 Middle and high-middle,LRI incidence,Entered high tail,gbd_ambient_pm25_ug_m3,2,2,100.0,100.0,-0.6617
 Middle and high-middle,LRI incidence,Entered high tail,secondhand_smoke_sev,2,2,0.0,0.0,-4.617
 Middle and high-middle,LRI incidence,Stayed in high tail,basic_water_pct,8,6,66.6667,66.6667,0.3716
 Middle and high-middle,LRI incidence,Stayed in high tail,basic_sanitation_pct,8,5,40.0,40.0,0.9334
 Middle and high-middle,LRI incidence,Stayed in high tail,clean_cooking_pct,8,4,25.0,25.0,-1.7008
 Middle and high-middle,LRI incidence,Stayed in high tail,dtp3_pct,8,6,16.6667,33.3333,-1.7112
-Middle and high-middle,LRI incidence,Stayed in high tail,hib3_pct,8,7,57.1429,42.8571,0.5129
+Middle and high-middle,LRI incidence,Stayed in high tail,hib3_pct,8,8,50.0,37.5,0.5129
 Middle and high-middle,LRI incidence,Stayed in high tail,pcv3_pct,8,2,0.0,0.0,-8.1428
-Middle and high-middle,LRI incidence,Stayed in high tail,stunting_u5_pct,8,0,,,-2.8199
+Middle and high-middle,LRI incidence,Stayed in high tail,stunting_u5_pct,8,4,75.0,75.0,-2.8199
 Middle and high-middle,LRI incidence,Stayed in high tail,low_birthweight_pct,8,4,100.0,100.0,0.1902
 Middle and high-middle,LRI incidence,Stayed in high tail,undernourishment_pct,8,6,16.6667,50.0,-2.5073
 Middle and high-middle,LRI incidence,Stayed in high tail,uhc_service_index,8,6,66.6667,33.3333,0.7997
 Middle and high-middle,LRI incidence,Stayed in high tail,health_expenditure_pc_current_usd,8,6,50.0,33.3333,-64.8066
 Middle and high-middle,LRI incidence,Stayed in high tail,hospital_beds_per1000,8,6,50.0,50.0,-0.0216
 Middle and high-middle,LRI incidence,Stayed in high tail,nurses_midwives_per1000,8,6,50.0,50.0,0.4896
+Middle and high-middle,LRI incidence,Stayed in high tail,physicians_per1000,8,0,,,
 Middle and high-middle,LRI incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,8,8,50.0,37.5,-1.2185
 Middle and high-middle,LRI incidence,Stayed in high tail,secondhand_smoke_sev,8,8,12.5,25.0,-2.917
 Middle and high-middle,LRI incidence,Stayed in low tail,basic_water_pct,3,3,66.6667,66.6667,-1.356
@@ -866,7 +923,8 @@ Middle and high-middle,LRI incidence,Stayed in low tail,undernourishment_pct,3,3
 Middle and high-middle,LRI incidence,Stayed in low tail,uhc_service_index,3,3,33.3333,0.0,0.9227
 Middle and high-middle,LRI incidence,Stayed in low tail,health_expenditure_pc_current_usd,3,3,33.3333,33.3333,47.8874
 Middle and high-middle,LRI incidence,Stayed in low tail,hospital_beds_per1000,3,3,66.6667,33.3333,-0.3137
-Middle and high-middle,LRI incidence,Stayed in low tail,nurses_midwives_per1000,3,2,0.0,0.0,1.0081
+Middle and high-middle,LRI incidence,Stayed in low tail,nurses_midwives_per1000,3,3,33.3333,33.3333,1.0081
+Middle and high-middle,LRI incidence,Stayed in low tail,physicians_per1000,3,0,,,
 Middle and high-middle,LRI incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,3,3,66.6667,33.3333,1.9573
 Middle and high-middle,LRI incidence,Stayed in low tail,secondhand_smoke_sev,3,3,100.0,66.6667,3.3386
 Middle and high-middle,LRI mortality,Entered high tail,basic_water_pct,3,2,50.0,50.0,0.5017
@@ -875,43 +933,46 @@ Middle and high-middle,LRI mortality,Entered high tail,clean_cooking_pct,3,1,0.0
 Middle and high-middle,LRI mortality,Entered high tail,dtp3_pct,3,2,50.0,50.0,-0.2954
 Middle and high-middle,LRI mortality,Entered high tail,hib3_pct,3,2,50.0,50.0,-1.0674
 Middle and high-middle,LRI mortality,Entered high tail,pcv3_pct,3,1,0.0,0.0,-6.6548
-Middle and high-middle,LRI mortality,Entered high tail,stunting_u5_pct,3,0,,,-2.6073
+Middle and high-middle,LRI mortality,Entered high tail,stunting_u5_pct,3,2,50.0,50.0,-2.6073
 Middle and high-middle,LRI mortality,Entered high tail,low_birthweight_pct,3,1,100.0,100.0,0.0189
 Middle and high-middle,LRI mortality,Entered high tail,undernourishment_pct,3,2,0.0,50.0,-1.1993
 Middle and high-middle,LRI mortality,Entered high tail,uhc_service_index,3,2,50.0,50.0,-2.5843
 Middle and high-middle,LRI mortality,Entered high tail,health_expenditure_pc_current_usd,3,2,0.0,0.0,-115.9878
 Middle and high-middle,LRI mortality,Entered high tail,hospital_beds_per1000,3,2,50.0,50.0,-0.1341
 Middle and high-middle,LRI mortality,Entered high tail,nurses_midwives_per1000,3,2,50.0,50.0,-0.1705
+Middle and high-middle,LRI mortality,Entered high tail,physicians_per1000,3,0,,,
 Middle and high-middle,LRI mortality,Entered high tail,gbd_ambient_pm25_ug_m3,3,2,100.0,100.0,-4.874
 Middle and high-middle,LRI mortality,Entered high tail,secondhand_smoke_sev,3,3,66.6667,66.6667,-2.4862
 Middle and high-middle,LRI mortality,Left high tail,basic_water_pct,4,4,75.0,75.0,1.2554
 Middle and high-middle,LRI mortality,Left high tail,basic_sanitation_pct,4,4,75.0,75.0,1.0022
 Middle and high-middle,LRI mortality,Left high tail,clean_cooking_pct,4,3,100.0,100.0,14.6162
 Middle and high-middle,LRI mortality,Left high tail,dtp3_pct,4,4,50.0,75.0,-0.4523
-Middle and high-middle,LRI mortality,Left high tail,hib3_pct,4,2,100.0,100.0,13.6248
-Middle and high-middle,LRI mortality,Left high tail,pcv3_pct,4,0,,,15.446
-Middle and high-middle,LRI mortality,Left high tail,stunting_u5_pct,4,0,,,3.4978
+Middle and high-middle,LRI mortality,Left high tail,hib3_pct,4,4,100.0,100.0,13.6248
+Middle and high-middle,LRI mortality,Left high tail,pcv3_pct,4,1,100.0,0.0,15.446
+Middle and high-middle,LRI mortality,Left high tail,stunting_u5_pct,4,4,75.0,0.0,3.4978
 Middle and high-middle,LRI mortality,Left high tail,low_birthweight_pct,4,4,25.0,25.0,0.2406
 Middle and high-middle,LRI mortality,Left high tail,undernourishment_pct,4,4,75.0,25.0,5.6683
 Middle and high-middle,LRI mortality,Left high tail,uhc_service_index,4,4,75.0,75.0,0.109
 Middle and high-middle,LRI mortality,Left high tail,health_expenditure_pc_current_usd,4,4,100.0,75.0,4.481
 Middle and high-middle,LRI mortality,Left high tail,hospital_beds_per1000,4,4,0.0,0.0,0.3182
 Middle and high-middle,LRI mortality,Left high tail,nurses_midwives_per1000,4,4,0.0,0.0,0.1589
+Middle and high-middle,LRI mortality,Left high tail,physicians_per1000,4,0,,,
 Middle and high-middle,LRI mortality,Left high tail,gbd_ambient_pm25_ug_m3,4,4,75.0,75.0,1.3575
 Middle and high-middle,LRI mortality,Left high tail,secondhand_smoke_sev,4,4,100.0,100.0,-2.3042
 Middle and high-middle,LRI mortality,Stayed in high tail,basic_water_pct,5,3,66.6667,66.6667,0.6393
 Middle and high-middle,LRI mortality,Stayed in high tail,basic_sanitation_pct,5,3,66.6667,66.6667,2.0709
 Middle and high-middle,LRI mortality,Stayed in high tail,clean_cooking_pct,5,2,0.0,0.0,-0.09
 Middle and high-middle,LRI mortality,Stayed in high tail,dtp3_pct,5,3,0.0,66.6667,-6.709
-Middle and high-middle,LRI mortality,Stayed in high tail,hib3_pct,5,3,66.6667,66.6667,-0.2184
+Middle and high-middle,LRI mortality,Stayed in high tail,hib3_pct,5,4,50.0,50.0,-0.2184
 Middle and high-middle,LRI mortality,Stayed in high tail,pcv3_pct,5,1,0.0,0.0,-9.6308
-Middle and high-middle,LRI mortality,Stayed in high tail,stunting_u5_pct,5,0,,,-1.7334
+Middle and high-middle,LRI mortality,Stayed in high tail,stunting_u5_pct,5,1,100.0,100.0,-1.7334
 Middle and high-middle,LRI mortality,Stayed in high tail,low_birthweight_pct,5,2,100.0,50.0,0.8283
 Middle and high-middle,LRI mortality,Stayed in high tail,undernourishment_pct,5,3,33.3333,33.3333,-3.1165
 Middle and high-middle,LRI mortality,Stayed in high tail,uhc_service_index,5,3,100.0,66.6667,3.8227
 Middle and high-middle,LRI mortality,Stayed in high tail,health_expenditure_pc_current_usd,5,3,66.6667,33.3333,-10.0224
 Middle and high-middle,LRI mortality,Stayed in high tail,hospital_beds_per1000,5,3,33.3333,33.3333,-0.1198
 Middle and high-middle,LRI mortality,Stayed in high tail,nurses_midwives_per1000,5,3,0.0,0.0,1.0069
+Middle and high-middle,LRI mortality,Stayed in high tail,physicians_per1000,5,0,,,
 Middle and high-middle,LRI mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,5,5,40.0,40.0,0.6574
 Middle and high-middle,LRI mortality,Stayed in high tail,secondhand_smoke_sev,5,5,20.0,40.0,-2.6557
 Middle and high-middle,LRI mortality,Stayed in low tail,basic_water_pct,6,6,50.0,66.6667,-0.8506
@@ -919,14 +980,15 @@ Middle and high-middle,LRI mortality,Stayed in low tail,basic_sanitation_pct,6,6
 Middle and high-middle,LRI mortality,Stayed in low tail,clean_cooking_pct,6,6,50.0,50.0,1.3309
 Middle and high-middle,LRI mortality,Stayed in low tail,dtp3_pct,6,6,66.6667,66.6667,-0.7778
 Middle and high-middle,LRI mortality,Stayed in low tail,hib3_pct,6,6,50.0,33.3333,3.4794
-Middle and high-middle,LRI mortality,Stayed in low tail,pcv3_pct,6,0,,,-6.0266
-Middle and high-middle,LRI mortality,Stayed in low tail,stunting_u5_pct,6,4,25.0,0.0,0.2795
+Middle and high-middle,LRI mortality,Stayed in low tail,pcv3_pct,6,1,0.0,0.0,-6.0266
+Middle and high-middle,LRI mortality,Stayed in low tail,stunting_u5_pct,6,5,20.0,0.0,0.2795
 Middle and high-middle,LRI mortality,Stayed in low tail,low_birthweight_pct,6,6,16.6667,16.6667,0.1237
 Middle and high-middle,LRI mortality,Stayed in low tail,undernourishment_pct,6,6,0.0,16.6667,-1.0688
 Middle and high-middle,LRI mortality,Stayed in low tail,uhc_service_index,6,6,66.6667,33.3333,3.004
 Middle and high-middle,LRI mortality,Stayed in low tail,health_expenditure_pc_current_usd,6,6,0.0,16.6667,150.2221
 Middle and high-middle,LRI mortality,Stayed in low tail,hospital_beds_per1000,6,6,83.3333,66.6667,0.5104
-Middle and high-middle,LRI mortality,Stayed in low tail,nurses_midwives_per1000,6,5,20.0,20.0,1.1911
+Middle and high-middle,LRI mortality,Stayed in low tail,nurses_midwives_per1000,6,6,33.3333,33.3333,1.1911
+Middle and high-middle,LRI mortality,Stayed in low tail,physicians_per1000,6,0,,,
 Middle and high-middle,LRI mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,6,6,50.0,66.6667,0.8111
 Middle and high-middle,LRI mortality,Stayed in low tail,secondhand_smoke_sev,6,6,83.3333,50.0,3.1448
 Middle and high-middle,Meningitis incidence,Entered high tail,basic_water_pct,2,1,0.0,0.0,0.1654
@@ -941,7 +1003,8 @@ Middle and high-middle,Meningitis incidence,Entered high tail,undernourishment_p
 Middle and high-middle,Meningitis incidence,Entered high tail,uhc_service_index,2,1,0.0,0.0,-0.4383
 Middle and high-middle,Meningitis incidence,Entered high tail,health_expenditure_pc_current_usd,2,1,0.0,0.0,-99.825
 Middle and high-middle,Meningitis incidence,Entered high tail,hospital_beds_per1000,2,0,,,
-Middle and high-middle,Meningitis incidence,Entered high tail,nurses_midwives_per1000,2,0,,,2.0028
+Middle and high-middle,Meningitis incidence,Entered high tail,nurses_midwives_per1000,2,1,100.0,0.0,2.0028
+Middle and high-middle,Meningitis incidence,Entered high tail,physicians_per1000,2,0,,,
 Middle and high-middle,Meningitis incidence,Entered high tail,gbd_ambient_pm25_ug_m3,2,2,0.0,0.0,-0.7879
 Middle and high-middle,Meningitis incidence,Entered high tail,secondhand_smoke_sev,2,2,0.0,0.0,-1.6535
 Middle and high-middle,Meningitis incidence,Left high tail,basic_water_pct,4,4,100.0,100.0,0.5397
@@ -950,13 +1013,14 @@ Middle and high-middle,Meningitis incidence,Left high tail,clean_cooking_pct,4,4
 Middle and high-middle,Meningitis incidence,Left high tail,dtp3_pct,4,4,50.0,75.0,-7.8097
 Middle and high-middle,Meningitis incidence,Left high tail,hib3_pct,4,4,100.0,100.0,11.7678
 Middle and high-middle,Meningitis incidence,Left high tail,pcv3_pct,4,0,,,
-Middle and high-middle,Meningitis incidence,Left high tail,stunting_u5_pct,4,0,,,4.258
+Middle and high-middle,Meningitis incidence,Left high tail,stunting_u5_pct,4,2,50.0,0.0,4.258
 Middle and high-middle,Meningitis incidence,Left high tail,low_birthweight_pct,4,4,25.0,25.0,0.39
 Middle and high-middle,Meningitis incidence,Left high tail,undernourishment_pct,4,4,75.0,25.0,5.4402
 Middle and high-middle,Meningitis incidence,Left high tail,uhc_service_index,4,4,25.0,50.0,-0.6536
 Middle and high-middle,Meningitis incidence,Left high tail,health_expenditure_pc_current_usd,4,4,75.0,75.0,-38.101
-Middle and high-middle,Meningitis incidence,Left high tail,hospital_beds_per1000,4,3,0.0,0.0,-0.3036
+Middle and high-middle,Meningitis incidence,Left high tail,hospital_beds_per1000,4,4,25.0,25.0,-0.3036
 Middle and high-middle,Meningitis incidence,Left high tail,nurses_midwives_per1000,4,4,25.0,25.0,0.1952
+Middle and high-middle,Meningitis incidence,Left high tail,physicians_per1000,4,0,,,
 Middle and high-middle,Meningitis incidence,Left high tail,gbd_ambient_pm25_ug_m3,4,4,50.0,25.0,1.2829
 Middle and high-middle,Meningitis incidence,Left high tail,secondhand_smoke_sev,4,4,75.0,75.0,0.0982
 Middle and high-middle,Meningitis incidence,Stayed in high tail,basic_water_pct,4,4,50.0,25.0,0.0618
@@ -965,13 +1029,14 @@ Middle and high-middle,Meningitis incidence,Stayed in high tail,clean_cooking_pc
 Middle and high-middle,Meningitis incidence,Stayed in high tail,dtp3_pct,4,4,50.0,50.0,0.1639
 Middle and high-middle,Meningitis incidence,Stayed in high tail,hib3_pct,4,4,75.0,75.0,14.8836
 Middle and high-middle,Meningitis incidence,Stayed in high tail,pcv3_pct,4,1,0.0,100.0,4.798
-Middle and high-middle,Meningitis incidence,Stayed in high tail,stunting_u5_pct,4,0,,,0.6812
+Middle and high-middle,Meningitis incidence,Stayed in high tail,stunting_u5_pct,4,1,0.0,0.0,0.6812
 Middle and high-middle,Meningitis incidence,Stayed in high tail,low_birthweight_pct,4,1,0.0,0.0,0.1608
 Middle and high-middle,Meningitis incidence,Stayed in high tail,undernourishment_pct,4,3,33.3333,33.3333,-0.1575
 Middle and high-middle,Meningitis incidence,Stayed in high tail,uhc_service_index,4,4,50.0,0.0,-0.0039
 Middle and high-middle,Meningitis incidence,Stayed in high tail,health_expenditure_pc_current_usd,4,4,50.0,50.0,-80.6582
-Middle and high-middle,Meningitis incidence,Stayed in high tail,hospital_beds_per1000,4,1,0.0,0.0,-0.5225
-Middle and high-middle,Meningitis incidence,Stayed in high tail,nurses_midwives_per1000,4,2,0.0,50.0,-0.7834
+Middle and high-middle,Meningitis incidence,Stayed in high tail,hospital_beds_per1000,4,2,0.0,0.0,-0.5225
+Middle and high-middle,Meningitis incidence,Stayed in high tail,nurses_midwives_per1000,4,4,0.0,25.0,-0.7834
+Middle and high-middle,Meningitis incidence,Stayed in high tail,physicians_per1000,4,0,,,
 Middle and high-middle,Meningitis incidence,Stayed in high tail,gbd_ambient_pm25_ug_m3,4,4,25.0,0.0,0.5673
 Middle and high-middle,Meningitis incidence,Stayed in high tail,secondhand_smoke_sev,4,4,25.0,25.0,-2.2807
 Middle and high-middle,Meningitis incidence,Stayed in low tail,basic_water_pct,3,3,66.6667,66.6667,1.4978
@@ -980,13 +1045,14 @@ Middle and high-middle,Meningitis incidence,Stayed in low tail,clean_cooking_pct
 Middle and high-middle,Meningitis incidence,Stayed in low tail,dtp3_pct,3,3,33.3333,33.3333,0.5013
 Middle and high-middle,Meningitis incidence,Stayed in low tail,hib3_pct,3,3,33.3333,33.3333,2.9822
 Middle and high-middle,Meningitis incidence,Stayed in low tail,pcv3_pct,3,2,0.0,0.0,2.3549
-Middle and high-middle,Meningitis incidence,Stayed in low tail,stunting_u5_pct,3,1,0.0,0.0,-3.2105
+Middle and high-middle,Meningitis incidence,Stayed in low tail,stunting_u5_pct,3,2,0.0,50.0,-3.2105
 Middle and high-middle,Meningitis incidence,Stayed in low tail,low_birthweight_pct,3,3,66.6667,66.6667,-0.1948
 Middle and high-middle,Meningitis incidence,Stayed in low tail,undernourishment_pct,3,2,50.0,50.0,0.632
 Middle and high-middle,Meningitis incidence,Stayed in low tail,uhc_service_index,3,3,33.3333,66.6667,-0.2096
 Middle and high-middle,Meningitis incidence,Stayed in low tail,health_expenditure_pc_current_usd,3,3,0.0,33.3333,-61.2885
 Middle and high-middle,Meningitis incidence,Stayed in low tail,hospital_beds_per1000,3,3,66.6667,66.6667,-0.064
 Middle and high-middle,Meningitis incidence,Stayed in low tail,nurses_midwives_per1000,3,3,33.3333,33.3333,-0.3663
+Middle and high-middle,Meningitis incidence,Stayed in low tail,physicians_per1000,3,0,,,
 Middle and high-middle,Meningitis incidence,Stayed in low tail,gbd_ambient_pm25_ug_m3,3,3,100.0,100.0,0.2089
 Middle and high-middle,Meningitis incidence,Stayed in low tail,secondhand_smoke_sev,3,3,33.3333,33.3333,-2.1127
 Middle and high-middle,Meningitis mortality,Entered high tail,basic_water_pct,3,2,50.0,50.0,-0.1333
@@ -1001,7 +1067,8 @@ Middle and high-middle,Meningitis mortality,Entered high tail,undernourishment_p
 Middle and high-middle,Meningitis mortality,Entered high tail,uhc_service_index,3,2,50.0,0.0,-0.4698
 Middle and high-middle,Meningitis mortality,Entered high tail,health_expenditure_pc_current_usd,3,2,50.0,50.0,12.2686
 Middle and high-middle,Meningitis mortality,Entered high tail,hospital_beds_per1000,3,0,,,
-Middle and high-middle,Meningitis mortality,Entered high tail,nurses_midwives_per1000,3,0,,,-0.6935
+Middle and high-middle,Meningitis mortality,Entered high tail,nurses_midwives_per1000,3,2,0.0,0.0,-0.6935
+Middle and high-middle,Meningitis mortality,Entered high tail,physicians_per1000,3,0,,,
 Middle and high-middle,Meningitis mortality,Entered high tail,gbd_ambient_pm25_ug_m3,3,2,0.0,0.0,-0.8817
 Middle and high-middle,Meningitis mortality,Entered high tail,secondhand_smoke_sev,3,3,33.3333,33.3333,-2.5634
 Middle and high-middle,Meningitis mortality,Left high tail,basic_water_pct,1,1,100.0,100.0,2.9772
@@ -1010,28 +1077,30 @@ Middle and high-middle,Meningitis mortality,Left high tail,clean_cooking_pct,1,1
 Middle and high-middle,Meningitis mortality,Left high tail,dtp3_pct,1,1,0.0,0.0,0.6999
 Middle and high-middle,Meningitis mortality,Left high tail,hib3_pct,1,1,100.0,100.0,-2.4987
 Middle and high-middle,Meningitis mortality,Left high tail,pcv3_pct,1,0,,,
-Middle and high-middle,Meningitis mortality,Left high tail,stunting_u5_pct,1,0,,,8.3529
+Middle and high-middle,Meningitis mortality,Left high tail,stunting_u5_pct,1,1,100.0,0.0,8.3529
 Middle and high-middle,Meningitis mortality,Left high tail,low_birthweight_pct,1,1,0.0,0.0,1.0863
 Middle and high-middle,Meningitis mortality,Left high tail,undernourishment_pct,1,1,100.0,0.0,2.2638
 Middle and high-middle,Meningitis mortality,Left high tail,uhc_service_index,1,1,0.0,0.0,0.6207
 Middle and high-middle,Meningitis mortality,Left high tail,health_expenditure_pc_current_usd,1,1,100.0,100.0,-23.073
 Middle and high-middle,Meningitis mortality,Left high tail,hospital_beds_per1000,1,1,0.0,0.0,-0.6834
 Middle and high-middle,Meningitis mortality,Left high tail,nurses_midwives_per1000,1,1,0.0,0.0,0.1584
+Middle and high-middle,Meningitis mortality,Left high tail,physicians_per1000,1,0,,,
 Middle and high-middle,Meningitis mortality,Left high tail,gbd_ambient_pm25_ug_m3,1,1,0.0,100.0,-2.5013
 Middle and high-middle,Meningitis mortality,Left high tail,secondhand_smoke_sev,1,1,100.0,100.0,1.9871
 Middle and high-middle,Meningitis mortality,Stayed in high tail,basic_water_pct,5,5,100.0,80.0,0.1909
 Middle and high-middle,Meningitis mortality,Stayed in high tail,basic_sanitation_pct,5,5,60.0,40.0,1.2355
 Middle and high-middle,Meningitis mortality,Stayed in high tail,clean_cooking_pct,5,5,60.0,40.0,3.4377
 Middle and high-middle,Meningitis mortality,Stayed in high tail,dtp3_pct,5,5,60.0,60.0,-5.5741
-Middle and high-middle,Meningitis mortality,Stayed in high tail,hib3_pct,5,4,100.0,100.0,17.2866
+Middle and high-middle,Meningitis mortality,Stayed in high tail,hib3_pct,5,5,80.0,80.0,17.2866
 Middle and high-middle,Meningitis mortality,Stayed in high tail,pcv3_pct,5,0,,,
-Middle and high-middle,Meningitis mortality,Stayed in high tail,stunting_u5_pct,5,0,,,0.4222
+Middle and high-middle,Meningitis mortality,Stayed in high tail,stunting_u5_pct,5,2,0.0,0.0,0.4222
 Middle and high-middle,Meningitis mortality,Stayed in high tail,low_birthweight_pct,5,5,40.0,40.0,0.2119
 Middle and high-middle,Meningitis mortality,Stayed in high tail,undernourishment_pct,5,5,40.0,20.0,3.6846
 Middle and high-middle,Meningitis mortality,Stayed in high tail,uhc_service_index,5,5,60.0,40.0,1.5539
 Middle and high-middle,Meningitis mortality,Stayed in high tail,health_expenditure_pc_current_usd,5,5,60.0,60.0,-100.4805
-Middle and high-middle,Meningitis mortality,Stayed in high tail,hospital_beds_per1000,5,4,0.0,25.0,-0.384
+Middle and high-middle,Meningitis mortality,Stayed in high tail,hospital_beds_per1000,5,5,20.0,40.0,-0.384
 Middle and high-middle,Meningitis mortality,Stayed in high tail,nurses_midwives_per1000,5,5,20.0,20.0,0.3121
+Middle and high-middle,Meningitis mortality,Stayed in high tail,physicians_per1000,5,0,,,
 Middle and high-middle,Meningitis mortality,Stayed in high tail,gbd_ambient_pm25_ug_m3,5,5,60.0,0.0,2.3932
 Middle and high-middle,Meningitis mortality,Stayed in high tail,secondhand_smoke_sev,5,5,60.0,60.0,-1.3493
 Middle and high-middle,Meningitis mortality,Stayed in low tail,basic_water_pct,6,5,40.0,60.0,0.397
@@ -1040,12 +1109,13 @@ Middle and high-middle,Meningitis mortality,Stayed in low tail,clean_cooking_pct
 Middle and high-middle,Meningitis mortality,Stayed in low tail,dtp3_pct,6,5,40.0,60.0,-1.5943
 Middle and high-middle,Meningitis mortality,Stayed in low tail,hib3_pct,6,6,50.0,66.6667,2.2921
 Middle and high-middle,Meningitis mortality,Stayed in low tail,pcv3_pct,6,2,0.0,0.0,2.3549
-Middle and high-middle,Meningitis mortality,Stayed in low tail,stunting_u5_pct,6,1,0.0,0.0,-1.9782
+Middle and high-middle,Meningitis mortality,Stayed in low tail,stunting_u5_pct,6,3,0.0,33.3333,-1.9782
 Middle and high-middle,Meningitis mortality,Stayed in low tail,low_birthweight_pct,6,5,40.0,40.0,0.0008
 Middle and high-middle,Meningitis mortality,Stayed in low tail,undernourishment_pct,6,4,50.0,25.0,0.2646
 Middle and high-middle,Meningitis mortality,Stayed in low tail,uhc_service_index,6,5,60.0,80.0,0.069
 Middle and high-middle,Meningitis mortality,Stayed in low tail,health_expenditure_pc_current_usd,6,5,0.0,20.0,-36.6231
 Middle and high-middle,Meningitis mortality,Stayed in low tail,hospital_beds_per1000,6,5,60.0,60.0,0.1969
 Middle and high-middle,Meningitis mortality,Stayed in low tail,nurses_midwives_per1000,6,5,20.0,20.0,0.2498
+Middle and high-middle,Meningitis mortality,Stayed in low tail,physicians_per1000,6,0,,,
 Middle and high-middle,Meningitis mortality,Stayed in low tail,gbd_ambient_pm25_ug_m3,6,6,83.3333,83.3333,1.3952
 Middle and high-middle,Meningitis mortality,Stayed in low tail,secondhand_smoke_sev,6,6,50.0,50.0,-0.9194

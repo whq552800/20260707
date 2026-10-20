@@ -79,6 +79,7 @@ OV = [  # factor, LRI mortality, diarrhoea mortality, meningitis mortality, LRI 
     ('health_expenditure_pc_current_usd', '', '', '', '', '', ''),
     ('hospital_beds_per1000', '', '', '', '', '', ''),
     ('nurses_midwives_per1000', '', '', '', '', '', ''),
+    ('physicians_per1000', '', '', '', '', '', ''),
     ('fertility_births_per_woman', 'related (SDI component)', 'related (SDI component)', 'related (SDI component)', 'related (SDI component)', 'related (SDI component)', 'related (SDI component)')]
 pd.DataFrame(OV, columns=['factor', 'LRI mortality', 'Diarrhoea mortality', 'Meningitis mortality', 'LRI incidence', 'Diarrhoea incidence', 'Meningitis incidence']).to_csv(
     H / 'COVARIATE_OVERLAP.csv', index=False, encoding='utf-8-sig')

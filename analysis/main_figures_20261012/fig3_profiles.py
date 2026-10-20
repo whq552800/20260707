@@ -5,18 +5,18 @@ Newcombe 95% interval excludes 0. B: the same difference averaged over the facto
 incidence outcomes, with 95% intervals from 2000 location resamples. C: change from 2001-2010 to 2011-2023 in the percentage of
 record-factor pairs with an adverse departure, compared between records that left and stayed in the high tail and between records that
 entered the high tail and stayed in the low tail (all strata), with 95% intervals.
-Data: results_revision_20261010/PROFILE_CELLS.csv, PROFILE_DOMAINS_POOLED.csv, PROFILE_TRAJECTORY_CONTRASTS.csv.
+Data: results_revision_20261010/PROFILE_CELLS.csv, robustness_20261017/PROFILE_DOMAINS_POOLED_CLUSTERED.csv, PROFILE_TRAJECTORY_CONTRASTS.csv.
 Outputs: Fig3_profiles_by_development.{jpg,pdf}, Fig3_SOURCE.csv."""
 from common import *
 import numpy as np, pandas as pd
 from matplotlib.colors import TwoSlopeNorm
 R = A / 'results_revision_20261010'
 C = pd.read_csv(R / 'PROFILE_CELLS.csv'); C = C[C.period == '2011–2023']
-PD = pd.read_csv(R / 'PROFILE_DOMAINS_POOLED.csv'); TC = pd.read_csv(R / 'PROFILE_TRAJECTORY_CONTRASTS.csv')
+PD = pd.read_csv(A / 'robustness_20261017' / 'PROFILE_DOMAINS_POOLED_CLUSTERED.csv'); TC = pd.read_csv(R / 'PROFILE_TRAJECTORY_CONTRASTS.csv')   # 2026-10-17: pooled-domain intervals resample locations within stratum, each bringing all outcomes
 DOM = [('Basic services', [('basic_water_pct', 'Drinking water'), ('basic_sanitation_pct', 'Sanitation'), ('clean_cooking_pct', 'Clean cooking fuels')]),
        ('Immunisation', [('dtp3_pct', 'DTP3'), ('hib3_pct', 'Hib3'), ('pcv3_pct', 'PCV3')]),
        ('Nutrition', [('stunting_u5_pct', 'Stunting'), ('low_birthweight_pct', 'Low birthweight'), ('undernourishment_pct', 'Undernourishment')]),
-       ('Health system', [('uhc_service_index', 'UHC index'), ('health_expenditure_pc_current_usd', 'Health expenditure'), ('hospital_beds_per1000', 'Hospital beds'), ('nurses_midwives_per1000', 'Nurses and midwives')]),
+       ('Health system', [('uhc_service_index', 'UHC index'), ('health_expenditure_pc_current_usd', 'Health expenditure'), ('hospital_beds_per1000', 'Hospital beds'), ('nurses_midwives_per1000', 'Nurses and midwives'), ('physicians_per1000', 'Physicians')]),
        ('Air pollution', [('gbd_ambient_pm25_ug_m3', 'Ambient PM2.5'), ('secondhand_smoke_sev', 'Second-hand smoke')])]
 FAC = [f for _, v in DOM for f in v]
 BANDS = ['Low and low-middle', 'Middle and high-middle', 'High']; BLAB = ['Low and low-middle SDI', 'Middle and high-middle SDI', 'High SDI']
@@ -80,7 +80,7 @@ ax.set_xlabel('High tail minus low tail, % adverse (pp)')
 for b, bl in zip(BANDS, BLAB): ax.plot([], [], color=BC[b], lw=3, label=bl.replace(' SDI', ''))
 ax.scatter([], [], marker='o', s=13, color='k', label='Mortality'); ax.scatter([], [], marker='s', s=13, facecolor='white', edgecolor='k', label='Incidence')
 ax.legend(loc='upper left', bbox_to_anchor=(-0.42, -0.19), ncol=3, fontsize=5.8, columnspacing=0.9, handlelength=1.2)
-ax.set_title('Profiles by domain, 2011–2023', loc='left')
+
 label(ax, 'B', x=-0.42)
 # C trajectories
 ax = fig.add_subplot(gb[0, 1])
@@ -96,7 +96,7 @@ for yi in y0[:-1]: ax.axhline(yi - 0.5, color='#E0E0E0', lw=0.5)
 ax.set_yticks(y0); ax.set_yticklabels(DN); ax.set_ylim(-0.55, len(DN) - 0.45); ax.set_xlim(-30, 30)
 ax.set_xlabel('Difference in change of % adverse,\n2001–2010 to 2011–2023 (pp)')
 ax.legend(loc='upper left', bbox_to_anchor=(-0.55, -0.26), ncol=1, fontsize=5.8)
-ax.set_title('Profile change with tail membership', loc='left')
+
 label(ax, 'C', x=-0.62)
 pd.DataFrame(src).to_csv(Path(__file__).with_name('Fig3_SOURCE.csv'), index=False, encoding='utf-8-sig')
 save_figure(fig, Path(__file__).with_name('Fig3_profiles_by_development')); print('ok')

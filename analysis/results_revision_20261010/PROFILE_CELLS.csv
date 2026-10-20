@@ -5,13 +5,14 @@
 1990–2000,Low and low-middle,Diarrhoeal incidence,dtp3_pct,20,21,20,20,13,6,4,7,65.0,30.0,35.0,4.1615,57.8853,0.0562
 1990–2000,Low and low-middle,Diarrhoeal incidence,hib3_pct,20,21,5,6,2,2,0,2,40.0,33.3333,6.6667,-39.6137,50.5217,1.0
 1990–2000,Low and low-middle,Diarrhoeal incidence,pcv3_pct,20,21,0,0,0,0,0,0,,,,,,
-1990–2000,Low and low-middle,Diarrhoeal incidence,stunting_u5_pct,20,21,12,6,5,3,2,2,41.6667,50.0,-8.3333,-46.7383,32.555,1.0
+1990–2000,Low and low-middle,Diarrhoeal incidence,stunting_u5_pct,20,21,18,12,7,3,2,8,38.8889,25.0,13.8889,-19.9093,41.5528,0.6942
 1990–2000,Low and low-middle,Diarrhoeal incidence,low_birthweight_pct,20,21,17,13,7,2,5,9,41.1765,15.3846,25.7919,-7.4306,51.1486,0.2293
 1990–2000,Low and low-middle,Diarrhoeal incidence,undernourishment_pct,20,21,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Diarrhoeal incidence,uhc_service_index,20,21,20,20,9,2,8,15,45.0,10.0,35.0,7.2146,57.0072,0.031
 1990–2000,Low and low-middle,Diarrhoeal incidence,health_expenditure_pc_current_usd,20,21,20,19,8,2,7,14,40.0,10.5263,29.4737,1.8372,52.1252,0.0648
-1990–2000,Low and low-middle,Diarrhoeal incidence,hospital_beds_per1000,20,21,17,16,13,2,2,6,76.4706,12.5,63.9706,30.5558,80.5936,0.0004
-1990–2000,Low and low-middle,Diarrhoeal incidence,nurses_midwives_per1000,20,21,6,5,4,2,2,3,66.6667,40.0,26.6667,-25.3731,63.5041,0.5671
+1990–2000,Low and low-middle,Diarrhoeal incidence,hospital_beds_per1000,20,21,19,16,13,2,4,6,68.4211,12.5,55.9211,23.4317,74.467,0.0016
+1990–2000,Low and low-middle,Diarrhoeal incidence,nurses_midwives_per1000,20,21,10,15,7,5,3,5,70.0,33.3333,36.6667,-2.6028,63.1075,0.1107
+1990–2000,Low and low-middle,Diarrhoeal incidence,physicians_per1000,20,21,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,20,21,20,21,16,7,3,11,80.0,33.3333,46.6667,16.3346,66.7385,0.0044
 1990–2000,Low and low-middle,Diarrhoeal incidence,secondhand_smoke_sev,20,21,20,21,8,9,8,9,40.0,42.8571,-2.8571,-30.2892,25.3131,1.0
 1990–2000,Middle and high-middle,Diarrhoeal incidence,basic_water_pct,12,11,11,8,7,3,0,2,63.6364,37.5,26.1364,-16.4978,58.019,0.3698
@@ -20,13 +21,14 @@
 1990–2000,Middle and high-middle,Diarrhoeal incidence,dtp3_pct,12,11,12,9,9,3,2,5,75.0,33.3333,41.6667,-0.4439,68.3504,0.0872
 1990–2000,Middle and high-middle,Diarrhoeal incidence,hib3_pct,12,11,7,3,2,2,3,0,28.5714,66.6667,-38.0952,-72.0523,19.9532,0.5
 1990–2000,Middle and high-middle,Diarrhoeal incidence,pcv3_pct,12,11,0,0,0,0,0,0,,,,,,
-1990–2000,Middle and high-middle,Diarrhoeal incidence,stunting_u5_pct,12,11,1,0,1,0,0,0,,,,,,
+1990–2000,Middle and high-middle,Diarrhoeal incidence,stunting_u5_pct,12,11,5,1,4,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Diarrhoeal incidence,low_birthweight_pct,12,11,11,10,3,4,6,5,27.2727,40.0,-12.7273,-46.3836,24.628,0.6594
 1990–2000,Middle and high-middle,Diarrhoeal incidence,undernourishment_pct,12,11,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Diarrhoeal incidence,uhc_service_index,12,11,12,10,8,6,2,2,66.6667,60.0,6.6667,-29.3807,41.4035,1.0
 1990–2000,Middle and high-middle,Diarrhoeal incidence,health_expenditure_pc_current_usd,12,11,12,9,6,4,2,3,50.0,44.4444,5.5556,-32.4035,41.0504,1.0
-1990–2000,Middle and high-middle,Diarrhoeal incidence,hospital_beds_per1000,12,11,11,8,4,3,6,2,36.3636,37.5,-1.1364,-39.4583,35.8176,1.0
-1990–2000,Middle and high-middle,Diarrhoeal incidence,nurses_midwives_per1000,12,11,8,5,3,1,1,2,37.5,20.0,17.5,-31.1712,53.3815,1.0
+1990–2000,Middle and high-middle,Diarrhoeal incidence,hospital_beds_per1000,12,11,12,10,5,4,6,2,41.6667,40.0,1.6667,-34.7293,36.7868,1.0
+1990–2000,Middle and high-middle,Diarrhoeal incidence,nurses_midwives_per1000,12,11,11,7,4,3,2,2,36.3636,42.8571,-6.4935,-44.9583,32.613,1.0
+1990–2000,Middle and high-middle,Diarrhoeal incidence,physicians_per1000,12,11,0,1,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,12,11,12,11,9,6,1,5,75.0,54.5455,20.4545,-16.7179,51.496,0.4003
 1990–2000,Middle and high-middle,Diarrhoeal incidence,secondhand_smoke_sev,12,11,12,11,6,6,3,3,50.0,54.5455,-4.5455,-39.0573,31.6541,1.0
 1990–2000,High,Diarrhoeal incidence,basic_water_pct,6,6,5,4,1,1,0,0,20.0,25.0,-5.0,-52.8273,42.1121,1.0
@@ -35,13 +37,14 @@
 1990–2000,High,Diarrhoeal incidence,dtp3_pct,6,6,5,5,5,4,0,0,100.0,80.0,20.0,-26.4325,62.4465,1.0
 1990–2000,High,Diarrhoeal incidence,hib3_pct,6,6,4,3,1,0,1,0,25.0,0.0,25.0,-34.7548,69.9358,1.0
 1990–2000,High,Diarrhoeal incidence,pcv3_pct,6,6,0,0,0,0,0,0,,,,,,
-1990–2000,High,Diarrhoeal incidence,stunting_u5_pct,6,6,1,1,1,0,0,0,,,,,,
+1990–2000,High,Diarrhoeal incidence,stunting_u5_pct,6,6,2,2,1,1,1,0,,,,,,
 1990–2000,High,Diarrhoeal incidence,low_birthweight_pct,6,6,5,5,1,3,1,1,20.0,60.0,-40.0,-72.6436,16.2615,0.5238
 1990–2000,High,Diarrhoeal incidence,undernourishment_pct,6,6,0,0,0,0,0,0,,,,,,
 1990–2000,High,Diarrhoeal incidence,uhc_service_index,6,6,5,5,1,0,3,4,20.0,0.0,20.0,-26.4325,62.4465,1.0
 1990–2000,High,Diarrhoeal incidence,health_expenditure_pc_current_usd,6,6,5,5,0,1,3,2,0.0,20.0,-20.0,-62.4465,26.4325,1.0
 1990–2000,High,Diarrhoeal incidence,hospital_beds_per1000,6,6,5,5,0,5,4,0,0.0,100.0,-100.0,-100.0,-38.5549,0.0079
-1990–2000,High,Diarrhoeal incidence,nurses_midwives_per1000,6,6,4,3,2,1,2,1,50.0,33.3333,16.6667,-41.0534,60.9804,1.0
+1990–2000,High,Diarrhoeal incidence,nurses_midwives_per1000,6,6,5,5,2,3,2,1,40.0,60.0,-20.0,-59.9345,32.2235,1.0
+1990–2000,High,Diarrhoeal incidence,physicians_per1000,6,6,0,0,0,0,0,0,,,,,,
 1990–2000,High,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,6,6,6,6,3,2,2,3,50.0,33.3333,16.6667,-31.5031,55.8515,1.0
 1990–2000,High,Diarrhoeal incidence,secondhand_smoke_sev,6,6,6,6,3,2,1,4,50.0,33.3333,16.6667,-31.5031,55.8515,1.0
 1990–2000,Low and low-middle,Diarrhoeal mortality,basic_water_pct,27,20,27,19,17,5,5,8,62.963,26.3158,36.6472,7.3878,57.8819,0.0188
@@ -50,13 +53,14 @@
 1990–2000,Low and low-middle,Diarrhoeal mortality,dtp3_pct,27,20,27,19,20,5,3,9,74.0741,26.3158,47.7583,18.4868,67.0773,0.0024
 1990–2000,Low and low-middle,Diarrhoeal mortality,hib3_pct,27,20,4,4,3,1,0,1,75.0,25.0,50.0,-13.5488,78.9083,0.4857
 1990–2000,Low and low-middle,Diarrhoeal mortality,pcv3_pct,27,20,0,0,0,0,0,0,,,,,,
-1990–2000,Low and low-middle,Diarrhoeal mortality,stunting_u5_pct,27,20,16,10,8,3,3,5,50.0,30.0,20.0,-17.4627,49.2141,0.4279
+1990–2000,Low and low-middle,Diarrhoeal mortality,stunting_u5_pct,27,20,25,15,11,3,6,10,44.0,20.0,24.0,-6.5743,46.9393,0.1768
 1990–2000,Low and low-middle,Diarrhoeal mortality,low_birthweight_pct,27,20,22,13,8,3,8,9,36.3636,23.0769,13.2867,-18.577,38.7776,0.4776
 1990–2000,Low and low-middle,Diarrhoeal mortality,undernourishment_pct,27,20,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Diarrhoeal mortality,uhc_service_index,27,20,27,19,13,4,9,13,48.1481,21.0526,27.0955,-1.1782,48.9262,0.0728
 1990–2000,Low and low-middle,Diarrhoeal mortality,health_expenditure_pc_current_usd,27,20,26,18,15,5,8,9,57.6923,27.7778,29.9145,0.1706,52.5955,0.0685
-1990–2000,Low and low-middle,Diarrhoeal mortality,hospital_beds_per1000,27,20,17,14,5,6,9,3,29.4118,42.8571,-13.4454,-42.823,18.5536,0.4775
-1990–2000,Low and low-middle,Diarrhoeal mortality,nurses_midwives_per1000,27,20,11,6,2,2,8,2,18.1818,33.3333,-15.1515,-54.0702,22.6747,0.584
+1990–2000,Low and low-middle,Diarrhoeal mortality,hospital_beds_per1000,27,20,24,15,5,6,16,4,20.8333,40.0,-19.1667,-46.0462,8.9877,0.2773
+1990–2000,Low and low-middle,Diarrhoeal mortality,nurses_midwives_per1000,27,20,19,11,6,3,10,3,31.5789,27.2727,4.3062,-29.174,32.7565,1.0
+1990–2000,Low and low-middle,Diarrhoeal mortality,physicians_per1000,27,20,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,27,20,27,20,17,9,7,9,62.963,45.0,17.963,-10.0234,42.6261,0.2503
 1990–2000,Low and low-middle,Diarrhoeal mortality,secondhand_smoke_sev,27,20,27,20,11,14,12,3,40.7407,70.0,-29.2593,-51.6659,-0.5722,0.0759
 1990–2000,Middle and high-middle,Diarrhoeal mortality,basic_water_pct,6,7,5,6,3,1,0,1,60.0,16.6667,43.3333,-10.874,74.7023,0.2424
@@ -65,13 +69,14 @@
 1990–2000,Middle and high-middle,Diarrhoeal mortality,dtp3_pct,6,7,5,7,5,5,0,1,100.0,71.4286,28.5714,-19.4062,64.1066,0.4697
 1990–2000,Middle and high-middle,Diarrhoeal mortality,hib3_pct,6,7,3,4,1,0,1,0,33.3333,0.0,33.3333,-22.6926,79.234,0.4286
 1990–2000,Middle and high-middle,Diarrhoeal mortality,pcv3_pct,6,7,0,0,0,0,0,0,,,,,,
-1990–2000,Middle and high-middle,Diarrhoeal mortality,stunting_u5_pct,6,7,0,0,0,0,0,0,,,,,,
+1990–2000,Middle and high-middle,Diarrhoeal mortality,stunting_u5_pct,6,7,2,0,1,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Diarrhoeal mortality,low_birthweight_pct,6,7,5,7,3,2,1,5,60.0,28.5714,31.4286,-19.8198,66.2349,0.5581
 1990–2000,Middle and high-middle,Diarrhoeal mortality,undernourishment_pct,6,7,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Diarrhoeal mortality,uhc_service_index,6,7,5,7,4,4,0,2,80.0,57.1429,22.8571,-27.4679,58.8911,0.5758
 1990–2000,Middle and high-middle,Diarrhoeal mortality,health_expenditure_pc_current_usd,6,7,5,7,2,2,1,5,40.0,28.5714,11.4286,-33.96,53.5919,1.0
-1990–2000,Middle and high-middle,Diarrhoeal mortality,hospital_beds_per1000,6,7,5,6,2,5,2,0,40.0,83.3333,-43.3333,-74.7023,10.874,0.2424
-1990–2000,Middle and high-middle,Diarrhoeal mortality,nurses_midwives_per1000,6,7,4,4,2,2,0,0,50.0,50.0,0.0,-49.492,49.492,1.0
+1990–2000,Middle and high-middle,Diarrhoeal mortality,hospital_beds_per1000,6,7,6,6,3,5,2,0,50.0,83.3333,-33.3333,-67.4283,17.1704,0.5455
+1990–2000,Middle and high-middle,Diarrhoeal mortality,nurses_midwives_per1000,6,7,5,4,2,2,0,0,40.0,50.0,-10.0,-54.9678,40.8761,1.0
+1990–2000,Middle and high-middle,Diarrhoeal mortality,physicians_per1000,6,7,1,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,6,7,6,7,3,4,3,1,50.0,57.1429,-7.1429,-48.4555,37.6461,1.0
 1990–2000,Middle and high-middle,Diarrhoeal mortality,secondhand_smoke_sev,6,7,6,7,1,7,4,0,16.6667,100.0,-83.3333,-96.9947,-30.1329,0.0047
 1990–2000,High,Diarrhoeal mortality,basic_water_pct,5,11,5,11,3,1,0,0,60.0,9.0909,50.9091,4.1739,80.1178,0.0632
@@ -80,13 +85,14 @@
 1990–2000,High,Diarrhoeal mortality,dtp3_pct,5,11,3,11,2,6,1,4,66.6667,54.5455,12.1212,-39.7604,50.1101,1.0
 1990–2000,High,Diarrhoeal mortality,hib3_pct,5,11,2,11,0,2,0,4,,,,,,
 1990–2000,High,Diarrhoeal mortality,pcv3_pct,5,11,0,0,0,0,0,0,,,,,,
-1990–2000,High,Diarrhoeal mortality,stunting_u5_pct,5,11,0,0,0,0,0,0,,,,,,
+1990–2000,High,Diarrhoeal mortality,stunting_u5_pct,5,11,1,1,0,0,0,1,,,,,,
 1990–2000,High,Diarrhoeal mortality,low_birthweight_pct,5,11,3,11,1,3,0,5,33.3333,27.2727,6.0606,-33.9017,55.1937,1.0
 1990–2000,High,Diarrhoeal mortality,undernourishment_pct,5,11,0,0,0,0,0,0,,,,,,
 1990–2000,High,Diarrhoeal mortality,uhc_service_index,5,11,3,11,1,6,2,2,33.3333,54.5455,-21.2121,-57.5963,31.8072,1.0
 1990–2000,High,Diarrhoeal mortality,health_expenditure_pc_current_usd,5,11,3,11,1,1,1,5,33.3333,9.0909,24.2424,-15.2482,70.7466,0.3956
-1990–2000,High,Diarrhoeal mortality,hospital_beds_per1000,5,11,3,10,2,4,1,5,66.6667,40.0,26.6667,-27.4853,62.3931,0.5594
-1990–2000,High,Diarrhoeal mortality,nurses_midwives_per1000,5,11,2,7,0,2,1,4,,,,,,
+1990–2000,High,Diarrhoeal mortality,hospital_beds_per1000,5,11,3,11,2,4,1,5,66.6667,36.3636,30.303,-23.5977,64.7747,0.5385
+1990–2000,High,Diarrhoeal mortality,nurses_midwives_per1000,5,11,3,9,1,2,1,4,33.3333,22.2222,11.1111,-31.2735,59.6876,1.0
+1990–2000,High,Diarrhoeal mortality,physicians_per1000,5,11,1,0,0,0,0,0,,,,,,
 1990–2000,High,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,5,11,5,11,1,4,3,4,20.0,36.3636,-16.3636,-49.0231,31.0814,1.0
 1990–2000,High,Diarrhoeal mortality,secondhand_smoke_sev,5,11,5,11,3,2,1,2,60.0,18.1818,41.8182,-5.4561,72.9237,0.2445
 1990–2000,Low and low-middle,LRI incidence,basic_water_pct,19,23,16,22,12,4,2,8,75.0,18.1818,56.8182,24.98,75.1985,0.0008
@@ -95,13 +101,14 @@
 1990–2000,Low and low-middle,LRI incidence,dtp3_pct,19,23,16,23,9,9,2,6,56.25,39.1304,17.1196,-13.469,43.8507,0.3422
 1990–2000,Low and low-middle,LRI incidence,hib3_pct,19,23,5,10,2,3,1,3,40.0,30.0,10.0,-31.4345,51.6304,1.0
 1990–2000,Low and low-middle,LRI incidence,pcv3_pct,19,23,0,0,0,0,0,0,,,,,,
-1990–2000,Low and low-middle,LRI incidence,stunting_u5_pct,19,23,13,10,5,2,0,6,38.4615,20.0,18.4615,-18.8296,48.1636,0.405
+1990–2000,Low and low-middle,LRI incidence,stunting_u5_pct,19,23,15,18,6,2,1,12,40.0,11.1111,28.8889,-0.7329,54.4303,0.1015
 1990–2000,Low and low-middle,LRI incidence,low_birthweight_pct,19,23,15,18,7,5,6,8,46.6667,27.7778,18.8889,-12.909,46.6813,0.3005
 1990–2000,Low and low-middle,LRI incidence,undernourishment_pct,19,23,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,LRI incidence,uhc_service_index,19,23,17,23,8,5,5,16,47.0588,21.7391,25.3197,-3.7173,50.3964,0.1709
 1990–2000,Low and low-middle,LRI incidence,health_expenditure_pc_current_usd,19,23,16,22,8,0,6,20,50.0,0.0,50.0,23.4481,72.0004,0.0003
-1990–2000,Low and low-middle,LRI incidence,hospital_beds_per1000,19,23,12,21,5,9,2,5,41.6667,42.8571,-1.1905,-31.5765,30.9671,1.0
-1990–2000,Low and low-middle,LRI incidence,nurses_midwives_per1000,19,23,8,7,4,3,2,3,50.0,42.8571,7.1429,-35.7668,46.4101,1.0
+1990–2000,Low and low-middle,LRI incidence,hospital_beds_per1000,19,23,15,23,5,10,5,6,33.3333,43.4783,-10.1449,-36.9437,20.5317,0.7356
+1990–2000,Low and low-middle,LRI incidence,nurses_midwives_per1000,19,23,11,15,5,8,3,3,45.4545,53.3333,-7.8788,-40.4758,27.3799,1.0
+1990–2000,Low and low-middle,LRI incidence,physicians_per1000,19,23,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,LRI incidence,gbd_ambient_pm25_ug_m3,19,23,19,23,13,8,4,6,68.4211,34.7826,33.6384,3.3824,56.398,0.0616
 1990–2000,Low and low-middle,LRI incidence,secondhand_smoke_sev,19,23,19,23,9,3,5,14,47.3684,13.0435,34.3249,6.6528,56.9115,0.0195
 1990–2000,Middle and high-middle,LRI incidence,basic_water_pct,12,8,11,7,3,1,2,1,27.2727,14.2857,12.987,-27.9787,44.5356,1.0
@@ -110,13 +117,14 @@
 1990–2000,Middle and high-middle,LRI incidence,dtp3_pct,12,8,10,8,5,4,4,2,50.0,50.0,0.0,-38.7924,38.7924,1.0
 1990–2000,Middle and high-middle,LRI incidence,hib3_pct,12,8,5,6,2,1,2,0,40.0,16.6667,23.3333,-25.3716,62.7069,0.5455
 1990–2000,Middle and high-middle,LRI incidence,pcv3_pct,12,8,0,0,0,0,0,0,,,,,,
-1990–2000,Middle and high-middle,LRI incidence,stunting_u5_pct,12,8,1,1,1,1,0,0,,,,,,
+1990–2000,Middle and high-middle,LRI incidence,stunting_u5_pct,12,8,5,2,4,2,0,0,,,,,,
 1990–2000,Middle and high-middle,LRI incidence,low_birthweight_pct,12,8,9,7,7,2,1,5,77.7778,28.5714,49.2063,1.0377,75.0308,0.1262
 1990–2000,Middle and high-middle,LRI incidence,undernourishment_pct,12,8,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,LRI incidence,uhc_service_index,12,8,10,8,6,4,2,3,60.0,50.0,10.0,-30.4547,46.7209,1.0
 1990–2000,Middle and high-middle,LRI incidence,health_expenditure_pc_current_usd,12,8,10,8,4,2,2,5,40.0,25.0,15.0,-26.2109,48.8269,0.638
-1990–2000,Middle and high-middle,LRI incidence,hospital_beds_per1000,12,8,8,7,4,6,2,1,50.0,85.7143,-35.7143,-66.5092,10.9978,0.2821
-1990–2000,Middle and high-middle,LRI incidence,nurses_midwives_per1000,12,8,4,5,1,4,2,0,25.0,80.0,-55.0,-81.193,6.8137,0.2063
+1990–2000,Middle and high-middle,LRI incidence,hospital_beds_per1000,12,8,10,8,5,7,2,1,50.0,87.5,-37.5,-65.7677,5.9766,0.1516
+1990–2000,Middle and high-middle,LRI incidence,nurses_midwives_per1000,12,8,7,6,2,4,3,1,28.5714,66.6667,-38.0952,-69.2997,12.9659,0.2861
+1990–2000,Middle and high-middle,LRI incidence,physicians_per1000,12,8,2,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,LRI incidence,gbd_ambient_pm25_ug_m3,12,8,12,8,8,4,4,1,66.6667,50.0,16.6667,-22.9947,51.1935,0.6479
 1990–2000,Middle and high-middle,LRI incidence,secondhand_smoke_sev,12,8,12,8,2,7,5,0,16.6667,87.5,-70.8333,-86.5977,-26.2458,0.0045
 1990–2000,High,LRI incidence,basic_water_pct,9,9,8,9,4,0,0,0,50.0,0.0,50.0,8.6975,78.4784,0.0294
@@ -125,13 +133,14 @@
 1990–2000,High,LRI incidence,dtp3_pct,9,9,7,8,2,6,2,0,28.5714,75.0,-46.4286,-73.4989,2.8023,0.1319
 1990–2000,High,LRI incidence,hib3_pct,9,9,3,8,0,2,1,0,0.0,25.0,-25.0,-59.0725,33.9193,1.0
 1990–2000,High,LRI incidence,pcv3_pct,9,9,0,0,0,0,0,0,,,,,,
-1990–2000,High,LRI incidence,stunting_u5_pct,9,9,1,0,1,0,0,0,,,,,,
+1990–2000,High,LRI incidence,stunting_u5_pct,9,9,3,1,2,0,0,1,,,,,,
 1990–2000,High,LRI incidence,low_birthweight_pct,9,9,7,8,4,2,1,1,57.1429,25.0,32.1429,-14.6669,64.5403,0.3147
 1990–2000,High,LRI incidence,undernourishment_pct,9,9,0,0,0,0,0,0,,,,,,
 1990–2000,High,LRI incidence,uhc_service_index,9,9,7,8,1,1,4,4,14.2857,12.5,1.7857,-34.734,40.2075,1.0
 1990–2000,High,LRI incidence,health_expenditure_pc_current_usd,9,9,7,8,3,0,2,7,42.8571,0.0,42.8571,0.628,74.9542,0.0769
 1990–2000,High,LRI incidence,hospital_beds_per1000,9,9,7,8,3,3,4,3,42.8571,37.5,5.3571,-36.4777,45.3246,1.0
-1990–2000,High,LRI incidence,nurses_midwives_per1000,9,9,4,5,1,1,1,1,25.0,20.0,5.0,-42.1121,52.8273,1.0
+1990–2000,High,LRI incidence,nurses_midwives_per1000,9,9,7,7,3,1,1,1,42.8571,14.2857,28.5714,-17.2751,62.7405,0.5594
+1990–2000,High,LRI incidence,physicians_per1000,9,9,1,0,0,0,0,0,,,,,,
 1990–2000,High,LRI incidence,gbd_ambient_pm25_ug_m3,9,9,9,9,5,5,2,3,55.5556,55.5556,0.0,-38.5786,38.5786,1.0
 1990–2000,High,LRI incidence,secondhand_smoke_sev,9,9,9,9,3,3,2,2,33.3333,33.3333,0.0,-37.8016,37.8016,1.0
 1990–2000,Low and low-middle,LRI mortality,basic_water_pct,24,26,22,26,18,5,4,12,81.8182,19.2308,62.5874,34.9983,77.8603,0.0
@@ -140,13 +149,14 @@
 1990–2000,Low and low-middle,LRI mortality,dtp3_pct,24,26,22,26,16,7,3,10,72.7273,26.9231,45.8042,17.4663,65.1475,0.0033
 1990–2000,Low and low-middle,LRI mortality,hib3_pct,24,26,3,7,2,2,0,2,66.6667,28.5714,38.0952,-19.9532,72.0523,0.5
 1990–2000,Low and low-middle,LRI mortality,pcv3_pct,24,26,0,0,0,0,0,0,,,,,,
-1990–2000,Low and low-middle,LRI mortality,stunting_u5_pct,24,26,14,12,9,1,0,7,64.2857,8.3333,55.9524,18.7598,76.4964,0.0053
+1990–2000,Low and low-middle,LRI mortality,stunting_u5_pct,24,26,18,20,12,1,0,13,66.6667,5.0,61.6667,32.143,79.2099,0.0001
 1990–2000,Low and low-middle,LRI mortality,low_birthweight_pct,24,26,20,18,5,5,11,10,25.0,27.7778,-2.7778,-29.6887,23.9003,1.0
 1990–2000,Low and low-middle,LRI mortality,undernourishment_pct,24,26,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,LRI mortality,uhc_service_index,24,26,23,26,11,4,8,19,47.8261,15.3846,32.4415,6.4637,53.7569,0.028
 1990–2000,Low and low-middle,LRI mortality,health_expenditure_pc_current_usd,24,26,22,24,17,2,3,19,77.2727,8.3333,68.9394,41.8136,82.9064,0.0
-1990–2000,Low and low-middle,LRI mortality,hospital_beds_per1000,24,26,15,23,3,10,10,5,20.0,43.4783,-23.4783,-47.0635,7.3876,0.1755
-1990–2000,Low and low-middle,LRI mortality,nurses_midwives_per1000,24,26,12,8,1,3,10,3,8.3333,37.5,-29.1667,-61.8184,6.8769,0.2553
+1990–2000,Low and low-middle,LRI mortality,hospital_beds_per1000,24,26,19,25,4,10,13,6,21.0526,40.0,-18.9474,-41.9331,8.8361,0.2109
+1990–2000,Low and low-middle,LRI mortality,nurses_midwives_per1000,24,26,14,19,2,8,11,4,14.2857,42.1053,-27.8195,-51.7565,4.0838,0.1312
+1990–2000,Low and low-middle,LRI mortality,physicians_per1000,24,26,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,LRI mortality,gbd_ambient_pm25_ug_m3,24,26,24,26,15,10,4,9,62.5,38.4615,24.0385,-3.3984,46.9311,0.1564
 1990–2000,Low and low-middle,LRI mortality,secondhand_smoke_sev,24,26,24,26,11,8,7,14,45.8333,30.7692,15.0641,-11.2282,38.8983,0.3832
 1990–2000,Middle and high-middle,LRI mortality,basic_water_pct,8,6,8,5,4,0,2,1,50.0,0.0,50.0,-1.9497,78.4784,0.1049
@@ -155,13 +165,14 @@
 1990–2000,Middle and high-middle,LRI mortality,dtp3_pct,8,6,7,6,4,3,3,1,57.1429,50.0,7.1429,-37.6461,48.4555,1.0
 1990–2000,Middle and high-middle,LRI mortality,hib3_pct,8,6,3,5,2,1,1,0,66.6667,20.0,46.6667,-15.852,78.4031,0.4643
 1990–2000,Middle and high-middle,LRI mortality,pcv3_pct,8,6,0,0,0,0,0,0,,,,,,
-1990–2000,Middle and high-middle,LRI mortality,stunting_u5_pct,8,6,1,0,1,0,0,0,,,,,,
+1990–2000,Middle and high-middle,LRI mortality,stunting_u5_pct,8,6,2,0,2,0,0,0,,,,,,
 1990–2000,Middle and high-middle,LRI mortality,low_birthweight_pct,8,6,7,5,3,2,2,3,42.8571,40.0,2.8571,-42.9091,45.6076,1.0
 1990–2000,Middle and high-middle,LRI mortality,undernourishment_pct,8,6,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,LRI mortality,uhc_service_index,8,6,7,6,6,3,0,2,85.7143,50.0,35.7143,-12.7299,69.0781,0.2657
 1990–2000,Middle and high-middle,LRI mortality,health_expenditure_pc_current_usd,8,6,7,6,6,1,1,4,85.7143,16.6667,69.0476,14.7725,87.0459,0.0291
-1990–2000,Middle and high-middle,LRI mortality,hospital_beds_per1000,8,6,6,5,0,5,4,0,0.0,100.0,-100.0,-100.0,-41.5932,0.0022
-1990–2000,Middle and high-middle,LRI mortality,nurses_midwives_per1000,8,6,5,4,1,3,2,0,20.0,75.0,-55.0,-81.193,6.8137,0.2063
+1990–2000,Middle and high-middle,LRI mortality,hospital_beds_per1000,8,6,7,6,1,6,4,0,14.2857,100.0,-85.7143,-97.432,-31.9127,0.0047
+1990–2000,Middle and high-middle,LRI mortality,nurses_midwives_per1000,8,6,7,4,1,3,3,0,14.2857,75.0,-60.7143,-84.2759,-2.4886,0.0879
+1990–2000,Middle and high-middle,LRI mortality,physicians_per1000,8,6,1,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,LRI mortality,gbd_ambient_pm25_ug_m3,8,6,8,6,6,3,2,1,75.0,50.0,25.0,-21.2252,60.9796,0.5804
 1990–2000,Middle and high-middle,LRI mortality,secondhand_smoke_sev,8,6,8,6,4,6,1,0,50.0,100.0,-50.0,-78.4784,-1.682,0.0849
 1990–2000,High,LRI mortality,basic_water_pct,6,6,6,6,2,0,0,0,33.3333,0.0,33.3333,-12.309,70.0007,0.4545
@@ -170,13 +181,14 @@
 1990–2000,High,LRI mortality,dtp3_pct,6,6,4,6,1,3,1,1,25.0,50.0,-25.0,-62.332,29.7272,0.5714
 1990–2000,High,LRI mortality,hib3_pct,6,6,3,6,0,2,1,1,0.0,33.3333,-33.3333,-70.0007,27.5962,0.5
 1990–2000,High,LRI mortality,pcv3_pct,6,6,0,0,0,0,0,0,,,,,,
-1990–2000,High,LRI mortality,stunting_u5_pct,6,6,0,0,0,0,0,0,,,,,,
+1990–2000,High,LRI mortality,stunting_u5_pct,6,6,0,1,0,0,0,1,,,,,,
 1990–2000,High,LRI mortality,low_birthweight_pct,6,6,4,6,2,1,1,2,50.0,16.6667,33.3333,-19.5771,70.9014,0.5
 1990–2000,High,LRI mortality,undernourishment_pct,6,6,0,0,0,0,0,0,,,,,,
 1990–2000,High,LRI mortality,uhc_service_index,6,6,4,6,1,1,2,2,25.0,16.6667,8.3333,-36.3056,55.2999,1.0
 1990–2000,High,LRI mortality,health_expenditure_pc_current_usd,6,6,4,6,2,0,1,5,50.0,0.0,50.0,-2.4246,84.9961,0.1333
 1990–2000,High,LRI mortality,hospital_beds_per1000,6,6,4,6,2,1,2,4,50.0,16.6667,33.3333,-19.5771,70.9014,0.5
-1990–2000,High,LRI mortality,nurses_midwives_per1000,6,6,2,5,0,1,0,2,,,,,,
+1990–2000,High,LRI mortality,nurses_midwives_per1000,6,6,4,6,1,1,0,2,25.0,16.6667,8.3333,-36.3056,55.2999,1.0
+1990–2000,High,LRI mortality,physicians_per1000,6,6,1,0,0,0,0,0,,,,,,
 1990–2000,High,LRI mortality,gbd_ambient_pm25_ug_m3,6,6,6,6,2,3,3,2,33.3333,50.0,-16.6667,-55.8515,31.5031,1.0
 1990–2000,High,LRI mortality,secondhand_smoke_sev,6,6,6,6,2,2,1,1,33.3333,33.3333,0.0,-43.6361,43.6361,1.0
 1990–2000,Low and low-middle,Meningitis incidence,basic_water_pct,24,27,24,26,19,6,3,17,79.1667,23.0769,56.0897,28.7831,72.8029,0.0002
@@ -185,13 +197,14 @@
 1990–2000,Low and low-middle,Meningitis incidence,dtp3_pct,24,27,24,27,15,8,6,12,62.5,29.6296,32.8704,5.5389,54.2435,0.0256
 1990–2000,Low and low-middle,Meningitis incidence,hib3_pct,24,27,3,7,2,2,1,3,66.6667,28.5714,38.0952,-19.9532,72.0523,0.5
 1990–2000,Low and low-middle,Meningitis incidence,pcv3_pct,24,27,0,0,0,0,0,0,,,,,,
-1990–2000,Low and low-middle,Meningitis incidence,stunting_u5_pct,24,27,14,16,6,7,4,6,42.8571,43.75,-0.8929,-32.4131,31.1897,1.0
+1990–2000,Low and low-middle,Meningitis incidence,stunting_u5_pct,24,27,20,25,9,8,5,10,45.0,32.0,13.0,-14.416,38.5181,0.537
 1990–2000,Low and low-middle,Meningitis incidence,low_birthweight_pct,24,27,20,21,4,8,12,10,20.0,38.0952,-18.0952,-42.2722,9.6078,0.3058
 1990–2000,Low and low-middle,Meningitis incidence,undernourishment_pct,24,27,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Meningitis incidence,uhc_service_index,24,27,24,27,12,4,7,19,50.0,14.8148,35.1852,9.5541,55.7796,0.0142
 1990–2000,Low and low-middle,Meningitis incidence,health_expenditure_pc_current_usd,24,27,24,25,17,4,6,17,70.8333,16.0,54.8333,27.4838,72.0151,0.0001
-1990–2000,Low and low-middle,Meningitis incidence,hospital_beds_per1000,24,27,11,25,3,11,8,2,27.2727,44.0,-16.7273,-42.5271,17.3093,0.4672
-1990–2000,Low and low-middle,Meningitis incidence,nurses_midwives_per1000,24,27,7,7,2,2,5,1,28.5714,28.5714,0.0,-40.9493,40.9493,1.0
+1990–2000,Low and low-middle,Meningitis incidence,hospital_beds_per1000,24,27,20,25,4,11,15,2,20.0,44.0,-24.0,-46.3802,3.6968,0.1185
+1990–2000,Low and low-middle,Meningitis incidence,nurses_midwives_per1000,24,27,11,17,4,6,7,3,36.3636,35.2941,1.0695,-30.508,34.5636,1.0
+1990–2000,Low and low-middle,Meningitis incidence,physicians_per1000,24,27,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Meningitis incidence,gbd_ambient_pm25_ug_m3,24,27,24,27,13,15,9,6,54.1667,55.5556,-1.3889,-26.8587,24.1983,1.0
 1990–2000,Low and low-middle,Meningitis incidence,secondhand_smoke_sev,24,27,24,27,9,14,11,9,37.5,51.8519,-14.3519,-38.2254,12.3099,0.4004
 1990–2000,Middle and high-middle,Meningitis incidence,basic_water_pct,8,3,7,3,5,1,0,0,71.4286,33.3333,38.0952,-19.9532,72.0523,0.5
@@ -200,13 +213,14 @@
 1990–2000,Middle and high-middle,Meningitis incidence,dtp3_pct,8,3,8,3,6,1,2,1,75.0,33.3333,41.6667,-15.4981,74.1886,0.4909
 1990–2000,Middle and high-middle,Meningitis incidence,hib3_pct,8,3,3,1,3,1,0,0,,,,,,
 1990–2000,Middle and high-middle,Meningitis incidence,pcv3_pct,8,3,0,0,0,0,0,0,,,,,,
-1990–2000,Middle and high-middle,Meningitis incidence,stunting_u5_pct,8,3,0,0,0,0,0,0,,,,,,
+1990–2000,Middle and high-middle,Meningitis incidence,stunting_u5_pct,8,3,2,0,1,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Meningitis incidence,low_birthweight_pct,8,3,7,2,2,1,4,1,,,,,,
 1990–2000,Middle and high-middle,Meningitis incidence,undernourishment_pct,8,3,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Meningitis incidence,uhc_service_index,8,3,8,3,7,2,1,0,87.5,66.6667,20.8333,-23.1594,67.8664,0.4909
 1990–2000,Middle and high-middle,Meningitis incidence,health_expenditure_pc_current_usd,8,3,8,3,5,1,2,0,62.5,33.3333,29.1667,-26.7451,65.3075,0.5455
-1990–2000,Middle and high-middle,Meningitis incidence,hospital_beds_per1000,8,3,7,0,1,0,5,0,,,,,,
-1990–2000,Middle and high-middle,Meningitis incidence,nurses_midwives_per1000,8,3,6,1,2,1,1,0,,,,,,
+1990–2000,Middle and high-middle,Meningitis incidence,hospital_beds_per1000,8,3,7,2,1,2,5,0,,,,,,
+1990–2000,Middle and high-middle,Meningitis incidence,nurses_midwives_per1000,8,3,7,2,2,2,2,0,,,,,,
+1990–2000,Middle and high-middle,Meningitis incidence,physicians_per1000,8,3,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Meningitis incidence,gbd_ambient_pm25_ug_m3,8,3,8,3,4,2,3,1,50.0,66.6667,-16.6667,-56.0367,37.3509,1.0
 1990–2000,Middle and high-middle,Meningitis incidence,secondhand_smoke_sev,8,3,8,3,5,2,2,0,62.5,66.6667,-4.1667,-46.0979,47.5446,1.0
 1990–2000,High,Meningitis incidence,basic_water_pct,6,8,6,6,1,1,0,0,16.6667,16.6667,0.0,-41.9693,41.9693,1.0
@@ -215,13 +229,14 @@
 1990–2000,High,Meningitis incidence,dtp3_pct,6,8,5,8,3,6,0,0,60.0,75.0,-15.0,-56.0164,29.2528,1.0
 1990–2000,High,Meningitis incidence,hib3_pct,6,8,5,5,0,1,0,0,0.0,20.0,-20.0,-62.4465,26.4325,1.0
 1990–2000,High,Meningitis incidence,pcv3_pct,6,8,0,0,0,0,0,0,,,,,,
-1990–2000,High,Meningitis incidence,stunting_u5_pct,6,8,0,2,0,1,0,0,,,,,,
+1990–2000,High,Meningitis incidence,stunting_u5_pct,6,8,0,4,0,2,0,1,,,,,,
 1990–2000,High,Meningitis incidence,low_birthweight_pct,6,8,5,8,1,3,0,2,20.0,37.5,-17.5,-53.3815,31.1712,1.0
 1990–2000,High,Meningitis incidence,undernourishment_pct,6,8,0,0,0,0,0,0,,,,,,
 1990–2000,High,Meningitis incidence,uhc_service_index,6,8,5,8,2,0,2,5,40.0,0.0,40.0,-3.0091,76.9276,0.1282
 1990–2000,High,Meningitis incidence,health_expenditure_pc_current_usd,6,8,5,8,1,1,1,5,20.0,12.5,7.5,-30.7702,51.1685,1.0
 1990–2000,High,Meningitis incidence,hospital_beds_per1000,6,8,5,8,3,4,1,3,60.0,50.0,10.0,-36.6333,50.1049,1.0
-1990–2000,High,Meningitis incidence,nurses_midwives_per1000,6,8,2,6,0,2,1,2,,,,,,
+1990–2000,High,Meningitis incidence,nurses_midwives_per1000,6,8,4,8,1,3,1,2,25.0,37.5,-12.5,-50.4091,38.3567,1.0
+1990–2000,High,Meningitis incidence,physicians_per1000,6,8,0,0,0,0,0,0,,,,,,
 1990–2000,High,Meningitis incidence,gbd_ambient_pm25_ug_m3,6,8,6,8,1,3,4,2,16.6667,37.5,-20.8333,-55.5592,25.4481,0.5804
 1990–2000,High,Meningitis incidence,secondhand_smoke_sev,6,8,6,8,2,3,1,4,33.3333,37.5,-4.1667,-43.9017,39.556,1.0
 1990–2000,Low and low-middle,Meningitis mortality,basic_water_pct,23,30,22,28,16,3,4,19,72.7273,10.7143,62.013,35.4127,77.7757,0.0
@@ -230,13 +245,14 @@
 1990–2000,Low and low-middle,Meningitis mortality,dtp3_pct,23,30,22,29,16,8,5,11,72.7273,27.5862,45.1411,17.4885,64.2595,0.0019
 1990–2000,Low and low-middle,Meningitis mortality,hib3_pct,23,30,3,7,2,2,0,3,66.6667,28.5714,38.0952,-19.9532,72.0523,0.5
 1990–2000,Low and low-middle,Meningitis mortality,pcv3_pct,23,30,0,0,0,0,0,0,,,,,,
-1990–2000,Low and low-middle,Meningitis mortality,stunting_u5_pct,23,30,14,14,6,5,4,4,42.8571,35.7143,7.1429,-26.2123,38.4157,1.0
+1990–2000,Low and low-middle,Meningitis mortality,stunting_u5_pct,23,30,17,24,7,5,5,10,41.1765,20.8333,20.3431,-7.3773,45.9353,0.1838
 1990–2000,Low and low-middle,Meningitis mortality,low_birthweight_pct,23,30,17,20,4,7,10,9,23.5294,35.0,-11.4706,-37.2932,17.6531,0.4951
 1990–2000,Low and low-middle,Meningitis mortality,undernourishment_pct,23,30,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Meningitis mortality,uhc_service_index,23,30,23,29,11,6,6,20,47.8261,20.6897,27.1364,1.4683,49.1966,0.0726
 1990–2000,Low and low-middle,Meningitis mortality,health_expenditure_pc_current_usd,23,30,22,27,14,4,7,19,63.6364,14.8148,48.8215,21.621,67.6832,0.0008
-1990–2000,Low and low-middle,Meningitis mortality,hospital_beds_per1000,23,30,9,24,3,9,5,4,33.3333,37.5,-4.1667,-33.223,31.0946,1.0
-1990–2000,Low and low-middle,Meningitis mortality,nurses_midwives_per1000,23,30,6,7,3,1,3,3,50.0,14.2857,35.7143,-12.7299,69.0781,0.2657
+1990–2000,Low and low-middle,Meningitis mortality,hospital_beds_per1000,23,30,16,26,4,9,10,6,25.0,34.6154,-9.6154,-33.84,19.2169,0.7326
+1990–2000,Low and low-middle,Meningitis mortality,nurses_midwives_per1000,23,30,10,19,5,6,5,5,50.0,31.5789,18.4211,-16.1632,49.3523,0.432
+1990–2000,Low and low-middle,Meningitis mortality,physicians_per1000,23,30,0,0,0,0,0,0,,,,,,
 1990–2000,Low and low-middle,Meningitis mortality,gbd_ambient_pm25_ug_m3,23,30,23,30,12,13,10,9,52.1739,43.3333,8.8406,-17.1257,33.3383,0.5862
 1990–2000,Low and low-middle,Meningitis mortality,secondhand_smoke_sev,23,30,23,30,10,14,10,10,43.4783,46.6667,-3.1884,-27.9659,22.4745,1.0
 1990–2000,Middle and high-middle,Meningitis mortality,basic_water_pct,9,3,8,3,3,0,0,0,37.5,0.0,37.5,-23.4916,69.4258,0.4909
@@ -245,13 +261,14 @@
 1990–2000,Middle and high-middle,Meningitis mortality,dtp3_pct,9,3,9,3,5,3,4,0,55.5556,100.0,-44.4444,-73.3349,17.2519,0.4909
 1990–2000,Middle and high-middle,Meningitis mortality,hib3_pct,9,3,3,3,2,1,1,1,66.6667,33.3333,33.3333,-31.5801,71.7775,1.0
 1990–2000,Middle and high-middle,Meningitis mortality,pcv3_pct,9,3,0,0,0,0,0,0,,,,,,
-1990–2000,Middle and high-middle,Meningitis mortality,stunting_u5_pct,9,3,0,0,0,0,0,0,,,,,,
+1990–2000,Middle and high-middle,Meningitis mortality,stunting_u5_pct,9,3,2,2,1,1,0,0,,,,,,
 1990–2000,Middle and high-middle,Meningitis mortality,low_birthweight_pct,9,3,8,3,4,3,3,0,50.0,100.0,-50.0,-78.4784,12.9588,0.2364
 1990–2000,Middle and high-middle,Meningitis mortality,undernourishment_pct,9,3,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Meningitis mortality,uhc_service_index,9,3,9,3,7,1,2,2,77.7778,33.3333,44.4444,-11.8081,75.937,0.2364
 1990–2000,Middle and high-middle,Meningitis mortality,health_expenditure_pc_current_usd,9,3,9,3,4,0,4,1,44.4444,0.0,44.4444,-17.2519,73.3349,0.4909
-1990–2000,Middle and high-middle,Meningitis mortality,hospital_beds_per1000,9,3,7,3,1,3,4,0,14.2857,100.0,-85.7143,-97.432,-18.4551,0.0333
-1990–2000,Middle and high-middle,Meningitis mortality,nurses_midwives_per1000,9,3,5,1,2,1,1,0,,,,,,
+1990–2000,Middle and high-middle,Meningitis mortality,hospital_beds_per1000,9,3,8,3,2,3,4,0,25.0,100.0,-75.0,-92.8521,-9.3211,0.0606
+1990–2000,Middle and high-middle,Meningitis mortality,nurses_midwives_per1000,9,3,8,1,3,1,2,0,,,,,,
+1990–2000,Middle and high-middle,Meningitis mortality,physicians_per1000,9,3,0,0,0,0,0,0,,,,,,
 1990–2000,Middle and high-middle,Meningitis mortality,gbd_ambient_pm25_ug_m3,9,3,9,3,4,3,5,0,44.4444,100.0,-55.5556,-81.1221,7.5907,0.2045
 1990–2000,Middle and high-middle,Meningitis mortality,secondhand_smoke_sev,9,3,9,3,4,1,4,1,44.4444,33.3333,11.1111,-41.4296,50.7802,1.0
 1990–2000,High,Meningitis mortality,basic_water_pct,7,6,7,6,1,1,0,0,14.2857,16.6667,-2.381,-43.7584,37.0859,1.0
@@ -260,43 +277,46 @@
 1990–2000,High,Meningitis mortality,dtp3_pct,7,6,6,6,4,4,1,0,66.6667,66.6667,0.0,-43.6361,43.6361,1.0
 1990–2000,High,Meningitis mortality,hib3_pct,7,6,6,3,0,1,1,0,0.0,33.3333,-33.3333,-79.234,14.2333,0.3333
 1990–2000,High,Meningitis mortality,pcv3_pct,7,6,0,0,0,0,0,0,,,,,,
-1990–2000,High,Meningitis mortality,stunting_u5_pct,7,6,0,1,0,1,0,0,,,,,,
+1990–2000,High,Meningitis mortality,stunting_u5_pct,7,6,1,2,0,2,0,0,,,,,,
 1990–2000,High,Meningitis mortality,low_birthweight_pct,7,6,6,6,3,3,0,1,50.0,50.0,0.0,-44.1777,44.1777,1.0
 1990–2000,High,Meningitis mortality,undernourishment_pct,7,6,0,0,0,0,0,0,,,,,,
 1990–2000,High,Meningitis mortality,uhc_service_index,7,6,6,6,1,1,2,3,16.6667,16.6667,0.0,-41.9693,41.9693,1.0
 1990–2000,High,Meningitis mortality,health_expenditure_pc_current_usd,7,6,6,6,2,0,2,2,33.3333,0.0,33.3333,-12.309,70.0007,0.4545
 1990–2000,High,Meningitis mortality,hospital_beds_per1000,7,6,6,6,4,4,1,1,66.6667,66.6667,0.0,-43.6361,43.6361,1.0
-1990–2000,High,Meningitis mortality,nurses_midwives_per1000,7,6,3,4,0,2,1,0,0.0,50.0,-50.0,-84.9961,16.1628,0.4286
+1990–2000,High,Meningitis mortality,nurses_midwives_per1000,7,6,6,6,1,3,1,0,16.6667,50.0,-33.3333,-67.4283,17.1704,0.5455
+1990–2000,High,Meningitis mortality,physicians_per1000,7,6,0,0,0,0,0,0,,,,,,
 1990–2000,High,Meningitis mortality,gbd_ambient_pm25_ug_m3,7,6,7,6,3,3,3,1,42.8571,50.0,-7.1429,-48.4555,37.6461,1.0
 1990–2000,High,Meningitis mortality,secondhand_smoke_sev,7,6,7,6,2,2,1,2,28.5714,33.3333,-4.7619,-46.6975,37.9272,1.0
 2001–2010,Low and low-middle,Diarrhoeal incidence,basic_water_pct,18,20,18,19,9,4,5,11,50.0,21.0526,28.9474,-1.6495,53.3825,0.0911
 2001–2010,Low and low-middle,Diarrhoeal incidence,basic_sanitation_pct,18,20,18,19,10,5,6,12,55.5556,26.3158,29.2398,-2.0988,53.8555,0.0991
 2001–2010,Low and low-middle,Diarrhoeal incidence,clean_cooking_pct,18,20,18,20,7,6,7,7,38.8889,30.0,8.8889,-19.8312,36.1775,0.7342
 2001–2010,Low and low-middle,Diarrhoeal incidence,dtp3_pct,18,20,18,20,11,6,7,11,61.1111,30.0,31.1111,-0.2797,55.2798,0.1014
-2001–2010,Low and low-middle,Diarrhoeal incidence,hib3_pct,18,20,9,18,7,5,0,9,77.7778,27.7778,50.0,10.1145,72.0504,0.0369
-2001–2010,Low and low-middle,Diarrhoeal incidence,pcv3_pct,18,20,3,3,2,1,1,0,66.6667,33.3333,33.3333,-31.5801,71.7775,1.0
-2001–2010,Low and low-middle,Diarrhoeal incidence,stunting_u5_pct,18,20,12,10,6,5,3,3,50.0,50.0,0.0,-36.0564,36.0564,1.0
+2001–2010,Low and low-middle,Diarrhoeal incidence,hib3_pct,18,20,11,18,9,5,0,9,81.8182,27.7778,54.0404,16.5627,74.13,0.0078
+2001–2010,Low and low-middle,Diarrhoeal incidence,pcv3_pct,18,20,4,4,3,2,1,0,75.0,50.0,25.0,-31.9557,65.5287,1.0
+2001–2010,Low and low-middle,Diarrhoeal incidence,stunting_u5_pct,18,20,17,14,7,5,4,5,41.1765,35.7143,5.4622,-26.6959,35.3929,1.0
 2001–2010,Low and low-middle,Diarrhoeal incidence,low_birthweight_pct,18,20,14,14,6,2,3,9,42.8571,14.2857,28.5714,-4.8867,55.1875,0.2087
 2001–2010,Low and low-middle,Diarrhoeal incidence,undernourishment_pct,18,20,15,17,8,4,4,11,53.3333,23.5294,29.8039,-3.3959,55.7465,0.1437
 2001–2010,Low and low-middle,Diarrhoeal incidence,uhc_service_index,18,20,18,20,8,2,5,13,44.4444,10.0,34.4444,6.168,57.444,0.0265
 2001–2010,Low and low-middle,Diarrhoeal incidence,health_expenditure_pc_current_usd,18,20,18,19,7,6,6,12,38.8889,31.5789,7.3099,-21.8034,35.0373,0.7374
-2001–2010,Low and low-middle,Diarrhoeal incidence,hospital_beds_per1000,18,20,14,11,10,7,3,3,71.4286,63.6364,7.7922,-25.8138,40.6911,1.0
-2001–2010,Low and low-middle,Diarrhoeal incidence,nurses_midwives_per1000,18,20,15,18,9,6,2,10,60.0,33.3333,26.6667,-6.7012,53.0846,0.1697
+2001–2010,Low and low-middle,Diarrhoeal incidence,hospital_beds_per1000,18,20,16,15,11,8,3,6,68.75,53.3333,15.4167,-17.301,44.2421,0.4725
+2001–2010,Low and low-middle,Diarrhoeal incidence,nurses_midwives_per1000,18,20,18,20,11,8,3,10,61.1111,40.0,21.1111,-9.8948,47.0661,0.33
+2001–2010,Low and low-middle,Diarrhoeal incidence,physicians_per1000,18,20,0,0,0,0,0,0,,,,,,
 2001–2010,Low and low-middle,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,18,20,18,20,15,7,1,8,83.3333,35.0,48.3333,17.0241,68.3896,0.0036
 2001–2010,Low and low-middle,Diarrhoeal incidence,secondhand_smoke_sev,18,20,18,20,8,8,8,9,44.4444,40.0,4.4444,-24.7255,32.8215,1.0
 2001–2010,Middle and high-middle,Diarrhoeal incidence,basic_water_pct,8,9,8,9,4,5,3,2,50.0,55.5556,-5.5556,-43.8266,35.0114,1.0
 2001–2010,Middle and high-middle,Diarrhoeal incidence,basic_sanitation_pct,8,9,7,9,3,7,0,1,42.8571,77.7778,-34.9206,-66.2846,10.7707,0.3024
 2001–2010,Middle and high-middle,Diarrhoeal incidence,clean_cooking_pct,8,9,6,8,1,4,1,0,16.6667,50.0,-33.3333,-64.9189,15.5114,0.3007
 2001–2010,Middle and high-middle,Diarrhoeal incidence,dtp3_pct,8,9,8,9,4,4,2,2,50.0,44.4444,5.5556,-35.0114,43.8266,1.0
-2001–2010,Middle and high-middle,Diarrhoeal incidence,hib3_pct,8,9,7,8,2,5,2,1,28.5714,62.5,-33.9286,-65.254,13.8417,0.3147
-2001–2010,Middle and high-middle,Diarrhoeal incidence,pcv3_pct,8,9,1,0,0,0,1,0,,,,,,
-2001–2010,Middle and high-middle,Diarrhoeal incidence,stunting_u5_pct,8,9,2,2,1,1,1,1,,,,,,
+2001–2010,Middle and high-middle,Diarrhoeal incidence,hib3_pct,8,9,8,9,2,6,3,1,25.0,66.6667,-41.6667,-69.4393,4.564,0.1534
+2001–2010,Middle and high-middle,Diarrhoeal incidence,pcv3_pct,8,9,2,1,0,1,1,0,,,,,,
+2001–2010,Middle and high-middle,Diarrhoeal incidence,stunting_u5_pct,8,9,6,3,3,1,2,1,50.0,33.3333,16.6667,-38.8555,58.077,1.0
 2001–2010,Middle and high-middle,Diarrhoeal incidence,low_birthweight_pct,8,9,6,8,3,5,2,2,50.0,62.5,-12.5,-51.7813,32.1664,1.0
 2001–2010,Middle and high-middle,Diarrhoeal incidence,undernourishment_pct,8,9,8,7,1,4,4,1,12.5,57.1429,-44.6429,-73.5588,2.5441,0.1189
 2001–2010,Middle and high-middle,Diarrhoeal incidence,uhc_service_index,8,9,8,9,5,5,3,2,62.5,55.5556,6.9444,-33.9567,44.3856,1.0
 2001–2010,Middle and high-middle,Diarrhoeal incidence,health_expenditure_pc_current_usd,8,9,8,8,2,2,5,4,25.0,25.0,0.0,-38.4659,38.4659,1.0
-2001–2010,Middle and high-middle,Diarrhoeal incidence,hospital_beds_per1000,8,9,7,5,4,2,0,2,57.1429,40.0,17.1429,-31.7843,56.2361,1.0
-2001–2010,Middle and high-middle,Diarrhoeal incidence,nurses_midwives_per1000,8,9,6,7,2,3,1,2,33.3333,42.8571,-9.5238,-49.3965,36.0327,1.0
+2001–2010,Middle and high-middle,Diarrhoeal incidence,hospital_beds_per1000,8,9,7,6,4,3,0,2,57.1429,50.0,7.1429,-37.6461,48.4555,1.0
+2001–2010,Middle and high-middle,Diarrhoeal incidence,nurses_midwives_per1000,8,9,7,9,3,4,1,3,42.8571,44.4444,-1.5873,-41.1544,39.4477,1.0
+2001–2010,Middle and high-middle,Diarrhoeal incidence,physicians_per1000,8,9,0,0,0,0,0,0,,,,,,
 2001–2010,Middle and high-middle,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,8,9,8,9,4,3,2,4,50.0,33.3333,16.6667,-25.6105,52.2144,0.6372
 2001–2010,Middle and high-middle,Diarrhoeal incidence,secondhand_smoke_sev,8,9,8,9,3,4,2,5,37.5,44.4444,-6.9444,-44.3856,33.9567,1.0
 2001–2010,High,Diarrhoeal incidence,basic_water_pct,14,11,13,11,5,5,1,0,38.4615,45.4545,-6.993,-40.68,28.5266,1.0
@@ -305,43 +325,46 @@
 2001–2010,High,Diarrhoeal incidence,dtp3_pct,14,11,13,10,6,5,4,2,46.1538,50.0,-3.8462,-38.7808,32.2653,1.0
 2001–2010,High,Diarrhoeal incidence,hib3_pct,14,11,11,8,4,3,3,0,36.3636,37.5,-1.1364,-39.4583,35.8176,1.0
 2001–2010,High,Diarrhoeal incidence,pcv3_pct,14,11,5,6,1,3,1,2,20.0,50.0,-30.0,-65.2713,22.7024,0.5455
-2001–2010,High,Diarrhoeal incidence,stunting_u5_pct,14,11,1,1,0,0,0,0,,,,,,
+2001–2010,High,Diarrhoeal incidence,stunting_u5_pct,14,11,4,5,1,1,1,1,25.0,20.0,5.0,-42.1121,52.8273,1.0
 2001–2010,High,Diarrhoeal incidence,low_birthweight_pct,14,11,13,10,4,4,4,3,30.7692,40.0,-9.2308,-43.1831,26.2508,0.685
 2001–2010,High,Diarrhoeal incidence,undernourishment_pct,14,11,11,7,0,1,2,1,0.0,14.2857,-14.2857,-51.3128,14.1264,0.3889
 2001–2010,High,Diarrhoeal incidence,uhc_service_index,14,11,13,10,5,1,5,6,38.4615,10.0,28.4615,-8.3584,55.7425,0.179
 2001–2010,High,Diarrhoeal incidence,health_expenditure_pc_current_usd,14,11,13,10,4,5,6,2,30.7692,50.0,-19.2308,-51.1843,18.3906,0.4173
-2001–2010,High,Diarrhoeal incidence,hospital_beds_per1000,14,11,12,10,4,5,8,3,33.3333,50.0,-16.6667,-49.4525,21.4888,0.6656
-2001–2010,High,Diarrhoeal incidence,nurses_midwives_per1000,14,11,13,9,3,3,6,3,23.0769,33.3333,-10.2564,-44.8725,24.2595,0.655
+2001–2010,High,Diarrhoeal incidence,hospital_beds_per1000,14,11,13,10,4,5,8,3,30.7692,50.0,-19.2308,-51.1843,18.3906,0.4173
+2001–2010,High,Diarrhoeal incidence,nurses_midwives_per1000,14,11,13,10,3,4,6,3,23.0769,40.0,-16.9231,-49.2881,18.7998,0.65
+2001–2010,High,Diarrhoeal incidence,physicians_per1000,14,11,0,0,0,0,0,0,,,,,,
 2001–2010,High,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,14,11,14,11,8,6,3,4,57.1429,54.5455,2.5974,-31.8648,36.7355,1.0
 2001–2010,High,Diarrhoeal incidence,secondhand_smoke_sev,14,11,14,11,7,4,4,4,50.0,36.3636,13.6364,-22.9244,45.0624,0.6887
 2001–2010,Low and low-middle,Diarrhoeal mortality,basic_water_pct,23,23,23,23,18,10,1,10,78.2609,43.4783,34.7826,6.5851,56.328,0.0331
 2001–2010,Low and low-middle,Diarrhoeal mortality,basic_sanitation_pct,23,23,23,23,14,5,4,15,60.8696,21.7391,39.1304,10.6705,59.9604,0.0156
 2001–2010,Low and low-middle,Diarrhoeal mortality,clean_cooking_pct,23,23,23,22,13,8,8,7,56.5217,36.3636,20.1581,-8.4138,44.55,0.2362
 2001–2010,Low and low-middle,Diarrhoeal mortality,dtp3_pct,23,23,23,23,19,13,2,9,82.6087,56.5217,26.087,-0.5272,48.3787,0.1075
-2001–2010,Low and low-middle,Diarrhoeal mortality,hib3_pct,23,23,14,18,10,8,1,8,71.4286,44.4444,26.9841,-7.0305,53.0482,0.1649
+2001–2010,Low and low-middle,Diarrhoeal mortality,hib3_pct,23,23,17,19,13,9,1,8,76.4706,47.3684,29.1022,-2.5369,53.5323,0.0967
 2001–2010,Low and low-middle,Diarrhoeal mortality,pcv3_pct,23,23,1,1,1,0,0,0,,,,,,
-2001–2010,Low and low-middle,Diarrhoeal mortality,stunting_u5_pct,23,23,13,14,5,9,4,3,38.4615,64.2857,-25.8242,-54.2111,10.6196,0.2568
+2001–2010,Low and low-middle,Diarrhoeal mortality,stunting_u5_pct,23,23,21,19,9,10,5,5,42.8571,52.6316,-9.7744,-36.9707,19.5856,0.7518
 2001–2010,Low and low-middle,Diarrhoeal mortality,low_birthweight_pct,23,23,17,14,6,4,6,10,35.2941,28.5714,6.7227,-24.9551,35.5626,1.0
 2001–2010,Low and low-middle,Diarrhoeal mortality,undernourishment_pct,23,23,21,19,12,5,5,10,57.1429,26.3158,30.8271,0.3415,54.2495,0.0624
 2001–2010,Low and low-middle,Diarrhoeal mortality,uhc_service_index,23,23,23,23,19,7,3,14,82.6087,30.4348,52.1739,23.7601,70.295,0.0008
-2001–2010,Low and low-middle,Diarrhoeal mortality,health_expenditure_pc_current_usd,23,23,22,22,8,10,11,10,36.3636,45.4545,-9.0909,-35.0141,18.6827,0.7597
-2001–2010,Low and low-middle,Diarrhoeal mortality,hospital_beds_per1000,23,23,10,13,3,7,6,2,30.0,53.8462,-23.8462,-53.7801,15.2645,0.4015
-2001–2010,Low and low-middle,Diarrhoeal mortality,nurses_midwives_per1000,23,23,18,21,8,5,6,11,44.4444,23.8095,20.6349,-8.491,46.1437,0.1962
+2001–2010,Low and low-middle,Diarrhoeal mortality,health_expenditure_pc_current_usd,23,23,23,22,8,10,12,10,34.7826,45.4545,-10.6719,-36.1773,16.8364,0.5499
+2001–2010,Low and low-middle,Diarrhoeal mortality,hospital_beds_per1000,23,23,18,19,6,10,8,5,33.3333,52.6316,-19.2982,-45.6118,11.734,0.3245
+2001–2010,Low and low-middle,Diarrhoeal mortality,nurses_midwives_per1000,23,23,22,22,10,6,8,11,45.4545,27.2727,18.1818,-9.7368,42.5718,0.3475
+2001–2010,Low and low-middle,Diarrhoeal mortality,physicians_per1000,23,23,0,0,0,0,0,0,,,,,,
 2001–2010,Low and low-middle,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,23,23,23,23,13,10,6,10,56.5217,43.4783,13.0435,-14.8312,38.2782,0.5559
 2001–2010,Low and low-middle,Diarrhoeal mortality,secondhand_smoke_sev,23,23,23,23,5,14,12,4,21.7391,60.8696,-39.1304,-59.9604,-10.6705,0.0156
 2001–2010,Middle and high-middle,Diarrhoeal mortality,basic_water_pct,4,8,4,7,2,4,2,2,50.0,57.1429,-7.1429,-51.3653,40.3434,1.0
 2001–2010,Middle and high-middle,Diarrhoeal mortality,basic_sanitation_pct,4,8,3,7,2,2,0,2,66.6667,28.5714,38.0952,-19.9532,72.0523,0.5
 2001–2010,Middle and high-middle,Diarrhoeal mortality,clean_cooking_pct,4,8,4,7,0,5,0,0,0.0,71.4286,-71.4286,-91.7781,-10.9085,0.0606
 2001–2010,Middle and high-middle,Diarrhoeal mortality,dtp3_pct,4,8,4,7,1,5,2,0,25.0,71.4286,-46.4286,-75.2721,10.8599,0.2424
-2001–2010,Middle and high-middle,Diarrhoeal mortality,hib3_pct,4,8,3,8,1,6,2,0,33.3333,75.0,-41.6667,-74.1886,15.4981,0.4909
+2001–2010,Middle and high-middle,Diarrhoeal mortality,hib3_pct,4,8,4,8,1,6,3,0,25.0,75.0,-50.0,-77.1393,6.3929,0.2222
 2001–2010,Middle and high-middle,Diarrhoeal mortality,pcv3_pct,4,8,1,0,0,0,1,0,,,,,,
-2001–2010,Middle and high-middle,Diarrhoeal mortality,stunting_u5_pct,4,8,0,1,0,0,0,0,,,,,,
+2001–2010,Middle and high-middle,Diarrhoeal mortality,stunting_u5_pct,4,8,1,4,0,0,0,1,,,,,,
 2001–2010,Middle and high-middle,Diarrhoeal mortality,low_birthweight_pct,4,8,2,7,2,0,0,6,,,,,,
 2001–2010,Middle and high-middle,Diarrhoeal mortality,undernourishment_pct,4,8,3,7,1,2,1,5,33.3333,28.5714,4.7619,-39.9787,54.9713,1.0
 2001–2010,Middle and high-middle,Diarrhoeal mortality,uhc_service_index,4,8,4,7,1,5,2,1,25.0,71.4286,-46.4286,-75.2721,10.8599,0.2424
 2001–2010,Middle and high-middle,Diarrhoeal mortality,health_expenditure_pc_current_usd,4,8,4,6,0,2,2,2,0.0,33.3333,-33.3333,-70.0007,21.0684,0.4667
-2001–2010,Middle and high-middle,Diarrhoeal mortality,hospital_beds_per1000,4,8,2,7,1,2,0,4,,,,,,
-2001–2010,Middle and high-middle,Diarrhoeal mortality,nurses_midwives_per1000,4,8,3,7,1,0,0,6,33.3333,0.0,33.3333,-11.3262,79.234,0.3
+2001–2010,Middle and high-middle,Diarrhoeal mortality,hospital_beds_per1000,4,8,3,7,2,2,0,4,66.6667,28.5714,38.0952,-19.9532,72.0523,0.5
+2001–2010,Middle and high-middle,Diarrhoeal mortality,nurses_midwives_per1000,4,8,4,7,1,0,1,6,25.0,0.0,25.0,-15.9066,69.9358,0.3636
+2001–2010,Middle and high-middle,Diarrhoeal mortality,physicians_per1000,4,8,0,0,0,0,0,0,,,,,,
 2001–2010,Middle and high-middle,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,4,8,4,8,1,6,2,2,25.0,75.0,-50.0,-77.1393,6.3929,0.2222
 2001–2010,Middle and high-middle,Diarrhoeal mortality,secondhand_smoke_sev,4,8,4,8,0,7,4,0,0.0,87.5,-87.5,-97.7583,-27.5307,0.0101
 2001–2010,High,Diarrhoeal mortality,basic_water_pct,14,10,14,10,3,1,1,0,21.4286,10.0,11.4286,-21.9944,38.848,0.6146
@@ -349,44 +372,47 @@
 2001–2010,High,Diarrhoeal mortality,clean_cooking_pct,14,10,12,10,0,0,0,0,0.0,0.0,0.0,-27.7533,24.2494,1.0
 2001–2010,High,Diarrhoeal mortality,dtp3_pct,14,10,12,10,6,6,3,3,50.0,60.0,-10.0,-43.8177,27.8391,0.6914
 2001–2010,High,Diarrhoeal mortality,hib3_pct,14,10,11,10,5,6,1,1,45.4545,60.0,-14.5455,-48.0452,24.5664,0.6699
-2001–2010,High,Diarrhoeal mortality,pcv3_pct,14,10,7,2,3,1,0,0,,,,,,
-2001–2010,High,Diarrhoeal mortality,stunting_u5_pct,14,10,0,0,0,0,0,0,,,,,,
+2001–2010,High,Diarrhoeal mortality,pcv3_pct,14,10,8,2,3,1,0,0,,,,,,
+2001–2010,High,Diarrhoeal mortality,stunting_u5_pct,14,10,0,3,0,0,0,3,,,,,,
 2001–2010,High,Diarrhoeal mortality,low_birthweight_pct,14,10,11,10,5,3,1,5,45.4545,30.0,15.4545,-23.3303,48.2206,0.6594
 2001–2010,High,Diarrhoeal mortality,undernourishment_pct,14,10,9,7,2,0,0,2,22.2222,0.0,22.2222,-16.6146,54.7411,0.475
 2001–2010,High,Diarrhoeal mortality,uhc_service_index,14,10,12,10,6,5,5,3,50.0,50.0,0.0,-36.0564,36.0564,1.0
 2001–2010,High,Diarrhoeal mortality,health_expenditure_pc_current_usd,14,10,12,10,3,2,4,5,25.0,20.0,5.0,-29.9198,36.6601,1.0
-2001–2010,High,Diarrhoeal mortality,hospital_beds_per1000,14,10,11,9,7,3,2,4,63.6364,33.3333,30.303,-11.8248,60.3354,0.3698
-2001–2010,High,Diarrhoeal mortality,nurses_midwives_per1000,14,10,11,8,3,4,3,2,27.2727,50.0,-22.7273,-56.1668,18.1265,0.3765
+2001–2010,High,Diarrhoeal mortality,hospital_beds_per1000,14,10,12,9,7,3,2,4,58.3333,33.3333,25.0,-15.8945,55.8501,0.387
+2001–2010,High,Diarrhoeal mortality,nurses_midwives_per1000,14,10,12,8,4,4,3,2,33.3333,50.0,-16.6667,-51.1935,22.9947,0.6479
+2001–2010,High,Diarrhoeal mortality,physicians_per1000,14,10,0,0,0,0,0,0,,,,,,
 2001–2010,High,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,14,10,14,10,6,7,6,1,42.8571,70.0,-27.1429,-55.9643,11.8731,0.2397
 2001–2010,High,Diarrhoeal mortality,secondhand_smoke_sev,14,10,14,10,4,5,7,1,28.5714,50.0,-21.4286,-52.6977,15.6373,0.4028
 2001–2010,Low and low-middle,LRI incidence,basic_water_pct,17,18,17,17,11,2,4,9,64.7059,11.7647,52.9412,20.4251,72.8232,0.0039
 2001–2010,Low and low-middle,LRI incidence,basic_sanitation_pct,17,18,17,17,12,1,3,12,70.5882,5.8824,64.7059,32.9585,81.547,0.0002
 2001–2010,Low and low-middle,LRI incidence,clean_cooking_pct,17,18,17,18,10,0,5,11,58.8235,0.0,58.8235,30.0138,78.3889,0.0001
 2001–2010,Low and low-middle,LRI incidence,dtp3_pct,17,18,17,18,11,7,5,6,64.7059,38.8889,25.817,-6.6439,51.678,0.1811
-2001–2010,Low and low-middle,LRI incidence,hib3_pct,17,18,10,16,5,7,3,4,50.0,43.75,6.25,-28.766,39.721,1.0
-2001–2010,Low and low-middle,LRI incidence,pcv3_pct,17,18,2,2,2,0,0,0,,,,,,
-2001–2010,Low and low-middle,LRI incidence,stunting_u5_pct,17,18,11,12,10,3,0,6,90.9091,25.0,65.9091,25.691,83.662,0.0028
+2001–2010,Low and low-middle,LRI incidence,hib3_pct,17,18,13,16,7,7,3,4,53.8462,43.75,10.0962,-23.7047,40.9681,0.7152
+2001–2010,Low and low-middle,LRI incidence,pcv3_pct,17,18,4,5,3,2,1,0,75.0,40.0,35.0,-23.1625,69.8601,0.5238
+2001–2010,Low and low-middle,LRI incidence,stunting_u5_pct,17,18,17,15,12,3,2,8,70.5882,20.0,50.5882,15.9904,71.2764,0.006
 2001–2010,Low and low-middle,LRI incidence,low_birthweight_pct,17,18,15,14,4,3,6,7,26.6667,21.4286,5.2381,-25.3077,34.0702,1.0
 2001–2010,Low and low-middle,LRI incidence,undernourishment_pct,17,18,16,17,8,3,5,8,50.0,17.6471,32.3529,0.2476,57.1573,0.0707
 2001–2010,Low and low-middle,LRI incidence,uhc_service_index,17,18,17,18,9,0,4,14,52.9412,0.0,52.9412,24.7922,73.8349,0.0003
 2001–2010,Low and low-middle,LRI incidence,health_expenditure_pc_current_usd,17,18,17,17,9,2,4,15,52.9412,11.7647,41.1765,9.6724,63.7242,0.0255
-2001–2010,Low and low-middle,LRI incidence,hospital_beds_per1000,17,18,13,9,9,7,2,2,69.2308,77.7778,-8.547,-39.7614,28.6642,1.0
-2001–2010,Low and low-middle,LRI incidence,nurses_midwives_per1000,17,18,15,15,7,6,4,6,46.6667,40.0,6.6667,-25.9822,37.4246,1.0
+2001–2010,Low and low-middle,LRI incidence,hospital_beds_per1000,17,18,15,12,9,8,3,4,60.0,66.6667,-6.6667,-37.8002,27.5248,1.0
+2001–2010,Low and low-middle,LRI incidence,nurses_midwives_per1000,17,18,17,18,8,9,5,6,47.0588,50.0,-2.9412,-32.5426,27.4353,1.0
+2001–2010,Low and low-middle,LRI incidence,physicians_per1000,17,18,0,0,0,0,0,0,,,,,,
 2001–2010,Low and low-middle,LRI incidence,gbd_ambient_pm25_ug_m3,17,18,17,18,10,5,3,5,58.8235,27.7778,31.0458,-1.4202,55.8696,0.0922
 2001–2010,Low and low-middle,LRI incidence,secondhand_smoke_sev,17,18,17,18,8,2,6,13,47.0588,11.1111,35.9477,5.8322,59.3395,0.0275
 2001–2010,Middle and high-middle,LRI incidence,basic_water_pct,8,4,6,4,4,2,2,1,66.6667,50.0,16.6667,-34.0208,58.9081,1.0
 2001–2010,Middle and high-middle,LRI incidence,basic_sanitation_pct,8,4,5,4,2,1,0,1,40.0,25.0,15.0,-38.0717,57.2077,1.0
 2001–2010,Middle and high-middle,LRI incidence,clean_cooking_pct,8,4,4,4,1,2,0,0,25.0,50.0,-25.0,-65.5287,31.9557,1.0
 2001–2010,Middle and high-middle,LRI incidence,dtp3_pct,8,4,6,4,1,3,2,0,16.6667,75.0,-58.3333,-82.9195,1.6168,0.1905
-2001–2010,Middle and high-middle,LRI incidence,hib3_pct,8,4,7,4,4,1,3,0,57.1429,25.0,32.1429,-23.0789,66.036,0.5455
+2001–2010,Middle and high-middle,LRI incidence,hib3_pct,8,4,8,4,4,1,4,0,50.0,25.0,25.0,-28.2001,60.0552,0.5758
 2001–2010,Middle and high-middle,LRI incidence,pcv3_pct,8,4,2,0,0,0,2,0,,,,,,
-2001–2010,Middle and high-middle,LRI incidence,stunting_u5_pct,8,4,0,1,0,0,0,1,,,,,,
+2001–2010,Middle and high-middle,LRI incidence,stunting_u5_pct,8,4,4,2,3,0,0,2,,,,,,
 2001–2010,Middle and high-middle,LRI incidence,low_birthweight_pct,8,4,4,4,4,0,0,3,100.0,0.0,100.0,30.719,100.0,0.0286
 2001–2010,Middle and high-middle,LRI incidence,undernourishment_pct,8,4,6,4,1,0,2,4,16.6667,0.0,16.6667,-34.1916,56.3503,1.0
 2001–2010,Middle and high-middle,LRI incidence,uhc_service_index,8,4,6,4,4,1,1,2,66.6667,25.0,41.6667,-16.3309,72.931,0.5238
 2001–2010,Middle and high-middle,LRI incidence,health_expenditure_pc_current_usd,8,4,6,4,3,1,2,3,50.0,25.0,25.0,-29.7272,62.332,0.5714
 2001–2010,Middle and high-middle,LRI incidence,hospital_beds_per1000,8,4,6,3,3,2,0,1,50.0,66.6667,-16.6667,-58.077,38.8555,1.0
-2001–2010,Middle and high-middle,LRI incidence,nurses_midwives_per1000,8,4,6,2,3,0,1,1,,,,,,
+2001–2010,Middle and high-middle,LRI incidence,nurses_midwives_per1000,8,4,6,3,3,1,1,1,50.0,33.3333,16.6667,-38.8555,58.077,1.0
+2001–2010,Middle and high-middle,LRI incidence,physicians_per1000,8,4,0,0,0,0,0,0,,,,,,
 2001–2010,Middle and high-middle,LRI incidence,gbd_ambient_pm25_ug_m3,8,4,8,4,4,2,3,1,50.0,50.0,0.0,-45.1192,45.1192,1.0
 2001–2010,Middle and high-middle,LRI incidence,secondhand_smoke_sev,8,4,8,4,1,3,3,0,12.5,75.0,-62.5,-85.3709,-5.7936,0.0667
 2001–2010,High,LRI incidence,basic_water_pct,16,19,15,19,6,2,1,0,40.0,10.5263,29.4737,0.4476,54.8869,0.1
@@ -394,44 +420,47 @@
 2001–2010,High,LRI incidence,clean_cooking_pct,16,19,11,18,0,0,0,0,0.0,0.0,0.0,-17.5879,25.8833,1.0
 2001–2010,High,LRI incidence,dtp3_pct,16,19,11,18,4,9,3,5,36.3636,50.0,-13.6364,-43.4528,21.5505,0.7021
 2001–2010,High,LRI incidence,hib3_pct,16,19,9,17,2,9,2,3,22.2222,52.9412,-30.719,-56.9744,8.5303,0.2167
-2001–2010,High,LRI incidence,pcv3_pct,16,19,7,5,3,2,2,0,42.8571,40.0,2.8571,-42.9091,45.6076,1.0
-2001–2010,High,LRI incidence,stunting_u5_pct,16,19,1,2,0,0,0,0,,,,,,
+2001–2010,High,LRI incidence,pcv3_pct,16,19,8,8,3,2,2,0,37.5,25.0,12.5,-29.0706,49.078,1.0
+2001–2010,High,LRI incidence,stunting_u5_pct,16,19,3,4,1,0,0,2,33.3333,0.0,33.3333,-22.6926,79.234,0.4286
 2001–2010,High,LRI incidence,low_birthweight_pct,16,19,11,17,7,5,1,5,63.6364,29.4118,34.2246,-2.6687,60.8621,0.1212
 2001–2010,High,LRI incidence,undernourishment_pct,16,19,6,17,2,1,0,2,33.3333,5.8824,27.451,-4.2478,64.4359,0.1553
 2001–2010,High,LRI incidence,uhc_service_index,16,19,11,18,2,4,7,11,18.1818,22.2222,-4.0404,-30.4756,28.3017,1.0
 2001–2010,High,LRI incidence,health_expenditure_pc_current_usd,16,19,11,18,6,2,2,14,54.5455,11.1111,43.4343,9.1623,68.9094,0.0281
-2001–2010,High,LRI incidence,hospital_beds_per1000,16,19,10,18,5,11,3,6,50.0,61.1111,-11.1111,-43.3475,23.5259,0.6979
-2001–2010,High,LRI incidence,nurses_midwives_per1000,16,19,10,18,3,7,4,8,30.0,38.8889,-8.8889,-38.475,26.675,0.7029
+2001–2010,High,LRI incidence,hospital_beds_per1000,16,19,11,18,5,11,3,6,45.4545,61.1111,-15.6566,-46.1555,19.1295,0.4657
+2001–2010,High,LRI incidence,nurses_midwives_per1000,16,19,11,18,4,7,4,8,36.3636,38.8889,-2.5253,-33.4318,31.2944,1.0
+2001–2010,High,LRI incidence,physicians_per1000,16,19,0,0,0,0,0,0,,,,,,
 2001–2010,High,LRI incidence,gbd_ambient_pm25_ug_m3,16,19,16,19,9,6,6,6,56.25,31.5789,24.6711,-7.493,50.9273,0.1821
 2001–2010,High,LRI incidence,secondhand_smoke_sev,16,19,16,19,5,8,7,6,31.25,42.1053,-10.8553,-38.4104,20.0044,0.7267
 2001–2010,Low and low-middle,LRI mortality,basic_water_pct,19,18,19,17,14,3,3,13,73.6842,17.6471,56.0372,23.6042,74.5239,0.0011
 2001–2010,Low and low-middle,LRI mortality,basic_sanitation_pct,19,18,19,17,9,5,7,10,47.3684,29.4118,17.9567,-13.0957,44.3771,0.3217
 2001–2010,Low and low-middle,LRI mortality,clean_cooking_pct,19,18,19,17,10,5,6,8,52.6316,29.4118,23.2198,-8.411,48.9449,0.1922
 2001–2010,Low and low-middle,LRI mortality,dtp3_pct,19,18,19,18,12,7,6,9,63.1579,38.8889,24.269,-7.2764,49.9279,0.1939
-2001–2010,Low and low-middle,LRI mortality,hib3_pct,19,18,8,14,5,7,3,4,62.5,50.0,12.5,-26.9656,45.7484,0.6749
-2001–2010,Low and low-middle,LRI mortality,pcv3_pct,19,18,1,1,1,0,0,0,,,,,,
-2001–2010,Low and low-middle,LRI mortality,stunting_u5_pct,19,18,11,11,9,2,0,6,81.8182,18.1818,63.6364,21.8941,82.0848,0.0089
+2001–2010,Low and low-middle,LRI mortality,hib3_pct,19,18,13,15,9,7,4,5,69.2308,46.6667,22.5641,-12.9399,50.9354,0.2761
+2001–2010,Low and low-middle,LRI mortality,pcv3_pct,19,18,1,3,1,0,0,0,,,,,,
+2001–2010,Low and low-middle,LRI mortality,stunting_u5_pct,19,18,19,14,14,2,1,7,73.6842,14.2857,59.3985,25.2902,77.1784,0.0013
 2001–2010,Low and low-middle,LRI mortality,low_birthweight_pct,19,18,15,13,5,2,9,8,33.3333,15.3846,17.9487,-14.4642,45.2426,0.3955
 2001–2010,Low and low-middle,LRI mortality,undernourishment_pct,19,18,16,15,9,4,4,8,56.25,26.6667,29.5833,-4.6447,55.5669,0.1489
 2001–2010,Low and low-middle,LRI mortality,uhc_service_index,19,18,19,18,10,2,7,14,52.6316,11.1111,41.5205,11.3841,63.1004,0.0128
 2001–2010,Low and low-middle,LRI mortality,health_expenditure_pc_current_usd,19,18,19,17,11,3,6,13,57.8947,17.6471,40.2477,8.4026,62.4028,0.0189
-2001–2010,Low and low-middle,LRI mortality,hospital_beds_per1000,19,18,13,12,5,6,8,3,38.4615,50.0,-11.5385,-43.739,24.2812,0.6951
-2001–2010,Low and low-middle,LRI mortality,nurses_midwives_per1000,19,18,17,15,4,4,10,6,23.5294,26.6667,-3.1373,-32.0259,25.3565,1.0
+2001–2010,Low and low-middle,LRI mortality,hospital_beds_per1000,19,18,18,14,7,6,10,5,38.8889,42.8571,-3.9683,-34.7605,27.1304,1.0
+2001–2010,Low and low-middle,LRI mortality,nurses_midwives_per1000,19,18,18,17,4,6,11,6,22.2222,35.2941,-13.0719,-39.9535,16.1186,0.4705
+2001–2010,Low and low-middle,LRI mortality,physicians_per1000,19,18,0,0,0,0,0,0,,,,,,
 2001–2010,Low and low-middle,LRI mortality,gbd_ambient_pm25_ug_m3,19,18,19,18,13,6,4,8,68.4211,33.3333,35.0877,3.0341,58.62,0.0502
 2001–2010,Low and low-middle,LRI mortality,secondhand_smoke_sev,19,18,19,18,9,6,7,7,47.3684,33.3333,14.0351,-16.4074,41.0288,0.5077
 2001–2010,Middle and high-middle,LRI mortality,basic_water_pct,9,9,7,9,5,4,2,4,71.4286,44.4444,26.9841,-18.8133,59.6606,0.3575
 2001–2010,Middle and high-middle,LRI mortality,basic_sanitation_pct,9,9,7,9,5,2,1,3,71.4286,22.2222,49.2063,1.0377,75.0308,0.1262
 2001–2010,Middle and high-middle,LRI mortality,clean_cooking_pct,9,9,5,9,3,4,0,2,60.0,44.4444,15.5556,-31.3305,53.648,1.0
 2001–2010,Middle and high-middle,LRI mortality,dtp3_pct,9,9,7,9,2,5,2,1,28.5714,55.5556,-26.9841,-59.6606,18.8133,0.3575
-2001–2010,Middle and high-middle,LRI mortality,hib3_pct,9,9,5,9,4,4,1,1,80.0,44.4444,35.5556,-15.79,65.918,0.3007
-2001–2010,Middle and high-middle,LRI mortality,pcv3_pct,9,9,1,1,0,0,1,0,,,,,,
-2001–2010,Middle and high-middle,LRI mortality,stunting_u5_pct,9,9,4,4,4,1,0,2,100.0,25.0,75.0,8.5233,95.4413,0.1429
+2001–2010,Middle and high-middle,LRI mortality,hib3_pct,9,9,8,9,6,4,2,1,75.0,44.4444,30.5556,-14.1165,61.738,0.3348
+2001–2010,Middle and high-middle,LRI mortality,pcv3_pct,9,9,2,2,1,0,1,0,,,,,,
+2001–2010,Middle and high-middle,LRI mortality,stunting_u5_pct,9,9,6,5,5,1,0,2,83.3333,20.0,63.3333,5.2257,84.6607,0.0801
 2001–2010,Middle and high-middle,LRI mortality,low_birthweight_pct,9,9,6,9,3,3,3,4,50.0,33.3333,16.6667,-27.5168,54.4616,0.6224
 2001–2010,Middle and high-middle,LRI mortality,undernourishment_pct,9,9,7,7,4,1,2,5,57.1429,14.2857,42.8571,-6.1451,72.3225,0.2657
 2001–2010,Middle and high-middle,LRI mortality,uhc_service_index,9,9,7,9,6,5,1,3,85.7143,55.5556,30.1587,-14.8374,61.335,0.3077
 2001–2010,Middle and high-middle,LRI mortality,health_expenditure_pc_current_usd,9,9,7,9,6,0,0,6,85.7143,0.0,85.7143,38.113,97.432,0.0009
 2001–2010,Middle and high-middle,LRI mortality,hospital_beds_per1000,9,9,7,8,1,6,4,2,14.2857,75.0,-60.7143,-82.0685,-10.3959,0.0406
-2001–2010,Middle and high-middle,LRI mortality,nurses_midwives_per1000,9,9,7,8,0,3,4,3,0.0,37.5,-37.5,-69.4258,5.1929,0.2
+2001–2010,Middle and high-middle,LRI mortality,nurses_midwives_per1000,9,9,7,9,0,4,4,3,0.0,44.4444,-44.4444,-73.3349,-0.7506,0.0885
+2001–2010,Middle and high-middle,LRI mortality,physicians_per1000,9,9,0,0,0,0,0,0,,,,,,
 2001–2010,Middle and high-middle,LRI mortality,gbd_ambient_pm25_ug_m3,9,9,9,9,5,5,3,3,55.5556,55.5556,0.0,-38.5786,38.5786,1.0
 2001–2010,Middle and high-middle,LRI mortality,secondhand_smoke_sev,9,9,9,9,5,6,2,3,55.5556,66.6667,-11.1111,-46.9898,29.262,1.0
 2001–2010,High,LRI mortality,basic_water_pct,13,14,12,14,6,1,1,0,50.0,7.1429,42.8571,8.2453,68.1692,0.0261
@@ -439,29 +468,31 @@
 2001–2010,High,LRI mortality,clean_cooking_pct,13,14,9,14,0,0,0,0,0.0,0.0,0.0,-21.5311,29.9145,1.0
 2001–2010,High,LRI mortality,dtp3_pct,13,14,9,14,4,5,4,5,44.4444,35.7143,8.7302,-27.3944,43.5129,1.0
 2001–2010,High,LRI mortality,hib3_pct,13,14,8,14,2,5,2,4,25.0,35.7143,-10.7143,-41.8596,28.479,1.0
-2001–2010,High,LRI mortality,pcv3_pct,13,14,4,4,2,1,2,0,50.0,25.0,25.0,-31.9557,65.5287,1.0
-2001–2010,High,LRI mortality,stunting_u5_pct,13,14,1,0,0,0,0,0,,,,,,
+2001–2010,High,LRI mortality,pcv3_pct,13,14,5,6,2,1,2,0,40.0,16.6667,23.3333,-25.3716,62.7069,0.5455
+2001–2010,High,LRI mortality,stunting_u5_pct,13,14,1,3,0,0,0,2,,,,,,
 2001–2010,High,LRI mortality,low_birthweight_pct,13,14,9,13,5,4,2,3,55.5556,30.7692,24.7863,-14.6623,56.1048,0.3842
 2001–2010,High,LRI mortality,undernourishment_pct,13,14,6,14,2,1,0,3,33.3333,7.1429,26.1905,-7.7413,63.3248,0.2018
 2001–2010,High,LRI mortality,uhc_service_index,13,14,9,14,6,2,3,7,66.6667,14.2857,52.381,11.9513,76.0078,0.0228
 2001–2010,High,LRI mortality,health_expenditure_pc_current_usd,13,14,9,14,6,0,2,12,66.6667,0.0,66.6667,28.7203,87.9416,0.0008
-2001–2010,High,LRI mortality,hospital_beds_per1000,13,14,8,14,3,5,5,7,37.5,35.7143,1.7857,-33.1216,39.1278,1.0
-2001–2010,High,LRI mortality,nurses_midwives_per1000,13,14,7,14,3,6,3,5,42.8571,42.8571,0.0,-36.52,38.6193,1.0
+2001–2010,High,LRI mortality,hospital_beds_per1000,13,14,9,14,3,5,5,7,33.3333,35.7143,-2.381,-35.6068,34.3821,1.0
+2001–2010,High,LRI mortality,nurses_midwives_per1000,13,14,8,14,4,6,3,5,50.0,42.8571,7.1429,-30.4581,42.8115,1.0
+2001–2010,High,LRI mortality,physicians_per1000,13,14,0,0,0,0,0,0,,,,,,
 2001–2010,High,LRI mortality,gbd_ambient_pm25_ug_m3,13,14,13,14,6,9,5,2,46.1538,64.2857,-18.1319,-48.1615,17.3863,0.4495
 2001–2010,High,LRI mortality,secondhand_smoke_sev,13,14,13,14,6,6,3,3,46.1538,42.8571,3.2967,-30.31,36.0296,1.0
 2001–2010,Low and low-middle,Meningitis incidence,basic_water_pct,25,26,25,25,22,5,1,14,88.0,20.0,68.0,41.7625,81.6178,0.0
 2001–2010,Low and low-middle,Meningitis incidence,basic_sanitation_pct,25,26,25,25,16,4,4,17,64.0,16.0,48.0,21.028,66.4451,0.0012
 2001–2010,Low and low-middle,Meningitis incidence,clean_cooking_pct,25,26,25,25,17,4,7,11,68.0,16.0,52.0,24.9498,69.6346,0.0004
 2001–2010,Low and low-middle,Meningitis incidence,dtp3_pct,25,26,25,26,19,12,4,10,76.0,46.1538,29.8462,3.0947,51.2712,0.0448
-2001–2010,Low and low-middle,Meningitis incidence,hib3_pct,25,26,15,18,7,9,2,5,46.6667,50.0,-3.3333,-33.6225,27.9508,1.0
-2001–2010,Low and low-middle,Meningitis incidence,pcv3_pct,25,26,1,5,1,2,0,1,,,,,,
-2001–2010,Low and low-middle,Meningitis incidence,stunting_u5_pct,25,26,12,20,5,7,2,7,41.6667,35.0,6.6667,-24.4882,37.9873,0.7238
+2001–2010,Low and low-middle,Meningitis incidence,hib3_pct,25,26,18,19,10,9,2,6,55.5556,47.3684,8.1871,-22.0577,36.4176,0.7459
+2001–2010,Low and low-middle,Meningitis incidence,pcv3_pct,25,26,1,9,1,5,0,1,,,,,,
+2001–2010,Low and low-middle,Meningitis incidence,stunting_u5_pct,25,26,22,24,9,7,4,10,40.9091,29.1667,11.7424,-14.9349,36.5918,0.5379
 2001–2010,Low and low-middle,Meningitis incidence,low_birthweight_pct,25,26,21,21,6,5,9,11,28.5714,23.8095,4.7619,-21.1359,29.883,1.0
 2001–2010,Low and low-middle,Meningitis incidence,undernourishment_pct,25,26,23,21,13,5,7,11,56.5217,23.8095,32.7122,3.7052,54.8966,0.0358
 2001–2010,Low and low-middle,Meningitis incidence,uhc_service_index,25,26,25,26,17,2,4,16,68.0,7.6923,60.3077,34.7277,76.1116,0.0
-2001–2010,Low and low-middle,Meningitis incidence,health_expenditure_pc_current_usd,25,26,24,23,10,4,12,17,41.6667,17.3913,24.2754,-1.911,46.3801,0.1107
-2001–2010,Low and low-middle,Meningitis incidence,hospital_beds_per1000,25,26,14,16,5,10,8,2,35.7143,62.5,-26.7857,-53.9315,8.1512,0.2723
-2001–2010,Low and low-middle,Meningitis incidence,nurses_midwives_per1000,25,26,19,20,8,9,7,5,42.1053,45.0,-2.8947,-31.0354,26.006,1.0
+2001–2010,Low and low-middle,Meningitis incidence,health_expenditure_pc_current_usd,25,26,25,23,10,4,13,17,40.0,17.3913,22.6087,-3.186,44.5037,0.1167
+2001–2010,Low and low-middle,Meningitis incidence,hospital_beds_per1000,25,26,21,20,8,11,9,5,38.0952,55.0,-16.9048,-42.7641,12.6652,0.3543
+2001–2010,Low and low-middle,Meningitis incidence,nurses_midwives_per1000,25,26,24,25,10,12,10,6,41.6667,48.0,-6.3333,-31.5942,20.1822,0.7761
+2001–2010,Low and low-middle,Meningitis incidence,physicians_per1000,25,26,0,0,0,0,0,0,,,,,,
 2001–2010,Low and low-middle,Meningitis incidence,gbd_ambient_pm25_ug_m3,25,26,25,26,13,14,10,6,52.0,53.8462,-1.8462,-27.2429,23.8638,1.0
 2001–2010,Low and low-middle,Meningitis incidence,secondhand_smoke_sev,25,26,25,26,7,13,14,10,28.0,50.0,-22.0,-44.5822,4.5531,0.1534
 2001–2010,Middle and high-middle,Meningitis incidence,basic_water_pct,8,4,8,4,6,2,1,2,75.0,50.0,25.0,-23.8432,64.2864,0.5475
@@ -470,13 +501,14 @@
 2001–2010,Middle and high-middle,Meningitis incidence,dtp3_pct,8,4,8,4,4,2,2,2,50.0,50.0,0.0,-45.1192,45.1192,1.0
 2001–2010,Middle and high-middle,Meningitis incidence,hib3_pct,8,4,8,4,7,2,1,2,87.5,50.0,37.5,-11.7048,73.9686,0.2364
 2001–2010,Middle and high-middle,Meningitis incidence,pcv3_pct,8,4,1,2,0,0,0,1,,,,,,
-2001–2010,Middle and high-middle,Meningitis incidence,stunting_u5_pct,8,4,1,1,1,0,0,0,,,,,,
+2001–2010,Middle and high-middle,Meningitis incidence,stunting_u5_pct,8,4,3,3,1,0,1,0,33.3333,0.0,33.3333,-29.0507,79.234,1.0
 2001–2010,Middle and high-middle,Meningitis incidence,low_birthweight_pct,8,4,5,4,1,2,4,2,20.0,50.0,-30.0,-68.6387,25.013,0.5238
 2001–2010,Middle and high-middle,Meningitis incidence,undernourishment_pct,8,4,7,3,4,1,2,2,57.1429,33.3333,23.8095,-32.2002,62.1485,1.0
 2001–2010,Middle and high-middle,Meningitis incidence,uhc_service_index,8,4,8,4,3,2,3,1,37.5,50.0,-12.5,-54.8309,34.8707,1.0
 2001–2010,Middle and high-middle,Meningitis incidence,health_expenditure_pc_current_usd,8,4,8,4,5,0,2,1,62.5,0.0,62.5,4.0262,86.3156,0.0808
-2001–2010,Middle and high-middle,Meningitis incidence,hospital_beds_per1000,8,4,4,4,0,3,4,1,0.0,75.0,-75.0,-95.4413,-8.5233,0.1429
-2001–2010,Middle and high-middle,Meningitis incidence,nurses_midwives_per1000,8,4,6,4,1,1,5,2,16.6667,25.0,-8.3333,-55.2999,36.3056,1.0
+2001–2010,Middle and high-middle,Meningitis incidence,hospital_beds_per1000,8,4,6,4,1,3,5,1,16.6667,75.0,-58.3333,-82.9195,1.6168,0.1905
+2001–2010,Middle and high-middle,Meningitis incidence,nurses_midwives_per1000,8,4,8,4,1,1,7,2,12.5,25.0,-12.5,-58.5919,27.6775,1.0
+2001–2010,Middle and high-middle,Meningitis incidence,physicians_per1000,8,4,0,0,0,0,0,0,,,,,,
 2001–2010,Middle and high-middle,Meningitis incidence,gbd_ambient_pm25_ug_m3,8,4,8,4,3,4,3,0,37.5,100.0,-62.5,-86.3156,-4.0262,0.0808
 2001–2010,Middle and high-middle,Meningitis incidence,secondhand_smoke_sev,8,4,8,4,4,2,4,2,50.0,50.0,0.0,-45.1192,45.1192,1.0
 2001–2010,High,Meningitis incidence,basic_water_pct,8,11,8,11,4,4,0,0,50.0,36.3636,13.6364,-26.4814,49.1376,0.6577
@@ -484,44 +516,47 @@
 2001–2010,High,Meningitis incidence,clean_cooking_pct,8,11,6,11,0,0,0,0,0.0,0.0,0.0,-25.8833,39.0334,1.0
 2001–2010,High,Meningitis incidence,dtp3_pct,8,11,6,11,4,5,1,3,66.6667,45.4545,21.2121,-24.0501,55.0418,0.6199
 2001–2010,High,Meningitis incidence,hib3_pct,8,11,5,8,5,5,0,0,100.0,62.5,37.5,-12.0473,69.4258,0.2308
-2001–2010,High,Meningitis incidence,pcv3_pct,8,11,3,5,0,3,0,0,0.0,60.0,-60.0,-88.2379,7.2044,0.1964
-2001–2010,High,Meningitis incidence,stunting_u5_pct,8,11,0,1,0,0,0,0,,,,,,
+2001–2010,High,Meningitis incidence,pcv3_pct,8,11,3,6,0,3,0,0,0.0,50.0,-50.0,-81.2384,14.2544,0.4643
+2001–2010,High,Meningitis incidence,stunting_u5_pct,8,11,0,6,0,2,0,2,,,,,,
 2001–2010,High,Meningitis incidence,low_birthweight_pct,8,11,6,10,0,4,3,3,0.0,40.0,-40.0,-68.7326,5.3984,0.2335
 2001–2010,High,Meningitis incidence,undernourishment_pct,8,11,6,8,0,1,1,1,0.0,12.5,-12.5,-47.0888,27.8589,1.0
 2001–2010,High,Meningitis incidence,uhc_service_index,8,11,6,11,4,2,1,5,66.6667,18.1818,48.4848,1.4136,75.4995,0.1094
 2001–2010,High,Meningitis incidence,health_expenditure_pc_current_usd,8,11,6,11,4,4,1,4,66.6667,36.3636,30.303,-15.9885,62.0668,0.3348
 2001–2010,High,Meningitis incidence,hospital_beds_per1000,8,11,6,11,1,7,3,4,16.6667,63.6364,-46.9697,-72.1878,1.7459,0.1312
 2001–2010,High,Meningitis incidence,nurses_midwives_per1000,8,11,6,11,0,4,3,2,0.0,36.3636,-36.3636,-64.6199,8.054,0.2374
+2001–2010,High,Meningitis incidence,physicians_per1000,8,11,0,0,0,0,0,0,,,,,,
 2001–2010,High,Meningitis incidence,gbd_ambient_pm25_ug_m3,8,11,8,11,2,5,3,3,25.0,45.4545,-20.4545,-52.4369,21.3278,0.6332
 2001–2010,High,Meningitis incidence,secondhand_smoke_sev,8,11,8,11,5,5,0,4,62.5,45.4545,17.0455,-24.4688,50.9868,0.6499
 2001–2010,Low and low-middle,Meningitis mortality,basic_water_pct,25,23,25,22,20,3,3,15,80.0,13.6364,66.3636,38.904,80.614,0.0
 2001–2010,Low and low-middle,Meningitis mortality,basic_sanitation_pct,25,23,25,22,15,3,5,16,60.0,13.6364,46.3636,18.8136,65.1901,0.0022
 2001–2010,Low and low-middle,Meningitis mortality,clean_cooking_pct,25,23,25,22,18,2,6,10,72.0,9.0909,62.9091,35.8197,78.1138,0.0
 2001–2010,Low and low-middle,Meningitis mortality,dtp3_pct,25,23,25,23,18,9,5,10,72.0,39.1304,32.8696,4.823,54.6918,0.0405
-2001–2010,Low and low-middle,Meningitis mortality,hib3_pct,25,23,16,16,6,6,3,6,37.5,37.5,0.0,-30.5117,30.5117,1.0
-2001–2010,Low and low-middle,Meningitis mortality,pcv3_pct,25,23,1,4,1,2,0,0,,,,,,
-2001–2010,Low and low-middle,Meningitis mortality,stunting_u5_pct,25,23,13,16,6,8,1,5,46.1538,50.0,-3.8462,-35.6364,29.2329,1.0
+2001–2010,Low and low-middle,Meningitis mortality,hib3_pct,25,23,19,17,9,7,3,6,47.3684,41.1765,6.192,-24.176,34.8382,0.7486
+2001–2010,Low and low-middle,Meningitis mortality,pcv3_pct,25,23,2,5,1,2,1,0,,,,,,
+2001–2010,Low and low-middle,Meningitis mortality,stunting_u5_pct,25,23,22,20,9,8,3,7,40.9091,40.0,0.9091,-26.7877,28.1613,1.0
 2001–2010,Low and low-middle,Meningitis mortality,low_birthweight_pct,25,23,20,16,7,4,8,8,35.0,25.0,10.0,-19.7511,36.2887,0.7182
 2001–2010,Low and low-middle,Meningitis mortality,undernourishment_pct,25,23,22,18,15,6,5,9,68.1818,33.3333,34.8485,3.857,57.8658,0.055
 2001–2010,Low and low-middle,Meningitis mortality,uhc_service_index,25,23,25,23,17,4,3,15,68.0,17.3913,50.6087,22.7937,68.7004,0.0005
-2001–2010,Low and low-middle,Meningitis mortality,health_expenditure_pc_current_usd,25,23,24,21,11,5,11,15,45.8333,23.8095,22.0238,-5.8119,45.224,0.2115
-2001–2010,Low and low-middle,Meningitis mortality,hospital_beds_per1000,25,23,13,14,6,8,6,3,46.1538,57.1429,-10.989,-42.4188,23.8394,0.7064
-2001–2010,Low and low-middle,Meningitis mortality,nurses_midwives_per1000,25,23,19,18,7,5,6,7,36.8421,27.7778,9.0643,-20.0286,35.9463,0.7281
+2001–2010,Low and low-middle,Meningitis mortality,health_expenditure_pc_current_usd,25,23,25,21,11,5,12,15,44.0,23.8095,20.1905,-7.2575,43.2599,0.217
+2001–2010,Low and low-middle,Meningitis mortality,hospital_beds_per1000,25,23,21,17,9,8,8,6,42.8571,47.0588,-4.2017,-32.8568,25.1369,1.0
+2001–2010,Low and low-middle,Meningitis mortality,nurses_midwives_per1000,25,23,24,22,9,8,9,7,37.5,36.3636,1.1364,-25.224,26.9863,1.0
+2001–2010,Low and low-middle,Meningitis mortality,physicians_per1000,25,23,0,0,0,0,0,0,,,,,,
 2001–2010,Low and low-middle,Meningitis mortality,gbd_ambient_pm25_ug_m3,25,23,25,23,12,10,11,8,48.0,43.4783,4.5217,-22.1498,30.2258,0.7799
 2001–2010,Low and low-middle,Meningitis mortality,secondhand_smoke_sev,25,23,25,23,7,13,15,8,28.0,56.5217,-28.5217,-51.0279,-0.7415,0.0779
 2001–2010,Middle and high-middle,Meningitis mortality,basic_water_pct,6,6,6,5,6,2,0,2,100.0,40.0,60.0,6.2668,88.2379,0.0606
 2001–2010,Middle and high-middle,Meningitis mortality,basic_sanitation_pct,6,6,6,5,3,0,1,2,50.0,0.0,50.0,-3.5125,81.2384,0.1818
 2001–2010,Middle and high-middle,Meningitis mortality,clean_cooking_pct,6,6,6,5,4,2,0,2,66.6667,40.0,26.6667,-25.3731,63.5041,0.5671
 2001–2010,Middle and high-middle,Meningitis mortality,dtp3_pct,6,6,6,5,3,2,1,2,50.0,40.0,10.0,-38.3682,52.1096,1.0
-2001–2010,Middle and high-middle,Meningitis mortality,hib3_pct,6,6,5,6,5,3,0,2,100.0,50.0,50.0,-3.5125,81.2384,0.1818
+2001–2010,Middle and high-middle,Meningitis mortality,hib3_pct,6,6,6,6,5,3,1,2,83.3333,50.0,33.3333,-17.1704,67.4283,0.5455
 2001–2010,Middle and high-middle,Meningitis mortality,pcv3_pct,6,6,0,2,0,0,0,1,,,,,,
-2001–2010,Middle and high-middle,Meningitis mortality,stunting_u5_pct,6,6,1,1,1,0,0,0,,,,,,
+2001–2010,Middle and high-middle,Meningitis mortality,stunting_u5_pct,6,6,3,3,1,0,1,0,33.3333,0.0,33.3333,-29.0507,79.234,1.0
 2001–2010,Middle and high-middle,Meningitis mortality,low_birthweight_pct,6,6,6,5,2,2,4,3,33.3333,40.0,-6.6667,-50.5217,39.6137,1.0
 2001–2010,Middle and high-middle,Meningitis mortality,undernourishment_pct,6,6,6,4,3,2,3,2,50.0,50.0,0.0,-46.9102,46.9102,1.0
 2001–2010,Middle and high-middle,Meningitis mortality,uhc_service_index,6,6,6,5,3,3,1,1,50.0,60.0,-10.0,-52.1096,38.3682,1.0
 2001–2010,Middle and high-middle,Meningitis mortality,health_expenditure_pc_current_usd,6,6,6,5,4,0,0,2,66.6667,0.0,66.6667,9.8138,90.3229,0.0606
-2001–2010,Middle and high-middle,Meningitis mortality,hospital_beds_per1000,6,6,5,5,0,3,4,2,0.0,60.0,-60.0,-88.2379,-2.979,0.1667
+2001–2010,Middle and high-middle,Meningitis mortality,hospital_beds_per1000,6,6,6,5,1,3,4,2,16.6667,60.0,-43.3333,-74.7023,10.874,0.2424
 2001–2010,Middle and high-middle,Meningitis mortality,nurses_midwives_per1000,6,6,6,5,1,1,4,3,16.6667,20.0,-3.3333,-47.9241,39.597,1.0
+2001–2010,Middle and high-middle,Meningitis mortality,physicians_per1000,6,6,0,0,0,0,0,0,,,,,,
 2001–2010,Middle and high-middle,Meningitis mortality,gbd_ambient_pm25_ug_m3,6,6,6,6,3,5,1,1,50.0,83.3333,-33.3333,-67.4283,17.1704,0.5455
 2001–2010,Middle and high-middle,Meningitis mortality,secondhand_smoke_sev,6,6,6,6,4,3,2,2,66.6667,50.0,16.6667,-31.5031,55.8515,1.0
 2001–2010,High,Meningitis mortality,basic_water_pct,9,11,9,11,3,5,1,0,33.3333,45.4545,-12.1212,-46.133,27.3905,0.6699
@@ -530,13 +565,14 @@
 2001–2010,High,Meningitis mortality,dtp3_pct,9,11,8,9,4,4,1,2,50.0,44.4444,5.5556,-35.0114,43.8266,1.0
 2001–2010,High,Meningitis mortality,hib3_pct,9,11,7,6,4,3,0,1,57.1429,50.0,7.1429,-37.6461,48.4555,1.0
 2001–2010,High,Meningitis mortality,pcv3_pct,9,11,6,2,2,2,1,0,,,,,,
-2001–2010,High,Meningitis mortality,stunting_u5_pct,9,11,0,0,0,0,0,0,,,,,,
+2001–2010,High,Meningitis mortality,stunting_u5_pct,9,11,1,4,0,1,0,1,,,,,,
 2001–2010,High,Meningitis mortality,low_birthweight_pct,9,11,8,9,2,4,2,3,25.0,44.4444,-19.4444,-53.4055,23.1535,0.6199
 2001–2010,High,Meningitis mortality,undernourishment_pct,9,11,6,5,0,0,0,0,0.0,0.0,0.0,-43.4482,39.0334,1.0
 2001–2010,High,Meningitis mortality,uhc_service_index,9,11,8,9,4,3,2,3,50.0,33.3333,16.6667,-25.6105,52.2144,0.6372
 2001–2010,High,Meningitis mortality,health_expenditure_pc_current_usd,9,11,8,9,3,4,3,2,37.5,44.4444,-6.9444,-44.3856,33.9567,1.0
-2001–2010,High,Meningitis mortality,hospital_beds_per1000,9,11,7,8,2,3,2,3,28.5714,37.5,-8.9286,-46.7883,33.8491,1.0
-2001–2010,High,Meningitis mortality,nurses_midwives_per1000,9,11,7,8,2,5,3,2,28.5714,62.5,-33.9286,-65.254,13.8417,0.3147
+2001–2010,High,Meningitis mortality,hospital_beds_per1000,9,11,8,8,2,3,2,3,25.0,37.5,-12.5,-49.078,29.0706,1.0
+2001–2010,High,Meningitis mortality,nurses_midwives_per1000,9,11,8,8,3,5,3,2,37.5,62.5,-25.0,-58.6803,20.1498,0.6193
+2001–2010,High,Meningitis mortality,physicians_per1000,9,11,0,0,0,0,0,0,,,,,,
 2001–2010,High,Meningitis mortality,gbd_ambient_pm25_ug_m3,9,11,9,11,3,7,4,2,33.3333,63.6364,-30.303,-60.3354,11.8248,0.3698
 2001–2010,High,Meningitis mortality,secondhand_smoke_sev,9,11,9,11,3,6,2,3,33.3333,54.5455,-21.2121,-53.4217,19.782,0.4059
 2011–2023,Low and low-middle,Diarrhoeal incidence,basic_water_pct,13,17,13,16,7,2,4,7,53.8462,12.5,41.3462,7.2356,65.9965,0.0405
@@ -545,13 +581,14 @@
 2011–2023,Low and low-middle,Diarrhoeal incidence,dtp3_pct,13,17,13,17,8,3,4,9,61.5385,17.6471,43.8914,8.9122,67.5953,0.0227
 2011–2023,Low and low-middle,Diarrhoeal incidence,hib3_pct,13,17,13,17,8,3,3,10,61.5385,17.6471,43.8914,8.9122,67.5953,0.0227
 2011–2023,Low and low-middle,Diarrhoeal incidence,pcv3_pct,13,17,9,14,5,4,0,7,55.5556,28.5714,26.9841,-11.935,57.604,0.3826
-2011–2023,Low and low-middle,Diarrhoeal incidence,stunting_u5_pct,13,17,10,13,4,3,2,8,40.0,23.0769,16.9231,-18.7998,49.2881,0.65
+2011–2023,Low and low-middle,Diarrhoeal incidence,stunting_u5_pct,13,17,13,15,5,3,3,9,38.4615,20.0,18.4615,-14.172,47.5231,0.4097
 2011–2023,Low and low-middle,Diarrhoeal incidence,low_birthweight_pct,13,17,9,13,3,3,4,5,33.3333,23.0769,10.2564,-24.2595,44.8725,0.655
 2011–2023,Low and low-middle,Diarrhoeal incidence,undernourishment_pct,13,17,11,15,4,3,2,7,36.3636,20.0,16.3636,-16.5548,47.4471,0.4065
 2011–2023,Low and low-middle,Diarrhoeal incidence,uhc_service_index,13,17,13,17,6,2,2,9,46.1538,11.7647,34.3891,2.2009,60.5054,0.0492
 2011–2023,Low and low-middle,Diarrhoeal incidence,health_expenditure_pc_current_usd,13,17,13,17,8,4,2,9,61.5385,23.5294,38.009,2.7949,63.0275,0.061
-2011–2023,Low and low-middle,Diarrhoeal incidence,hospital_beds_per1000,13,17,7,11,4,4,3,5,57.1429,36.3636,20.7792,-21.9833,55.1335,0.6305
+2011–2023,Low and low-middle,Diarrhoeal incidence,hospital_beds_per1000,13,17,11,14,4,6,5,6,36.3636,42.8571,-6.4935,-38.9301,28.998,1.0
 2011–2023,Low and low-middle,Diarrhoeal incidence,nurses_midwives_per1000,13,17,13,17,6,4,3,9,46.1538,23.5294,22.6244,-10.3881,51.0056,0.2553
+2011–2023,Low and low-middle,Diarrhoeal incidence,physicians_per1000,13,17,13,17,7,0,2,7,53.8462,0.0,53.8462,23.0251,76.7939,0.0008
 2011–2023,Low and low-middle,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,13,17,13,17,10,7,1,6,76.9231,41.1765,35.7466,0.2588,60.338,0.0711
 2011–2023,Low and low-middle,Diarrhoeal incidence,secondhand_smoke_sev,13,17,13,17,5,9,6,6,38.4615,52.9412,-14.4796,-43.9277,19.5768,0.4837
 2011–2023,Middle and high-middle,Diarrhoeal incidence,basic_water_pct,9,8,9,8,6,3,3,4,66.6667,37.5,29.1667,-15.5054,61.1011,0.3469
@@ -560,13 +597,14 @@
 2011–2023,Middle and high-middle,Diarrhoeal incidence,dtp3_pct,9,8,9,8,4,3,4,3,44.4444,37.5,6.9444,-33.9567,44.3856,1.0
 2011–2023,Middle and high-middle,Diarrhoeal incidence,hib3_pct,9,8,9,7,5,3,2,2,55.5556,42.8571,12.6984,-30.4858,49.908,1.0
 2011–2023,Middle and high-middle,Diarrhoeal incidence,pcv3_pct,9,8,6,6,5,2,1,1,83.3333,33.3333,50.0,-4.0304,77.3175,0.2424
-2011–2023,Middle and high-middle,Diarrhoeal incidence,stunting_u5_pct,9,8,8,5,3,0,1,4,37.5,0.0,37.5,-12.0473,69.4258,0.2308
+2011–2023,Middle and high-middle,Diarrhoeal incidence,stunting_u5_pct,9,8,8,8,3,0,1,5,37.5,0.0,37.5,-2.7441,69.4258,0.2
 2011–2023,Middle and high-middle,Diarrhoeal incidence,low_birthweight_pct,9,8,9,8,5,2,2,5,55.5556,25.0,30.5556,-14.1165,61.738,0.3348
 2011–2023,Middle and high-middle,Diarrhoeal incidence,undernourishment_pct,9,8,9,8,6,1,1,7,66.6667,12.5,54.1667,7.5541,77.7856,0.0498
 2011–2023,Middle and high-middle,Diarrhoeal incidence,uhc_service_index,9,8,9,8,6,1,1,6,66.6667,12.5,54.1667,7.5541,77.7856,0.0498
 2011–2023,Middle and high-middle,Diarrhoeal incidence,health_expenditure_pc_current_usd,9,8,9,8,5,1,1,2,55.5556,12.5,43.0556,-2.0115,70.6034,0.1312
 2011–2023,Middle and high-middle,Diarrhoeal incidence,hospital_beds_per1000,9,8,8,8,4,2,1,4,50.0,25.0,25.0,-19.4067,58.6112,0.6084
 2011–2023,Middle and high-middle,Diarrhoeal incidence,nurses_midwives_per1000,9,8,9,8,7,4,0,3,77.7778,50.0,27.7778,-15.4483,60.394,0.3348
+2011–2023,Middle and high-middle,Diarrhoeal incidence,physicians_per1000,9,8,9,8,5,1,1,5,55.5556,12.5,43.0556,-2.0115,70.6034,0.1312
 2011–2023,Middle and high-middle,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,9,8,9,8,6,5,0,1,66.6667,62.5,4.1667,-35.121,42.5317,1.0
 2011–2023,Middle and high-middle,Diarrhoeal incidence,secondhand_smoke_sev,9,8,9,8,4,3,2,4,44.4444,37.5,6.9444,-33.9567,44.3856,1.0
 2011–2023,High,Diarrhoeal incidence,basic_water_pct,17,14,16,14,4,6,0,0,25.0,42.8571,-17.8571,-46.5344,14.722,0.4421
@@ -575,13 +613,14 @@
 2011–2023,High,Diarrhoeal incidence,dtp3_pct,17,14,16,13,7,8,5,3,43.75,61.5385,-17.7885,-47.065,16.9837,0.4621
 2011–2023,High,Diarrhoeal incidence,hib3_pct,17,14,16,13,7,9,3,3,43.75,69.2308,-25.4808,-52.9339,9.9287,0.2642
 2011–2023,High,Diarrhoeal incidence,pcv3_pct,17,14,13,9,5,6,4,1,38.4615,66.6667,-28.2051,-57.9249,12.4538,0.387
-2011–2023,High,Diarrhoeal incidence,stunting_u5_pct,17,14,4,3,2,0,2,1,50.0,0.0,50.0,-16.1628,84.9961,0.4286
+2011–2023,High,Diarrhoeal incidence,stunting_u5_pct,17,14,8,5,2,1,4,1,25.0,20.0,5.0,-41.0479,42.8042,1.0
 2011–2023,High,Diarrhoeal incidence,low_birthweight_pct,17,14,14,12,5,7,6,2,35.7143,58.3333,-22.619,-52.1873,14.0873,0.4312
 2011–2023,High,Diarrhoeal incidence,undernourishment_pct,17,14,15,9,0,2,1,0,0.0,22.2222,-22.2222,-54.7411,3.6329,0.1304
 2011–2023,High,Diarrhoeal incidence,uhc_service_index,17,14,16,13,5,2,5,6,31.25,15.3846,15.8654,-15.9596,42.605,0.41
 2011–2023,High,Diarrhoeal incidence,health_expenditure_pc_current_usd,17,14,16,13,6,6,6,5,37.5,46.1538,-8.6538,-39.8295,24.4498,0.7163
 2011–2023,High,Diarrhoeal incidence,hospital_beds_per1000,17,14,16,13,7,6,6,4,43.75,46.1538,-2.4038,-34.6014,30.1368,1.0
 2011–2023,High,Diarrhoeal incidence,nurses_midwives_per1000,17,14,16,13,4,5,7,4,25.0,38.4615,-13.4615,-43.4012,18.6446,0.6882
+2011–2023,High,Diarrhoeal incidence,physicians_per1000,17,14,16,13,4,5,5,1,25.0,38.4615,-13.4615,-43.4012,18.6446,0.6882
 2011–2023,High,Diarrhoeal incidence,gbd_ambient_pm25_ug_m3,17,14,17,14,5,4,4,7,29.4118,28.5714,0.8403,-29.8236,29.9372,1.0
 2011–2023,High,Diarrhoeal incidence,secondhand_smoke_sev,17,14,17,14,9,5,3,7,52.9412,35.7143,17.2269,-16.4535,45.7177,0.473
 2011–2023,Low and low-middle,Diarrhoeal mortality,basic_water_pct,17,17,17,16,13,2,0,8,76.4706,12.5,63.9706,30.5558,80.5936,0.0004
@@ -589,14 +628,15 @@
 2011–2023,Low and low-middle,Diarrhoeal mortality,clean_cooking_pct,17,17,17,16,10,5,5,7,58.8235,31.25,27.5735,-5.7938,53.5488,0.1663
 2011–2023,Low and low-middle,Diarrhoeal mortality,dtp3_pct,17,17,17,17,12,5,3,9,70.5882,29.4118,41.1765,7.6294,63.9902,0.0381
 2011–2023,Low and low-middle,Diarrhoeal mortality,hib3_pct,17,17,17,17,12,5,3,9,70.5882,29.4118,41.1765,7.6294,63.9902,0.0381
-2011–2023,Low and low-middle,Diarrhoeal mortality,pcv3_pct,17,17,14,13,9,5,1,6,64.2857,38.4615,25.8242,-10.6196,54.2111,0.2568
-2011–2023,Low and low-middle,Diarrhoeal mortality,stunting_u5_pct,17,17,15,14,4,6,4,7,26.6667,42.8571,-16.1905,-45.3706,16.9833,0.4497
+2011–2023,Low and low-middle,Diarrhoeal mortality,pcv3_pct,17,17,14,14,9,6,1,6,64.2857,42.8571,21.4286,-13.9854,50.3494,0.4495
+2011–2023,Low and low-middle,Diarrhoeal mortality,stunting_u5_pct,17,17,16,16,4,6,4,8,25.0,37.5,-12.5,-40.586,18.5142,0.7043
 2011–2023,Low and low-middle,Diarrhoeal mortality,low_birthweight_pct,17,17,11,12,3,3,3,5,27.2727,25.0,2.2727,-30.956,35.7004,1.0
 2011–2023,Low and low-middle,Diarrhoeal mortality,undernourishment_pct,17,17,16,14,8,3,2,5,50.0,21.4286,28.5714,-5.6104,54.5722,0.1424
 2011–2023,Low and low-middle,Diarrhoeal mortality,uhc_service_index,17,17,17,17,11,3,1,8,64.7059,17.6471,47.0588,13.9748,68.382,0.0134
 2011–2023,Low and low-middle,Diarrhoeal mortality,health_expenditure_pc_current_usd,17,17,17,16,4,5,5,8,23.5294,31.25,-7.7206,-35.7918,21.5221,0.708
-2011–2023,Low and low-middle,Diarrhoeal mortality,hospital_beds_per1000,17,17,5,13,2,5,2,4,40.0,38.4615,1.5385,-36.8567,43.8975,1.0
-2011–2023,Low and low-middle,Diarrhoeal mortality,nurses_midwives_per1000,17,17,17,16,6,4,4,7,35.2941,25.0,10.2941,-20.0968,37.9959,0.708
+2011–2023,Low and low-middle,Diarrhoeal mortality,hospital_beds_per1000,17,17,10,14,2,6,5,4,20.0,42.8571,-22.8571,-51.2862,14.842,0.3875
+2011–2023,Low and low-middle,Diarrhoeal mortality,nurses_midwives_per1000,17,17,17,17,6,4,4,8,35.2941,23.5294,11.7647,-18.0122,39.0246,0.708
+2011–2023,Low and low-middle,Diarrhoeal mortality,physicians_per1000,17,17,17,17,12,1,0,8,70.5882,5.8824,64.7059,32.9585,81.547,0.0002
 2011–2023,Low and low-middle,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,17,17,17,17,9,10,2,5,52.9412,58.8235,-5.8824,-35.3074,25.0565,1.0
 2011–2023,Low and low-middle,Diarrhoeal mortality,secondhand_smoke_sev,17,17,17,17,4,14,9,2,23.5294,82.3529,-58.8235,-76.8934,-25.5074,0.0016
 2011–2023,Middle and high-middle,Diarrhoeal mortality,basic_water_pct,8,6,8,6,6,4,0,1,75.0,66.6667,8.3333,-33.1462,49.1156,1.0
@@ -605,13 +645,14 @@
 2011–2023,Middle and high-middle,Diarrhoeal mortality,dtp3_pct,8,6,8,6,6,2,1,3,75.0,33.3333,41.6667,-8.3876,71.303,0.2774
 2011–2023,Middle and high-middle,Diarrhoeal mortality,hib3_pct,8,6,8,5,6,2,1,2,75.0,40.0,35.0,-15.2452,68.4077,0.2929
 2011–2023,Middle and high-middle,Diarrhoeal mortality,pcv3_pct,8,6,7,3,4,1,1,1,57.1429,33.3333,23.8095,-32.2002,62.1485,1.0
-2011–2023,Middle and high-middle,Diarrhoeal mortality,stunting_u5_pct,8,6,5,1,3,0,1,1,,,,,,
+2011–2023,Middle and high-middle,Diarrhoeal mortality,stunting_u5_pct,8,6,7,5,4,0,2,3,57.1429,0.0,57.1429,3.1246,84.178,0.0808
 2011–2023,Middle and high-middle,Diarrhoeal mortality,low_birthweight_pct,8,6,8,5,6,0,0,5,75.0,0.0,75.0,19.7851,92.8521,0.021
 2011–2023,Middle and high-middle,Diarrhoeal mortality,undernourishment_pct,8,6,8,4,5,1,2,2,62.5,25.0,37.5,-17.6224,68.8851,0.5455
 2011–2023,Middle and high-middle,Diarrhoeal mortality,uhc_service_index,8,6,8,6,5,2,3,4,62.5,33.3333,29.1667,-19.4517,62.7345,0.5921
 2011–2023,Middle and high-middle,Diarrhoeal mortality,health_expenditure_pc_current_usd,8,6,8,6,2,2,4,3,25.0,33.3333,-8.3333,-49.1156,33.1462,1.0
 2011–2023,Middle and high-middle,Diarrhoeal mortality,hospital_beds_per1000,8,6,7,6,2,1,2,4,28.5714,16.6667,11.9048,-32.6922,49.9754,1.0
 2011–2023,Middle and high-middle,Diarrhoeal mortality,nurses_midwives_per1000,8,6,8,6,4,2,1,4,50.0,33.3333,16.6667,-29.7608,53.6887,0.627
+2011–2023,Middle and high-middle,Diarrhoeal mortality,physicians_per1000,8,6,8,6,4,0,1,4,50.0,0.0,50.0,1.682,78.4784,0.0849
 2011–2023,Middle and high-middle,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,8,6,8,6,3,2,1,2,37.5,33.3333,4.1667,-39.556,43.9017,1.0
 2011–2023,Middle and high-middle,Diarrhoeal mortality,secondhand_smoke_sev,8,6,8,6,3,3,3,2,37.5,50.0,-12.5,-51.7813,32.1664,1.0
 2011–2023,High,Diarrhoeal mortality,basic_water_pct,14,16,14,15,4,2,1,0,28.5714,13.3333,15.2381,-14.5371,43.0257,0.3898
@@ -620,13 +661,14 @@
 2011–2023,High,Diarrhoeal mortality,dtp3_pct,14,16,11,14,2,7,5,6,18.1818,50.0,-31.8182,-58.4349,5.7249,0.2077
 2011–2023,High,Diarrhoeal mortality,hib3_pct,14,16,11,15,2,8,6,5,18.1818,53.3333,-35.1515,-60.6055,2.4012,0.1092
 2011–2023,High,Diarrhoeal mortality,pcv3_pct,14,16,9,10,3,6,5,2,33.3333,60.0,-26.6667,-58.1314,15.7822,0.3698
-2011–2023,High,Diarrhoeal mortality,stunting_u5_pct,14,16,1,1,1,0,0,1,,,,,,
+2011–2023,High,Diarrhoeal mortality,stunting_u5_pct,14,16,2,5,1,0,0,4,,,,,,
 2011–2023,High,Diarrhoeal mortality,low_birthweight_pct,14,16,9,14,4,4,1,8,44.4444,28.5714,15.873,-20.6468,49.3182,0.657
 2011–2023,High,Diarrhoeal mortality,undernourishment_pct,14,16,9,11,2,0,1,2,22.2222,0.0,22.2222,-8.1545,54.7411,0.1895
 2011–2023,High,Diarrhoeal mortality,uhc_service_index,14,16,11,14,3,5,5,4,27.2727,35.7143,-8.4416,-39.4015,26.6752,1.0
 2011–2023,High,Diarrhoeal mortality,health_expenditure_pc_current_usd,14,16,11,14,2,5,3,6,18.1818,35.7143,-17.5325,-46.1945,17.7718,0.4065
 2011–2023,High,Diarrhoeal mortality,hospital_beds_per1000,14,16,10,13,5,3,4,5,50.0,23.0769,26.9231,-10.926,57.1847,0.2213
-2011–2023,High,Diarrhoeal mortality,nurses_midwives_per1000,14,16,11,14,1,6,5,6,9.0909,42.8571,-33.7662,-59.429,2.0355,0.09
+2011–2023,High,Diarrhoeal mortality,nurses_midwives_per1000,14,16,12,14,1,6,6,6,8.3333,42.8571,-34.5238,-60.0128,0.0187,0.0809
+2011–2023,High,Diarrhoeal mortality,physicians_per1000,14,16,11,14,3,2,2,9,27.2727,14.2857,12.987,-18.0838,44.0291,0.6232
 2011–2023,High,Diarrhoeal mortality,gbd_ambient_pm25_ug_m3,14,16,14,16,5,5,7,6,35.7143,31.25,4.4643,-26.6466,35.1766,1.0
 2011–2023,High,Diarrhoeal mortality,secondhand_smoke_sev,14,16,14,16,6,8,4,2,42.8571,50.0,-7.1429,-37.8878,25.8243,0.73
 2011–2023,Low and low-middle,LRI incidence,basic_water_pct,7,11,7,10,3,2,3,4,42.8571,20.0,22.8571,-18.2633,58.0085,0.5928
@@ -635,13 +677,14 @@
 2011–2023,Low and low-middle,LRI incidence,dtp3_pct,7,11,7,11,3,2,3,4,42.8571,18.1818,24.6753,-15.351,59.322,0.326
 2011–2023,Low and low-middle,LRI incidence,hib3_pct,7,11,7,11,3,2,3,6,42.8571,18.1818,24.6753,-15.351,59.322,0.326
 2011–2023,Low and low-middle,LRI incidence,pcv3_pct,7,11,6,8,2,1,0,4,33.3333,12.5,20.8333,-21.0713,58.9086,0.5385
-2011–2023,Low and low-middle,LRI incidence,stunting_u5_pct,7,11,5,7,4,1,1,5,80.0,14.2857,65.7143,9.3875,85.8521,0.072
+2011–2023,Low and low-middle,LRI incidence,stunting_u5_pct,7,11,7,9,4,1,1,7,57.1429,11.1111,46.0317,0.4329,74.5644,0.1058
 2011–2023,Low and low-middle,LRI incidence,low_birthweight_pct,7,11,4,8,2,1,1,3,50.0,12.5,37.5,-11.7048,73.9686,0.2364
 2011–2023,Low and low-middle,LRI incidence,undernourishment_pct,7,11,5,11,3,4,0,4,60.0,36.3636,23.6364,-22.8616,58.945,0.5962
 2011–2023,Low and low-middle,LRI incidence,uhc_service_index,7,11,7,11,3,0,1,9,42.8571,0.0,42.8571,5.4293,74.9542,0.0429
 2011–2023,Low and low-middle,LRI incidence,health_expenditure_pc_current_usd,7,11,7,11,4,1,3,8,57.1429,9.0909,48.0519,5.0316,76.0995,0.0474
-2011–2023,Low and low-middle,LRI incidence,hospital_beds_per1000,7,11,3,10,3,6,0,3,100.0,60.0,40.0,-20.747,68.7326,0.4965
+2011–2023,Low and low-middle,LRI incidence,hospital_beds_per1000,7,11,4,11,3,7,0,3,75.0,63.6364,11.3636,-38.3208,46.2386,1.0
 2011–2023,Low and low-middle,LRI incidence,nurses_midwives_per1000,7,11,7,11,2,3,3,2,28.5714,27.2727,1.2987,-34.368,40.921,1.0
+2011–2023,Low and low-middle,LRI incidence,physicians_per1000,7,11,7,11,5,0,1,3,71.4286,0.0,71.4286,27.4662,91.7781,0.0025
 2011–2023,Low and low-middle,LRI incidence,gbd_ambient_pm25_ug_m3,7,11,7,11,4,4,1,2,57.1429,36.3636,20.7792,-21.9833,55.1335,0.6305
 2011–2023,Low and low-middle,LRI incidence,secondhand_smoke_sev,7,11,7,11,5,3,1,7,71.4286,27.2727,44.1558,-1.8958,71.0126,0.1448
 2011–2023,Middle and high-middle,LRI incidence,basic_water_pct,6,8,6,8,3,2,3,2,50.0,25.0,25.0,-21.2252,60.9796,0.5804
@@ -650,13 +693,14 @@
 2011–2023,Middle and high-middle,LRI incidence,dtp3_pct,6,8,6,8,3,4,2,2,50.0,50.0,0.0,-42.2712,42.2712,1.0
 2011–2023,Middle and high-middle,LRI incidence,hib3_pct,6,8,6,8,4,4,1,2,66.6667,50.0,16.6667,-29.7608,53.6887,0.627
 2011–2023,Middle and high-middle,LRI incidence,pcv3_pct,6,8,4,5,4,0,0,1,100.0,0.0,100.0,34.5196,100.0,0.0079
-2011–2023,Middle and high-middle,LRI incidence,stunting_u5_pct,6,8,5,3,1,0,0,2,20.0,0.0,20.0,-38.4894,62.4465,1.0
+2011–2023,Middle and high-middle,LRI incidence,stunting_u5_pct,6,8,5,8,1,1,0,4,20.0,12.5,7.5,-30.7702,51.1685,1.0
 2011–2023,Middle and high-middle,LRI incidence,low_birthweight_pct,6,8,6,7,4,3,1,1,66.6667,42.8571,23.8095,-24.9215,59.7333,0.5921
 2011–2023,Middle and high-middle,LRI incidence,undernourishment_pct,6,8,6,8,5,4,0,3,83.3333,50.0,33.3333,-15.5114,64.9189,0.3007
 2011–2023,Middle and high-middle,LRI incidence,uhc_service_index,6,8,6,8,4,0,1,7,66.6667,0.0,66.6667,17.7086,90.3229,0.015
 2011–2023,Middle and high-middle,LRI incidence,health_expenditure_pc_current_usd,6,8,6,8,2,1,1,5,33.3333,12.5,20.8333,-21.0713,58.9086,0.5385
 2011–2023,Middle and high-middle,LRI incidence,hospital_beds_per1000,6,8,5,8,2,6,0,1,40.0,75.0,-35.0,-68.4077,15.2452,0.2929
 2011–2023,Middle and high-middle,LRI incidence,nurses_midwives_per1000,6,8,6,8,5,7,0,0,83.3333,87.5,-4.1667,-45.1547,33.0223,1.0
+2011–2023,Middle and high-middle,LRI incidence,physicians_per1000,6,8,6,8,3,3,1,3,50.0,37.5,12.5,-32.1664,51.7813,1.0
 2011–2023,Middle and high-middle,LRI incidence,gbd_ambient_pm25_ug_m3,6,8,6,8,5,2,0,0,83.3333,25.0,58.3333,6.0292,80.8128,0.1026
 2011–2023,Middle and high-middle,LRI incidence,secondhand_smoke_sev,6,8,6,8,2,0,1,7,33.3333,0.0,33.3333,-6.8166,70.0007,0.1648
 2011–2023,High,LRI incidence,basic_water_pct,26,20,23,20,8,3,2,0,34.7826,15.0,19.7826,-6.6341,42.3327,0.1753
@@ -665,13 +709,14 @@
 2011–2023,High,LRI incidence,dtp3_pct,26,20,19,19,7,11,6,6,36.8421,57.8947,-21.0526,-46.9879,9.8763,0.33
 2011–2023,High,LRI incidence,hib3_pct,26,20,21,19,8,9,8,5,38.0952,47.3684,-9.2732,-36.4509,19.7724,0.7496
 2011–2023,High,LRI incidence,pcv3_pct,26,20,19,17,10,8,8,2,52.6316,47.0588,5.5728,-24.7725,34.5226,1.0
-2011–2023,High,LRI incidence,stunting_u5_pct,26,20,8,3,6,0,2,1,75.0,0.0,75.0,9.3211,92.8521,0.0606
+2011–2023,High,LRI incidence,stunting_u5_pct,26,20,10,5,6,0,3,2,60.0,0.0,60.0,7.9105,83.182,0.044
 2011–2023,High,LRI incidence,low_birthweight_pct,26,20,17,18,11,4,4,8,64.7059,22.2222,42.4837,9.6741,64.805,0.0176
 2011–2023,High,LRI incidence,undernourishment_pct,26,20,14,17,4,0,0,1,28.5714,0.0,28.5714,3.5983,54.6491,0.0318
 2011–2023,High,LRI incidence,uhc_service_index,26,20,19,19,6,4,5,11,31.5789,21.0526,10.5263,-17.0306,36.2092,0.714
 2011–2023,High,LRI incidence,health_expenditure_pc_current_usd,26,20,19,19,10,3,3,14,52.6316,15.7895,36.8421,6.6428,59.3587,0.0382
 2011–2023,High,LRI incidence,hospital_beds_per1000,26,20,18,18,10,10,4,4,55.5556,55.5556,0.0,-29.5357,29.5357,1.0
-2011–2023,High,LRI incidence,nurses_midwives_per1000,26,20,19,19,9,7,5,8,47.3684,36.8421,10.5263,-19.3194,37.9276,0.7431
+2011–2023,High,LRI incidence,nurses_midwives_per1000,26,20,20,19,9,7,6,8,45.0,36.8421,8.1579,-21.1184,35.4583,0.7475
+2011–2023,High,LRI incidence,physicians_per1000,26,20,19,19,10,3,3,7,52.6316,15.7895,36.8421,6.6428,59.3587,0.0382
 2011–2023,High,LRI incidence,gbd_ambient_pm25_ug_m3,26,20,26,20,13,6,10,7,50.0,30.0,20.0,-8.3075,43.6769,0.2318
 2011–2023,High,LRI incidence,secondhand_smoke_sev,26,20,26,20,10,9,10,5,38.4615,45.0,-6.5385,-32.7938,20.4619,0.7657
 2011–2023,Low and low-middle,LRI mortality,basic_water_pct,10,13,10,12,6,2,2,6,60.0,16.6667,43.3333,3.1186,69.4233,0.0743
@@ -680,13 +725,14 @@
 2011–2023,Low and low-middle,LRI mortality,dtp3_pct,10,13,10,13,6,2,2,8,60.0,15.3846,44.6154,5.29,70.3,0.0393
 2011–2023,Low and low-middle,LRI mortality,hib3_pct,10,13,10,13,6,2,2,9,60.0,15.3846,44.6154,5.29,70.3,0.0393
 2011–2023,Low and low-middle,LRI mortality,pcv3_pct,10,13,10,9,6,1,1,6,60.0,11.1111,48.8889,5.5922,73.801,0.0573
-2011–2023,Low and low-middle,LRI mortality,stunting_u5_pct,10,13,8,6,5,1,2,4,62.5,16.6667,45.8333,-5.0984,73.289,0.1375
+2011–2023,Low and low-middle,LRI mortality,stunting_u5_pct,10,13,10,10,5,1,2,6,50.0,10.0,40.0,-0.2356,67.5912,0.1409
 2011–2023,Low and low-middle,LRI mortality,low_birthweight_pct,10,13,7,8,3,2,2,2,42.8571,25.0,17.8571,-25.6381,54.5847,0.6084
 2011–2023,Low and low-middle,LRI mortality,undernourishment_pct,10,13,7,10,5,4,1,2,71.4286,40.0,31.4286,-14.2694,62.2751,0.3348
 2011–2023,Low and low-middle,LRI mortality,uhc_service_index,10,13,10,13,5,2,2,9,50.0,15.3846,34.6154,-2.9978,63.1834,0.1688
 2011–2023,Low and low-middle,LRI mortality,health_expenditure_pc_current_usd,10,13,10,13,3,1,4,10,30.0,7.6923,22.3077,-9.7221,53.2818,0.2806
-2011–2023,Low and low-middle,LRI mortality,hospital_beds_per1000,10,13,5,9,1,3,4,3,20.0,33.3333,-13.3333,-48.6117,34.1465,1.0
+2011–2023,Low and low-middle,LRI mortality,hospital_beds_per1000,10,13,6,10,1,3,5,4,16.6667,30.0,-13.3333,-46.5909,30.7601,1.0
 2011–2023,Low and low-middle,LRI mortality,nurses_midwives_per1000,10,13,10,13,3,3,4,4,30.0,23.0769,6.9231,-26.366,40.7072,1.0
+2011–2023,Low and low-middle,LRI mortality,physicians_per1000,10,13,10,13,3,1,1,4,30.0,7.6923,22.3077,-9.7221,53.2818,0.2806
 2011–2023,Low and low-middle,LRI mortality,gbd_ambient_pm25_ug_m3,10,13,10,13,6,5,2,5,60.0,38.4615,21.5385,-17.222,52.6518,0.4136
 2011–2023,Low and low-middle,LRI mortality,secondhand_smoke_sev,10,13,10,13,3,5,5,5,30.0,38.4615,-8.4615,-40.8074,28.2818,1.0
 2011–2023,Middle and high-middle,LRI mortality,basic_water_pct,7,10,6,10,4,6,2,3,66.6667,60.0,6.6667,-36.7142,43.8847,1.0
@@ -695,13 +741,14 @@
 2011–2023,Middle and high-middle,LRI mortality,dtp3_pct,7,10,6,10,4,2,1,6,66.6667,20.0,46.6667,-1.3384,74.3256,0.1181
 2011–2023,Middle and high-middle,LRI mortality,hib3_pct,7,10,6,9,3,2,1,4,50.0,22.2222,27.7778,-17.3145,62.8297,0.3287
 2011–2023,Middle and high-middle,LRI mortality,pcv3_pct,7,10,6,3,4,0,0,2,66.6667,0.0,66.6667,-0.3951,90.3229,0.1667
-2011–2023,Middle and high-middle,LRI mortality,stunting_u5_pct,7,10,4,6,2,1,1,3,50.0,16.6667,33.3333,-19.5771,70.9014,0.5
+2011–2023,Middle and high-middle,LRI mortality,stunting_u5_pct,7,10,5,10,2,1,1,5,40.0,10.0,30.0,-11.5024,67.8297,0.2418
 2011–2023,Middle and high-middle,LRI mortality,low_birthweight_pct,7,10,6,9,4,3,2,5,66.6667,33.3333,33.3333,-14.8417,65.149,0.3147
 2011–2023,Middle and high-middle,LRI mortality,undernourishment_pct,7,10,6,9,3,4,3,5,50.0,44.4444,5.5556,-36.9943,45.9225,1.0
 2011–2023,Middle and high-middle,LRI mortality,uhc_service_index,7,10,6,10,5,2,1,6,83.3333,20.0,63.3333,12.9867,83.1331,0.035
 2011–2023,Middle and high-middle,LRI mortality,health_expenditure_pc_current_usd,7,10,6,10,1,3,2,4,16.6667,30.0,-13.3333,-46.5909,30.7601,1.0
 2011–2023,Middle and high-middle,LRI mortality,hospital_beds_per1000,7,10,5,10,0,5,3,3,0.0,50.0,-50.0,-76.3407,0.8093,0.1009
 2011–2023,Middle and high-middle,LRI mortality,nurses_midwives_per1000,7,10,6,10,2,6,2,3,33.3333,60.0,-26.6667,-59.7879,19.9172,0.6084
+2011–2023,Middle and high-middle,LRI mortality,physicians_per1000,7,10,6,10,2,4,2,4,33.3333,40.0,-6.6667,-43.8847,36.7142,1.0
 2011–2023,Middle and high-middle,LRI mortality,gbd_ambient_pm25_ug_m3,7,10,6,10,5,7,1,2,83.3333,70.0,13.3333,-30.7601,46.5909,1.0
 2011–2023,Middle and high-middle,LRI mortality,secondhand_smoke_sev,7,10,7,10,4,3,1,4,57.1429,30.0,27.1429,-17.012,60.3143,0.35
 2011–2023,High,LRI mortality,basic_water_pct,23,17,20,17,6,4,2,0,30.0,23.5294,6.4706,-21.849,32.447,0.7246
@@ -710,13 +757,14 @@
 2011–2023,High,LRI mortality,dtp3_pct,23,17,16,17,8,9,5,6,50.0,52.9412,-2.9412,-33.282,28.1562,1.0
 2011–2023,High,LRI mortality,hib3_pct,23,17,18,17,8,7,6,5,44.4444,41.1765,3.268,-26.9988,32.5895,1.0
 2011–2023,High,LRI mortality,pcv3_pct,23,17,16,16,9,9,6,3,56.25,56.25,0.0,-30.964,30.964,1.0
-2011–2023,High,LRI mortality,stunting_u5_pct,23,17,5,4,4,0,1,2,80.0,0.0,80.0,15.1799,96.3776,0.0476
+2011–2023,High,LRI mortality,stunting_u5_pct,23,17,8,7,4,0,3,4,50.0,0.0,50.0,4.541,78.4784,0.0769
 2011–2023,High,LRI mortality,low_birthweight_pct,23,17,14,16,8,4,4,7,57.1429,25.0,32.1429,-2.5411,58.2351,0.1349
 2011–2023,High,LRI mortality,undernourishment_pct,23,17,12,17,3,0,1,3,25.0,0.0,25.0,0.5229,53.2305,0.0602
 2011–2023,High,LRI mortality,uhc_service_index,23,17,16,17,8,4,2,8,50.0,23.5294,26.4706,-5.8906,52.534,0.1571
 2011–2023,High,LRI mortality,health_expenditure_pc_current_usd,23,17,16,17,9,3,2,11,56.25,17.6471,38.6029,5.7544,62.219,0.0324
 2011–2023,High,LRI mortality,hospital_beds_per1000,23,17,15,17,6,5,6,6,40.0,29.4118,10.5882,-20.5526,39.7164,0.712
-2011–2023,High,LRI mortality,nurses_midwives_per1000,23,17,16,17,6,5,6,9,37.5,29.4118,8.0882,-22.316,36.889,0.7207
+2011–2023,High,LRI mortality,nurses_midwives_per1000,23,17,17,17,6,5,7,9,35.2941,29.4118,5.8824,-23.8858,34.3086,1.0
+2011–2023,High,LRI mortality,physicians_per1000,23,17,16,17,6,1,5,6,37.5,5.8824,31.6176,3.2115,55.9618,0.0391
 2011–2023,High,LRI mortality,gbd_ambient_pm25_ug_m3,23,17,23,17,10,8,10,4,43.4783,47.0588,-3.5806,-31.89,25.143,1.0
 2011–2023,High,LRI mortality,secondhand_smoke_sev,23,17,23,17,12,9,6,3,52.1739,52.9412,-0.7673,-29.1507,28.0178,1.0
 2011–2023,Low and low-middle,Meningitis incidence,basic_water_pct,17,17,17,16,14,3,2,9,82.3529,18.75,63.6029,29.9098,80.3082,0.0004
@@ -725,13 +773,14 @@
 2011–2023,Low and low-middle,Meningitis incidence,dtp3_pct,17,17,17,17,10,4,4,9,58.8235,23.5294,35.2941,2.3716,59.3376,0.0799
 2011–2023,Low and low-middle,Meningitis incidence,hib3_pct,17,17,17,17,10,4,4,9,58.8235,23.5294,35.2941,2.3716,59.3376,0.0799
 2011–2023,Low and low-middle,Meningitis incidence,pcv3_pct,17,17,13,14,8,3,1,6,61.5385,21.4286,40.1099,3.2156,65.063,0.0542
-2011–2023,Low and low-middle,Meningitis incidence,stunting_u5_pct,17,17,11,12,4,6,4,5,36.3636,50.0,-13.6364,-46.1257,23.8423,0.6802
+2011–2023,Low and low-middle,Meningitis incidence,stunting_u5_pct,17,17,16,17,5,6,6,7,31.25,35.2941,-4.0441,-33.0222,26.2238,1.0
 2011–2023,Low and low-middle,Meningitis incidence,low_birthweight_pct,17,17,11,15,4,5,3,5,36.3636,33.3333,3.0303,-29.7108,36.6174,1.0
 2011–2023,Low and low-middle,Meningitis incidence,undernourishment_pct,17,17,15,13,9,2,3,5,60.0,15.3846,44.6154,8.4334,67.6229,0.0238
 2011–2023,Low and low-middle,Meningitis incidence,uhc_service_index,17,17,17,17,11,2,2,8,64.7059,11.7647,52.9412,20.4251,72.8232,0.0039
 2011–2023,Low and low-middle,Meningitis incidence,health_expenditure_pc_current_usd,17,17,17,16,5,2,5,12,29.4118,12.5,16.9118,-11.6112,42.2839,0.3983
-2011–2023,Low and low-middle,Meningitis incidence,hospital_beds_per1000,17,17,5,14,1,7,3,4,20.0,50.0,-30.0,-58.399,18.3734,0.3378
-2011–2023,Low and low-middle,Meningitis incidence,nurses_midwives_per1000,17,17,17,16,6,5,5,6,35.2941,31.25,4.0441,-26.2238,33.0222,1.0
+2011–2023,Low and low-middle,Meningitis incidence,hospital_beds_per1000,17,17,10,15,1,8,5,4,10.0,53.3333,-43.3333,-66.6824,-5.0701,0.0405
+2011–2023,Low and low-middle,Meningitis incidence,nurses_midwives_per1000,17,17,17,17,6,5,5,7,35.2941,29.4118,5.8824,-23.8858,34.3086,1.0
+2011–2023,Low and low-middle,Meningitis incidence,physicians_per1000,17,17,17,17,9,0,0,7,52.9412,0.0,52.9412,24.2574,73.8349,0.0009
 2011–2023,Low and low-middle,Meningitis incidence,gbd_ambient_pm25_ug_m3,17,17,17,17,7,10,3,4,41.1765,58.8235,-17.6471,-45.3167,14.6226,0.4935
 2011–2023,Low and low-middle,Meningitis incidence,secondhand_smoke_sev,17,17,17,17,3,11,11,4,17.6471,64.7059,-47.0588,-68.382,-13.9748,0.0134
 2011–2023,Middle and high-middle,Meningitis incidence,basic_water_pct,6,9,6,9,5,5,0,3,83.3333,55.5556,27.7778,-19.4286,59.7354,0.5804
@@ -740,13 +789,14 @@
 2011–2023,Middle and high-middle,Meningitis incidence,dtp3_pct,6,9,6,9,3,5,2,3,50.0,55.5556,-5.5556,-45.9225,36.9943,1.0
 2011–2023,Middle and high-middle,Meningitis incidence,hib3_pct,6,9,6,8,3,5,2,2,50.0,62.5,-12.5,-51.7813,32.1664,1.0
 2011–2023,Middle and high-middle,Meningitis incidence,pcv3_pct,6,9,3,8,2,2,0,2,66.6667,25.0,41.6667,-15.4981,74.1886,0.4909
-2011–2023,Middle and high-middle,Meningitis incidence,stunting_u5_pct,6,9,3,5,3,1,0,2,100.0,20.0,80.0,9.6118,96.3776,0.1429
+2011–2023,Middle and high-middle,Meningitis incidence,stunting_u5_pct,6,9,5,9,3,1,2,3,60.0,11.1111,48.8889,-0.2302,78.5637,0.0949
 2011–2023,Middle and high-middle,Meningitis incidence,low_birthweight_pct,6,9,6,9,4,1,1,5,66.6667,11.1111,55.5556,6.6318,80.9096,0.0889
 2011–2023,Middle and high-middle,Meningitis incidence,undernourishment_pct,6,9,5,9,4,1,0,5,80.0,11.1111,68.8889,15.4965,87.6355,0.023
 2011–2023,Middle and high-middle,Meningitis incidence,uhc_service_index,6,9,6,9,4,2,2,6,66.6667,22.2222,44.4444,-4.5655,72.9474,0.1357
 2011–2023,Middle and high-middle,Meningitis incidence,health_expenditure_pc_current_usd,6,9,6,9,2,1,4,5,33.3333,11.1111,22.2222,-17.8858,60.0072,0.5253
 2011–2023,Middle and high-middle,Meningitis incidence,hospital_beds_per1000,6,9,5,9,1,5,3,1,20.0,55.5556,-35.5556,-65.918,15.79,0.3007
 2011–2023,Middle and high-middle,Meningitis incidence,nurses_midwives_per1000,6,9,6,9,3,7,1,2,50.0,77.7778,-27.7778,-62.8297,17.3145,0.3287
+2011–2023,Middle and high-middle,Meningitis incidence,physicians_per1000,6,9,6,9,4,0,1,5,66.6667,0.0,66.6667,19.3447,90.3229,0.011
 2011–2023,Middle and high-middle,Meningitis incidence,gbd_ambient_pm25_ug_m3,6,9,6,9,2,3,2,1,33.3333,33.3333,0.0,-39.1913,42.3924,1.0
 2011–2023,Middle and high-middle,Meningitis incidence,secondhand_smoke_sev,6,9,6,9,1,3,2,6,16.6667,33.3333,-16.6667,-50.7691,28.3601,0.6044
 2011–2023,High,Meningitis incidence,basic_water_pct,17,14,16,14,3,5,0,1,18.75,35.7143,-16.9643,-45.2338,14.0788,0.4171
@@ -755,13 +805,14 @@
 2011–2023,High,Meningitis incidence,dtp3_pct,17,14,10,14,5,6,3,6,50.0,42.8571,7.1429,-28.8661,41.1291,1.0
 2011–2023,High,Meningitis incidence,hib3_pct,17,14,11,14,7,6,2,5,63.6364,42.8571,20.7792,-16.6537,50.9546,0.4283
 2011–2023,High,Meningitis incidence,pcv3_pct,17,14,6,13,4,8,1,4,66.6667,61.5385,5.1282,-37.0041,40.291,1.0
-2011–2023,High,Meningitis incidence,stunting_u5_pct,17,14,2,6,0,1,2,2,,,,,,
+2011–2023,High,Meningitis incidence,stunting_u5_pct,17,14,4,7,1,1,3,3,25.0,14.2857,10.7143,-31.5805,57.1528,1.0
 2011–2023,High,Meningitis incidence,low_birthweight_pct,17,14,7,13,3,6,4,4,42.8571,46.1538,-3.2967,-39.9178,36.1598,1.0
 2011–2023,High,Meningitis incidence,undernourishment_pct,17,14,7,10,1,1,2,1,14.2857,10.0,4.2857,-28.3084,42.2126,1.0
 2011–2023,High,Meningitis incidence,uhc_service_index,17,14,10,14,3,3,3,8,30.0,21.4286,8.5714,-23.8912,41.9099,0.6653
 2011–2023,High,Meningitis incidence,health_expenditure_pc_current_usd,17,14,10,14,5,6,4,7,50.0,42.8571,7.1429,-28.8661,41.1291,1.0
 2011–2023,High,Meningitis incidence,hospital_beds_per1000,17,14,10,14,2,8,4,5,20.0,57.1429,-37.1429,-62.9621,2.3895,0.1041
-2011–2023,High,Meningitis incidence,nurses_midwives_per1000,17,14,10,14,3,7,4,5,30.0,50.0,-20.0,-50.1284,18.18,0.4212
+2011–2023,High,Meningitis incidence,nurses_midwives_per1000,17,14,11,14,3,7,5,5,27.2727,50.0,-22.7273,-51.8041,14.6396,0.4139
+2011–2023,High,Meningitis incidence,physicians_per1000,17,14,10,14,2,6,2,1,20.0,42.8571,-22.8571,-51.2862,14.842,0.3875
 2011–2023,High,Meningitis incidence,gbd_ambient_pm25_ug_m3,17,14,17,14,0,9,13,3,0.0,64.2857,-64.2857,-83.6553,-32.8045,0.0001
 2011–2023,High,Meningitis incidence,secondhand_smoke_sev,17,14,17,14,5,6,8,5,29.4118,42.8571,-13.4454,-42.823,18.5536,0.4775
 2011–2023,Low and low-middle,Meningitis mortality,basic_water_pct,20,20,20,19,17,4,1,10,85.0,21.0526,63.9474,33.3005,79.8437,0.0001
@@ -769,14 +820,15 @@
 2011–2023,Low and low-middle,Meningitis mortality,clean_cooking_pct,20,20,20,19,13,3,5,9,65.0,15.7895,49.2105,18.458,68.9694,0.0031
 2011–2023,Low and low-middle,Meningitis mortality,dtp3_pct,20,20,20,20,11,5,6,10,55.0,25.0,30.0,-0.1759,53.6369,0.1053
 2011–2023,Low and low-middle,Meningitis mortality,hib3_pct,20,20,20,20,11,5,6,9,55.0,25.0,30.0,-0.1759,53.6369,0.1053
-2011–2023,Low and low-middle,Meningitis mortality,pcv3_pct,20,20,17,15,9,4,3,8,52.9412,26.6667,26.2745,-7.2262,52.4511,0.1657
-2011–2023,Low and low-middle,Meningitis mortality,stunting_u5_pct,20,20,14,13,4,5,4,8,28.5714,38.4615,-9.8901,-40.8858,23.4368,0.6946
+2011–2023,Low and low-middle,Meningitis mortality,pcv3_pct,20,20,17,16,9,5,3,8,52.9412,31.25,21.6912,-11.1073,48.6811,0.296
+2011–2023,Low and low-middle,Meningitis mortality,stunting_u5_pct,20,20,18,18,5,5,5,10,27.7778,27.7778,0.0,-27.691,27.691,1.0
 2011–2023,Low and low-middle,Meningitis mortality,low_birthweight_pct,20,20,15,17,4,5,6,7,26.6667,29.4118,-2.7451,-31.2297,27.2466,1.0
 2011–2023,Low and low-middle,Meningitis mortality,undernourishment_pct,20,20,17,16,10,5,4,5,58.8235,31.25,27.5735,-5.7938,53.5488,0.1663
 2011–2023,Low and low-middle,Meningitis mortality,uhc_service_index,20,20,20,20,13,3,2,11,65.0,15.0,50.0,19.7629,69.5008,0.0031
 2011–2023,Low and low-middle,Meningitis mortality,health_expenditure_pc_current_usd,20,20,20,19,6,5,5,12,30.0,26.3158,3.6842,-23.5909,29.9523,1.0
-2011–2023,Low and low-middle,Meningitis mortality,hospital_beds_per1000,20,20,6,17,2,8,3,6,33.3333,47.0588,-13.7255,-46.0155,28.4769,0.66
-2011–2023,Low and low-middle,Meningitis mortality,nurses_midwives_per1000,20,20,20,19,6,5,9,9,30.0,26.3158,3.6842,-23.5909,29.9523,1.0
+2011–2023,Low and low-middle,Meningitis mortality,hospital_beds_per1000,20,20,12,18,2,8,6,7,16.6667,44.4444,-27.7778,-52.6822,6.6761,0.2353
+2011–2023,Low and low-middle,Meningitis mortality,nurses_midwives_per1000,20,20,20,20,6,5,9,10,30.0,25.0,5.0,-21.7782,30.8904,1.0
+2011–2023,Low and low-middle,Meningitis mortality,physicians_per1000,20,20,20,20,13,1,0,11,65.0,5.0,60.0,31.3998,77.3744,0.0001
 2011–2023,Low and low-middle,Meningitis mortality,gbd_ambient_pm25_ug_m3,20,20,20,20,9,11,5,5,45.0,55.0,-10.0,-37.1249,19.4036,0.7524
 2011–2023,Low and low-middle,Meningitis mortality,secondhand_smoke_sev,20,20,20,20,5,11,12,8,25.0,55.0,-30.0,-53.6369,0.1759,0.1053
 2011–2023,Middle and high-middle,Meningitis mortality,basic_water_pct,7,7,6,7,5,3,0,3,83.3333,42.8571,40.4762,-10.5631,70.767,0.2657
@@ -785,13 +837,14 @@
 2011–2023,Middle and high-middle,Meningitis mortality,dtp3_pct,7,7,6,7,4,5,1,1,66.6667,71.4286,-4.7619,-46.6975,37.9272,1.0
 2011–2023,Middle and high-middle,Meningitis mortality,hib3_pct,7,7,6,7,4,4,1,1,66.6667,57.1429,9.5238,-36.0327,49.3965,1.0
 2011–2023,Middle and high-middle,Meningitis mortality,pcv3_pct,7,7,4,5,3,1,0,1,75.0,20.0,55.0,-6.8137,81.193,0.2063
-2011–2023,Middle and high-middle,Meningitis mortality,stunting_u5_pct,7,7,3,3,3,0,0,1,100.0,0.0,100.0,20.5923,100.0,0.1
+2011–2023,Middle and high-middle,Meningitis mortality,stunting_u5_pct,7,7,5,6,3,0,2,1,60.0,0.0,60.0,6.2668,88.2379,0.0606
 2011–2023,Middle and high-middle,Meningitis mortality,low_birthweight_pct,7,7,6,6,4,1,1,4,66.6667,16.6667,50.0,-4.0304,77.3175,0.2424
 2011–2023,Middle and high-middle,Meningitis mortality,undernourishment_pct,7,7,6,6,4,0,1,5,66.6667,0.0,66.6667,13.112,90.3229,0.0606
 2011–2023,Middle and high-middle,Meningitis mortality,uhc_service_index,7,7,6,7,5,3,1,3,83.3333,42.8571,40.4762,-10.5631,70.767,0.2657
 2011–2023,Middle and high-middle,Meningitis mortality,health_expenditure_pc_current_usd,7,7,6,7,3,0,3,4,50.0,0.0,50.0,2.763,81.2384,0.0699
 2011–2023,Middle and high-middle,Meningitis mortality,hospital_beds_per1000,7,7,5,7,1,4,3,2,20.0,57.1429,-37.1429,-68.7518,16.073,0.2929
 2011–2023,Middle and high-middle,Meningitis mortality,nurses_midwives_per1000,7,7,6,7,3,4,1,3,50.0,57.1429,-7.1429,-48.4555,37.6461,1.0
+2011–2023,Middle and high-middle,Meningitis mortality,physicians_per1000,7,7,6,7,4,0,1,3,66.6667,0.0,66.6667,15.6765,90.3229,0.021
 2011–2023,Middle and high-middle,Meningitis mortality,gbd_ambient_pm25_ug_m3,7,7,6,7,2,4,1,1,33.3333,57.1429,-23.8095,-59.7333,24.9215,0.5921
 2011–2023,Middle and high-middle,Meningitis mortality,secondhand_smoke_sev,7,7,7,7,3,3,2,4,42.8571,42.8571,0.0,-41.9657,41.9657,1.0
 2011–2023,High,Meningitis mortality,basic_water_pct,13,13,13,12,6,4,0,1,46.1538,33.3333,12.8205,-23.0767,44.3052,0.6882
@@ -800,12 +853,13 @@
 2011–2023,High,Meningitis mortality,dtp3_pct,13,13,11,11,5,4,4,5,45.4545,36.3636,9.0909,-28.1011,43.0541,1.0
 2011–2023,High,Meningitis mortality,hib3_pct,13,13,11,12,7,6,2,5,63.6364,50.0,13.6364,-23.8423,46.1257,0.6802
 2011–2023,High,Meningitis mortality,pcv3_pct,13,13,7,11,4,6,1,5,57.1429,54.5455,2.5974,-37.5903,40.4798,1.0
-2011–2023,High,Meningitis mortality,stunting_u5_pct,13,13,1,3,0,1,1,0,,,,,,
+2011–2023,High,Meningitis mortality,stunting_u5_pct,13,13,3,3,1,1,1,0,33.3333,33.3333,0.0,-53.3465,53.3465,1.0
 2011–2023,High,Meningitis mortality,low_birthweight_pct,13,13,9,11,4,5,5,3,44.4444,45.4545,-1.0101,-37.8588,36.666,1.0
 2011–2023,High,Meningitis mortality,undernourishment_pct,13,13,9,7,2,1,1,2,22.2222,14.2857,7.9365,-32.36,42.5021,1.0
 2011–2023,High,Meningitis mortality,uhc_service_index,13,13,11,11,3,4,3,4,27.2727,36.3636,-9.0909,-42.3415,27.0661,1.0
 2011–2023,High,Meningitis mortality,health_expenditure_pc_current_usd,13,13,11,11,5,4,4,4,45.4545,36.3636,9.0909,-28.1011,43.0541,1.0
 2011–2023,High,Meningitis mortality,hospital_beds_per1000,13,13,11,10,5,4,4,5,45.4545,40.0,5.4545,-32.1007,40.6906,1.0
-2011–2023,High,Meningitis mortality,nurses_midwives_per1000,13,13,11,11,2,5,7,5,18.1818,45.4545,-27.2727,-56.8421,10.8854,0.3615
+2011–2023,High,Meningitis mortality,nurses_midwives_per1000,13,13,12,11,2,5,8,5,16.6667,45.4545,-28.7879,-57.899,8.3132,0.193
+2011–2023,High,Meningitis mortality,physicians_per1000,13,13,11,11,1,6,3,3,9.0909,54.5455,-45.4545,-70.7646,-6.407,0.0635
 2011–2023,High,Meningitis mortality,gbd_ambient_pm25_ug_m3,13,13,13,13,0,9,7,2,0.0,69.2308,-69.2308,-87.3193,-33.9914,0.0005
 2011–2023,High,Meningitis mortality,secondhand_smoke_sev,13,13,13,13,5,7,4,4,38.4615,53.8462,-15.3846,-46.3239,20.4904,0.6951

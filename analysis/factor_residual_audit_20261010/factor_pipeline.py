@@ -70,7 +70,7 @@ def _vacc0(L):
         L.loc[fill, f] = 0.0
     return L
 
-def factor_periods(spec='A', knots='factor', scale='orig', ceiling=None, drop=(), anchor2000=True, vacc0=False, only=None):
+def factor_periods(spec='A', knots='factor', scale='orig', ceiling=None, drop=(), anchor2000=True, vacc0=False, only=None, single_year=True):
     L = _vacc0(ly()) if vacc0 else ly(); kn_all = np.quantile(L.sdi, [.25, .5, .75]); rows = []
     for f in D.ALL:
         if f in drop or (only is not None and f not in only): continue
@@ -88,7 +88,8 @@ def factor_periods(spec='A', knots='factor', scale='orig', ceiling=None, drop=()
     r = pd.DataFrame(rows)
     anc = _anchor_factors(L) if anchor2000 else set()
     r['single_year_2000'] = (r.period == PER[0]) & r.factor.isin(anc) & (r.n_years == 1)
-    enough = (r.n_years >= 2) | r.single_year_2000
+    # 2026-10-20 (author rule): a location-period with a single observed year is evaluable in every period (single_year=True)
+    enough = (r.n_years >= (1 if single_year else 2)) | r.single_year_2000
     r['eligible'] = enough & ~r.saturated
     r['status'] = np.where(r.saturated, '已达普及', np.where(~enough, '不可评价',
                   np.where(r.favourable_lower > 0, '明确有利', np.where(r.favourable_upper < 0, '明确不利', '方向不确定'))))

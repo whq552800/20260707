@@ -14,7 +14,7 @@ Low and low-middle,LRI mortality,pcv3_pct,6,10,1,9,0.05727554179566564,3,10,0,9,
 Low and low-middle,Meningitis incidence,hib3_pct,10,17,4,17,0.0798643688908234,9,17,2,17,0.02550982573229514
 Low and low-middle,Meningitis incidence,pcv3_pct,8,13,3,14,0.05423789653161036,3,13,2,14,0.6483091787439613
 Low and low-middle,Meningitis mortality,hib3_pct,11,20,5,20,0.105340267965407,9,20,4,20,0.17599563650731614
-Low and low-middle,Meningitis mortality,pcv3_pct,9,17,4,15,0.16574112137479646,2,17,4,16,0.3983213671756497
+Low and low-middle,Meningitis mortality,pcv3_pct,9,17,5,16,0.296003611097677,2,17,4,16,0.3983213671756497
 Middle and high-middle,LRI incidence,hib3_pct,4,6,4,8,0.627039627039627,4,6,4,8,0.627039627039627
 Middle and high-middle,LRI incidence,pcv3_pct,4,4,0,5,0.007936507936507936,1,4,0,5,0.4444444444444444
 Middle and high-middle,LRI mortality,hib3_pct,3,6,2,9,0.3286713286713287,3,6,3,9,0.6223776223776224

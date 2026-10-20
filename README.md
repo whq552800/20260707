@@ -30,7 +30,14 @@ The analysis places the incidence and mortality of lower respiratory infections 
     ├── figure2_reference_20261010/               reference-model figures
     ├── main_figures_20261010/                    R1d figures (partly reused as S Figs); Table 2
     ├── gap_story_20261012/                       gaps in incidence, case fatality and mortality; persistence intervals
-    ├── main_figures_20261012/                    Figs 1–3 and S1–S7 Figs (current)
+    ├── excess_deaths_20261017/                   deaths in excess of the SDI–year reference (persistent high-tail locations)
+    ├── robustness_20261017/                      location-clustered intervals; change in the spread of residuals
+    ├── factor_models_20261017/                   multivariable models of burden departures on domain shortfalls
+    ├── general_specific_20261019/                general vs disease-specific parts of departures
+    ├── within_country_20261019/                  within-country contrasts between infections
+    ├── change_20261019/                          within-country change in shortfalls and burden; same-scale comparison
+    ├── typology_20261020/                        patterns of disadvantage by fixed rules
+    ├── main_figures_20261012/                    Figs 1–2, S8–S9 Figs and S1–S7 Figs (current)
     ├── supp_figures_20261012/                    S1–S7 Figs (current)
     ├── s1_sensitivity_20261010/                  sensitivity analyses, uncertainty propagation, bootstrap
     ├── gbd_coupling_20261011/                    checks for coupling inside the GBD estimates
@@ -59,11 +66,18 @@ All outputs of a run are already included in the repository, so the tables and f
 | Manuscript item | Script | Output (in the script's folder) |
 |---|---|---|
 | Table 1; Fig 1; S1 Text Table E | `gap_story_20261012/gap_decomposition.py` | `GAP_SUMMARY.csv`, `GAP_ANNUAL.csv` |
-| Fig 1 | `main_figures_20261012/fig1_gap.py` | `Fig1_gap_incidence_case_fatality.{jpg,pdf}`, `Fig1_SOURCE.csv` |
-| Fig 2 (intervals from `gap_story_20261012/persistence_intervals.py`, `PERSISTENCE_INTERVALS.csv`) | `main_figures_20261012/fig2_position.py` | `Fig2_position_persistence.{jpg,pdf}`, `Fig2_SOURCE.csv` |
-| Fig 3; S1 Text Tables M, N, O and X | `results_revision_20261010/profiles_by_cell.py`, `profile_domains.py`, `profile_trajectory_domains.py`; `main_figures_20261012/fig3_profiles.py` | `PROFILE_CELLS.csv`, `PROFILE_TRAJECTORIES.csv`, `PROFILE_DOMAINS.csv`, `PROFILE_DOMAINS_POOLED.csv`, `PROFILE_TRAJECTORY_DOMAINS.csv`, `PROFILE_TRAJECTORY_CONTRASTS.csv`; `Fig3_profiles_by_development.{jpg,pdf}` |
+| Excess deaths (Results; S3 Table) | `excess_deaths_20261017/excess_deaths.py` (seed 20261017) | `EXCESS_SUMMARY.csv`, `EXCESS_BY_LOCATION_2023.csv`, `EXCESS_NIGERIA_LOO.csv` |
+| Fig 3B intervals; tail retention; residual spread (Results) | `robustness_20261017/clustered_intervals.py` (seed 20261017) | `PROFILE_DOMAINS_POOLED_CLUSTERED.csv`, `TAIL_RETENTION_CLUSTERED.csv`, `DISPERSION_CHANGE.csv` |
+| Fig 2 (R5) | `general_specific_20261019/general_specific.py`; `main_figures_20261012/fig_structure.py` | `GS_SHARE.csv`, `GS_PERSIST.csv`, `GS_EXCESS_2023.csv`, `GS_FACTORS.csv`; `Fig_structure.{jpg,pdf}` |
+| Fig 4 (R5) | `within_country_20261019/within_country.py`; `change_20261019/change.py`, `stand_vs_move.py`, `stand_vs_move_contrast.py`; `main_figures_20261012/fig_allocation_change.py` | `WC_DISEASE.csv`, `WC_FATALITY.csv`, `CH_PRIMARY.csv`, `CH_GRID.csv`, `CH_STAND_MOVE.csv`, `CH_STAND_MOVE_CONTRAST.csv`; `Fig_allocation_change.{jpg,pdf}` |
+| Table 1 (R5) | `typology_20261020/typology.py` | `TYPOLOGY.csv`, `TYPOLOGY_EXAMPLES.csv` |
+| Excess deaths, arithmetic-mean reference (S1 Text) | `excess_deaths_20261017/excess_arith.py` | `EXCESS_ARITH.csv` |
+| Fig 3 (R5; Fig 2 in R4); factor models (Results; S1 Text) | `factor_models_20261017/factor_models.py` (2000 location bootstrap replicates, seed 20261017; slow); `main_figures_20261012/fig_factor_models.py` | `FM_COEF.csv`, `FM_CONTRAST.csv`, `FM_SHAPLEY.csv`, `FM_COEF_NONCOV.csv`, `FM_DEATHS.csv`, `FM_DATA.csv`; `Fig_factor_models.{jpg,pdf}` |
+| S8 Fig (Fig 1 before R4) | `main_figures_20261012/fig1_gap.py` | `Fig1_gap_incidence_case_fatality.{jpg,pdf}`, `Fig1_SOURCE.csv` |
+| Fig 1 (Fig 2 before R4; intervals from `gap_story_20261012/persistence_intervals.py`, `PERSISTENCE_INTERVALS.csv`) | `main_figures_20261012/fig2_position.py` | `Fig2_position_persistence.{jpg,pdf}`, `Fig2_SOURCE.csv` |
+| S9 Fig (Fig 3 before R4); S1 Text tail-profile tables | `results_revision_20261010/profiles_by_cell.py`, `profile_domains.py`, `profile_trajectory_domains.py`; `main_figures_20261012/fig3_profiles.py` | `PROFILE_CELLS.csv`, `PROFILE_TRAJECTORIES.csv`, `PROFILE_DOMAINS.csv`, `PROFILE_DOMAINS_POOLED.csv`, `PROFILE_TRAJECTORY_DOMAINS.csv`, `PROFILE_TRAJECTORY_CONTRASTS.csv`; `Fig3_profiles_by_development.{jpg,pdf}` |
 | S1–S7 Figs | `main_figures_20261012/supp_figs_20261012.py` (S2, S5–S7 Figs are copies of R1d figures made by the scripts in `main_figures_20261010/`) | `../supp_figures_20261012/` |
-| Table 2 (key countries; retention of persistent labels across uncertainty draws; local studies) | `main_figures_20261010/make_tables.py` (run after `s1_sensitivity_20261010/run_ui_mc.py`) | `Table2_EN.csv`, `Table2_ZH.csv` |
+| Table 1 (Table 2 before R4; key countries; retention of persistent labels across uncertainty draws; local studies) | `main_figures_20261010/make_tables.py` (run after `s1_sensitivity_20261010/run_ui_mc.py`) | `Table2_EN.csv`, `Table2_ZH.csv` |
 | Disease positions (all locations, outcomes, periods) | `independent_reproduction_20261009/repro_disease.py` | `REPRO_DISEASE_PERIOD.csv`; annual fitted values and residuals in `REPRO_ANNUAL_FIT.csv` |
 | Persistent tails by location | `independent_reproduction_20261009/repro_downstream.py` | `REPRO_COUNTRY_DISEASE_PROFILES.csv` |
 | Factor statuses and contrasts | `factor_profiles_confirmed_20261010/run_confirmed.py` | `CONFIRMED_FACTOR_PERIOD.csv`, `CONFIRMED_GROUP_CONTRASTS.csv`, `CONFIRMED_ASSOCIATIONS.csv` |
@@ -90,10 +104,10 @@ All outputs of a run are already included in the repository, so the tables and f
 ## Methods in brief
 
 * **Gaps between development groups.** Low-SDI and high-SDI groups (GBD 2023 cut-offs) fixed by mean SDI in 1990–2000 (and, as a comparison, in 2011–2023). Population-weighted incidence and mortality, and case fatality as deaths per 1000 incident cases, so that the mortality ratio is the product of the incidence and case-fatality ratios. Intervals from 2000 replicates resampling locations within groups and perturbing each location–year rate by its GBD uncertainty interval.
-* **Factor profiles.** For three SDI strata and six outcomes in 2011–2023, the percentage of high-tail and low-tail locations with an adverse departure in each of 15 factors, averaged within five domains; change in these percentages between 2001–2010 and 2011–2023 by tail trajectory.
+* **Factor profiles.** For three SDI strata and six outcomes in 2011–2023, the percentage of high-tail and low-tail locations with an adverse departure in each of 16 factors, averaged within five domains; change in these percentages between 2001–2010 and 2011–2023 by tail trajectory.
 * **Disease references.** For each of six outcomes, ordinary least squares of the log annual rate on a natural cubic spline of SDI (4 df, knots at SDI quartiles), calendar-year fixed effects, and spline × centred year. Location–years are weighted equally. The fitted value is the mean log rate of countries at the same SDI in the same year: a statistical expectation, not a minimum achievable burden.
 * **Relative positions.** Period residuals with location-clustered (CR1) 95% confidence intervals. A direction is resolved when the interval excludes 0; among resolved locations, quartiles define robust low and high tails. Locations in the same tail in all three periods are persistent.
-* **Factors.** 18 factors fitted with the same reference structure (logit, log, or log(1+x) scale), residuals expressed in original units as observed value minus back-transformed fitted value, with delta-method intervals. A period needs at least 2 observed years, except that series beginning in 2000 use that common year for 1990–2000. Coverage ≥99% in both observed and reference values is labelled universal. For persistent tails, the late-period status of prespecified disease-relevant factors is summarised as at least one clearly adverse factor; the UHC index, a composite, is reported separately.
+* **Factors.** 19 factors (16 analysed plus the three SDI components) fitted with the same reference structure (logit, log, or log(1+x) scale), residuals expressed in original units as observed value minus back-transformed fitted value, with delta-method intervals. A location–period is evaluated whenever it has at least one observed year (series beginning in 2000 use that common year for 1990–2000); a factor is left out only where a location has no observation in the period. Physician density has a single observed year per location. Coverage ≥99% in both observed and reference values is labelled universal. For persistent tails, the late-period status of prespecified disease-relevant factors is summarised as at least one clearly adverse factor; the UHC index, a composite, is reported separately.
 * **Factor status of tails by outcome.** For each outcome in 2011–2023 and within each SDI stratum, the proportion of robust high-tail and robust low-tail locations with each prespecified factor clearly adverse (universal coverage counted as not adverse), with Newcombe intervals, Fisher exact tests, and Benjamini–Hochberg q values over the 34 outcome–factor pairs of each stratum. Differences between strata use equal weights for each outcome–factor pair and 2000 location resamples within strata.
 * **Catch-up.** Among locations clearly adverse for a factor in 2001–2010, the proportion whose disease residual fell is compared between locations whose gap narrowed and those whose gap did not (Newcombe hybrid score intervals), with Spearman correlations of the two changes (2000 location resamples) and the initial gaps of the two groups.
 * **Coupling within the GBD estimates.** Cross-disease correlations are recalculated after removing, by linear regression, the residuals of eight observed factors that are, or stand in for, covariates of one or more GBD mortality models (for example, the UHC index for the Healthcare Access and Quality index), and within SDI strata (1000 location resamples). This tests whether these measured proxies explain the correlation structure; it does not remove the coupling between GBD models.
@@ -115,3 +129,7 @@ The input panel combines published estimates; no data were imputed, interpolated
 | Temperature, humidity, cold days, wet days | ERA5 reanalysis (Copernicus Climate Change Service), weighted by WorldPop populations younger than 5 years |
 
 GBD data are used under the IHME Free-of-Charge Non-commercial User Agreement; users of the panel should cite GBD 2023 and follow the terms of each original source. The code is released under the MIT licence.
+
+## Citation
+
+If you use these data or code, please cite the manuscript (citation to be added on publication) and the original data sources above.

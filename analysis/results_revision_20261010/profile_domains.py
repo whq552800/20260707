@@ -14,7 +14,7 @@ BAND = {'低SDI': 'Low and low-middle', '中低SDI': 'Low and low-middle', '中�
 OUT = {(302, 6): 'Diarrhoeal incidence', (302, 1): 'Diarrhoeal mortality', (322, 6): 'LRI incidence', (322, 1): 'LRI mortality', (332, 6): 'Meningitis incidence', (332, 1): 'Meningitis mortality'}
 DOM = {'Basic services': ['basic_water_pct', 'basic_sanitation_pct', 'clean_cooking_pct'], 'Immunisation': ['dtp3_pct', 'hib3_pct', 'pcv3_pct'],
        'Nutrition': ['stunting_u5_pct', 'low_birthweight_pct', 'undernourishment_pct'],
-       'Health system': ['uhc_service_index', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000'],
+       'Health system': ['uhc_service_index', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000', 'physicians_per1000'],
        'Air pollution': ['gbd_ambient_pm25_ug_m3', 'secondhand_smoke_sev']}
 FAC = [f for v in DOM.values() for f in v]
 BANDS = list(dict.fromkeys(BAND.values()))

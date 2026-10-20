@@ -17,7 +17,7 @@ BAND = {'低SDI': 'low', '中低SDI': 'low', '中等SDI': 'mid', '中高SDI': 'm
 # 18项因素的领域（与 find_patterns.py 一致；家庭PM2.5不计入）
 DOM = {'basic_water_pct': 'WaSH', 'basic_sanitation_pct': 'WaSH', 'clean_cooking_pct': 'Cooking', 'dtp3_pct': 'Immun', 'hib3_pct': 'Immun', 'pcv3_pct': 'Immun',
        'stunting_u5_pct': 'Nutrition', 'low_birthweight_pct': 'Nutrition', 'undernourishment_pct': 'Nutrition', 'uhc_service_index': 'Health', 'health_expenditure_pc_current_usd': 'Health',
-       'hospital_beds_per1000': 'Health', 'nurses_midwives_per1000': 'Health', 'gbd_ambient_pm25_ug_m3': 'Pollution', 'secondhand_smoke_sev': 'Pollution',
+       'hospital_beds_per1000': 'Health', 'nurses_midwives_per1000': 'Health', 'physicians_per1000': 'Health', 'gbd_ambient_pm25_ug_m3': 'Pollution', 'secondhand_smoke_sev': 'Pollution',
        'income_ppp_pc': 'Socio', 'secondary_enrolment_pct': 'Socio', 'fertility_births_per_woman': 'Socio'}
 JUDGED = ['明确不利', '明确有利', '方向不确定', '已达普及']
 # 持续尾部的疾病相关候选因素（与 part3_typology.py 相同）。2026-10-11：UHC指数为综合指数，单独报告，不并入领域（PDOM 中记为 'U'）

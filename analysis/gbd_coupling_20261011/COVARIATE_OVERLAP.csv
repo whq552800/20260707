@@ -16,4 +16,5 @@ income_ppp_pc,,related (lag-distributed income),related (lag-distributed income)
 health_expenditure_pc_current_usd,,,,,,
 hospital_beds_per1000,,,,,,
 nurses_midwives_per1000,,,,,,
+physicians_per1000,,,,,,
 fertility_births_per_woman,related (SDI component),related (SDI component),related (SDI component),related (SDI component),related (SDI component),related (SDI component)

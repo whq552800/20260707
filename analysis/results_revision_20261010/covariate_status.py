@@ -14,7 +14,7 @@ T = pd.read_csv('../SDI_PERIOD_TIERS.csv'); OV = pd.read_csv('../gbd_coupling_20
 LATE = '2011–2023'; JUDGE = ['明确不利', '明确有利', '方向不确定', '已达普及']; MIN_N = 3; NB = 2000
 BAND = {'低SDI': 'Low and low-middle', '中低SDI': 'Low and low-middle', '高SDI': 'High'}
 FACT = ['basic_water_pct', 'basic_sanitation_pct', 'clean_cooking_pct', 'dtp3_pct', 'hib3_pct', 'pcv3_pct', 'stunting_u5_pct', 'low_birthweight_pct',
-        'gbd_ambient_pm25_ug_m3', 'secondhand_smoke_sev', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000']
+        'gbd_ambient_pm25_ug_m3', 'secondhand_smoke_sev', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000', 'physicians_per1000']
 OCOL = {'LRI发病': 'LRI incidence', 'LRI死亡': 'LRI mortality', '腹泻病发病': 'Diarrhoea incidence', '腹泻病死亡': 'Diarrhoea mortality', '脑膜炎发病': 'Meningitis incidence', '脑膜炎死亡': 'Meningitis mortality'}
 def status(dz, f):
     v = OV.loc[f, OCOL[dz]]

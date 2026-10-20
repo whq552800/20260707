@@ -1,0 +1,83 @@
+boot 0
+boot 200
+boot 400
+boot 600
+boot 800
+boot 1000
+boot 1200
+boot 1400
+boot 1600
+boot 1800
+domain                                       Air pollution  Basic services  Health system  Immunisation  Nutrition
+band                   outcome                                                                                    
+High                   Diarrhoeal incidence           16.5           -28.4           -1.6          -7.3      -20.4
+                       Diarrhoeal mortality            2.6            39.5            8.0         -32.0       20.4
+                       LRI incidence                  20.2            21.0            9.7          -6.2       32.5
+                       LRI mortality                  10.0            36.6            9.5           5.7       50.3
+                       Meningitis incidence          -12.2             5.0            7.0          20.1       -2.0
+                       Meningitis mortality          -15.2            31.1           -2.9          26.5       12.0
+Low and low-middle     Diarrhoeal incidence            4.5            -0.4           22.3           4.2        4.9
+                       Diarrhoeal mortality          -19.0            12.5           42.1           4.9        6.3
+                       LRI incidence                  12.3             6.2            3.9          -2.0        6.7
+                       LRI mortality                   8.2            20.9           -9.0           8.6       -0.7
+                       Meningitis incidence           -1.2            23.6            8.4          10.7       -6.0
+                       Meningitis mortality           -6.4            24.3           13.8           9.0       -3.5
+Middle and high-middle Diarrhoeal incidence           11.9             6.2            6.7          11.4       35.1
+                       Diarrhoeal mortality          -10.5           -11.0           32.1          48.6       77.2
+                       LRI incidence                  20.3            10.4           -0.5          -4.2       24.5
+                       LRI mortality                  17.6           -11.0            3.1          28.7       34.5
+                       Meningitis incidence           21.7            30.6          -21.1          14.2       54.0
+                       Meningitis mortality            1.7            27.6           -3.1          15.9       52.6
+                 outcome          domain             locations     deaths         lo         hi
+0   Diarrhoeal mortality  Basic services         All locations    19018.0     1001.0    40075.0
+1   Diarrhoeal mortality  Basic services  Persistent high tail     7375.0      395.0    16743.0
+2   Diarrhoeal mortality    Immunisation         All locations    27881.0     4816.0    89018.0
+3   Diarrhoeal mortality    Immunisation  Persistent high tail    15167.0     4423.0    38935.0
+4   Diarrhoeal mortality       Nutrition         All locations    22150.0     3370.0    61363.0
+5   Diarrhoeal mortality       Nutrition  Persistent high tail     7183.0     1844.0    13252.0
+6   Diarrhoeal mortality   Health system         All locations    26819.0     4012.0    38089.0
+7   Diarrhoeal mortality   Health system  Persistent high tail    12805.0     3210.0    18354.0
+8   Diarrhoeal mortality   Air pollution         All locations       15.0        0.0     3530.0
+9   Diarrhoeal mortality   Air pollution  Persistent high tail        0.0        0.0     2514.0
+10  Diarrhoeal mortality     All domains         All locations    82539.0    54968.0   132521.0
+11  Diarrhoeal mortality     All domains  Persistent high tail    34122.0    25520.0    50616.0
+12  Diarrhoeal mortality          deaths         All locations   316726.0   316726.0   316726.0
+13         LRI mortality  Basic services         All locations    48806.0    30548.0    78099.0
+14         LRI mortality  Basic services  Persistent high tail    13829.0     8578.0    22330.0
+15         LRI mortality    Immunisation         All locations    72249.0    10330.0   137409.0
+16         LRI mortality    Immunisation  Persistent high tail    24905.0     2278.0    47119.0
+17         LRI mortality       Nutrition         All locations     5740.0      485.0    51734.0
+18         LRI mortality       Nutrition  Persistent high tail     2118.0        3.0     6201.0
+19         LRI mortality   Health system         All locations      721.0        0.0    12424.0
+20         LRI mortality   Health system  Persistent high tail      199.0        0.0     4444.0
+21         LRI mortality   Air pollution         All locations    47534.0     5828.0   103937.0
+22         LRI mortality   Air pollution  Persistent high tail     8508.0     1028.0    19310.0
+23         LRI mortality     All domains         All locations   158496.0   102528.0   259794.0
+24         LRI mortality     All domains  Persistent high tail    43195.0    26679.0    65829.0
+25         LRI mortality          deaths         All locations   609033.0   609033.0   609033.0
+26  Meningitis mortality  Basic services         All locations    10513.0     6401.0    14688.0
+27  Meningitis mortality  Basic services  Persistent high tail     4982.0     2912.0     7041.0
+28  Meningitis mortality    Immunisation         All locations    10855.0      674.0    22405.0
+29  Meningitis mortality    Immunisation  Persistent high tail     6812.0      623.0    13387.0
+30  Meningitis mortality       Nutrition         All locations     1164.0      273.0     5460.0
+31  Meningitis mortality       Nutrition  Persistent high tail     1093.0      227.0     2128.0
+32  Meningitis mortality   Health system         All locations     2336.0        6.0     4583.0
+33  Meningitis mortality   Health system  Persistent high tail     1395.0        1.0     2947.0
+34  Meningitis mortality   Air pollution         All locations       95.0        0.0     7135.0
+35  Meningitis mortality   Air pollution  Persistent high tail       72.0        0.0     2800.0
+36  Meningitis mortality     All domains         All locations    22120.0    13022.0    34104.0
+37  Meningitis mortality     All domains  Persistent high tail    12214.0     7051.0    18051.0
+38  Meningitis mortality          deaths         All locations    86523.0    86523.0    86523.0
+39             All three  Basic services         All locations    78337.0    42614.0   126656.0
+40             All three  Basic services  Persistent high tail    26186.0    13909.0    43985.0
+41             All three    Immunisation         All locations   110984.0    22949.0   232186.0
+42             All three    Immunisation  Persistent high tail    46885.0    11691.0    93473.0
+43             All three       Nutrition         All locations    29054.0     7816.0   109291.0
+44             All three       Nutrition  Persistent high tail    10394.0     2920.0    19924.0
+45             All three   Health system         All locations    29876.0     6589.0    51060.0
+46             All three   Health system  Persistent high tail    14399.0     4452.0    23355.0
+47             All three   Air pollution         All locations    47644.0     6388.0   106811.0
+48             All three   Air pollution  Persistent high tail     8581.0     1264.0    21646.0
+49             All three     All domains         All locations   263155.0   191536.0   408435.0
+50             All three     All domains  Persistent high tail    89531.0    65383.0   129326.0
+51             All three          deaths         All locations  1012282.0  1012282.0  1012282.0

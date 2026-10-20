@@ -88,7 +88,7 @@ def fit_var(col, kind, sign, knots='own', ceiling=False):
     # 2026-10-11：早期只有2000年一个锚点年份的序列（所有地点同一年），单年可作早期参照（与 factor_pipeline 一致）
     anchor = g[g.period == P3[0]].year.unique().tolist() == [2000]
     o['single_year_2000'] = anchor & (o.period == P3[0]) & (o.n_years == 1)
-    few = (o.n_years < 2) & ~o.single_year_2000
+    few = (o.n_years < 1) & ~o.single_year_2000   # 2026-10-20 (author rule): a single observed year is enough in every period
     lo_f = np.where(sign >= 0, o.lower, -o.upper); hi_f = np.where(sign >= 0, o.upper, -o.lower)
     o['status'] = np.where(o.saturated, '已达普及', np.where(few, '有效年份不足',
                   np.where(sign == 0, '无统一方向', np.where(lo_f > 0, '明确有利', np.where(hi_f < 0, '明确不利', '方向不确定')))))
@@ -100,7 +100,7 @@ FACT = [('stunting_u5_pct', '5岁以下儿童生长迟缓率', '5岁以下儿童
         ('basic_water_pct', '基本饮水服务覆盖率', '人口百分比'), ('fertility_births_per_woman', '总和生育率', '出生数/女性'), ('hospital_beds_per1000', '每千人医院床位数', '床位/千人'),
         ('nurses_midwives_per1000', '每千人护士与助产士数', '人/千人'), ('clean_cooking_pct', '清洁烹饪覆盖率', '人口百分比'), ('gbd_ambient_pm25_ug_m3', '环境PM₂.₅年均暴露', '微克/立方米（GBD估计）'),
         ('dtp3_pct', '百白破疫苗接种覆盖率', '12–23月龄儿童百分比'), ('pcv3_pct', '肺炎球菌结合疫苗覆盖率', '达到当地推荐接种年龄的儿童百分比'), ('undernourishment_pct', '营养不足人口比例', '人口百分比'),
-        ('gbd_household_pm25_ug_m3', '家庭PM₂.₅', '微克/立方米（GBD估计）')]
+        ('gbd_household_pm25_ug_m3', '家庭PM₂.₅', '微克/立方米（GBD估计）'), ('physicians_per1000', '每千人医生数', '人/千人')]   # physicians added 2026-10-20
 COV = ['basic_water_pct', 'basic_sanitation_pct', 'clean_cooking_pct', 'dtp3_pct', 'hib3_pct', 'pcv3_pct']
 fr = []
 for col, name, unit in FACT:

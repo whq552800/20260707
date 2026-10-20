@@ -17,7 +17,7 @@ BAND = {'低SDI': 'Low and low-middle', '中低SDI': 'Low and low-middle', '中�
 SPEC = ['basic_water_pct', 'basic_sanitation_pct', 'clean_cooking_pct', 'dtp3_pct', 'hib3_pct', 'pcv3_pct', 'stunting_u5_pct', 'low_birthweight_pct', 'gbd_ambient_pm25_ug_m3', 'secondhand_smoke_sev']
 REL = {'LRI': ['gbd_ambient_pm25_ug_m3', 'secondhand_smoke_sev', 'clean_cooking_pct', 'dtp3_pct', 'hib3_pct', 'pcv3_pct', 'stunting_u5_pct', 'low_birthweight_pct'],
        '腹泻病': ['basic_water_pct', 'basic_sanitation_pct', 'stunting_u5_pct'], '脑膜炎': ['dtp3_pct', 'hib3_pct', 'pcv3_pct']}
-NONCOV = ['low_birthweight_pct', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000']
+NONCOV = ['low_birthweight_pct', 'health_expenditure_pc_current_usd', 'hospital_beds_per1000', 'nurses_midwives_per1000', 'physicians_per1000']
 OUT_EN = {'LRI发病': 'LRI incidence', 'LRI死亡': 'LRI mortality', '腹泻病发病': 'Diarrhoeal incidence', '腹泻病死亡': 'Diarrhoeal mortality', '脑膜炎发病': 'Meningitis incidence', '脑膜炎死亡': 'Meningitis mortality'}
 TL = T[T.period == LATE].assign(band=lambda d: d.tier.map(BAND))
 R = pr[pr.p3_category.isin(['稳健高尾', '稳健低尾'])][['location_id', 'dz', 'p3_category']].copy()

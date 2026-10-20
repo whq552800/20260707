@@ -63,17 +63,30 @@ STEPS = [
     ('s1_sensitivity_20261010', 'plot_s1_robustness.py', [], 'S1 Text Fig F'),
     ('gap_story_20261012', 'gap_decomposition.py', [], 'Low/high SDI gaps in incidence, case fatality and mortality with intervals (Table 1, Fig 1, S1 Text)'),
     ('gap_story_20261012', 'persistence_intervals.py', [], 'Intervals for rank stability, tail retention and incidence-mortality direction (Fig 2)'),
+    ('excess_deaths_20261017', 'excess_deaths.py', [], 'Under-5 deaths in excess of the SDI-year reference, 2023 and 2011-2023 (S3 Table)'),
+    ('robustness_20261017', 'clustered_intervals.py', [], 'Location-clustered intervals for pooled domain profiles (Fig 3B) and tail retention; change in residual spread with refitted reference'),
     ('results_revision_20261010', 'profiles_by_cell.py', [], 'Factor profiles for 18 SDI stratum x outcome cells and tail trajectories (Fig 3A, S1 Text)'),
     ('results_revision_20261010', 'profile_domains.py', [], 'Domain summaries of the profiles with location-resampling intervals (Fig 3B)'),
     ('results_revision_20261010', 'profile_trajectory_domains.py', [], 'Change in profiles by tail trajectory and between-group contrasts (Fig 3C, S4 Fig)'),
-    ('main_figures_20261012', 'fig1_gap.py', [], 'Fig 1'),
-    ('main_figures_20261012', 'fig2_position.py', [], 'Fig 2'),
-    ('main_figures_20261012', 'fig3_profiles.py', [], 'Fig 3'),
+    ('factor_models_20261017', 'factor_models.py', [], 'Multivariable models of burden departures on domain shortfalls, Shapley R2, covariate-free variant, deaths associated with shortfalls (Fig 2; S1 Text; slow)'),
+    ('general_specific_20261019', 'general_specific.py', [], 'General vs disease-specific parts of departures (Fig 2; S1 Text)'),
+    ('within_country_20261019', 'within_country.py', [], 'Within-country disease and mortality-incidence contrasts (Fig 4A; S1 Text)'),
+    ('change_20261019', 'change.py', [], 'Within-country change in shortfalls vs burden (pre-specified pairs and grid)'),
+    ('change_20261019', 'stand_vs_move.py', [], 'Same-scale between- vs within-country comparison (Fig 4B; S1 Text)'),
+    ('change_20261019', 'stand_vs_move_contrast.py', [], 'Same comparison for the disease contrast (Fig 4C; S1 Text)'),
+    ('typology_20261020', 'typology.py', [], 'Patterns of disadvantage by fixed rules (Table 1; S1 Text)'),
+    ('excess_deaths_20261017', 'excess_arith.py', [], 'Excess deaths with an arithmetic-mean reference (S1 Text)'),
+    ('main_figures_20261012', 'fig_structure.py', [], 'Fig 2 (R5)'),
+    ('main_figures_20261012', 'fig_allocation_change.py', [], 'Fig 4 (R5)'),
+    ('main_figures_20261012', 'fig1_gap.py', [], 'S8 Fig (Fig 1 before R4)'),
+    ('main_figures_20261012', 'fig2_position.py', [], 'Fig 1'),
+    ('main_figures_20261012', 'fig_factor_models.py', [], 'Fig 3 (R5; Fig 2 in R4)'),
+    ('main_figures_20261012', 'fig3_profiles.py', [], 'S9 Fig (Fig 3 before R4)'),
     ('main_figures_20261012', 'supp_figs_20261012.py', [], 'S1-S7 Fig'),
-    ('main_figures_20261010', 'make_tables.py', [], 'Table 2 (CSV; uses the uncertainty-draw label frequencies; the R1d Table 1 is superseded by gap_story_20261012)'),
+    ('main_figures_20261010', 'make_tables.py', [], 'Country profiles (Table 2 before R4; not in the R5 main text) (CSV; uses the uncertainty-draw label frequencies; the R1d Table 1 is superseded by gap_story_20261012)'),
     ('country_profiles_20261011', 'profiles.py', [], 'Factor profiles of persistent-tail countries (S2 Text)'),
 ]
-SLOW = {'run_ui_mc.py', 'boot_corr.py', 'gradient_variants.py'}
+SLOW = {'factor_models.py', 'run_ui_mc.py', 'boot_corr.py', 'gradient_variants.py'}
 
 if __name__ == '__main__':
     quick = '--quick' in sys.argv

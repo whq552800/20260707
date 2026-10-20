@@ -1,0 +1,109 @@
+band,outcome,domain,factors,n,pct_per_sd,lo,hi
+Low and low-middle,Diarrhoeal incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,89,2.87496009765984,-4.316451272034831,12.070127961391485
+Low and low-middle,Diarrhoeal incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,89,6.78550083808751,0.27224939418342103,13.67796311119134
+Low and low-middle,Diarrhoeal incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,89,4.391559546799906,-3.3838851892911315,13.835664013942662
+Low and low-middle,Diarrhoeal incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,89,18.32583984522862,-1.1060105809583767,56.51310787499896
+Low and low-middle,Diarrhoeal incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,89,6.23939047819817,-2.3615707459890474,18.91782935459829
+Middle and high-middle,Diarrhoeal incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,35,8.068444461022084,-20.211194397170566,55.6437028753419
+Middle and high-middle,Diarrhoeal incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,35,11.629154532437447,-10.05548106858579,43.435739477511
+Middle and high-middle,Diarrhoeal incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,35,37.05746005115416,0.468169491482155,95.25063021116267
+Middle and high-middle,Diarrhoeal incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,35,4.580554246899027,-14.542874045949343,53.80779078258972
+Middle and high-middle,Diarrhoeal incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,35,13.031334680985186,-4.711995938589604,40.785021830135186
+High,Diarrhoeal incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,66,-28.16782471286291,-58.50523003089928,39.48140876737403
+High,Diarrhoeal incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,66,-7.90857711836791,-28.96180607368021,37.76184618099616
+High,Diarrhoeal incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,66,-18.961002623145074,-45.45364511930274,4.846079937987046
+High,Diarrhoeal incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,66,-4.847882910121726,-26.487401600010305,24.454847088176283
+High,Diarrhoeal incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,66,17.8574350504638,4.518009482797144,36.67783679174791
+All,Diarrhoeal incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,190,3.7346925924879315,-4.655822737897352,13.367223625210011
+All,Diarrhoeal incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,190,8.451281453693582,1.1296595800904592,16.492221565061723
+All,Diarrhoeal incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,190,2.4087687880617326,-4.549646596255216,11.294987758067666
+All,Diarrhoeal incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,190,3.573794336758107,-10.033347244935024,21.714896277018845
+All,Diarrhoeal incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,190,9.013760557088935,-0.22904176289392422,18.896843939031477
+Low and low-middle,Diarrhoeal mortality,Basic services,clean_cooking_pct,88,5.297767300331713,-11.150961607810478,25.598598112820348
+Low and low-middle,Diarrhoeal mortality,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,88,12.224194798418765,-3.524075437145726,30.465870861802834
+Low and low-middle,Diarrhoeal mortality,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,88,5.845477948750144,-7.192573278319632,28.696834034279295
+Low and low-middle,Diarrhoeal mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,88,39.16783334225384,-2.903577692147671,73.47257859983198
+Low and low-middle,Diarrhoeal mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,88,-20.566352825572654,-32.75514295372763,-6.386948118770941
+Middle and high-middle,Diarrhoeal mortality,Basic services,clean_cooking_pct,34,-8.154529522158027,-31.149426095343046,27.101286354422133
+Middle and high-middle,Diarrhoeal mortality,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,34,49.14414787353787,6.295261524011508,97.40631834116404
+Middle and high-middle,Diarrhoeal mortality,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,34,84.19926259689325,1.8373263138992422,191.82932605060236
+Middle and high-middle,Diarrhoeal mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,34,25.459310701582826,0.007919725147772652,92.9943281135444
+Middle and high-middle,Diarrhoeal mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,34,-6.155366898831749,-24.75549549245905,28.53443977973625
+High,Diarrhoeal mortality,Basic services,clean_cooking_pct,64,11.01357591515788,-22.194751907265196,129.29598928447032
+High,Diarrhoeal mortality,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,64,-28.809246480035323,-51.30852702512367,-1.7500126516201833
+High,Diarrhoeal mortality,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,64,20.8545413630687,-12.63107301281385,66.06582105127985
+High,Diarrhoeal mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,64,10.236999112393686,-12.019854812653438,28.232589141141883
+High,Diarrhoeal mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,64,1.7385948890405567,-17.600549145851232,22.027746580001107
+All,Diarrhoeal mortality,Basic services,clean_cooking_pct,186,1.2541323056688203,-11.481642009758989,17.116322560749477
+All,Diarrhoeal mortality,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,186,9.673970282492995,-4.189414780305651,27.36298893544703
+All,Diarrhoeal mortality,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,186,16.311252688325496,3.016013753217475,39.70079345095464
+All,Diarrhoeal mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,186,29.19708353728183,12.430683727498586,44.45202518343635
+All,Diarrhoeal mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,186,-13.306547265728685,-22.946255530411033,-1.8760670032901288
+Low and low-middle,LRI incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,89,6.826589281840856,2.2986334182619523,13.770557413909103
+Low and low-middle,LRI incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,89,-1.26292894955089,-6.053894840807147,3.8140474942143814
+Low and low-middle,LRI incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,89,6.449578168428038,2.6122303683477313,11.6915744048346
+Low and low-middle,LRI incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,89,1.1147027193001646,-9.434516599146084,11.165760271068796
+Low and low-middle,LRI incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,89,12.467635350516403,6.910567228546695,20.647205042672258
+Middle and high-middle,LRI incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,35,10.251737252061165,-7.0424703034293605,36.16245212613225
+Middle and high-middle,LRI incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,35,-4.173984150052979,-15.847612609208513,8.708896504859469
+Middle and high-middle,LRI incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,35,24.207497964388057,4.0768146727911745,51.60537462197073
+Middle and high-middle,LRI incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,35,-0.06094259026506732,-12.534267326826557,18.285050961149018
+Middle and high-middle,LRI incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,35,20.16458484209025,7.074324355775288,37.90528825473209
+High,LRI incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,66,24.823904547055808,-10.185728077515876,101.11629450918852
+High,LRI incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,66,-6.0670466387869215,-20.24395094803225,29.634690686244515
+High,LRI incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,66,31.67730412376324,12.197137442678605,54.19835374013973
+High,LRI incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,66,9.408348503757002,-0.45710039993949575,26.834875402117927
+High,LRI incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,66,20.457355521387278,1.8864542509571074,33.4354716005003
+All,LRI incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,190,8.02222329689888,3.1113472061500573,13.200668970065943
+All,LRI incidence,Immunisation,dtp3_pct; hib3_pct; pcv3_pct,190,-4.71128478008247,-8.920216351078235,0.14406857445009383
+All,LRI incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,190,12.485773401906775,7.6854191952017095,19.25711600815666
+All,LRI incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,190,9.08314452183625,2.38043302622525,16.900631361043377
+All,LRI incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,190,16.974775181049374,10.095118499137707,23.458199995425772
+Low and low-middle,LRI mortality,Basic services,basic_water_pct,61,23.294105949529254,13.879751536108643,35.846495002542646
+Low and low-middle,LRI mortality,Nutrition,low_birthweight_pct,61,15.591251391853023,3.8693478083806965,27.84846341011826
+Low and low-middle,LRI mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,61,-27.860627918693513,-47.42421063485298,9.7625045598597
+Middle and high-middle,LRI mortality,Basic services,basic_water_pct,34,42.25123488386215,-24.911619486002767,208.41180863423048
+Middle and high-middle,LRI mortality,Nutrition,low_birthweight_pct,34,0.4066604159336018,-24.977361217799725,39.301007233395936
+Middle and high-middle,LRI mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,34,6.088349282067296,-43.41891596636464,36.06610222025545
+High,LRI mortality,Basic services,basic_water_pct,61,40.35560370160631,-13.730390789044817,372.7342456780451
+High,LRI mortality,Nutrition,low_birthweight_pct,61,34.73867116000584,3.6830052388502796,68.38131378118362
+High,LRI mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,61,14.271019248102679,-3.26083776178308,43.7732972659742
+All,LRI mortality,Basic services,basic_water_pct,156,23.139976020797427,12.508966555262484,35.87895695099997
+All,LRI mortality,Nutrition,low_birthweight_pct,156,13.075218284200885,0.37572091479453545,26.91619843743299
+All,LRI mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,156,7.462418636566359,-6.756639996016946,25.657811739081904
+Low and low-middle,Meningitis incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,89,25.12688672269594,16.623824751115784,36.18156848128479
+Low and low-middle,Meningitis incidence,Immunisation,dtp3_pct,89,10.484148945771032,2.5526497202643705,20.716465024961455
+Low and low-middle,Meningitis incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,89,-5.737691224472297,-16.57901828226299,2.4865106285036718
+Low and low-middle,Meningitis incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,89,3.9203130939284403,-13.557092071697175,14.456263223550472
+Low and low-middle,Meningitis incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,89,-0.24856495985680072,-9.91583464706987,13.512780289583555
+Middle and high-middle,Meningitis incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,35,25.15347540284654,-7.020625436579894,68.34892121368873
+Middle and high-middle,Meningitis incidence,Immunisation,dtp3_pct,35,0.9816080023351548,-20.83914242495008,23.905081467036318
+Middle and high-middle,Meningitis incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,35,56.432275762239634,22.863370219066923,133.11408987289545
+Middle and high-middle,Meningitis incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,35,-21.793621767471038,-34.755973961218885,2.6390702608907373
+Middle and high-middle,Meningitis incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,35,20.4324477884509,1.4421761257645862,51.39328787807608
+High,Meningitis incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,66,11.852244470027085,-30.228085580101475,95.72446381675326
+High,Meningitis incidence,Immunisation,dtp3_pct,66,14.063159228626132,-21.202338510902973,41.141295985558735
+High,Meningitis incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,66,-3.566588400048243,-23.225804810724537,15.992810931589618
+High,Meningitis incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,66,4.508360573188286,-7.734379387354202,21.45021893824072
+High,Meningitis incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,66,-11.278429237226018,-27.48503084991392,0.3418292625599925
+All,Meningitis incidence,Basic services,basic_water_pct; basic_sanitation_pct; clean_cooking_pct,190,24.954109800936465,15.998752531731405,34.101986292856296
+All,Meningitis incidence,Immunisation,dtp3_pct,190,9.86026401047475,1.4728501307723807,17.963072564568368
+All,Meningitis incidence,Nutrition,stunting_u5_pct; low_birthweight_pct; undernourishment_pct,190,-1.853052539300415,-9.29834180288707,6.295730746471714
+All,Meningitis incidence,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,190,0.7864449502459347,-8.450322301987887,11.173830263248368
+All,Meningitis incidence,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,190,-2.182937413069974,-9.125165039754865,5.801562807385463
+Low and low-middle,Meningitis mortality,Basic services,clean_cooking_pct,84,24.943662862240345,11.506390205906532,39.86359980761145
+Low and low-middle,Meningitis mortality,Nutrition,stunting_u5_pct; low_birthweight_pct,84,1.9461669439028606,-11.155765430117272,17.654313147128843
+Low and low-middle,Meningitis mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,84,24.736398665568494,-1.36650177958947,48.17402169560555
+Low and low-middle,Meningitis mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,84,-10.386519709403464,-24.260493234502242,8.252774059803869
+Middle and high-middle,Meningitis mortality,Basic services,clean_cooking_pct,34,7.104086871939819,-15.587961976996052,44.2306156143631
+Middle and high-middle,Meningitis mortality,Nutrition,stunting_u5_pct; low_birthweight_pct,34,47.289679333861415,13.799053857076238,96.8186565972974
+Middle and high-middle,Meningitis mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,34,0.8007087945820723,-18.418195410248916,29.03171492761584
+Middle and high-middle,Meningitis mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,34,2.943795820333839,-16.40635400351977,37.420728667421734
+High,Meningitis mortality,Basic services,clean_cooking_pct,62,-4.1415362068326855,-25.93669365549358,150.29096464004954
+High,Meningitis mortality,Nutrition,stunting_u5_pct; low_birthweight_pct,62,2.8382175062774406,-15.755738926285785,21.790094891523964
+High,Meningitis mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,62,-1.043047140318465,-14.050383549606973,15.329486756911233
+High,Meningitis mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,62,-14.539861111347596,-28.118106752014103,-2.467340112782093
+All,Meningitis mortality,Basic services,clean_cooking_pct,180,17.85388479063719,6.996633576349109,30.592773766229495
+All,Meningitis mortality,Nutrition,stunting_u5_pct; low_birthweight_pct,180,8.755549353255887,-1.7158597546186125,19.31380713203429
+All,Meningitis mortality,Health system,health_expenditure_pc_current_usd; hospital_beds_per1000; nurses_midwives_per1000; physicians_per1000,180,5.227951980785828,-5.68167766760135,16.53711312306393
+All,Meningitis mortality,Air pollution,gbd_ambient_pm25_ug_m3; secondhand_smoke_sev,180,-13.435722478296185,-21.450553159636435,-4.8045585266509825

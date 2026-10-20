@@ -34,7 +34,7 @@ for k, dz in enumerate(DIS):
     ax = fig.add_subplot(g2[0, k])
     for m in ['Incidence', 'Case fatality', 'Mortality']:
         x = AN[(AN.design == 'late-fixed') & (AN.disease == dz) & (AN.measure == m)]
-        ax.fill_between(x.year, x.RR_lo, x.RR_hi, color=MCOL[m], alpha=0.12, lw=0); ax.plot(x.year, x.RR, color=MCOL[m], lw=1.2, ls='--' if m == 'Incidence' else '-', label=m)
+        ax.fill_between(x.year, x.RR_lo, x.RR_hi, color=MCOL[m], alpha=0.12, lw=0); ax.plot(x.year, x.RR, color=MCOL[m], lw=1.2, ls='--' if m == 'Incidence' else '-', label={'Case fatality': 'Deaths per episode'}.get(m, m))
     ax.set_yscale('log'); ax.set_xlim(1990, 2023); ax.set_xticks([1990, 2000, 2010, 2020]); ax.minorticks_off()
     yt = [1, 2, 5, 10, 20, 50, 100, 200]; lo_, hi_ = ax.get_ylim(); ax.set_ylim(max(lo_, 0.8), hi_); ax.set_yticks([t for t in yt if max(lo_, 0.8) <= t <= hi_]); ax.set_yticklabels([str(t) for t in yt if max(lo_, 0.8) <= t <= hi_])
     if k == 0: ax.set_ylabel('Rate ratio, low / high SDI')
@@ -56,7 +56,7 @@ for i in range(6):
         if i != k: ax.text(k, i, f'{Cm[i, k]:.2f}', ha='center', va='center', fontsize=4.8, color='white' if abs(Cm[i, k]) > 0.6 else 'black')
 ax.set_xticks(range(6)); ax.set_yticks(range(6)); ax.set_xticklabels(ORDER, rotation=45, ha='right', rotation_mode='anchor', fontsize=5.5); ax.set_yticklabels(ORDER, fontsize=5.5)
 for s_ in ax.spines.values(): s_.set_visible(False)
-ax.tick_params(length=0); ax.set_title('Correlation, 2011–2023', loc='left', fontsize=6.5); label(ax, 'A', x=-0.42, y=1.06)
+ax.tick_params(length=0); label(ax, 'A', x=-0.42, y=1.06)
 Ld = D[D.period == L0]
 for k, c in enumerate([302, 322, 332]):
     ax = fig.add_subplot(gs[0, k + 1]); x = Ld[Ld.cause_id == c].pivot(index='location', columns='measure_id', values=['residual', 'category'])

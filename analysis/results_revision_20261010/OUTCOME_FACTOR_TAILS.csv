@@ -1,93 +1,93 @@
 ﻿band,dz,outcome,factor,kind,n_high,eval_high,adv_high,pct_high,n_low,eval_low,adv_low,pct_low,diff_pp,diff_lo,diff_hi,p_fisher,q_bh
-Low and low-middle,LRI发病,LRI incidence,any_specific,any,7.0,7.0,7.0,100.0,11.0,11.0,7.0,63.636364,36.363636,-4.925835,64.619883,0.119281,0.143137
+Low and low-middle,LRI发病,LRI incidence,any_specific,any,7.0,7.0,7.0,100.0,11.0,11.0,7.0,63.636364,36.363636,-4.925835,64.619883,0.119281,0.178922
 Low and low-middle,LRI发病,LRI incidence,clean_cooking_pct,factor,7.0,7.0,3.0,42.857143,11.0,11.0,0.0,0.0,42.857143,5.429282,74.954164,0.042892,0.145833
 Low and low-middle,LRI发病,LRI incidence,dtp3_pct,factor,7.0,7.0,3.0,42.857143,11.0,11.0,2.0,18.181818,24.675325,-15.351017,59.321999,0.32598,0.426282
-Low and low-middle,LRI发病,LRI incidence,gbd_ambient_pm25_ug_m3,factor,7.0,7.0,4.0,57.142857,11.0,11.0,4.0,36.363636,20.779221,-21.983312,55.133545,0.630468,0.669718
+Low and low-middle,LRI发病,LRI incidence,gbd_ambient_pm25_ug_m3,factor,7.0,7.0,4.0,57.142857,11.0,11.0,4.0,36.363636,20.779221,-21.983312,55.133545,0.630468,0.669872
 Low and low-middle,LRI发病,LRI incidence,hib3_pct,factor,7.0,7.0,3.0,42.857143,11.0,11.0,2.0,18.181818,24.675325,-15.351017,59.321999,0.32598,0.426282
-Low and low-middle,LRI发病,LRI incidence,low_birthweight_pct,factor,7.0,4.0,2.0,50.0,11.0,8.0,1.0,12.5,37.5,-11.704811,73.9686,0.236364,0.334848
+Low and low-middle,LRI发病,LRI incidence,low_birthweight_pct,factor,7.0,4.0,2.0,50.0,11.0,8.0,1.0,12.5,37.5,-11.704811,73.9686,0.236364,0.349407
 Low and low-middle,LRI发病,LRI incidence,pcv3_pct,factor,7.0,6.0,2.0,33.333333,11.0,8.0,1.0,12.5,20.833333,-21.071342,58.90859,0.538462,0.610256
 Low and low-middle,LRI发病,LRI incidence,secondhand_smoke_sev,factor,7.0,7.0,5.0,71.428571,11.0,11.0,3.0,27.272727,44.155844,-1.895811,71.012644,0.144796,0.246154
-Low and low-middle,LRI发病,LRI incidence,stunting_u5_pct,factor,7.0,5.0,4.0,80.0,11.0,7.0,1.0,14.285714,65.714286,9.387451,85.852089,0.07197,0.169712
+Low and low-middle,LRI发病,LRI incidence,stunting_u5_pct,factor,7.0,7.0,4.0,57.142857,11.0,9.0,1.0,11.111111,46.031746,0.432876,74.564377,0.105769,0.199786
 Low and low-middle,LRI发病,LRI incidence,uhc_service_index,uhc,7.0,7.0,3.0,42.857143,11.0,11.0,0.0,0.0,42.857143,5.429282,74.954164,0.042892,0.145833
 Low and low-middle,LRI死亡,LRI mortality,any_specific,any,10.0,10.0,10.0,100.0,13.0,13.0,10.0,76.923077,23.076923,-8.421917,50.256376,0.229249,0.229249
-Low and low-middle,LRI死亡,LRI mortality,clean_cooking_pct,factor,10.0,10.0,6.0,60.0,13.0,12.0,3.0,25.0,35.0,-5.280599,63.227672,0.19195,0.283753
+Low and low-middle,LRI死亡,LRI mortality,clean_cooking_pct,factor,10.0,10.0,6.0,60.0,13.0,12.0,3.0,25.0,35.0,-5.280599,63.227672,0.19195,0.296651
 Low and low-middle,LRI死亡,LRI mortality,dtp3_pct,factor,10.0,10.0,6.0,60.0,13.0,13.0,2.0,15.384615,44.615385,5.289986,70.300022,0.039305,0.145833
-Low and low-middle,LRI死亡,LRI mortality,gbd_ambient_pm25_ug_m3,factor,10.0,10.0,6.0,60.0,13.0,13.0,5.0,38.461538,21.538462,-17.222002,52.651836,0.413649,0.502288
+Low and low-middle,LRI死亡,LRI mortality,gbd_ambient_pm25_ug_m3,factor,10.0,10.0,6.0,60.0,13.0,13.0,5.0,38.461538,21.538462,-17.222002,52.651836,0.413649,0.484968
 Low and low-middle,LRI死亡,LRI mortality,hib3_pct,factor,10.0,10.0,6.0,60.0,13.0,13.0,2.0,15.384615,44.615385,5.289986,70.300022,0.039305,0.145833
 Low and low-middle,LRI死亡,LRI mortality,low_birthweight_pct,factor,10.0,7.0,3.0,42.857143,13.0,8.0,2.0,25.0,17.857143,-25.638053,54.584727,0.608392,0.667268
 Low and low-middle,LRI死亡,LRI mortality,pcv3_pct,factor,10.0,10.0,6.0,60.0,13.0,9.0,1.0,11.111111,48.888889,5.592216,73.801032,0.057276,0.149798
 Low and low-middle,LRI死亡,LRI mortality,secondhand_smoke_sev,factor,10.0,10.0,3.0,30.0,13.0,13.0,5.0,38.461538,-8.461538,-40.807355,28.281807,1.0,1.0
-Low and low-middle,LRI死亡,LRI mortality,stunting_u5_pct,factor,10.0,8.0,5.0,62.5,13.0,6.0,1.0,16.666667,45.833333,-5.098421,73.288995,0.137529,0.246105
-Low and low-middle,LRI死亡,LRI mortality,uhc_service_index,uhc,10.0,10.0,5.0,50.0,13.0,13.0,2.0,15.384615,34.615385,-2.997849,63.183356,0.168798,0.26087
-Low and low-middle,腹泻病发病,Diarrhoeal incidence,any_specific,any,13.0,13.0,11.0,84.615385,17.0,16.0,7.0,43.75,40.865385,5.46461,64.291335,0.052373,0.143137
-Low and low-middle,腹泻病发病,Diarrhoeal incidence,basic_sanitation_pct,factor,13.0,13.0,5.0,38.461538,17.0,16.0,3.0,18.75,19.711538,-12.212305,48.428025,0.405764,0.502288
+Low and low-middle,LRI死亡,LRI mortality,stunting_u5_pct,factor,10.0,10.0,5.0,50.0,13.0,10.0,1.0,10.0,40.0,-0.235611,67.591215,0.140867,0.246154
+Low and low-middle,LRI死亡,LRI mortality,uhc_service_index,uhc,10.0,10.0,5.0,50.0,13.0,13.0,2.0,15.384615,34.615385,-2.997849,63.183356,0.168798,0.273292
+Low and low-middle,腹泻病发病,Diarrhoeal incidence,any_specific,any,13.0,13.0,11.0,84.615385,17.0,17.0,7.0,41.176471,43.438914,8.202733,65.913398,0.025556,0.076669
+Low and low-middle,腹泻病发病,Diarrhoeal incidence,basic_sanitation_pct,factor,13.0,13.0,5.0,38.461538,17.0,16.0,3.0,18.75,19.711538,-12.212305,48.428025,0.405764,0.484968
 Low and low-middle,腹泻病发病,Diarrhoeal incidence,basic_water_pct,factor,13.0,13.0,7.0,53.846154,17.0,16.0,2.0,12.5,41.346154,7.2356,65.99653,0.040537,0.145833
-Low and low-middle,腹泻病发病,Diarrhoeal incidence,stunting_u5_pct,factor,13.0,10.0,4.0,40.0,17.0,13.0,3.0,23.076923,16.923077,-18.799833,49.28812,0.65002,0.669718
+Low and low-middle,腹泻病发病,Diarrhoeal incidence,stunting_u5_pct,factor,13.0,13.0,5.0,38.461538,17.0,15.0,3.0,20.0,18.461538,-14.171961,47.523126,0.409662,0.484968
 Low and low-middle,腹泻病发病,Diarrhoeal incidence,uhc_service_index,uhc,13.0,13.0,6.0,46.153846,17.0,17.0,2.0,11.764706,34.38914,2.200948,60.505446,0.049231,0.149798
-Low and low-middle,腹泻病死亡,Diarrhoeal mortality,any_specific,any,17.0,17.0,16.0,94.117647,17.0,16.0,8.0,50.0,44.117647,13.634609,66.643391,0.0066,0.0396
+Low and low-middle,腹泻病死亡,Diarrhoeal mortality,any_specific,any,17.0,17.0,16.0,94.117647,17.0,17.0,8.0,47.058824,47.058824,16.592017,68.504973,0.0066,0.0396
 Low and low-middle,腹泻病死亡,Diarrhoeal mortality,basic_sanitation_pct,factor,17.0,17.0,13.0,76.470588,17.0,16.0,2.0,12.5,63.970588,30.555777,80.593569,0.000361,0.006144
 Low and low-middle,腹泻病死亡,Diarrhoeal mortality,basic_water_pct,factor,17.0,17.0,13.0,76.470588,17.0,16.0,2.0,12.5,63.970588,30.555777,80.593569,0.000361,0.006144
-Low and low-middle,腹泻病死亡,Diarrhoeal mortality,stunting_u5_pct,factor,17.0,15.0,4.0,26.666667,17.0,14.0,6.0,42.857143,-16.190476,-45.370593,16.983343,0.449725,0.527264
+Low and low-middle,腹泻病死亡,Diarrhoeal mortality,stunting_u5_pct,factor,17.0,16.0,4.0,25.0,17.0,16.0,6.0,37.5,-12.5,-40.585959,18.514207,0.704251,0.725592
 Low and low-middle,腹泻病死亡,Diarrhoeal mortality,uhc_service_index,uhc,17.0,17.0,11.0,64.705882,17.0,17.0,3.0,17.647059,47.058824,13.974765,68.381978,0.01336,0.090848
-Low and low-middle,脑膜炎发病,Meningitis incidence,any_specific,any,17.0,17.0,11.0,64.705882,17.0,17.0,5.0,29.411765,35.294118,1.969644,59.453437,0.084415,0.143137
-Low and low-middle,脑膜炎发病,Meningitis incidence,dtp3_pct,factor,17.0,17.0,10.0,58.823529,17.0,17.0,4.0,23.529412,35.294118,2.371614,59.337586,0.079864,0.169712
-Low and low-middle,脑膜炎发病,Meningitis incidence,hib3_pct,factor,17.0,17.0,10.0,58.823529,17.0,17.0,4.0,23.529412,35.294118,2.371614,59.337586,0.079864,0.169712
+Low and low-middle,脑膜炎发病,Meningitis incidence,any_specific,any,17.0,17.0,11.0,64.705882,17.0,17.0,5.0,29.411765,35.294118,1.969644,59.453437,0.084415,0.168829
+Low and low-middle,脑膜炎发病,Meningitis incidence,dtp3_pct,factor,17.0,17.0,10.0,58.823529,17.0,17.0,4.0,23.529412,35.294118,2.371614,59.337586,0.079864,0.181026
+Low and low-middle,脑膜炎发病,Meningitis incidence,hib3_pct,factor,17.0,17.0,10.0,58.823529,17.0,17.0,4.0,23.529412,35.294118,2.371614,59.337586,0.079864,0.181026
 Low and low-middle,脑膜炎发病,Meningitis incidence,pcv3_pct,factor,17.0,13.0,8.0,61.538462,17.0,14.0,3.0,21.428571,40.10989,3.215582,65.063047,0.054238,0.149798
 Low and low-middle,脑膜炎发病,Meningitis incidence,uhc_service_index,uhc,17.0,17.0,11.0,64.705882,17.0,17.0,2.0,11.764706,52.941176,20.425065,72.823165,0.003859,0.032805
-Low and low-middle,脑膜炎死亡,Meningitis mortality,any_specific,any,20.0,20.0,12.0,60.0,20.0,20.0,6.0,30.0,30.0,-0.577206,53.813516,0.11097,0.143137
-Low and low-middle,脑膜炎死亡,Meningitis mortality,dtp3_pct,factor,20.0,20.0,11.0,55.0,20.0,20.0,5.0,25.0,30.0,-0.175914,53.636889,0.10534,0.198976
-Low and low-middle,脑膜炎死亡,Meningitis mortality,hib3_pct,factor,20.0,20.0,11.0,55.0,20.0,20.0,5.0,25.0,30.0,-0.175914,53.636889,0.10534,0.198976
-Low and low-middle,脑膜炎死亡,Meningitis mortality,pcv3_pct,factor,20.0,17.0,9.0,52.941176,20.0,15.0,4.0,26.666667,26.27451,-7.226219,52.451131,0.165741,0.26087
+Low and low-middle,脑膜炎死亡,Meningitis mortality,any_specific,any,20.0,20.0,12.0,60.0,20.0,20.0,7.0,35.0,25.0,-5.446629,49.764344,0.204927,0.229249
+Low and low-middle,脑膜炎死亡,Meningitis mortality,dtp3_pct,factor,20.0,20.0,11.0,55.0,20.0,20.0,5.0,25.0,30.0,-0.175914,53.636889,0.10534,0.199786
+Low and low-middle,脑膜炎死亡,Meningitis mortality,hib3_pct,factor,20.0,20.0,11.0,55.0,20.0,20.0,5.0,25.0,30.0,-0.175914,53.636889,0.10534,0.199786
+Low and low-middle,脑膜炎死亡,Meningitis mortality,pcv3_pct,factor,20.0,17.0,9.0,52.941176,20.0,16.0,5.0,31.25,21.691176,-11.107304,48.681116,0.296004,0.419338
 Low and low-middle,脑膜炎死亡,Meningitis mortality,uhc_service_index,uhc,20.0,20.0,13.0,65.0,20.0,20.0,3.0,15.0,50.0,19.762876,69.500785,0.003056,0.032805
 Middle and high-middle,LRI发病,LRI incidence,any_specific,any,6.0,6.0,6.0,100.0,8.0,8.0,8.0,100.0,0.0,-39.033429,32.440757,1.0,1.0
 Middle and high-middle,LRI发病,LRI incidence,clean_cooking_pct,factor,6.0,5.0,3.0,60.0,8.0,8.0,4.0,50.0,10.0,-36.633298,50.104853,1.0,1.0
 Middle and high-middle,LRI发病,LRI incidence,dtp3_pct,factor,6.0,6.0,3.0,50.0,8.0,8.0,4.0,50.0,0.0,-42.271204,42.271204,1.0,1.0
-Middle and high-middle,LRI发病,LRI incidence,gbd_ambient_pm25_ug_m3,factor,6.0,6.0,5.0,83.333333,8.0,8.0,2.0,25.0,58.333333,6.029206,80.812849,0.102564,0.611111
-Middle and high-middle,LRI发病,LRI incidence,hib3_pct,factor,6.0,6.0,4.0,66.666667,8.0,8.0,4.0,50.0,16.666667,-29.76083,53.688746,0.62704,0.940559
-Middle and high-middle,LRI发病,LRI incidence,low_birthweight_pct,factor,6.0,6.0,4.0,66.666667,8.0,7.0,3.0,42.857143,23.809524,-24.921495,59.733265,0.592075,0.930403
-Middle and high-middle,LRI发病,LRI incidence,pcv3_pct,factor,6.0,4.0,4.0,100.0,8.0,5.0,0.0,0.0,100.0,34.519617,100.0,0.007937,0.247253
-Middle and high-middle,LRI发病,LRI incidence,secondhand_smoke_sev,factor,6.0,6.0,2.0,33.333333,8.0,8.0,0.0,0.0,33.333333,-6.816612,70.000669,0.164835,0.611111
-Middle and high-middle,LRI发病,LRI incidence,stunting_u5_pct,factor,6.0,5.0,1.0,20.0,8.0,3.0,0.0,0.0,20.0,-38.48944,62.446537,1.0,1.0
-Middle and high-middle,LRI发病,LRI incidence,uhc_service_index,uhc,6.0,6.0,4.0,66.666667,8.0,8.0,0.0,0.0,66.666667,17.70856,90.322859,0.014985,0.247253
+Middle and high-middle,LRI发病,LRI incidence,gbd_ambient_pm25_ug_m3,factor,6.0,6.0,5.0,83.333333,8.0,8.0,2.0,25.0,58.333333,6.029206,80.812849,0.102564,0.566667
+Middle and high-middle,LRI发病,LRI incidence,hib3_pct,factor,6.0,6.0,4.0,66.666667,8.0,8.0,4.0,50.0,16.666667,-29.76083,53.688746,0.62704,0.926928
+Middle and high-middle,LRI发病,LRI incidence,low_birthweight_pct,factor,6.0,6.0,4.0,66.666667,8.0,7.0,3.0,42.857143,23.809524,-24.921495,59.733265,0.592075,0.915024
+Middle and high-middle,LRI发病,LRI incidence,pcv3_pct,factor,6.0,4.0,4.0,100.0,8.0,5.0,0.0,0.0,100.0,34.519617,100.0,0.007937,0.254745
+Middle and high-middle,LRI发病,LRI incidence,secondhand_smoke_sev,factor,6.0,6.0,2.0,33.333333,8.0,8.0,0.0,0.0,33.333333,-6.816612,70.000669,0.164835,0.566667
+Middle and high-middle,LRI发病,LRI incidence,stunting_u5_pct,factor,6.0,5.0,1.0,20.0,8.0,8.0,1.0,12.5,7.5,-30.770247,51.168527,1.0,1.0
+Middle and high-middle,LRI发病,LRI incidence,uhc_service_index,uhc,6.0,6.0,4.0,66.666667,8.0,8.0,0.0,0.0,66.666667,17.70856,90.322859,0.014985,0.254745
 Middle and high-middle,LRI死亡,LRI mortality,any_specific,any,7.0,7.0,7.0,100.0,10.0,10.0,10.0,100.0,0.0,-35.433044,27.75328,1.0,1.0
-Middle and high-middle,LRI死亡,LRI mortality,clean_cooking_pct,factor,7.0,5.0,2.0,40.0,10.0,10.0,8.0,80.0,-40.0,-71.666707,8.204134,0.250749,0.674556
-Middle and high-middle,LRI死亡,LRI mortality,dtp3_pct,factor,7.0,6.0,4.0,66.666667,10.0,10.0,2.0,20.0,46.666667,-1.3384,74.32558,0.118132,0.611111
+Middle and high-middle,LRI死亡,LRI mortality,clean_cooking_pct,factor,7.0,5.0,2.0,40.0,10.0,10.0,8.0,80.0,-40.0,-71.666707,8.204134,0.250749,0.602331
+Middle and high-middle,LRI死亡,LRI mortality,dtp3_pct,factor,7.0,6.0,4.0,66.666667,10.0,10.0,2.0,20.0,46.666667,-1.3384,74.32558,0.118132,0.566667
 Middle and high-middle,LRI死亡,LRI mortality,gbd_ambient_pm25_ug_m3,factor,7.0,6.0,5.0,83.333333,10.0,10.0,7.0,70.0,13.333333,-30.760105,46.590917,1.0,1.0
-Middle and high-middle,LRI死亡,LRI mortality,hib3_pct,factor,7.0,6.0,3.0,50.0,10.0,9.0,2.0,22.222222,27.777778,-17.314498,62.82969,0.328671,0.679332
-Middle and high-middle,LRI死亡,LRI mortality,low_birthweight_pct,factor,7.0,6.0,4.0,66.666667,10.0,9.0,3.0,33.333333,33.333333,-14.841705,65.149037,0.314685,0.679332
-Middle and high-middle,LRI死亡,LRI mortality,pcv3_pct,factor,7.0,6.0,4.0,66.666667,10.0,3.0,0.0,0.0,66.666667,-0.395116,90.322859,0.166667,0.611111
-Middle and high-middle,LRI死亡,LRI mortality,secondhand_smoke_sev,factor,7.0,7.0,4.0,57.142857,10.0,10.0,3.0,30.0,27.142857,-17.012026,60.314256,0.349959,0.679332
-Middle and high-middle,LRI死亡,LRI mortality,stunting_u5_pct,factor,7.0,4.0,2.0,50.0,10.0,6.0,1.0,16.666667,33.333333,-19.577124,70.901392,0.5,0.868421
-Middle and high-middle,LRI死亡,LRI mortality,uhc_service_index,uhc,7.0,6.0,5.0,83.333333,10.0,10.0,2.0,20.0,63.333333,12.986712,83.133131,0.034965,0.384615
+Middle and high-middle,LRI死亡,LRI mortality,hib3_pct,factor,7.0,6.0,3.0,50.0,10.0,9.0,2.0,22.222222,27.777778,-17.314498,62.82969,0.328671,0.626242
+Middle and high-middle,LRI死亡,LRI mortality,low_birthweight_pct,factor,7.0,6.0,4.0,66.666667,10.0,9.0,3.0,33.333333,33.333333,-14.841705,65.149037,0.314685,0.626242
+Middle and high-middle,LRI死亡,LRI mortality,pcv3_pct,factor,7.0,6.0,4.0,66.666667,10.0,3.0,0.0,0.0,66.666667,-0.395116,90.322859,0.166667,0.566667
+Middle and high-middle,LRI死亡,LRI mortality,secondhand_smoke_sev,factor,7.0,7.0,4.0,57.142857,10.0,10.0,3.0,30.0,27.142857,-17.012026,60.314256,0.349959,0.626242
+Middle and high-middle,LRI死亡,LRI mortality,stunting_u5_pct,factor,7.0,5.0,2.0,40.0,10.0,10.0,1.0,10.0,30.0,-11.502442,67.829734,0.241758,0.602331
+Middle and high-middle,LRI死亡,LRI mortality,uhc_service_index,uhc,7.0,6.0,5.0,83.333333,10.0,10.0,2.0,20.0,63.333333,12.986712,83.133131,0.034965,0.39627
 Middle and high-middle,腹泻病发病,Diarrhoeal incidence,any_specific,any,9.0,9.0,6.0,66.666667,8.0,8.0,5.0,62.5,4.166667,-35.12102,42.531726,1.0,1.0
 Middle and high-middle,腹泻病发病,Diarrhoeal incidence,basic_sanitation_pct,factor,9.0,9.0,4.0,44.444444,8.0,8.0,4.0,50.0,-5.555556,-43.826557,35.011373,1.0,1.0
-Middle and high-middle,腹泻病发病,Diarrhoeal incidence,basic_water_pct,factor,9.0,9.0,6.0,66.666667,8.0,8.0,3.0,37.5,29.166667,-15.505417,61.101053,0.346935,0.679332
-Middle and high-middle,腹泻病发病,Diarrhoeal incidence,stunting_u5_pct,factor,9.0,8.0,3.0,37.5,8.0,5.0,0.0,0.0,37.5,-12.047266,69.425761,0.230769,0.674556
-Middle and high-middle,腹泻病发病,Diarrhoeal incidence,uhc_service_index,uhc,9.0,9.0,6.0,66.666667,8.0,8.0,1.0,12.5,54.166667,7.554145,77.785627,0.049774,0.410633
+Middle and high-middle,腹泻病发病,Diarrhoeal incidence,basic_water_pct,factor,9.0,9.0,6.0,66.666667,8.0,8.0,3.0,37.5,29.166667,-15.505417,61.101053,0.346935,0.626242
+Middle and high-middle,腹泻病发病,Diarrhoeal incidence,stunting_u5_pct,factor,9.0,8.0,3.0,37.5,8.0,8.0,0.0,0.0,37.5,-2.744057,69.425761,0.2,0.584656
+Middle and high-middle,腹泻病发病,Diarrhoeal incidence,uhc_service_index,uhc,9.0,9.0,6.0,66.666667,8.0,8.0,1.0,12.5,54.166667,7.554145,77.785627,0.049774,0.423077
 Middle and high-middle,腹泻病死亡,Diarrhoeal mortality,any_specific,any,8.0,8.0,6.0,75.0,6.0,6.0,4.0,66.666667,8.333333,-33.146153,49.115562,1.0,1.0
 Middle and high-middle,腹泻病死亡,Diarrhoeal mortality,basic_sanitation_pct,factor,8.0,8.0,5.0,62.5,6.0,6.0,3.0,50.0,12.5,-32.16643,51.781257,1.0,1.0
 Middle and high-middle,腹泻病死亡,Diarrhoeal mortality,basic_water_pct,factor,8.0,8.0,6.0,75.0,6.0,6.0,4.0,66.666667,8.333333,-33.146153,49.115562,1.0,1.0
-Middle and high-middle,腹泻病死亡,Diarrhoeal mortality,stunting_u5_pct,factor,8.0,5.0,3.0,60.0,6.0,1.0,0.0,0.0,,,,,
-Middle and high-middle,腹泻病死亡,Diarrhoeal mortality,uhc_service_index,uhc,8.0,8.0,5.0,62.5,6.0,6.0,2.0,33.333333,29.166667,-19.451722,62.734462,0.592075,0.930403
+Middle and high-middle,腹泻病死亡,Diarrhoeal mortality,stunting_u5_pct,factor,8.0,7.0,4.0,57.142857,6.0,5.0,0.0,0.0,57.142857,3.12463,84.178015,0.080808,0.549495
+Middle and high-middle,腹泻病死亡,Diarrhoeal mortality,uhc_service_index,uhc,8.0,8.0,5.0,62.5,6.0,6.0,2.0,33.333333,29.166667,-19.451722,62.734462,0.592075,0.915024
 Middle and high-middle,脑膜炎发病,Meningitis incidence,any_specific,any,6.0,6.0,3.0,50.0,9.0,9.0,5.0,55.555556,-5.555556,-45.922453,36.994327,1.0,1.0
 Middle and high-middle,脑膜炎发病,Meningitis incidence,dtp3_pct,factor,6.0,6.0,3.0,50.0,9.0,9.0,5.0,55.555556,-5.555556,-45.922453,36.994327,1.0,1.0
 Middle and high-middle,脑膜炎发病,Meningitis incidence,hib3_pct,factor,6.0,6.0,3.0,50.0,9.0,8.0,5.0,62.5,-12.5,-51.781257,32.16643,1.0,1.0
-Middle and high-middle,脑膜炎发病,Meningitis incidence,pcv3_pct,factor,6.0,3.0,2.0,66.666667,9.0,8.0,2.0,25.0,41.666667,-15.498071,74.188569,0.490909,0.868421
-Middle and high-middle,脑膜炎发病,Meningitis incidence,uhc_service_index,uhc,6.0,6.0,4.0,66.666667,9.0,9.0,2.0,22.222222,44.444444,-4.565464,72.947361,0.135664,0.611111
+Middle and high-middle,脑膜炎发病,Meningitis incidence,pcv3_pct,factor,6.0,3.0,2.0,66.666667,9.0,8.0,2.0,25.0,41.666667,-15.498071,74.188569,0.490909,0.834545
+Middle and high-middle,脑膜炎发病,Meningitis incidence,uhc_service_index,uhc,6.0,6.0,4.0,66.666667,9.0,9.0,2.0,22.222222,44.444444,-4.565464,72.947361,0.135664,0.566667
 Middle and high-middle,脑膜炎死亡,Meningitis mortality,any_specific,any,7.0,6.0,4.0,66.666667,7.0,7.0,5.0,71.428571,-4.761905,-46.697535,37.927212,1.0,1.0
 Middle and high-middle,脑膜炎死亡,Meningitis mortality,dtp3_pct,factor,7.0,6.0,4.0,66.666667,7.0,7.0,5.0,71.428571,-4.761905,-46.697535,37.927212,1.0,1.0
 Middle and high-middle,脑膜炎死亡,Meningitis mortality,hib3_pct,factor,7.0,6.0,4.0,66.666667,7.0,7.0,4.0,57.142857,9.52381,-36.032674,49.396534,1.0,1.0
-Middle and high-middle,脑膜炎死亡,Meningitis mortality,pcv3_pct,factor,7.0,4.0,3.0,75.0,7.0,5.0,1.0,20.0,55.0,-6.813721,81.192959,0.206349,0.674556
-Middle and high-middle,脑膜炎死亡,Meningitis mortality,uhc_service_index,uhc,7.0,6.0,5.0,83.333333,7.0,7.0,3.0,42.857143,40.47619,-10.56309,70.766976,0.265734,0.674556
+Middle and high-middle,脑膜炎死亡,Meningitis mortality,pcv3_pct,factor,7.0,4.0,3.0,75.0,7.0,5.0,1.0,20.0,55.0,-6.813721,81.192959,0.206349,0.584656
+Middle and high-middle,脑膜炎死亡,Meningitis mortality,uhc_service_index,uhc,7.0,6.0,5.0,83.333333,7.0,7.0,3.0,42.857143,40.47619,-10.56309,70.766976,0.265734,0.602331
 High,LRI发病,LRI incidence,any_specific,any,26.0,26.0,22.0,84.615385,20.0,20.0,18.0,90.0,-5.384615,-24.912313,16.738286,0.683564,0.820277
 High,LRI发病,LRI incidence,clean_cooking_pct,factor,26.0,18.0,1.0,5.555556,20.0,19.0,1.0,5.263158,0.292398,-19.61438,20.952546,1.0,1.0
 High,LRI发病,LRI incidence,dtp3_pct,factor,26.0,19.0,7.0,36.842105,20.0,19.0,11.0,57.894737,-21.052632,-46.987884,9.876253,0.32998,1.0
 High,LRI发病,LRI incidence,gbd_ambient_pm25_ug_m3,factor,26.0,26.0,13.0,50.0,20.0,20.0,6.0,30.0,20.0,-8.307477,43.67689,0.231782,0.9561
 High,LRI发病,LRI incidence,hib3_pct,factor,26.0,21.0,8.0,38.095238,20.0,19.0,9.0,47.368421,-9.273183,-36.450864,19.772356,0.749631,1.0
-High,LRI发病,LRI incidence,low_birthweight_pct,factor,26.0,17.0,11.0,64.705882,20.0,18.0,4.0,22.222222,42.48366,9.674103,64.804977,0.017592,0.418165
+High,LRI发病,LRI incidence,low_birthweight_pct,factor,26.0,17.0,11.0,64.705882,20.0,18.0,4.0,22.222222,42.48366,9.674103,64.804977,0.017592,0.483516
 High,LRI发病,LRI incidence,pcv3_pct,factor,26.0,19.0,10.0,52.631579,20.0,17.0,8.0,47.058824,5.572755,-24.772492,34.522601,1.0,1.0
 High,LRI发病,LRI incidence,secondhand_smoke_sev,factor,26.0,26.0,10.0,38.461538,20.0,20.0,9.0,45.0,-6.538462,-32.793753,20.461869,0.765718,1.0
-High,LRI发病,LRI incidence,stunting_u5_pct,factor,26.0,8.0,6.0,75.0,20.0,3.0,0.0,0.0,75.0,9.321072,92.852079,0.060606,0.418165
+High,LRI发病,LRI incidence,stunting_u5_pct,factor,26.0,10.0,6.0,60.0,20.0,5.0,0.0,0.0,60.0,7.910521,83.181967,0.043956,0.483516
 High,LRI发病,LRI incidence,uhc_service_index,uhc,26.0,19.0,6.0,31.578947,20.0,19.0,4.0,21.052632,10.526316,-17.030608,36.209246,0.713982,1.0
 High,LRI死亡,LRI mortality,any_specific,any,23.0,23.0,20.0,86.956522,17.0,17.0,16.0,94.117647,-7.161125,-26.848409,15.588498,0.623504,0.820277
 High,LRI死亡,LRI mortality,clean_cooking_pct,factor,23.0,15.0,0.0,0.0,17.0,17.0,2.0,11.764706,-11.764706,-34.336351,10.315578,0.485887,1.0
@@ -97,17 +97,17 @@ High,LRI死亡,LRI mortality,hib3_pct,factor,23.0,18.0,8.0,44.444444,17.0,17.0,7
 High,LRI死亡,LRI mortality,low_birthweight_pct,factor,23.0,14.0,8.0,57.142857,17.0,16.0,4.0,25.0,32.142857,-2.541126,58.235087,0.134906,0.740411
 High,LRI死亡,LRI mortality,pcv3_pct,factor,23.0,16.0,9.0,56.25,17.0,16.0,9.0,56.25,0.0,-30.964006,30.964006,1.0,1.0
 High,LRI死亡,LRI mortality,secondhand_smoke_sev,factor,23.0,23.0,12.0,52.173913,17.0,17.0,9.0,52.941176,-0.767263,-29.150651,28.017771,1.0,1.0
-High,LRI死亡,LRI mortality,stunting_u5_pct,factor,23.0,5.0,4.0,80.0,17.0,4.0,0.0,0.0,80.0,15.17995,96.377589,0.047619,0.418165
+High,LRI死亡,LRI mortality,stunting_u5_pct,factor,23.0,8.0,4.0,50.0,17.0,7.0,0.0,0.0,50.0,4.541013,78.478394,0.076923,0.507692
 High,LRI死亡,LRI mortality,uhc_service_index,uhc,23.0,16.0,8.0,50.0,17.0,17.0,4.0,23.529412,26.470588,-5.890583,52.534014,0.157057,0.740411
 High,腹泻病发病,Diarrhoeal incidence,any_specific,any,17.0,16.0,7.0,43.75,14.0,14.0,10.0,71.428571,-27.678571,-54.331945,7.140039,0.158978,0.476935
-High,腹泻病发病,Diarrhoeal incidence,basic_sanitation_pct,factor,17.0,16.0,4.0,25.0,14.0,14.0,9.0,64.285714,-39.285714,-63.673226,-3.909114,0.063358,0.418165
+High,腹泻病发病,Diarrhoeal incidence,basic_sanitation_pct,factor,17.0,16.0,4.0,25.0,14.0,14.0,9.0,64.285714,-39.285714,-63.673226,-3.909114,0.063358,0.507692
 High,腹泻病发病,Diarrhoeal incidence,basic_water_pct,factor,17.0,16.0,4.0,25.0,14.0,14.0,6.0,42.857143,-17.857143,-46.534351,14.722005,0.442146,1.0
-High,腹泻病发病,Diarrhoeal incidence,stunting_u5_pct,factor,17.0,4.0,2.0,50.0,14.0,3.0,0.0,0.0,50.0,-16.162802,84.996101,0.428571,1.0
+High,腹泻病发病,Diarrhoeal incidence,stunting_u5_pct,factor,17.0,8.0,2.0,25.0,14.0,5.0,1.0,20.0,5.0,-41.047858,42.804203,1.0,1.0
 High,腹泻病发病,Diarrhoeal incidence,uhc_service_index,uhc,17.0,16.0,5.0,31.25,14.0,13.0,2.0,15.384615,15.865385,-15.959649,42.605007,0.409962,1.0
 High,腹泻病死亡,Diarrhoeal mortality,any_specific,any,14.0,14.0,9.0,64.285714,16.0,15.0,2.0,13.333333,50.952381,15.540907,72.56918,0.007775,0.04665
-High,腹泻病死亡,Diarrhoeal mortality,basic_sanitation_pct,factor,14.0,14.0,6.0,42.857143,16.0,15.0,1.0,6.666667,36.190476,4.612802,61.346813,0.035182,0.418165
+High,腹泻病死亡,Diarrhoeal mortality,basic_sanitation_pct,factor,14.0,14.0,6.0,42.857143,16.0,15.0,1.0,6.666667,36.190476,4.612802,61.346813,0.035182,0.483516
 High,腹泻病死亡,Diarrhoeal mortality,basic_water_pct,factor,14.0,14.0,4.0,28.571429,16.0,15.0,2.0,13.333333,15.238095,-14.537069,43.025692,0.389847,1.0
-High,腹泻病死亡,Diarrhoeal mortality,stunting_u5_pct,factor,14.0,1.0,1.0,100.0,16.0,1.0,0.0,0.0,,,,,
+High,腹泻病死亡,Diarrhoeal mortality,stunting_u5_pct,factor,14.0,2.0,1.0,50.0,16.0,5.0,0.0,0.0,,,,,
 High,腹泻病死亡,Diarrhoeal mortality,uhc_service_index,uhc,14.0,11.0,3.0,27.272727,16.0,14.0,5.0,35.714286,-8.441558,-39.401539,26.675237,1.0,1.0
 High,脑膜炎发病,Meningitis incidence,any_specific,any,17.0,11.0,7.0,63.636364,14.0,14.0,9.0,64.285714,-0.649351,-34.907125,32.526787,1.0,1.0
 High,脑膜炎发病,Meningitis incidence,dtp3_pct,factor,17.0,10.0,5.0,50.0,14.0,14.0,6.0,42.857143,7.142857,-28.866074,41.12911,1.0,1.0
